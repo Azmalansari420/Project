@@ -1,0 +1,30 @@
+<?php include('header.php'); ?> 
+
+<section class="first-section section refund-policy">
+    <div class="container">
+        <div class="row">
+            <div class="refund-policy-div">
+                <h2>CANCELLATION POLICY</h2> 
+                
+                <h3>Refund Policy</h3>
+                <p>We thank you and appreciate You choose our platform to hire Specialists for G.E.M Registration or product purchase with us on our Website Perfection Consulting India (hereinafter referred to as “Perfection Consulting India”). Please read this policy and the Perfection Consulting India terms and conditions carefully as they will give you important information and guidelines about your rights and obligations as our customer, with respect to any purchase or Hire Specialist for G.E.M Registration services .</p> 
+                <p>We make every effort to hire experts for you in time and also that Experts provide the service to you as per the specifications and timelines, however if, due to any reason, Experts are unable to provide you with assistance services other than consultancy services, such as Assistance in drafting and applications, which you can request from them, then you shall be entitled to a full refund which shall be subject on the following situations:</p> 
+                <p>1. The Refund shall be only considered in the event there is a clear, visible deficiency with the service from Specialist.</p> 
+                <p>2.If a customer has made a payment for a service and subsequently requests a refund solely due to a change of mind, an inadvertent application, or for any other non valid reasons without any fault, defect, or responsibility on the part of the Perfection Consulting India  and Specialists, the refund request will not be entertained.</p> 
+                <p>3.Refund requests shall not be entertained after the work(Application Form, Submission on govt portal and Successful Registration) has been shared by experts with you in the event of change of mind or an inadvertent application, or for any other reasons without any fault , defect, or responsibility on the part of the Experts; and</p> 
+                <p>4.If the request for a refund has been raised 30 (thirty) days after the purchase of a service or product has been completed and the same has been intimated and indicated via email or through any form of communication stating that the work has been completed by experts, then, such refund request shall be deemed invalid and shall not be considered.</p> 
+                <p>5.If the request for the refund has been approved by Perfection Consulting India, the same shall be processed and intimated to you via email. This refund process could take a minimum of 15 (fifteen) business days to process and shall be credited to your bank account accordingly. We shall handle the refund process with care and ensure that the money spent by you is returned to you at the earliest.</p> 
+                <p>6.In scenarios involving clerical errors attributed to experts, spanning but not limited to spelling inaccuracies, address disparities, and other common inaccuracies inherent in human activities, it is expressly acknowledged that corrective measures shall be undertaken by the experts without incurring additional costs. Nevertheless, it is underscored that no refund shall be issued under such circumstances.</p> 
+                <p>7.In instances where the delivery of services is impeded due to Users-related shortcomings, such as inadequate document submission, failure to provide essential information like user credentials for renewals, additional document requirements, or any other factors that hinder experts ability to provide services, refunds will not be issued.</p> 
+                <p>8.In Special Condition we refund 20% of paid amount, but decision is totally depend on Perfection Consulting India</p> 
+                <p>9.We will not be considered in breach of Satisfaction Guarantee policy or in default under any service terms, and we will not be liable to the client for any disruption, interruption, or delay in the execution of our commitments due to circumstances beyond our reasonable control, such as earthquakes, floods, fires, storms, lightning, droughts, avalanches, hurricanes, tornadoes, earthquakes, acts of God, public enemy, epidemics, famines, court or government actions, changes in law, explosions, wars, terrorism, armed conflict, labour strikes, lockouts, boycotts, or similar events, whether anticipated or unforeseen (each referred to as a "Force Majeure Event").</p> 
+                <p>10. Perfection Consulting India strives to make every effort to engage or establish communication with specialists within 24-48 hours. However, there may be instances when the process takes longer, potentially exceeding 15 days, depending on the availability of experts. In the event that the process of services has not commenced or communication has not been provided within 15 days of payment, a full refund is available. These services are provided based on user demand.</p> 
+                <p>11.If a specialist has shared an application draft before 15 days, refund will not be considered</p> 
+                <p>12.In scenarios involving clerical errors attributed to experts, spanning but not limited to spelling inaccuracies, address disparities, and other common inaccuracies inherent in human activities, it is expressly acknowledged that corrective measures shall be undertaken by the experts without incurring additional costs. Nevertheless, it is underscored that no refund shall be issued under such circumstances.</p> 
+                <p>13.Refund is not applicable for incomplete registration caused by official website malfunction or non-functionality.</p>  
+            </div>
+        </div>
+    </div>
+</section> 
+
+<?php include('footer.php'); ?> 
