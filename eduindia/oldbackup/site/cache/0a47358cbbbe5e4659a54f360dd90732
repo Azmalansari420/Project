@@ -1,0 +1,92 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1891:"<br>I have now purchased and received the three versions of "A Spring Harvest" by Geoffrey Bache Smith available on Amazon. <br> <br>Free kindle book and epub digitized and proofread by Project Gutenberg. <br> <br>Geoffrey Bache Smith, born on 18th October 1894, was admitted to King Edward’s School in January 1905 as a Foundation Scholar. <br> <br>Although a relative latecomer to the TCBS, he became one of Tolkien’s closest friends, and it is likely that it was Smith’s interest in modern literature that influenced Tolkien’s poetic beginnings. He lived with his widowed mother, Ruth, and his older brother, Roger, at 2, Grove Crescent, West Bromwich. Tolkien.Despite some claims to the contrary, Christopher Wiseman was not involved in editing. Smith was one of Tolkien’s dearest friends in their youth, sharing their passions for the creative arts when they bonded at school. Only the version edited by James Burd Brewster is complete and formatted properly and therefore enjoyable to read. 4 Stars I’m sure, like a lot of people who have recently been drawn to this book of poems, I became intrigued by Geoffrey Bache Smith after seeing the recent film adaptation of Tolkien. Geoffrey Bache Smith’s A Spring Harvest is free at Project Gutenberg or available on Amazon, if you like to hold books in your hands. Roger was also an Old Edwardian, serving and dying for his country in the war. A Spring Harvest is a collection of poetry by Geoffrey Bache Smith, one of the T.C.B.S..It contains a prefatory note by J.R.R.  Geoffrey Bache Smith Geoffrey Smith was born on 18 October 1894 and met Tolkien and his friends at King Edward’s. [] HistorThe poems were edited by J.R.R. Tolkien’s foreword follows here. Smith, Geoffrey Bache Private 26th Battalion, Royal Fusiliers.  The writer was Geoffrey Bache Smith and the other survivor was Christopher Wiseman. Tolkien. <br>";s:7:"keyword";s:20:"Geoffrey Bache Smith";s:5:"links";s:3804:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rosalba-carriera-miniatures'>Rosalba Carriera Miniatures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paradise-regained-quotes'>Paradise Regained Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=french-prisons-1800%27s'>French Prisons 1800's</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heb-employee-shirts'>Heb Employee Shirts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anne-watanabe%2C-instagram'>Anne Watanabe, Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=33-days-to-morning-glory-day-26'>33 Days To Morning Glory Day 26</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=physiognomy-examples-in-literature'>Physiognomy Examples In Literature</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=berlin-keplerstr-2'>Berlin Keplerstr 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-mathis-attorney'>James Mathis Attorney</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Grass-Is-Greener'>Grass Is Greener</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=southark-my-campus'>Southark My Campus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=living-a-life-that-really-matters'>Living A Life That Really Matters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trying-to-be-okay-quotes'>Trying To Be Okay Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fu-zi-sacred-lotus'>Fu Zi Sacred Lotus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-bree-short-for'>What Is Bree Short For</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Contemporary-literary-fiction'>Contemporary Literary Fiction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atonement-%28novel%29-movie'>Atonement (novel) Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bc-comic-arcamax'>Bc Comic Arcamax</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ben-hammer-actor'>Ben Hammer Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=double-elimination-tournament-bracket-generator'>Double Elimination Tournament Bracket Generator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madeleine-of-france'>Madeleine Of France</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arthur-costume-amazon'>Arthur Costume Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madeline-film-cast'>Madeline Film Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=around-the-world-in-eighty-days-pdf'>Around The World In Eighty Days Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=simply-perfect-hijab'>Simply Perfect Hijab</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vestige-synonym-crossword'>Vestige Synonym Crossword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unorthodox-jukebox%27-album-cover'>Unorthodox Jukebox' Album Cover</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=farmhouse-delivery-houston'>Farmhouse Delivery Houston</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ms-marvel-vol-2-2'>Ms Marvel Vol 2 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jai-Simha-Telugu-Full-Movie-Download'>Jai Simha Telugu Full Movie Download</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lautoka-weather-today'>Lautoka Weather Today</a>,
+";s:7:"expired";i:-1;}

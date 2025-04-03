@@ -1,0 +1,95 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3908:"<br>Set in vast grounds in Warwickshire, Kenilworth is the perfect place for the whole family to go exploring and play king of the castle. The castle was the subject of the six-month-long Siege of Kenilworth in 1266, believed to be the longest siege in English history, and formed a base for Lancastrian operations in the Wars of the Roses.. Kenilworth was also the scene of the removal of Edward II from the English throne, the French insult to Henry V in 1414 (said by John Strecche to … Kenilworth was built in in the mid-12th-century by Geoffrey de Clinton, Treasurer and Chief Justice of England under King Henry I, but had to relinquish the castle to Henry … Kenilworth Castle has witnessed many important events in English history. Simon's youngest son took refuge in Kenilworth castle, where prepared for a long siege, he managed to hold out until December 1267. The visitor to Kenilworth today is greeted with ruins that give a hint of the castle's former splendor. Kenilworth is best known as the home of Robert Dudley, the … The oldest fortification on the site dates back to Norman times and is the large blocky keep. In 1265 the medieval castle at Kenilworth was granted by Henry III to his second son, Edmund Crouchback, Earl of Lancaster, and for the next three centuries it was passed back and forth between the crown and various noble families. <br> The castle fell into ruin after the English Civil War. History of Kenilworth Castle. Peace with the Barons. Geoffrey of Monmouth featured Arthur heavily in his History of the Kings of Britain, Tintagel Castle was built long after the time of Arthur, probably in an attempt to legitimate Richard, Earl of Cornwall’s power. The castle also withstood a great siege, possibly the longest in English (but not British) history, when Simon VI de Montfort, son of Simon de Montfort, had promised to return the castle to King Henry III, who had gifted it to Simon de Montfort, still had not returned the castle to the king after five months. One of England’s most magnificent castles The vast medieval fortress of Kenilworth Castle is one of the largest historic visitor attractions in the West Midlands and one of the most spectacular castle ruins in England. The Keep. The … The castle played an important role in English history, before being in great part destroyed in 1644 by the Parliamentarians. In 1563 the castle was granted by Queen Elizabeth to her favourite, Robert Dudley, … The king laid siege to the castle, with attacks from trebuchets and siege towers, which was … Edward III founded the Knights of the Garter, inspired in part by the round table. Sep 16. One turret of the old Norman keep had a clock in Elizabethan times, and some … <br> <br> Kenilworth Castle is a well preserved example of a very large enclosure castle which evolved over many centuries from its origins as a small motte and bailey castle into a spectacular medieval royal residence. Visit Winchester, and the figure of Arthur bearing down from the Round Table has a remarkable similarity to Henry VIII, while … Kenilworth has also played an important historical role. The castle was enlarged and modified through and past the reign of Elizabeth I. It has been home to royalty and at least four kings have called the castle home. 1266. The ruins of the enormous Norman-era Kenilworth Castle are among the most dramatic and interesting nationwide. After the defeat of Simon de Montfort at Evesham, a limited agreement of peace was declared between King Henry III and the barons. Its direct links with the crown of England from the 12th century through to the 16th century have ensured that the site is exceptionally well documented through both written and pictorial records … Some resistance remained at Kenilworth and the Isle of Ely until 1267. Kenilworth is an English castle in Warwickshire. <br> <br> <br>Oct. Mise of Kenilworth . <br>";s:7:"keyword";s:23:"kenilworth castle facts";s:5:"links";s:4342:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=general-frederick-james-kroesen'>General Frederick James Kroesen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vera-ralston-cause-of-death'>Vera Ralston Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bailiwick-of-guernsey'>Bailiwick Of Guernsey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=game-of-life-electronic-banking-target'>Game Of Life Electronic Banking Target</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pierson-fode-movies-and-tv-shows'>Pierson Fode Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=GRID-Autosport-Le-Mans'>GRID Autosport Le Mans</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=foreigner-in-japanese'>Foreigner In Japanese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bani-Adam---Coldplay'>Bani Adam - Coldplay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tennessee-whiskey-chords-george-jones'>Tennessee Whiskey Chords George Jones</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=appleseed-xiii-episodes'>Appleseed Xiii Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=khushboo-chauhan-instagram'>Khushboo Chauhan Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-assassinated-pompey'>Who Assassinated Pompey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-or-an-before-hotel'>A Or An Before Hotel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-thanks-meaning'>No Thanks Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boot-knife-dnd-5e'>Boot Knife Dnd 5e</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ocad-university-tuition'>Ocad University Tuition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grand-blue-season-2'>Grand Blue Season 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fantastic-voyage-proteus-sub'>Fantastic Voyage Proteus Sub</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-assassinated-pompey'>Who Assassinated Pompey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Alzheimer%27s-disease-in-elderly'>Alzheimer's Disease In Elderly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-caledonia-citizenship'>New Caledonia Citizenship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gandalf-book-vs-movie'>Gandalf Book Vs Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=khopesh-of-the-kharidian'>Khopesh Of The Kharidian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-version-of-the-art-of-war-for-business'>Best Version Of The Art Of War For Business</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=christmas-musical-movies'>Christmas Musical Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-treatise-on-the-true-devotion-to-the-blessed-virgin'>A Treatise On The True Devotion To The Blessed Virgin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marianela-n%C3%BA%C3%B1ez-instagram'>Marianela Núñez Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=friends-of-halifax-county-animal-control'>Friends Of Halifax County Animal Control</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-blu-ray-movies-ever'>Best Blu-ray Movies Ever</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Long-Lost-%282019%29-full-movie-Download'>Long Lost (2019) Full Movie Download</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Hampdenshire-Wonder'>The Hampdenshire Wonder</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-glitch-app'>Best Glitch App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Osho-quotes-on-knowledge'>Osho Quotes On Knowledge</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dan-vadis-high-plains-drifter'>Dan Vadis High Plains Drifter</a>,
+";s:7:"expired";i:-1;}

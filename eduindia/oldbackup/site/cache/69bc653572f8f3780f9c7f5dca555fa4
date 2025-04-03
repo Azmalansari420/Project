@@ -1,0 +1,87 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2472:"<br>Today, many science books are full of detailed photos that reveal the intricate parts of plant life, but prior to the invention of photography (and macro photography), it was up to botanical illustrators and researchers to record the fascinating forms of flora and fauna.  <br>Ernst Haeckel’s most popular book is Art Forms in Nature. Ernst Haeckel, in full Ernst Heinrich Philipp August Haeckel, (born Feb. 16, 1834, Potsdam, Prussia [Germany]—died Aug. 9, 1919, Jena, Ger. ), German zoologist and evolutionist who was a strong proponent of Darwinism and who proposed new notions of the evolutionary descent of human beings. Books Advanced Search New Releases Best Sellers & More Children's Books Textbooks Textbook Rentals Best Books of the Month 1-16 of 550 results for Ernst Haeckel. from the German of Ernst Haeckel, Volume 1... by Ernst Heinrich Philipp August Haeckel | … 00 $29.95 $29.95. In 1852 Haeckel completed studies at the Domgymnasium, the cathedral high-school of Merseburg. 4.0 out of 5 stars 1. <br> <br>Ernst Haeckel was born on 16 February 1834, in Potsdam (then part of the Kingdom of Prussia).  Every biology student knows Ernst Haeckel as the originator of the "Biogenetic Law": ontogeny recapitulates phylogeny. Ernst Haeckel: the art of evolution – in pictures Growing influence … detail from plate 50 of Haeckel’s Report on the Siphonophorae collected by HMS Challenger, 1888. Hardcover The Evolution of Man: A Popular Exposition of the Principal Points of Human Ontogeny and Phylogeny. “The book’s prints and commentary shed new light on the prolific output of Ernst Haeckel and his impact on modern science and philosophy.” — vice.com View all images (14) Haeckel was a passionate student of the evolutionary shaping of biological forms, and Art Forms in Nature captures both his artistic sensibility and the scientific rigor he applied to all his studies. Ernst Haeckel has 257 books on Goodreads with 18835 ratings. <br> Skip to main search results ... by Ernst Haeckel and E. Ray (Edwin Ray) Lankester | Dec 18, 2012. Kindle $0.00 $ 0. Ernst Haeckel (Ernst Heinrich Philipp August Haeckel, 16 February 1834 – 9 August 1919) was an influential German zoologist, naturalist, and artist.He was also a philosopher and physician, but in those fields he is not regarded as particularly notable.. Haekel was professor of comparative anatomy at the University of Jena, where he worked for 47 years, from 1862 to 1909. <br>";s:7:"keyword";s:19:"ernst haeckel books";s:5:"links";s:3142:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bettylou-the-drifters'>Bettylou The Drifters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caged-bird-drawing-easy'>Caged Bird Drawing Easy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seymour-chwast-posters'>Seymour Chwast Posters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=otto-farrant-famous-birthdays'>Otto Farrant Famous Birthdays</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=murray-goldberg-obituary'>Murray Goldberg Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carlo-scarpa-milan'>Carlo Scarpa Milan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Prayer-mind-Map'>Prayer Mind Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=knaus-boxstar-xl'>Knaus Boxstar Xl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zilphia-horton-death'>Zilphia Horton Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ticket-vending-machine'>Ticket Vending Machine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-lennox-ravi-zacharias'>John Lennox Ravi Zacharias</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-boyd-book-reviews'>William Boyd Book Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greenwich-academy-employment'>Greenwich Academy Employment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ohio-radar-weather-underground'>Ohio Radar Weather Underground</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seals-on-chinese-scrolls'>Seals On Chinese Scrolls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=books-can-be-deceiving'>Books Can Be Deceiving</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=among-the-sierra-nevada-print'>Among The Sierra Nevada Print</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Official-exchange-rate'>Official Exchange Rate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=makioka-sisters-dvd'>Makioka Sisters Dvd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mao-Zedong-quotes'>Mao Zedong Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wales-currency-to-inr'>Wales Currency To Inr</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=city-of-7-hills'>City Of 7 Hills</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-armstrong-jones-viscount-linley-university'>Charles Armstrong-jones Viscount Linley University</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yuri-lowenthal-characters'>Yuri Lowenthal Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=netflix-the-crime-cast'>Netflix The Crime Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cynthia-blaise-net-worth'>Cynthia Blaise Net Worth</a>,
+";s:7:"expired";i:-1;}

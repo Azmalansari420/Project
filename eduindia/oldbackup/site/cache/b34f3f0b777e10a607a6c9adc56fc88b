@@ -1,0 +1,92 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3441:"<br>This tutorial/course has been retrieved from Udemy which you can download for absolutely free. You can access nearly all the commands presented in this guide from the Home tab. The tutorial contains 21 video instructions that take you through the basics of AutoCAD. AutoCAD and Its Applications: Basics 2020 provides complete instruction for mastering fundamental AutoCAD commands and drawing techniques. What are the basics of AutoCAD blocks? Click New. Free download The basics of AutoCAD Dynamic Blocks. The basics of AutoCAD layouts includes an overview of the four creation methods, and a step-by-step guide to using the easiest method—the method you’ll choose typically depends on your company’s standards. Legal disclosures. Topics are presented in an easy-to-understand sequence, building upon prior chapter knowledge. All of these properties are listed on the Properties palette. Regardless of your current settings, such as Layer, Dim Style, Text Style… You can easily recreate an existing object by simply …  <br>The basics of AutoCAD layouts includes an overview of the four creation methods, and a step-by-step guide to using the easiest method—the method you’ll choose typically depends on your company’s standards. Never eye-ball the location of your lines. <br> <br>You have been detected as being from . Geometry Create basic geometric objects such as lines, circles, and hatched areas. <br> <br>In 2016, a Geometric center “O snap” is added. 3D basics; 3D modeling; In AutoCAD 2010 (3D quality improvisation). 2. Basics After you launch AutoCAD, click the Start Drawing button to begin a new drawing. Guide to AutoCAD Basics Welcome to The Hitchhiker’s Guide to AutoCAD Basics—your guide to the basic 42 commands you need to create 2D drawings using AutoCAD or AutoCAD LT. For historical reasons, AutoCAD provides you with four different ways to create layouts. 1.0 is not the same as 1.00001. Posted on August 25, 2018 by AutoCAD Tips. The basics of AutoCAD layers is really the basics of organizing your drawings. In 2015, AutoCAD classic is removed from the workspace. View Pan and zoom to different views in a drawing. The basics of AutoCAD precision involve using a relatively few capabilities that ensure precision. These instructions are generally within the 10 to 15 minutes range and they are focused solely on using AutoCAD tools. <br> <br>Enhanced Features A new geometric object snap has been added so you can snap to the centroid of a closed polygon. View and edit your drawings from remote locations. AutoCAD Basics. a few of the AutoCAD basics were upgraded to create a better user experience for Autodesk customers. In addition, the Quick Access toolbar shown below includes familiar commands such as <br> The basics of AutoCAD layers is really the basics of organizing your drawings. In 2014, a live mapping is added. The tool ADDSELECTED has been in AutoCAD since ACAD 2011 and It has saved me a lot of time. <br> <br>This tutorial/course is created by Jaiprakash Pandey. This guide is a great place to get started if you just completed your initial training, or to refresh your memory if you use AutoCAD only occasionally. Command preview has been enhanced … <br> <br>Open a new drawing. This is critical, and not just because neatness counts. It has many useful features that help create reliable designs that help these industries to make precise and complex designs. <br>";s:7:"keyword";s:17:"basics of autocad";s:5:"links";s:3758:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-munsch-lesson-plans'>Robert Munsch Lesson Plans</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ulric-neisser-psychology'>Ulric Neisser Psychology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lou-gehrig-movie'>Lou Gehrig Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jo-bheji-thi-dua-audio-song'>Jo Bheji Thi Dua Audio Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cheapest-way-to-travel-to-finland'>Cheapest Way To Travel To Finland</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Johnny-Depp-photoshoot'>Johnny Depp Photoshoot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tunneling-effect-pdf'>Tunneling Effect Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rio-Rita-Austin'>Rio Rita Austin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trevor-tordjman-wife'>Trevor Tordjman Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sing-and-dance-in-your-polka-dot-pants-song-video'>Sing And Dance In Your Polka-dot Pants Song Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kat-coiro-height'>Kat Coiro Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wayne%27s-World-3'>Wayne's World 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=murderers%27-row-1966'>Murderers' Row 1966</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fun-facts-about-presidents-day'>Fun Facts About Presidents Day</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-many-polish-in-uk-2019'>How Many Polish In Uk 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interventional-vs-diagnostic-radiology-salary'>Interventional Vs Diagnostic Radiology Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wishmaster-2-streaming'>Wishmaster 2 Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harper-college-weekend-classes'>Harper College Weekend Classes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Official-exchange-rate'>Official Exchange Rate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=muji-sun-house'>Muji Sun House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fordham-public-health'>Fordham Public Health</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-geography-of-bliss-moldova'>The Geography Of Bliss Moldova</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=radiology-patient-portal'>Radiology Patient Portal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kathy-Bates-The-Office'>Kathy Bates The Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ramblin%27-boy-donovan'>Ramblin' Boy Donovan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-wall-arliss'>Robert Wall Arliss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cookie-Cats-Pop'>Cookie Cats Pop</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lightning-wallpaper-live'>Lightning Wallpaper Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=View-of-the-Village'>View Of The Village</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wagner-group-gmbh'>Wagner Group Gmbh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daddy-long-legs-book-summary'>Daddy Long-legs Book Summary</a>,
+";s:7:"expired";i:-1;}

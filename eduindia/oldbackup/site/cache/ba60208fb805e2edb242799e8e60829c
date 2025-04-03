@@ -1,0 +1,89 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4653:"<p>The French parliament has approved a bill legalising same-sex marriage and adoption, following a divisive public debate. Civil marriage is a legal status recognised in all EU countries.. Partnerships such as civil unions and registered partnerships, or de facto unions apply different rules to those used for marriage.. National rules and practice for marriage differ from one country to another, mainly with regard to:. Globalisation has resulted in greater numbers of couples of mixed nationality as well as increased mobility. To be legally recognised, a marriage in France must take place at a Town Hall (Mairie). Partners can benefit from a joint tax declaration on their annual disposable income, and have similar obligations to married couples. While French opinion polls have long shown that a majority of the public support same-sex marriage, the issue of adoption is more controversial. If you marry a French citizen in France and plan to stay and live there, apply for the ‘long stay visitor’ visa. 1791 - Following the French Revolution, the penal code is amended to decriminalize homosexual acts. Publication of the Marriage Banns. The marriage application, otherwise known as the marriage banns must then be posted at the appropriate Mairie (town hall) no less than 10 days prior to your wedding. </p> <p>Under the Old Regime Secret Marriages. </p> <p>French Law requires the posting of marriage banns at the appropriate "mairie" no less than 10 days preceding the date of marriage. The concept of a marriage contract is not known to English or Common Law jurisdictions for the most part. French marriages are conducted under matrimonial regimes, and a marriage contract allows a couple to choose how their property is to be owned both during the marriage or upon dissolution of the marriage, either by divorce or death. At least one of the applicants must be either a French citizen or a legal resident of France. What do you need to get married in France? To be legally recognised, a marriage in France must take place at a Town Hall (Mairie). We invite you to make direct contact with your local Mairie in order to obtain their requirements. French law states […] Hence, there are, strictly speaking, no morganatic marriages in the French royal family. Marriage certificate. Necessary paperwork and documentation. You should contact the mairie of the town where you’ll wed for full details on the marriage application process. The expression "international marriage" applies to all these situations. </p> <p>Same-sex marriage in France has been legal since 18 May 2013. Marrying a foreign national, French people marrying abroad or simply living abroad once married results in major legal effects on marriage law. Under the ancien rHime marriage was indissoluble; after 1792, couples could divorce quickly and easily. At least one of the applicants must be either a French citizen or a legal resident of France. Civil marriage was required before the Catholic Church would perform a religious marriage. Accordingly, under French law the surviving spouse does not automatically inherit the whole of the estate of their deceased. The divorce law of September 20, 1792, was indeed a revolutionary departure from what had come before. LGBT Rights in France: homosexuality, gay marriage, gay adoption, serving in the military, sexual orientation discrimination protection, changing legal gender, donating blood, age of consent, and more. Required Documentation. ... the régime légal is the statutory default matrimonial regime that governs the property rights of the spouses in French law. French Marriage Contracts. by the death or the marriage of one of the partners; at the request of one of the partners at the Tribunal d'Instance; Tax Benefits and Declarations. The first publication of the banns can be made only at the end of the 30 days of residence in France by one party to the marriage. Since many international clients inquire about French marriage laws, I figured I’d take the time to explain. Marriage in France Please note that marriages are not performed at Australian embassies or missions. As many of you may or may not know, France has many legal requirements when it comes to exchanging I do’s. Morganatic marriage is a concept of German law, and did not openly exist in French law. This separation of the church and the state is a legacy of the French Revolution. This law acknowledged both the principles of marital breakdown, in which neither spouse would be named the guilty party to the divorce. We invite you to make direct contact with your local Mairie in order to obtain their requirements. </p>";s:7:"keyword";s:20:"french marriage laws";s:5:"links";s:3488:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=burlesque-christmas-party-london'>Burlesque Christmas Party London</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=he-man-figure-list'>He-man Figure List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=finn-meaning-name'>Finn Meaning Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dracarys-meme-generator'>Dracarys Meme Generator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=words-from-happily'>Words From Happily</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-western-shore-fs19'>The Western Shore Fs19</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-post-office-girl-goodreads'>The Post Office Girl Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Last-Joy'>The Last Joy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eames-house-architect'>Eames House Architect</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=picnic-date-outfit'>Picnic Date Outfit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=your-time-is-limited-steve-jobs-wallpaper'>Your Time Is Limited Steve Jobs Wallpaper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=corruptt-mustang-price'>Corruptt Mustang Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zilphia-horton-death'>Zilphia Horton Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=books-like-mage-errant'>Books Like Mage Errant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-opera-browser'>What Is Opera Browser</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sunflower-wallpaper-desktop'>Sunflower Wallpaper Desktop</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Nicki-Minaj-height'>Nicki Minaj Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-match-3-games-for-pc'>Best Match 3 Games For Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=baggy-cotton-trousers-mens'>Baggy Cotton Trousers Mens</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vampire%3A-the-masquerade-spending-experience-points'>Vampire: The Masquerade Spending Experience Points</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-second-greatest-story-ever-told-video'>The Second Greatest Story Ever Told Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-post---movie-online'>The Post - Movie Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jackalope-furniture-sale'>Jackalope Furniture Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=burning-paradise-%281994%29'>Burning Paradise (1994)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=somebody-up-there-likes-me-2012-suitcase'>Somebody Up There Likes Me 2012 Suitcase</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=catherine-cusack-lcsw'>Catherine Cusack Lcsw</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Buddha-Quotes-in-tamil'>Buddha Quotes In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-poet-and-the-muse-lyrics'>The Poet And The Muse Lyrics</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,112 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3679:"EDUCAUSE Annual Conference “The EDUCAUSE Annual Conference calls together the best thinking in higher education IT to become even better at what we do. Resources for business continuity and alternative education delivery. Session attendees will have considerable time to contribute viewpoints and reactions to … CDW-G: Go Beyond Technology for a Modern Learning Environment The no-cost Blueprint to Design™ service helps transform learning. EDUCAUSE’s top 10 IT issues in higher education for 2019: Information Security Strategy: Developing a risk-based security strategy that effectively detects, responds to, and prevents security threats and challenges. This is where professionals and technology providers from around the world gather to network, share ideas, grow professionally, and discover solutions to today’s challenges. EDUCAUSE Helps You Elevate the Impact of IT. Get an exclusive preview of 2019’s Top 10 IT Issues, which won’t be published until January. EDUCAUSE Publications. - 12:30p.m. Connection: Top Trends in Educational Makerspace Bringing hands-on … When: October 14 – 17 | Where: Chicago, IL. CT | W190a, Level 1 Session Type: Breakout Session Delivery Format: Interactive Presentation Launched in 1990, Campus Computing is the largest continuing study of e-learning and information technology in US higher education. ... UNC CAUSE provides one voting delegate representing the constituents of this Educause System Membership. Trending Topics.  Support for Online Teaching and Learning January 1, 2000; ... EDUCAUSE Institute Learning Technology Leadership Program 2019, July 25; MTC Faculty Feedback. EDUCAUSE 2019 E&I technology business partner sessions to attend at EDUCAUSE 2019. Registrants with hearing impairments may request assistance for the face-to-face meeting and captioning and/or transcripts for the online meeting. Another set of college students more likely to prefer mostly online instruction were those ages 25 or older—of which there were more than 7 million in fall 2019, according to the National Center for Education Statistics. Participants will be in the windy city for what I consider the best season: fall. Requesting Participants for EDUCAUSE Student Technology Study 2020 Hokies, be heard! EDUCAUSE, Internet2, and REN-ISAC Coordination Update: Fall 2019 October 21, 2019; Blog EDUCAUSE, Internet2, and REN-ISAC continue to actively collaborate on projects and to update each other on their activities. 2019 Conference. EDUCAUSE’s top 10 IT issues in higher education for 2019: Information Security Strategy: Developing a risk-based security strategy that effectively detects, responds to, and prevents security threats and challenges. The integration of the Higher Education Information Security Council working groups with EDUCAUSE Community Groups and the selection of new co-chairs ; The EDUCAUSE Information Security Almanac 2019 (with 2018 Core Data Service data) CyberRISK Workshop for Minority Serving Institutions; Internet2 NET+ Splunk town hall and monthly user group call EDUCAUSE Institute Learning Technology Leadership Program 2019, July 25 ... ELI Fall Focus Session Advisory Group. Student Success: Serving as a trusted partner with other campus units to drive and achieve student success initiatives. The 2019 Campus Computing Survey; The 2019 Campus Computing Survey. UNC CAUSE 2019 was in Charlotte, NC. Agenda. CDW-G: Go Beyond Technology for a Modern Learning Environment The no-cost Blueprint to Design™ service helps transform learning. EDUCAUSE Publications. When: October 14 – 17 | Where: Chicago, IL. Connection: Top Trends in Educational Makerspace Bringing hands-on … ";s:7:"keyword";s:18:"educause fall 2019";s:5:"links";s:6622:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-platform-stiletto-heels'>Black Platform Stiletto Heels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-hall-episode-3'>Wolf Hall Episode 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-is-george-koehler'>Who Is George Koehler</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=storm-runners-theme'>Storm Runners Theme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mount-shishaldin-tectonic-plates'>Mount Shishaldin Tectonic Plates</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dj-tiesto---wave-rider-seavolution'>Dj Tiesto - Wave Rider Seavolution</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what%27s-the-difference-between-jam-and-peanut-butter-joke'>What's The Difference Between Jam And Peanut Butter Joke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-betjeman-metroland'>John Betjeman Metroland</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fact-or-fiction-show-where-to-watch'>Fact Or Fiction Show Where To Watch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=injury-reserve---floss'>Injury Reserve - Floss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=folding-ceiling-fan-with-led-light'>Folding Ceiling Fan With Led Light</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=li-he-poems'>Li He Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=le-blanc-cancun-closed'>Le Blanc Cancun Closed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=california-state-prisons-map'>California State Prisons Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=albemarle-county-gis-basic-address-search'>Albemarle County Gis Basic Address Search</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yara-martinez-husband'>Yara Martinez Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-improve-chinese-vocabulary'>How To Improve Chinese Vocabulary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-gibson-adaptations'>William Gibson Adaptations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nederman-fume-extractor-manual'>Nederman Fume Extractor Manual</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dark-Places-book-ending'>Dark Places Book Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natasha%27s-dance%3A-a-cultural-history-of-russia-review'>Natasha's Dance: A Cultural History Of Russia Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=foreigner-in-japanese'>Foreigner In Japanese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thirteen-full-movie-dailymotion'>Thirteen Full Movie Dailymotion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ragtime-music-definition'>Ragtime Music Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sisterhood-everlasting-sparknotes'>Sisterhood Everlasting Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=creation-of-the-humanoids-trailer'>Creation Of The Humanoids Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elementary-teaching-jobs-in-ct'>Elementary Teaching Jobs In Ct</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=usage-of-then-and-therecherry-blossom-quotes-goodreads'>Usage Of Then And Therecherry Blossom Quotes Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soul-winning-scriptures'>Soul Winning Scriptures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=violent-protests-on-college-campuses'>Violent Protests On College Campuses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Spinning-Out-cancelled'>Spinning Out Cancelled</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Aurora-Colorado-Houses'>Aurora Colorado Houses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ordinary-man-review'>Ordinary Man Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lucky-wireless-fish-finder-review'>Lucky Wireless Fish Finder Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chicago-pronunciation-meaning'>Chicago Pronunciation Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=destruction-warlock-guide'>Destruction Warlock Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-generous-gardener-rose'>The Generous Gardener Rose</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-archer-paulo-coelho'>The Archer Paulo Coelho</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Carson-McCullers-quotes'>Carson McCullers Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=divine-justice-synonym'>Divine Justice Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zackscottgames-mario-odyssey-2'>Zackscottgames Mario Odyssey 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=graham-masterton-books-katie-maguire'>Graham Masterton Books Katie Maguire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pillow-talk-lil-dicky'>Pillow Talk Lil Dicky</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=practice-makes-perfect-french-verb-tenses-pdf'>Practice Makes Perfect French Verb Tenses Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Spinning-Out-cancelled'>Spinning Out Cancelled</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=promethazine-dm-manufacturer'>Promethazine Dm Manufacturer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=memnoch-name-meaning'>Memnoch Name Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lucille-benson-net-worth'>Lucille Benson Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bj-mitchell-kids'>Bj Mitchell Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Never-marry-a-cowboy'>Never Marry A Cowboy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Me-First-Pok%C3%A9mon'>Me First Pokémon</a>,
+";s:7:"expired";i:-1;}

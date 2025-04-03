@@ -1,0 +1,96 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3681:"<br>This book is about the attributes of schooling that will truly make a difference for student learning. An An effect size of 0.40 is about the average effect we expect from a year’s schooling. <br> <br>This summary also refers to Self-Theories: Their Role in Motivation, Development & Personality by Carol Dweck <br> size of more than zero (d > 0), in Visible Learning Hattie suggests that an effect size of 0.40 should be considered the hinge-point. Visible Learning zunächst von dieser Einteilung aus und summiert alle Effektstärken auf, die er in den über 800 Meta-Analysen findet, um die durchschnittliche Effektstärke zu ermitteln. 2 The basis of John Hatties research. He is the author of Visible Learning, Visible Learning for Teachers, Visible Learning and the Science of How We Learn, Visible Learning into Action, 10 Mindframes for Visible Learning, Visible Learning Feedback and Visible Learning … John Hattie & the History of Visible Learning I first came across John Hattie’s work when I read his 1999 Inaugural Lecture on the Influences on Student Learning.But his work goes further back than that. The reason to read John Hattie’s expanded follow-up work, Visible Learning for Teachers, is not so much to read the rankings, although they are in there, and they drive the content of the book. He updated this list in 2015, so we could better understand those terms. John Hattie is Laureate Professor at the Melbourne Graduate School of Education at the University of Melbourne. <br> <br>The question is which strategies and innovations work best and where to concentrate efforts in order to improve student achievement. Von diesem Wert aus, so die Forderung von John Hattie, sollen pädagogische Maßnahmen betrachtet werden, His 2009 research synthesis show the best strategies were metacognitive strategies (here’s a post on metacognitive strategies), self-reported grades, and formative evaluation.. is Professor of Education at the University of Auckland, New Zealand. John Hattie Visible Learning. <br> <br>10 Mindframes for Visible Learning has stemmed from the Visible Learning research conducted by Professor John Hattie and his team, who concluded that one of the most important influences on student achievement is how teacher think about learning and their own role.  teacher think about learning and their own role. The Highest Impact Strategy for Learning. It is based on evidence from John Hattie’s book Visible Learning.. <br> <br>He is the author of Visible Learning and Visible Learning for Teachers, and co-editor (with Eric Anderman) of the International Guide to Student Achievement, … <br> <br> <br>Diese liegt bei 0,4. John Hattie. <br> <br>John Hattie wrote, "Visible Learning for Teachers: Maximizing Impact on Learning," as a means to relay all of the vital information surrounding teaching and learning; more specifically, how teachers can enhance their teaching and create better learners by understanding the most effective methods to educate their students. In the 2009 edition of Visible Learning, Hattie suggested that an effect size of 0,2 could be relatively small, while an effect size of 0,6 could be large. <br> <br>A summary of John Hatties research. <br> <br>Among the most famous meta-analysts (if such people can be famous) is John Hattie. John Hattie reported the learning approaches with the largest impact on student learning. Hatties findings are based on over 50,000 studies across the world and many millions of students. This summary refers to his book Visible Learning (2009). Im Jahr 2009 veröffentlichte der neuseeländische Bildungsforscher John Hattie die Monografie »Visible Learning«. <br>";s:7:"keyword";s:36:"john hattie visible learning summary";s:5:"links";s:4422:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=metropolis%2C-illinois-hotels'>Metropolis, Illinois Hotels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-spin-mean-sexually'>What Does Spin Mean Sexually</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-red-stare-guide'>The Red Stare Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-best-and-most-beautiful-things'>The Best And Most Beautiful Things</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=national-women%27s-history-alliance'>National Women's History Alliance</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i%27m-heading-for-a-breakdown-song'>I'm Heading For A Breakdown Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sense-of-hearing-function'>Sense Of Hearing Function</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frank-and-ollie-the-incredibles'>Frank And Ollie The Incredibles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thirst-trap-mask'>Thirst Trap Mask</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eversource-sign-up'>Eversource Sign Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ecumenical-Patriarch-definition'>Ecumenical Patriarch Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=5-fingers-film'>5 Fingers Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greg-bahnsen-lectures'>Greg Bahnsen Lectures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hide-rainbow-kitten-surprise-meaning'>Hide Rainbow Kitten Surprise Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sweet-hereafter-parents-guide'>The Sweet Hereafter Parents Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ted-turner-children'>Ted Turner Children</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ge-moore-the-subject-matter-of-ethics'>Ge Moore The Subject-matter Of Ethics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shazad-latif-penny-dreadful'>Shazad Latif Penny Dreadful</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tom-hanson-age'>Tom Hanson Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-counting-in-english'>Chinese Counting In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=certain-fury-review'>Certain Fury Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=root-of-a-number-in-excel'>Root Of A Number In Excel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sarson-leaves-in-kannada'>Sarson Leaves In Kannada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ann-coulter-husband'>Ann Coulter Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ants-on-a-plane-review'>Ants On A Plane Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julie-marie-fernandez'>Julie Marie Fernandez</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-battle-of-maldon%3A-a-heroic-poem'>The Battle Of Maldon: A Heroic Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yevgeny-yevtushenko-autobiography'>Yevgeny Yevtushenko Autobiography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=expect-vs-believe'>Expect Vs Believe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Matthew-timmons-before-and-after'>Matthew Timmons Before And After</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=automatic-knife-replacement-springs'>Automatic Knife Replacement Springs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-states-in-usa-in-csv'>List Of States In Usa In Csv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-smiling-proud-wanderer-%282018-cast%29'>New Smiling Proud Wanderer (2018 Cast)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joliet-weather-10-day'>Joliet Weather 10-day</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ambuja-cement-price'>Ambuja Cement Price</a>,
+";s:7:"expired";i:-1;}

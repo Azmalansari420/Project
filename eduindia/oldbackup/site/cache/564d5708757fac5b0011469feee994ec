@@ -1,0 +1,89 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2682:"<br>A GitHub account The following assets were used during the production of this tutorial: Girl Image; 1. To access your Ghost registration page simply access your Ghost installation via your browser using the following URL: Tutorial: Build a JAMstack Personal Blog with Headless Ghost 2.0 CMS & Gatsby. In this tutorial, we will go through the steps to get Ghost setup and … Ghost is fully customizable. The Hidden Cost of Any Free Headless CMS. It also adds VS Code highlighting for code blocks. Ghost is a lightweight (~7.5MB), open source blogging platform which is really easy to use. Change the apiUrl value to the URL of your Ghost site. Source: unsplash.com — @abhishekhanna. By default, the starter will populate content from a default Ghost install located at https://gatsby.ghost.io.. To use your own install, you will need to edit the .ghost.json config file with your credentials. By Arnon Puitrakul - 05 กรกฎาคม 2020 - 4 min read min(s) This step-by-step tutorial helps you get through the installation process so that you can self-publish in a beautiful interface for $5/month. Tutorial. In this post I'll introduce you to my latest stack, talk about what influenced the choices and walk you through how to set this up for yourself. Dev Log - บันทึกการ Serve Webp และ Lazy-Loading บน Ghost CMS. The ghost effect works both for humans and animals. Add the Stock Image Step 1. No matter how small the initial cost of a “free” headless CMS, the biggest tax you’ll pay is writer workflow. There are loads of themes available for Ghost on the Internet, free as well as paid. In order to access your Ghost Dashboard you will need to create your Ghost Admin user first. Add the image that you want to turn into a ghost effect. The official Ghost recommendation is to use their own Ghost-optimized hosting at about $30 dollars a month, or generic DigitalOcean hosting which can start at less than $10 dollars. 24 June, 2019. Ghost, a CMS for writers. <br> <br> Halloween Animated Ghost Photoshop Action Tutorial Assets. Create a new document in Photoshop. For this guide, you need the following: Ubuntu 16.04 or more Droplet; A non-root user with sudo privileges  This can be done right after your installation process via your browser. Setting up a blog on Ghost with Digital Ocean is quick, but not always intuitive. Prerequisites. This tutorial will use gatsby-personal-starter-blog, a Gatsby starter based on the official gatsby-starter-blog.The differences are that gatsby-personal-starter-blog is configured to run the blog on a subdirectory, /blog, and comes pre-installed with Netlify CMS for content editing. <br>";s:7:"keyword";s:32:"billy talent   afraid of heights";s:5:"links";s:3538:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mae-jemison-fun-facts'>Mae Jemison Fun Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-bird-house'>The Bird House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pandora%27s-box-worksheets'>Pandora's Box Worksheets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buffalo-police-c-district-map'>Buffalo Police C District Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-precipice-definition'>The Precipice Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fu-zi-sacred-lotus'>Fu Zi Sacred Lotus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=california-milk-processor-board-tagline'>California Milk Processor Board Tagline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lo-Aa-Gayi-Unki-Yaad'>Lo Aa Gayi Unki Yaad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=toshiro-mifune-pronunciation'>Toshiro Mifune Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-mexico-tourism-map'>New Mexico Tourism Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=battle-of-karbala-sunni-view'>Battle Of Karbala Sunni View</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moe-greene-godfather'>Moe Greene Godfather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Daisuke-and-kato-anime'>Daisuke And Kato Anime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2020-recruiting-class-basketball'>2020 Recruiting Class Basketball</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-battle-of-maldon%3A-a-heroic-poem'>The Battle Of Maldon: A Heroic Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=north-american-model-of-wildlife-conservation-problems'>North American Model Of Wildlife Conservation Problems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-maloney-obituary-may-21-2020'>Michael Maloney Obituary May 21 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=warriors-orochi-4-ultimate-gamefaqs'>Warriors Orochi 4 Ultimate Gamefaqs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-executioner-series'>The Executioner Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unlikely-romance-movies'>Unlikely Romance Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=colin-baker-doctor-who'>Colin Baker Doctor Who</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cross-learning-synonym'>Cross Learning Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kook-meaning-surfing'>Kook Meaning Surfing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Magic-linen-sheet-sets'>Magic Linen Sheet Sets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=infanta-pilar-wedding'>Infanta Pilar Wedding</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cotton-summer-dresses-for-over-50s'>Cotton Summer Dresses For Over 50s</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Extra-Credits-Reddit'>Extra Credits Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noodle-education-careers'>Noodle Education Careers</a>,
+";s:7:"expired";i:-1;}

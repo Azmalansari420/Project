@@ -1,0 +1,100 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2489:"<p>I have done several commands in autocad while making the drawing. AutoCAD is a commercial computer-aided design (CAD) and drafting software application … AutoCAD 2021 and AutoCAD LT 2021 are chock full of new features and improvements to make you more productive and efficient every day. In this series, we’ll take a look at a few of the exciting new additions and enhancements to AutoCAD.  AutoCAD é um software do tipo CAD — computer aided design ou desenho auxiliado por computador - criado e comercializado pela Autodesk, Inc. desde 1982. É utilizado principalmente para a elaboração de peças de desenho técnico em duas dimensões e para criação de modelos tridimensionais (3D). The software is used to produce 2D and 3D drawings. but when i use to see the command history (By pressing F2) it shows only few command not all of them. KAshif MAllal AutoCAD software allows users to conceptualize ideas, produce designs and drawings to the required levels of technical accuracy, and even perform rapid design calculations and simulations; across a wide range of industries. First up is Drawing History! History of AutoCAD 25 years ago, nearly every drawing produced in the world was done with pencil or ink on paper. can anyone please tell me how to get all the commands without any command missed. • Hurley, Shaan. Between the lines. When you open the file, you're immediately notified that the drawing has been updated. </p> <p>AutoCAD Release History AutoCAD 1.0 December 1982 (Release 1) AutoCAD 1.2 April 1983 (Release 2) AutoCAD 1.3 August 1983 (Release 3) AutoCAD 1.4 October 1983 (Release 4) AutoCAD 2.0 October 1984 (Release 5) AutoCAD 2.1 May 1985 (Release 6) AutoCAD 2.5 June 1986 (Release 7) AutoCAD 2.6 April 1987 (Release 8) AutoCAD R9 September 1987 codename White Album (Release 9) AutoCAD … Create precise 2D and 3D drawings with AutoCAD CAD software. Let's say you just got back from a meeting with a client to get feedback on some recent work. AutoCAD includes industry-specific features for architecture, mechanical engineering, and more. "AutoCAD Release History". AutoCAD is a software application developed by Autodesk that enables computer-aided design (CAD) and drafting. In AutoCAD 2021, we've added the new Drawing History feature, providing automatic insights right within the drawing to see the evolution of your work. Minor changes meant erasing and redrawing while major changes often meant recreating the drawing from the scratch. </p>";s:7:"keyword";s:18:"history of autocad";s:5:"links";s:4820:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gimlet-Mystery-Show-cancelled'>Gimlet Mystery Show Cancelled</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-commedia-umana-balzac'>La Commedia Umana Balzac</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unlikely-romance-movies'>Unlikely Romance Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mark-steel%27s-in-town-series-10'>Mark Steel's In Town Series 10</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leeds-new-kensington%2C-pa'>Leeds New Kensington, Pa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lavender-tree-care-instructions'>Lavender Tree Care Instructions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=until-forever-wiki'>Until Forever Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=profanity-filter-wow'>Profanity Filter Wow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=karl-fallout-2'>Karl Fallout 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=General-Dynamics-Ordnance-and-Tactical-Systems'>General Dynamics Ordnance And Tactical Systems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adventures-of-huckleberry-finn-movie-1953'>Adventures Of Huckleberry Finn Movie 1953</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wayne-rooney-net-worth-2019'>Wayne Rooney Net Worth 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sakrete-fast-setting-concrete-mix'>Sakrete Fast Setting Concrete Mix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vicky-the-viking-one-piece'>Vicky The Viking One Piece</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=simple-history-ww2'>Simple History Ww2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=round-off-meaning'>Round Off Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Vikings-season-6'>The Vikings Season 6</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-did-marc-newson-design'>What Did Marc Newson Design</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=8-person-bracket'>8 Person Bracket</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-descendents-band'>The Descendents Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=memory-lost-ending-explained'>Memory Lost Ending Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jaani-dost-trailer'>Jaani Dost Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miracles-song-lyrics'>Miracles Song Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=double-harness-youtube'>Double Harness Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-man-of-sorrows-painting'>The Man Of Sorrows Painting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=functionalism-psychology-examples-everyday-life'>Functionalism Psychology Examples Everyday Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moonlight-mile-movie'>Moonlight Mile Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=griffin-johnson-movies'>Griffin Johnson Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rita-williams-garcia-education'>Rita Williams-garcia Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=klong-nin-beach-bars'>Klong Nin Beach Bars</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miss-fortune-lor'>Miss Fortune Lor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=westmark-hotel-fairbanks'>Westmark Hotel Fairbanks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=baggy-pants-90s'>Baggy Pants 90s</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=li-qingzhao-quotes'>Li Qingzhao Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-jerry-contract'>John Jerry Contract</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=honkytonk-man-wwf-net-worth'>Honkytonk Man Wwf Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=self-pity-poem-tattoo'>Self Pity Poem Tattoo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ronnie-radke-and-paige'>Ronnie Radke And Paige</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japanese-atrocities-against-american-soldiers'>Japanese Atrocities Against American Soldiers</a>,
+";s:7:"expired";i:-1;}

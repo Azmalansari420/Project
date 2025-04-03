@@ -1,0 +1,115 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2768:"<p>With ActiveDocument.Sentences(1) .Bold = True .Font.Size = 24 End With The answer depends on your interpretation of phrases and sentences. That means that he was sentenced to time in state prison. Docs sentence examples. — Claire Gillespie, Health.com, "Why Can't You Sleep During Quarantine?Here's How Coronavirus Anxiety is Leading to Insomnia," 23 Apr. 0. Remarques Remarks. Amber L. Comstock – Sentenced to 10 years in DOC for the class C felony of Possession of a Controlled Substance under RSMo 559.115, with preference for Shock Incarceration in DOC. How to use doc in a sentence. 0. It resembled a studio apartment with a real bed and dresser, a restroom cordoned off by opaque curtains in one corner, a small study where he kept his war docs, a kitchenette, rugs, and a small living area. DOC stands for Department of Corrections which is the department in every state that runs the state prisons. 1. 0. How to use doc in a sentence. CODS is a 120 day DOC incarceration that allows a defendant the opportunity to keep their Suspended Imposition of Sentence probation while serving either shock or drug treatment in DOC. These distributional models such as word2vec which provide vector representation for each word can only show how a word usually is used in a window-base context in relation with other words. The index number represents the position of a sentence in the Sentences collection. </p> <p>I'll take you to the docs. Example sentences with the word doc. Doc definition is - doctor. There are a lot of ways to answer this question. The docs put you in a coma for over a week in order to transplant half your organs. doc example sentences. </p> <p>0.  My father was the victim of a robbery by a family member. Christian financial adviser William Neil “Doc” Gallagher—billed as “The Money Doctor” on a number of faith-based radio stations—has pled guilty to running a $29.2 million Ponzi scheme that conned dozens of elderly listeners of his show. Use the Sentences property to return the Sentences collection. You both need to see the docs. A collection of Range objects that represent all the sentences in a selection, range, or document. Inmates sentenced … </p> <p>0. 0. Pour renvoyer la collection Sentences, utilisez la propriété Sentences. The following example formats the first sentence in the active document. Use Sentences (Index), where Index is the index number, to return a Range object that represents a sentence. Il n’existe pas d’objet Sentence. There is no Sentence object. What does it mean to be sentenced to DOC? Recent Examples on the Web: Noun Disturbing dreams Vivid, disturbing dreams (what most people call nightmares) are closely linked to frequent nocturnal awakenings, the sleep docs say. </p>";s:7:"keyword";s:15:"sentence to doc";s:5:"links";s:6702:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=citadel-london-salary'>Citadel London Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shoes-Board-Book'>Shoes Board Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shawn-Mendes-quote'>Shawn Mendes Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we-all-fall-down-movie'>We All Fall Down Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=torneko-no-daibouken---fushigi-no-dungeon-rom'>Torneko No Daibouken - Fushigi No Dungeon Rom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hide-rainbow-kitten-surprise-meaning'>Hide Rainbow Kitten Surprise Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Francesco-I-Sforza'>Francesco I Sforza</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=on-the-link-below-you-can-find'>On The Link Below You Can Find</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alonso-berruguete-exhibition'>Alonso Berruguete Exhibition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-born-confused-desi'>American Born Confused Desi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=evaluation-placing-crossword-clue'>Evaluation Placing Crossword Clue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=odyssey-meaning-in-punjabi'>Odyssey Meaning In Punjabi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=School-of-rock-docs'>School Of Rock Docs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-inheritance-part-1-and-2'>The Inheritance Part 1 And 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tertre-rouge-camping'>Tertre Rouge Camping</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-michael-actor'>Michael Michael Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-c-grayling-wife'>A C Grayling Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pictionary-recovery-words'>Pictionary Recovery Words</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kendrick-Lamar-time'>Kendrick Lamar Time</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tigerland-amazon-prime'>Tigerland Amazon Prime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=swift-sprite-caravans-for-sale'>Swift Sprite Caravans For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=will-payne-oxford'>Will Payne Oxford</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gumtree-south-africa'>Gumtree South Africa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=johann-georg-hiedler'>Johann Georg Hiedler</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beautiful-bastard-series-book-2'>Beautiful Bastard Series Book 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blood-beach-trailer'>Blood Beach Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=slight-rebellion-off-madison-tone'>Slight Rebellion Off Madison Tone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-dawkins-quotes-about-god'>Richard Dawkins Quotes About God</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plural-of-prize'>Plural Of Prize</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=which-of-these-is-the-best-example-of-metaphor'>Which Of These Is The Best Example Of Metaphor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hatchet-series-horror'>Hatchet Series Horror</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charlie-last-name-wilson-chords'>Charlie Last Name Wilson Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ashmolean-Museum-collection'>Ashmolean Museum Collection</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greyson-chance---yours'>Greyson Chance - Yours</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deuces-movie-plot-summary'>Deuces Movie Plot Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=simon-mann-net-worth'>Simon Mann Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fran-brill-zoe'>Fran Brill Zoe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-to-expect-first-gastroenterologist-appointment-gerd'>What To Expect First Gastroenterologist Appointment Gerd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=godard-nouvelle-vague-%281990%29'>Godard Nouvelle Vague (1990)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alvin-roth-blog'>Alvin Roth Blog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greek-keyboard-mac'>Greek Keyboard Mac</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dynamo-beyond-belief-episode-3'>Dynamo Beyond Belief Episode 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Deforestation-and-soil-erosion'>Deforestation And Soil Erosion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=millcreek-erie%2C-pa-zip-code'>Millcreek Erie, Pa Zip Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bastian-kick-sisto'>Bastian Kick Sisto</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-many-weeks-does-a-normal-pregnancy-last'>How Many Weeks Does A Normal Pregnancy Last</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-could-possibly-go-wrong-reddit'>What Could Possibly Go Wrong Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Half-as-Much'>Half As Much</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=khiladi-420-story'>Khiladi 420 Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phil-ford-%28rugby%29'>Phil Ford (rugby)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daniel-stewart-securities'>Daniel Stewart Securities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Contempt-in-Spanish-legal-Terms'>Contempt In Spanish Legal Terms</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seleucia-bible-map'>Seleucia Bible Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=uwe-blab-today'>Uwe Blab Today</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,88 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2193:"<p>KeySmart (5) Coghlan's Ltd (1) SOG (1) Customer Rating (1) (1) Availability. </p> <p>Buy products such as LEATHERMAN - Wave Plus Multitool with Premium Replaceable Wire Cutters and Spring-Action Scissors, Black at Walmart and save. Buy products such as Hyper Tough 2.1-Amp Oscillating Multi Function Tool, AQ60010G at Walmart and save. </p> <p>Walmart (6) Unbeatablesale (1) Sponsored Products. Current Price $5.16 $ 5. Deliver To Home . </p> <p>The most common of these are nail guns or staple guns. Thanks for watching and don't forget to like, comment, and subscribe. Show all . $10 - $20 (5) $20 - $30 (1) $40 - $ 50 (1) Brand. Available in stores. </p> <p>Oscillating Multi Tools.  Refine by | Top Brands. Free delivery on orders over $35. Home Improvement. Shop for Gerber Multitools in Multi Tools. Add to cart. A nail gun can hammer nails in many times faster than by using a hammer by hand. Departments. 1 - 18 1 to 18 of 18 products. Online Savings. 99. Price. Shop by Online Savings , Price and more . Average rating: 0 out of 5 stars, based on 0 reviews. Multi-Tools; Skip product filters. Free pickup . Brand. Tools; Delivery & Pickup. </p> <p>Shop for Oscillating Tools in Woodworking Tools. I got the multi tool at Walmart for about $10 over all you get what you pay for. This category of power tool includes all the tools that operate using air compression to deliver force. In Store (1) Online (7) Sold & shipped by. </p> <p>Product Image. </p> <p>These tools make fastening items together, such as wooden boards, simple and quick. Product Title Razor Knife 3Piece Assorted. Find a brand. 16. left hand navigation Skip to Search Results. Clearance (1) Price. Skip product carousel. </p> <p>Current Price $19.84 $ 19. Buy products such as Suspension Multi-Plier, Gerber Mini Suspension Multi-Tool at Walmart and save. Shop for Multi Tools in Hunting. Product Title HART 16-in-1 Multi-Tool and Compact Flip Utility Kni ... Average rating: 4.8 out of 5 stars, based on 17 reviews 17 ratings. Shop for Multi Tools and Accessories Pliers in Electrical Tools at Walmart and save. 84 List Price $22.99 $ 22. $10 - $20 $20 - $50 $50 - $100 $100 - $150 $150 - $200 $250 - $500. </p>";s:7:"keyword";s:18:"multi tool walmart";s:5:"links";s:3434:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=latest-restaurant-news'>Latest Restaurant News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tailspin-economy-meaning'>Tailspin Economy Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blubber-judy-blume'>Blubber Judy Blume</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=this-can%27t-be-happening-netflix'>This Can't Be Happening Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-did-lunalilo-do'>What Did Lunalilo Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=under-the-carolina-moon-comment-sold'>Under The Carolina Moon Comment Sold</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=solunar-tables-api'>Solunar Tables Api</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heterodox-academy-members'>Heterodox Academy Members</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-wrote-the-song-tangerine'>Who Wrote The Song Tangerine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=circle-takes-the-square-meaning'>Circle Takes The Square Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=light-food-restaurants'>Light Food Restaurants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=relationship-between-raju-and-rosie-in-the-guide'>Relationship Between Raju And Rosie In The Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-kay-jewelers'>My Kay Jewelers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sixer-meaning-slang'>Sixer Meaning Slang</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=traditional-catholic-modesty'>Traditional Catholic Modesty</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Robotics-Club-London'>Robotics Club London</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Supergirl-Season-5-Episode-15'>Supergirl Season 5 Episode 15</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youtube-roy-orbison---in-dreams'>Youtube Roy Orbison - In Dreams</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=retest-in-a-sentence'>Retest In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=na-kel-smith-sponsors'>Na-kel Smith Sponsors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pierce-gagnon-movies-and-tv-shows'>Pierce Gagnon Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bloody-friday-documentary'>Bloody Friday Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boulevard-of-broken-dreams-%28piano-cover%29'>Boulevard Of Broken Dreams (piano Cover)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yann-tiersen-tour'>Yann Tiersen Tour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chlorpromazine-nursing-interventions'>Chlorpromazine Nursing Interventions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-wayfarer-by-stephen-crane-prezi'>The Wayfarer By Stephen Crane Prezi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Instruments-of-Darkness'>Instruments Of Darkness</a>,
+";s:7:"expired";i:-1;}

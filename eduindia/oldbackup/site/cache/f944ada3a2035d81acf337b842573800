@@ -1,0 +1,141 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3616:"<p>She has put herself above the human race, she has made herself the executor over life and death. In XHTML they should be encoded as &apos;. </p> <p>If you want to style quotations a little differently or pull them out programmatically or use the cite attribute to reference the source or have automatic quote levels etc. A table of the HTML 4 entities for markup-significant and internationalization characters. Special Entities The following table gives the character entity reference, decimal character reference, and hexadecimal character reference for markup-significant and internationalization characters, as well as the rendering of each in your browser. With indication of browser support.  A woman who sets her rights, the supposed right to privacy or right over her own body, above the life of another human being is saying that a woman's rights are superior to human rights. HTML codes to put ASCII special characters on your Web page. Jack Kemp Motivational , Men , Our Society Here's how to access and properly use curly quotation marks—also called smart quotes—and proper apostrophes on a … HTML DOM reference: quotes property HTML Codes - Table for easy reference of ascii characters and symbols in HTML format. The first section includes the first 255 character codes and their related HTML codes. NOTE: (6/11/2013) The definitions of cite and blockquote in HTML have changed. Apostrophes (') don't need escaping in HTML. But like all HTML tags I view it more as a tool to be used when the job is right for it. right quote (double high-9) \201D „ double quote (double low-9) \201E: Related Pages. HTML Codes Table : Characters and symbols ... right double quotation mark double low-9 quotation mark dagger double dagger bullet horizontal ellipsis per thousand sign Then, at the bottom you'll find some other symbols and the HTML codes to create them. This element is intended for short quotations that don't require paragraph breaks; for long quotations use the <blockquote> element. For the latest advice on using these elements refer to cite and blockquote – reloaded Given HTML’s roots in the academic world, it should be no surprise that quoting is well-accommodated in the elements <blockquote> and <q>, with their optional cite attribute. Quotes HTML code. Sign Name code Decimal code Hex code Description " &quot; &#34; &#x22; Quotation mark I was just curious as to why there needs to be 3 different ways to code a double quotes in html codes, for example. The power of one man or one woman doing the right thing for the right reason, and at the right time, is the greatest influence in our society. then it’s the right time to use a q tag. </p> <p>Encoding quotation marks (") is in practice only needed if the're inside an attribute, however for the HTML code to be correct (passing HTML validation), you should always encode quotation marks as &quot;. Most modern browsers implement this by surrounding the text in quotation marks. The HTML <q> element indicates that the enclosed text is a short inline quotation. Single right-pointing angle quotation mark (proposed, but not yet standardized) &laquo; &#171; Left-pointing double angle quotation mark = left-pointing guillemot &raquo; – H. Ferrence Feb 28 '13 at 12:48 These true quotation and apostrophe marks are curled left and right, unlike the straight single and double quote marks that show on a keyboard's apostrophe key. So my conditioning has always been to utilize html codes as a practice for content creation. The following list includes the HTML codes for many of the ASCII symbols used on Web pages. </p>";s:7:"keyword";s:16:"right quote html";s:5:"links";s:10338:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Charlie-and-the-Chocolate-Factory-cast'>Charlie And The Chocolate Factory Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dyncorp-aviation-training'>Dyncorp Aviation Training</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-flames-cant-hold-a-candle-to-you'>Old Flames Cant Hold A Candle To You</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sage-bistro-canmore'>Sage Bistro Canmore</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chinese-Film-Detective-Dee'>Chinese Film Detective Dee</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aleko-canada-location'>Aleko Canada Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=getaway-boston-blog'>Getaway Boston Blog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=around-the-world-in-eighty-days-pdf'>Around The World In Eighty Days Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-room%3A-old-sins---curiosity-room-globe-puzzle'>The Room: Old Sins - Curiosity Room Globe Puzzle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=back-street-girls%3A-gokudolls-live-action-watch'>Back Street Girls: Gokudolls Live Action Watch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ian-kessner-wikipedia'>Ian Kessner Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=catholic-altar-crucifix-requirements'>Catholic Altar Crucifix Requirements</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julie-marie-carp'>Julie Marie Carp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-and-the-starcatcher-summary'>Peter And The Starcatcher Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=khuddar-full-movie'>Khuddar Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=back-stitch-definition-with-picture'>Back Stitch Definition With Picture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sharyl-attkisson-books'>Sharyl Attkisson Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-of-wall-street-naomi'>Wolf Of Wall Street Naomi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=project%3A-snowblind-deus-ex'>Project: Snowblind Deus Ex</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amber-scott-instagram-hook'>Amber Scott Instagram Hook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shock-%26-Terror'>Shock & Terror</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=esmeralda-meaning-in-spanish'>Esmeralda Meaning In Spanish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=digitone-vs-digitakt-reddit'>Digitone Vs Digitakt Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=take-away-calories'>Take Away Calories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meuse-argonne-offensive-casualties'>Meuse-argonne Offensive Casualties</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2nd-tank-battalion'>2nd Tank Battalion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-the-bible-say-about-pink'>What Does The Bible Say About Pink</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=origami-diagrams-pdf'>Origami Diagrams Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Staples-High-School-college-Placement'>Staples High School College Placement</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shaun-tan-biography'>Shaun Tan Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alfredo-hern%C3%A1ndez-psicoterapeuta'>Alfredo Hernández Psicoterapeuta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naperville-riverwalk-is-it-open'>Naperville Riverwalk Is It Open</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=martin-rowson-brexit-cartoon'>Martin Rowson Brexit Cartoon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=undefeated-game-online'>Undefeated Game Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what%27s-the-difference-between-jam-and-peanut-butter-joke'>What's The Difference Between Jam And Peanut Butter Joke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=betrayal-of-trust-meaning'>Betrayal Of Trust Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=British-conversation-examples'>British Conversation Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-landscape-painting-book'>Chinese Landscape Painting Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william%27s-doll-pdf'>William's Doll Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cotillion-georgette-heyer-review'>Cotillion Georgette Heyer Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=martin-shaw-storyteller-biography'>Martin Shaw Storyteller Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tom-Hark-Sheet-Music'>Tom Hark Sheet Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bel-air-country-club-membership'>Bel-air Country Club Membership</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=graham-candy---holding-up-balloons'>Graham Candy - Holding Up Balloons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zhuangzi-c-text'>Zhuangzi C Text</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=give-up-the-ghost'>Give Up The Ghost</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fresno-california-weather'>Fresno California Weather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=an-extraordinary-egg-activities'>An Extraordinary Egg Activities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naruto-shoes-collab'>Naruto Shoes Collab</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greyhound-dog-racing'>Greyhound Dog Racing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=explain-the-process-of-removing-a-president-from-office'>Explain The Process Of Removing A President From Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bulletproof-%281996-full-movie%29'>Bulletproof (1996 Full Movie)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ultratech-cement-price-in-hyderabad-today'>Ultratech Cement Price In Hyderabad Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=radiology-patient-portal'>Radiology Patient Portal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=native-son-amazon'>Native Son Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mineral-baby-names'>Mineral Baby Names</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scu-my-enrolment'>Scu My Enrolment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antes-do-iluminismo'>Antes Do Iluminismo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=penguins-of-madagascar-game-pc'>Penguins Of Madagascar Game Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leaf-tornado-pok%C3%A9mon-go'>Leaf Tornado Pokémon Go</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-need-a-break-visual'>I Need A Break Visual</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=korea-neo-confucianism'>Korea Neo Confucianism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=augusta-historic-district'>Augusta Historic District</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-hugh-crain-actor'>Old Hugh Crain Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=covermore-travel-insurance-review'>Covermore Travel Insurance Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pencil-sharpener-electric'>Pencil Sharpener Electric</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jack%2C-joseph-and-morton-mandel-school-of-applied-social-sciences'>Jack, Joseph And Morton Mandel School Of Applied Social Sciences</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rebel-a-legend-novel-ending'>Rebel A Legend Novel Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blind-willow%2C-sleeping-woman-summary'>Blind Willow, Sleeping Woman Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-Soul-songs'>David Soul Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=president-house-usa'>President House Usa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Das-Geheimnis-der-Matrix'>Das Geheimnis Der Matrix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raymond-pettibon-shows'>Raymond Pettibon Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daniel-schorr-vice-cream'>Daniel Schorr Vice Cream</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jamychal-green-salary-2020'>Jamychal Green Salary 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rio-cast-Nigel'>Rio Cast Nigel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=motto-majime-ni-fumajime-kaiketsu-zorori-episode-6'>Motto Majime Ni Fumajime Kaiketsu Zorori Episode 6</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=darien-football-twitter'>Darien Football Twitter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cheviot-hills%2C-los-angeles-real-estate'>Cheviot Hills, Los Angeles Real Estate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=extra-fine-glitter-set'>Extra Fine Glitter Set</a>,
+";s:7:"expired";i:-1;}

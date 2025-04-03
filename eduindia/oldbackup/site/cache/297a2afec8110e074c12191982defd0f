@@ -1,0 +1,109 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2638:"<p>Put your best foot forward at the University of Portsmouth, an award-winning university & top 25 in the Guardian University Guide 2019. … University Quarter is the larger campus of the two and is composed of the university buildings which are set all around the centre of the city. The University Quarter is situated on the Portsmouth Guildhall region while the Langstone Campus is nestled in Milton area.  Explore our pre-approved Accounting PhD projects, learn more about our MPhil and other research degrees, and find out how to join the thriving research community at the University of Portsmouth. Conditions apply. </p> <p>It was previously known as Portsmouth Polytechnic from 1969 until 1992, when it was granted university status through the Further and Higher Education Act 1992. Award winning and distinguished in the education it provides, The University of Portsmouth, is nestled in Portsmouth, Hamshire, England, serving students from all over the world. </p> <p>The Economist has ranked us the UK’s number one university for boosting graduate salaries. Visit the Library blog for advice on study, student living and resources, news and technology highlights plus random fun or topical items which may be of interest. Referencing@Portsmouth helps you reference sources correctly with guidance for an extensive range of print and online sources. We’re creating a new breed of university, where we learn and collaborate differently to transform lives. For an experience you’ll love and a future that’s bright, it’s got to be the University of Portsmouth. Portsmouth is a coastal town, and its dependence on shipping meant that the principal focus of this college was the training of engineers and dock workers. Browse undergraduate and postgraduate degrees and professional courses, and explore our research and business services. Discounts for University of Portsmouth graduates Self-funding applicants for full or part-time postgraduate taught or research degrees, who have obtained a University of Portsmouth degree, qualify for a 20 per cent Alumni Scholarship. The University of Portsmouth is a public university in the city of Portsmouth, Hampshire, England. Accounting PhD, MPhil and postgraduate research degrees . The University of Portsmouth can trace its history back to 1869 and the formation of the Portsmouth and Gosport School of Science and the Arts. It is ranked among the Top 100 universities under 50 in the world. The university offers a range of disciplines, from Pharmacy, International relations and politics, to Mechanical Engineering, Paleontology, Criminology, Criminal Justice, am </p>";s:7:"keyword";s:24:"university of portsmouth";s:5:"links";s:5880:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=woodpecker-detective%27s-office'>Woodpecker Detective's Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=units-of-happiness-economics'>Units Of Happiness Economics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scott-mccloud-comic'>Scott Mccloud Comic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cece-halpert-2020'>Cece Halpert 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Caring-for-Cut-Flowers'>Caring For Cut Flowers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devin-brochu-age'>Devin Brochu Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Halo%3A-Reach-stats'>Halo: Reach Stats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Roy-Hudd-funeral'>Roy Hudd Funeral</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hobby-motorhomes-germany'>Hobby Motorhomes Germany</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-thompson-michael-jordan'>David Thompson Michael Jordan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=division-bracket-symbol'>Division Bracket Symbol</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercenaries-2%3A-world-in-flames-repack'>Mercenaries 2: World In Flames Repack</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mavis-tire-credit-card'>Mavis Tire Credit Card</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pg-99-discogs'>Pg 99 Discogs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gengar-ken-sugimori'>Gengar Ken Sugimori</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thailand-population-2019'>Thailand Population 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=does-bug-club-have-an-app'>Does Bug Club Have An App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=enthrall-or-enthral'>Enthrall Or Enthral</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-kelly-artist-ships'>John Kelly Artist Ships</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-babysitters-club-tv-show-cast'>The Babysitters Club Tv Show Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fantastic-four-%231-2018'>Fantastic Four #1 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Heat-transfer-in-air'>Heat Transfer In Air</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=morgoth-feel-sorry-for-the-fanatic'>Morgoth Feel Sorry For The Fanatic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=swallows-and-amazons-book-summary'>Swallows And Amazons Book Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=setara-hussainzada-afghan-star'>Setara Hussainzada Afghan Star</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=escape-from-la-blu-ray'>Escape From La Blu-ray</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madam-sir-police-serial'>Madam Sir Police Serial</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-paperback-releases'>New Paperback Releases</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tinashe---remember-when'>Tinashe - Remember When</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angel%27s-last-mission%3A-love-ep-1-eng-sub-dramacool'>Angel's Last Mission: Love Ep 1 Eng Sub Dramacool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=modoc-county-cities'>Modoc County Cities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Joe-R-Lansdale-bibliography'>Joe R Lansdale Bibliography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cutting-It-Fine'>Cutting It Fine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cop-town-movie'>Cop Town Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tuna-fish-recipe'>Tuna Fish Recipe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-academy-of-neurology-membership-criteria'>American Academy Of Neurology Membership Criteria</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=traveler%27s-company-inserts'>Traveler's Company Inserts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blood-vows-1987-youtube'>Blood Vows 1987 Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brownout-damage-computer'>Brownout Damage Computer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=modern-systems-analysis-and-design-7th-edition-pdf'>Modern Systems Analysis And Design 7th Edition Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=romola-chapter-summary'>Romola Chapter Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=austin-theory-finisher'>Austin Theory Finisher</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Written-in-Waters'>Written In Waters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Franklin%27s-Library-Book'>Franklin's Library Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ihome-ibt29-app'>Ihome Ibt29 App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lee-jung-eun-okja'>Lee Jung-eun Okja</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Esi-Edugyan-Vancouver'>Esi Edugyan Vancouver</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=weather-maseru-tomorrow'>Weather Maseru Tomorrow</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,136 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2767:"<br>Astro Boy was created by Osamu Tezuka, the "Father of Manga". <br> <br>Astro Boy, known in Japan as Atom (Japanese: アトム, Hepburn: Atomu), is a fictional character  and the protagonist  of the eponymous  franchise. Tenma created Astro in the image of his deceased son Tobio Tenma. <br> <br>Astro Boy (鉄腕アトム, Tetsuwan Atomu, lit. In the first episode, it's the year 2000 when Dr. Tenma/Boynton starts building Astroboy. <br> <br>"Mighty Atom"), sometimes referred to as New Mighty Atom (新・鉄腕アトム, Shin Tetsuwan Atomu), is a color remake of the 1960s anime black-and-white series of the same name(s); both series are adapted from the manga series by Osamu Tezuka. Occupation: Base: Teams: No teams added. <br> <br>The manga, by the great Osamu Tezuka, first appeared as Tetsuwan Atom (Mighty Atom) in Shōnen during April 1952 and was serialized until 1968. Astro Boy (アトム Atomu), known in Japan as 鉄腕アトム Mighty Atom or Iron Arm Atom or just Astro, is a fictional character created by Osamu Tezuka and the main protagonist of every series in the Astro Boy franchise. Astro Boy is a story of not only pop-culture prominence but also of influence. Chi-Tan (チータン) is a character who appears only in the 1963 anime He first appeared in the episode A Great Fuss Over Babies. Astro Boy is a 2005 3-chapter manga that roughly corresponds with the 2003 TV series of the same name. <br> As the story goes, Astro Boy is a child robot made by Dr. Tenma to replace his dead son. Superhero Class.  's former name, 2-BO, is a reference to Dr. Tenma's deceased son Tobio (whom Astro is based on) from Astro Boy. Astro Boy’s first appearance was in 1951 in Captain Atom in which he held a supporting role, before being given his own series. <br> <br>Astro Boy is a robotic boy and superhero from the manga and animated series of the same name. <br> <br>Chi-tan was created as a comic relief character. Die Zweite von ingesamt sechs in Deutschland auf VHS erschienenen Folgen von Astro Boy, viel Spaß!  <br>Astro Boy has appeared in animated television shows (notably the 1963, 1980, 2003 series) and feature film  adaptations of its eponymous manga, as well as a live-action TV series, other works by Tezuka, and video games. <br> <br>B.O.Y.D is the first robotic child to be created and ironically the first robot made that didn't become a villain in any way. <br> <br>Relatives: Appearance. Astro Boy (アトム Atomu?) <br> <br>The series premiered on Fuji TV and subsequently aired on Animax, who broadcast … Created by the scientist Dr. Tenma to replace the son he lost, Astro proved to be a disappointment to his creator, but was adopted by Professor Ochanomizu, who inspired him to use his powers to help others. <br>";s:7:"keyword";s:26:"astro boy first appearance";s:5:"links";s:9440:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manosque-france-population'>Manosque France Population</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-rouch-movies'>Jean Rouch Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sports-arena-definition'>Sports Arena Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-moon-movie-1986-cast'>Blue Moon Movie 1986 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-RS4-Against-a-Climber'>The RS4 Against A Climber</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gametrailers-tv-with-geoff-keighley'>Gametrailers Tv With Geoff Keighley</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=safecracker-game-1997'>Safecracker Game 1997</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=terence-young-hawaii'>Terence Young Hawaii</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Get-What%27s-Yours-2019'>Get What's Yours 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phoenix-s-by-frankfurter-brett'>Phoenix-s By Frankfurter Brett</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=draw-future-tense'>Draw Future Tense</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=far-cry-primal-2-release-date'>Far Cry Primal 2 Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=platform-pumps-sandals'>Platform Pumps Sandals</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=qayamat%3A-city-under-threat-qayamat-qayamat'>Qayamat: City Under Threat Qayamat-qayamat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Charlie-and-Lola-I-will-never-eat-that-lunch'>Charlie And Lola I Will Never Eat That Lunch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=christmas-musical-movies'>Christmas Musical Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moldflow-software-cost'>Moldflow Software Cost</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jon-staff-net-worth'>Jon Staff Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sebastian-stan-wallpaper'>Sebastian Stan Wallpaper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bill-and-melinda-gates-foundation-headquarters-building'>Bill And Melinda Gates Foundation Headquarters Building</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreLively-placesSichuan-Folk%2C-La-Cucina%2C-and-more'>+ 18moreLively PlacesSichuan Folk, La Cucina, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andy-electric-guitar-lessons'>Andy Electric Guitar Lessons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-country-in-the-world'>Best Country In The World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hari-kari-meme'>Hari Kari Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gertrude-hamlet-character-traits'>Gertrude Hamlet Character Traits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edge-forum-amsterdam'>Edge Forum Amsterdam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=military-school-fantasy-books'>Military School Fantasy Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hudson-on-up-tv'>Hudson On Up Tv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=3-in-the-morning-lyrics-dbangz'>3 In The Morning Lyrics Dbangz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gillian-flynn-book'>Gillian Flynn Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=it%27s-mine-by-leo-lionni-pdf'>It's Mine By Leo Lionni Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-promises-in-the-bible-pdf'>List Of Promises In The Bible Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-indigo-spell-summary'>The Indigo Spell Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=it-wasn%27t-me-george-thorogood'>It Wasn't Me George Thorogood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=huang-rong-2017'>Huang Rong 2017</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ms-marvel-vol-2-1'>Ms Marvel Vol 2 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=misurata-port-libya'>Misurata Port Libya</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nikki-giovanni-interesting-facts'>Nikki Giovanni Interesting Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emperor-jimmu-age'>Emperor Jimmu Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peace-maker-kurogane%3A-belief-and-friend'>Peace Maker Kurogane: Belief And Friend</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=parentheses-around-equation-latex'>Parentheses Around Equation Latex</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=white-chocolate-peppermint-pie'>White Chocolate Peppermint Pie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=going-ons-synonym'>Going Ons Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=party-city-100th-birthday-decorations'>Party City 100th Birthday Decorations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ex-boyfriend-meme'>Ex Boyfriend Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=designer-wooden-ceiling-fans'>Designer Wooden Ceiling Fans</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hope-for-the-best-alternative'>Hope For The Best Alternative</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=augusta-historic-district'>Augusta Historic District</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Amped-Wireless-RTA2600'>Amped Wireless RTA2600</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=picasso-faces-kindergarten'>Picasso Faces Kindergarten</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shannon-farnon-website'>Shannon Farnon Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=railroad-earth-felton'>Railroad Earth Felton</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shibuya-station-persona-5'>Shibuya Station Persona 5</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frugal-grocery-list'>Frugal Grocery List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anton-bruckner-symphony-no-9'>Anton Bruckner Symphony No 9</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=swimmy-book-review'>Swimmy Book Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=confessions-of-an-advertising-man-book'>Confessions Of An Advertising Man Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nyambi-nyambi-parents'>Nyambi Nyambi Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=general-frederick-james-kroesen'>General Frederick James Kroesen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dan-vadis-high-plains-drifter'>Dan Vadis High Plains Drifter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Superman%3A-Doomsday-watch-online'>Superman: Doomsday Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madeline-film-cast'>Madeline Film Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dombivali-fast-return'>Dombivali Fast Return</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Life-circumstance-synonym'>Life Circumstance Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donald-sylvester-sound'>Donald Sylvester Sound</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bruce-gordon-yale'>Bruce Gordon Yale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-privilege-lyrics-meaning'>American Privilege Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ville-contemporaine-plan-voisin'>Ville Contemporaine Plan Voisin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noah%27s-ark-for-kids'>Noah's Ark For Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=talley%27s-folly-burning-coal'>Talley's Folly Burning Coal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kepler%27s-somnium-analysis'>Kepler's Somnium Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mae-jemison-fun-facts'>Mae Jemison Fun Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poul-anderson-sca'>Poul Anderson Sca</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-villages-virginia-beach'>The Villages Virginia Beach</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sherb-animal-crossing-ocd'>Sherb Animal Crossing Ocd</a>,
+";s:7:"expired";i:-1;}

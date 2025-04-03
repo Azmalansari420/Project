@@ -1,0 +1,88 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2448:"<p></p> <p>Directed By Scott Frank Produced By Danny DeVito Michael Shamberg Stacey Sher Brian Oliver Tobin Armbrust Screenplay By Scott Frank Based on A Walk Among the Tombstones by … A Walk Among the Tombstones is a 2014 crime thrillerabout a private investigator who is hired by a drug kingpin to uncover the identities of two sadistic kidnappers who target criminals.. It stars Liam Neeson, Dan Stevens, David Harbour, Brian Bradley, and Boyd Holbrook. The film earned $428,000 from Thursday night from 1,918 theaters, and $4.7 million from 2,712 theaters on its opening day. Matt Scudder (Liam Neeson), formerly part of the NYPD, now works as an unlicensed private detective. If an internal link led you here, you may wish to change the link to point directly to the intended article. Written & Directed by Scott Frank. Bộ phim dựa trên một cuốn tiểu thuyết của Lawrence Block của tiểu thuyết) cùng tên, được viết và đạo diễn bởi Scott Frank.Phim có diễn xuất của Liam Neeson, Dan Stevens, David Harbour, Brian Bradley và Boyd Holbrook. A Walk Among the Tombstones People are afraid of all the wrong things. </p> <p>Directed by Scott Frank. The film was released on September 19, A Walk Among the Tombstones, a 2014 film based on the novel, starring Liam Neeson This disambiguation page lists articles associated with the title A Walk Among the Tombstones . With Liam Neeson, Dan Stevens, David Harbour, Boyd Holbrook. Carlos Rafael Rivera (born 1970) is an American composer based from Guatemala. Synopsis Edit. Private investigator Matthew Scudder is hired by a drug kingpin to find out who kidnapped and murdered his wife. Carlos also composed music for the Netflix miniseries Godless.  </p> <p>A Walk Among the Tombstones is a 2014 American neo-noir action thriller film written and directed by Scott Frank, and based on the 1992 novel of the same name by Lawrence Block. In 2014, his music score for the movie A Walk Among the Tombstones advanced for Oscar in the Best Original Score category. A Walk Among the Tombstones (2014) Directed by Scott Frank Contents . A Walk Among the Tombstones grossed $26 million in North America and $36.1 million in other territories for a total gross of $62.1 million, against its $28 million budget. Lối đi giữa rừng bia mộ là một phim tội phạm giật gân của Mỹ sản xuất năm 2014. People are afraid of all the wrong things. </p>";s:7:"keyword";s:32:"A Walk Among the Tombstones wiki";s:5:"links";s:3508:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cheap-mens-shoes-online-australia'>Cheap Mens Shoes Online Australia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kahlil-gibran-on-death-of-a-child'>Kahlil Gibran On Death Of A Child</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-lost-honour-of-katharina-blum-film'>The Lost Honour Of Katharina Blum Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=secret-babies-books-read-online'>Secret Babies Books Read Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-imam-hussain-was-killed%3F'>How Imam Hussain Was Killed?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-saunders-syracuse'>George Saunders Syracuse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eliza-butterworth-weight-loss'>Eliza Butterworth Weight Loss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ben-smith-buzzfeed'>Ben Smith Buzzfeed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-lover-marguerite-duras'>The Lover Marguerite Duras</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=l-ingenu-themes'>L Ingenu Themes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=snake-venom-eye-cream-reviews'>Snake Venom Eye Cream Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=21-savage-sad-songs'>21 Savage Sad Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=enrique-hernandez-mcdonald%27s'>Enrique Hernandez Mcdonald's</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=canaletto-restaurant-holland-america'>Canaletto Restaurant Holland America</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-don%27t-you-stay-a-little-longer'>Why Don't You Stay A Little Longer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Eight-Katherine-Neville-movie'>The Eight Katherine Neville Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=derrick-green-sepultura'>Derrick Green Sepultura</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=welsh-dragon-name'>Welsh Dragon Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-Dastmalchian-Dune'>David Dastmalchian Dune</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zombicide-season-1'>Zombicide Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sword-veil-of-isis-lyrics'>The Sword Veil Of Isis Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-incredible-book-eating-boy-vocabulary'>The Incredible Book Eating Boy Vocabulary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lucille-benson-net-worth'>Lucille Benson Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Amanda-Hocking-quotes'>Amanda Hocking Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary%27s-mantle-consecration-videos'>Mary's Mantle Consecration Videos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pierrot-studio-black-clover'>Pierrot Studio Black Clover</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=newborn-won%27t-sleep-at-night-unless-held'>Newborn Won't Sleep At Night Unless Held</a>,
+";s:7:"expired";i:-1;}

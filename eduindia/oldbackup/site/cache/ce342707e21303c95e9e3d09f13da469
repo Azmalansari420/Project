@@ -1,0 +1,134 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3252:"<br>This guide outlines the role of Destruction Warlocks in PvP, their strengths and weaknesses, strong compositions for Destruction Warlocks, and effective PvP strategies. You should feel good about choosing to play in the manner that is the most fun for you. Talent Tree There are two main… <br> <br>In this guide, you will learn about playing a Destruction Warlock in a raid. Haste: Makes your cast time and Immolate ticks faster and shortens your cooldown on Conflagrate. Welcome to the Destruction Warlock DPS guide for World of Warcraft Wrath of the Lich King 3.3.5a. Welcome to Wowhead's Destruction Warlock guide for Arena PvP (Player vs Player), up to date for 8.3! <br> <br>Spec Specific Azerite Traits: Bursting Flare: Every time you Conflagrate an enemy affected by Immolate you gain Mastery. Destruction has decent movement. We extended our unique brand of data-driven analysis to talents and rotations. Why would you want to look at this one? The guide includes Talents, Glyphs, Gems, Enchantments, Add-ons, Gameplay & Skill rotation tips. Intellect: Raw damage increase on everything. Another WoW class guide! World of Warcraft (8.3) On the Destruction Warlock PvP Talents page, you will find an analysis of each PvE talent row to help you decide which talent to pick on each row, as well as an overview of the PvP talents, which advice on which ones to take and under which conditions. World of Warcraft (8.3) This is a video game! Versatility: A weak damage multiplier and damage reduction. A lot of movement can also be already planned ahead with a clever use of your Demonic Circle or Demonic Gateway. If you are required to move you can use your Conflagrates. Best Weapons and Gear for Leveling a Destruction Warlock in Classic WoW Wands for Destruction Warlocks in Classic WoW When leveling, wand upgrades will be very impactful for Warlocks due to the sheer number of times you find yourself wanding mobs to finish them off and conserve mana to avoid ing. DPS Rotation & Cooldowns Abilities - Warlock Guide: Stay updated with the best DPS rotation and cooldown timings with this always up-to-date guide for Destruction Warlocks. BiS Gear & Azerite Traits - Warlock Guide: A list of the latest Best-in-Slot (BiS) gear for a Destruction Warlock in Retail WoW, including the Azerite Powers to pick. <br>  Mastery (Mastery: Chaotic Energies): Passively increases your damage and reduces your damage taken, in addition to a random component/amount of both.. Survivability: For big hits you should always activate … Reverse Entropy: Your spells have a chance to grant you 15% Haste for 8 seconds.. Internal Combustion: Chaos Bolt consumes up to 5 seconds of Immolate’s damage over time effect on your target, instantly dealing that much damage.. Shadowburn: Blasts a target for (60% of Spell power) Shadowflame damage.If the target dies within 5 seconds and yields experience or honor, … This effect can stack up to five times. Stat Outline. Destruction Warlock Guide. This guide ended up being very long, so we decided to split it in different pages. Chaotic Inferno: Chaos Bolt deals additional damage and has a 25% chance to make your next Incinerate instant.. This guide is unbiased by human emotions and feelings. <br> <br>";s:7:"keyword";s:25:"destruction warlock guide";s:5:"links";s:9234:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jamaica-weather-negril'>Jamaica Weather Negril</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=X-of-Swords'>X Of Swords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hail-mary-%281985%29'>Hail Mary (1985)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=muddy-waters---hoochie-coochie-man'>Muddy Waters - Hoochie Coochie Man</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-line-becomes-a-river-ebook'>The Line Becomes A River Ebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dirty-dozen'>The Dirty Dozen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lose-weight-for-weigh-in-tomorrow'>Lose Weight For Weigh In Tomorrow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eason-chan-album'>Eason Chan Album</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hideout-movie-1987'>Hideout Movie 1987</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=requiem-netflix-review'>Requiem Netflix Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=coffin-price-uk'>Coffin Price Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=centennial-%28miniseries%29-episodes'>Centennial (miniseries) Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sequin-moment-meaning'>Sequin Moment Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=domino-design-ideas'>Domino Design Ideas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tom-papa-you%27re-doing-great-imdb'>Tom Papa You're Doing Great Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=margaret-brennan-republican'>Margaret Brennan Republican</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leicester-hemingway-new-atlantis'>Leicester Hemingway New Atlantis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chicago-pronunciation-meaning'>Chicago Pronunciation Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-man-from-taured-pdf'>The Man From Taured Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-was-henry-viii-important'>Why Was Henry Viii Important</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kauai-restaurants-kapaa'>Kauai Restaurants Kapaa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-joe-hills-hermitcraft'>How Old Is Joe Hills Hermitcraft</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=can-i-pay-someone-to-beat-me-up'>Can I Pay Someone To Beat Me Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-causes-a-car-to-backfire-on-deceleration'>What Causes A Car To Backfire On Deceleration</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alexandra-petri-political-views'>Alexandra Petri Political Views</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meaning-of-silence-in-relationship'>Meaning Of Silence In Relationship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tony-Shalhoub-and-Brooke-Adams'>Tony Shalhoub And Brooke Adams</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Heretic-parfum-SAMPLES'>Heretic Parfum SAMPLES</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=narcissist-meaning-in-english'>Narcissist Meaning In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=citrix-epic-login'>Citrix Epic Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=10-branches-of-theology'>10 Branches Of Theology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-thorn-of-emberlain'>The Thorn Of Emberlain</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youtube-spanish-children%27s-books'>Youtube Spanish Children's Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=que-es-ser-humano-filosof%C3%ADa'>Que Es Ser Humano Filosofía</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mark-johnson-age'>Mark Johnson Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1952-stanley-kramer-movie'>1952 Stanley Kramer Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sunshine-sketches-of-a-little-town-character-analysis'>Sunshine Sketches Of A Little Town Character Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fantastic-voyage-proteus-sub'>Fantastic Voyage Proteus Sub</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-did-emma-goldman-do'>What Did Emma Goldman Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=our-shangri-la-meaning'>Our Shangri-la Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=speaks-the-nightbird-characters'>Speaks The Nightbird Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rain-down-meaning-in-bengali'>Rain Down Meaning In Bengali</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pig-tale-nashua-menu'>Pig Tale Nashua Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=me-and-my-place-in-space'>Me And My Place In Space</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=silver-hill-hospital-celebrities'>Silver Hill Hospital Celebrities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=squidward-would-you-get-out-of-here'>Squidward Would You Get Out Of Here</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roller-boogie-dvd'>Roller Boogie Dvd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=switzerland-abbreviation-2-letter'>Switzerland Abbreviation 2 Letter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seagull---apex-legends'>Seagull - Apex Legends</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jamie-zhu-wealth'>Jamie Zhu Wealth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=archaeology-of-mari'>Archaeology Of Mari</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apartments-in-silver-spring%2C-md-with-all-utilities-included'>Apartments In Silver Spring, Md With All Utilities Included</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-assassination-complex-summary'>The Assassination Complex Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rosetta-stone-definition'>Rosetta Stone Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Julius-Caesar-expansion'>Julius Caesar Expansion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jacky-and-friends'>Jacky And Friends</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adam-walton-facebook'>Adam Walton Facebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-top-gun-on-hulu'>Is Top Gun On Hulu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=puppy-breath-smells-like-fish'>Puppy Breath Smells Like Fish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sapporo-promo-code'>Sapporo Promo Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=War-of-the-Marvels'>War Of The Marvels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=247-sports-women%27s-basketball-recruiting'>247 Sports Women's Basketball Recruiting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=recording-the-speech-for-feedback-meaning'>Recording The Speech For Feedback Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=80s-nails-designs'>80s Nails Designs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-hall-episode-3'>Wolf Hall Episode 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paddington-bear-storysamantha-trailer-%7C-american-girl'>Paddington Bear Storysamantha Trailer | American Girl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sarah-haden-joe-haden'>Sarah Haden Joe Haden</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intrusi%C3%B3n-tana-french'>Intrusión Tana French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jackson-james-daly'>Jackson James Daly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1824%3A-The-Arkansas-War'>1824: The Arkansas War</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=perfect-people-quotes'>Perfect People Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-rager-movies'>Chris Rager Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2020-recruiting-class-basketball'>2020 Recruiting Class Basketball</a>,
+";s:7:"expired";i:-1;}

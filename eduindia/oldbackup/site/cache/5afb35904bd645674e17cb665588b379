@@ -1,0 +1,111 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2353:"<p>Best pasta in the area by far! </p> <p>Do yourself a favor and go to nearby Coco di Mama. 7.50 for undercooked pasta with some mushrooms added on top, ridiculous. It's not the easiest to spot from the street, but it's delicious! Log In. </p> <p>All info on Scarpetta in London - Call to book a table. They have a limited menu, but the beauty is in the simplicity in my opinion. Our last bit of exciting news: we have recently updated our menu!!!  Amin Afsari Ottobre 29, 2014. View our menu today! And I've tried them all! Español . It is not possible to book so I'm not sure why there is an option on OpenTable." Scarpetta team opens first international restaurant in London. Scarpetta’s newest restaurant “Sette,” is now open in London, located at Bvlgari Hotel London. *Menu will not load on Firefox web browser Due to supply chain disruptions, some ingredients may not be available or substituted. Book now at Scarpetta Canary Wharf in London. Explore menu, see photos and read 3 reviews: "Good food and venue, but this is a standard coffee shop. Crossings Grill & Pub, London: See 251 unbiased reviews of Crossings Grill & Pub, rated 3.5 of 5 on Tripadvisor and ranked #135 of 1,060 restaurants in London. Explore menu, see photos and read 8 reviews: "Food was simple but really good. I happen to work a stone's throw from Scarpetta when in London, so proximity is a huge factor in having ever found this place. Русский . Book now at Scarpetta Cannon Street in London. ladin, lingua ladina . They do what they do, and they do it well. 519.685.1390 Rustic and very cool place to have a pasta bowl in. Also very good price, service good" English . Stuff friendly as well. We're famous for our wood-fired thin crust pizza, locally-sourced all beef burgers, and the best jumbo chicken wings in London. Maxim Fedotov Dicembre 21, 2018. Overpriced pasta. Where: Find: Home / United Kingdom / London, England / Scarpetta, 110 Cannon St; Scarpetta. </p> <p>... Online ordering for pizza, pasta, grinders delivery or takeout from Scarpetta Pizzeria Italiana, 163 Boston Post Road, Old Lyme CT 06371. scarpettact.com. Online payments only for delivery orders. View our menu today! Menu changes but great every time! Scarpetta. The N'duja sausage pasta is to die for! View the menu, check prices, find on the map, see photos and ratings. </p>";s:7:"keyword";s:21:"scarpetta london menu";s:5:"links";s:6400:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=papa%2C-please-get-the-moon-for-me-art-project'>Papa, Please Get The Moon For Me Art Project</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=famous-quotes-about-victory-and-defeat'>Famous Quotes About Victory And Defeat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=William-Wells-Brown'>William Wells Brown</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kim-jae-wook-2020'>Kim Jae Wook 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-dupas-posters'>Jean Dupas Posters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=google-drive-beautiful-boy'>Google Drive Beautiful Boy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=temper-trap---sweet-disposition-%28live%29'>Temper Trap - Sweet Disposition (live)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=call-of-duty-old-maps'>Call Of Duty Old Maps</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hank-finds-out-about-walt'>Hank Finds Out About Walt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=de-dhakka-cast'>De Dhakka Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tops-weight-loss'>Tops Weight Loss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-red-notebook-in-french'>The Red Notebook In French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-did-jacqueline-kennedy-onassis-die'>How Did Jacqueline Kennedy Onassis Die</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cru-meaning-in-french'>Cru Meaning In French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-chronicle-herald-obituaries'>The Chronicle Herald Obituaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shy-character-traits'>Shy Character Traits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amanda-levete-works'>Amanda Levete Works</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dieter-Rams%3A-As-Little-Design-as-Possible-pdf'>Dieter Rams: As Little Design As Possible Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=downtown-syracuse-zip-code'>Downtown Syracuse Zip Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=turning-point-brands-careers'>Turning Point Brands Careers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brian-selznick-family'>Brian Selznick Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=judges-6-nkjv'>Judges 6 Nkjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Encyclop%C3%A9die-M%C3%A9thodique%2C-Botanique'>Encyclopédie Méthodique, Botanique</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bom-richmond-qld'>Bom Richmond Qld</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=General-James-Longstreet'>General James Longstreet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=for-esm%C3%A9-with-love-and-squalor-criticism'>For Esmé With Love And Squalor Criticism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=digitone-vs-digitakt-reddit'>Digitone Vs Digitakt Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-froissart-chronicles'>Jean Froissart Chronicles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glen-or-glenda'>Glen Or Glenda</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=verboten-synonym-deutsch'>Verboten Synonym Deutsch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harry-potter-and-the-deathly-hallows%2C-part-3'>Harry Potter And The Deathly Hallows, Part 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arata-isozaki-pritzker'>Arata Isozaki Pritzker</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tell-me-about-your-day-answer'>Tell Me About Your Day Answer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=silver-hawk-cartoon'>Silver Hawk Cartoon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercy-hospital-buffalo-new-york'>Mercy Hospital Buffalo New York</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naruto-shuriken-and-kunai'>Naruto Shuriken And Kunai</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dieter-Rams%3A-As-Little-Design-as-Possible-pdf'>Dieter Rams: As Little Design As Possible Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skyway-invest-group-%7C-cru'>Skyway Invest Group | Cru</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kona-blue-mustang-2012'>Kona Blue Mustang 2012</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=norfolk-island-weather-averages'>Norfolk Island Weather Averages</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=convergent-series-examples'>Convergent Series Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ralph-goings-donut'>Ralph Goings Donut</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-happens-if-you-don%27t-register-a-birth'>What Happens If You Don't Register A Birth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jefferson-white-actor'>Jefferson White Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harry-potter-and-the-deathly-hallows%2C-part-3'>Harry Potter And The Deathly Hallows, Part 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=get-bent-bart-simpson'>Get Bent Bart Simpson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=holly-mcintire-wiki'>Holly Mcintire Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=latest-restaurant-news'>Latest Restaurant News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interventional-radiology-salary-2019'>Interventional Radiology Salary 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angela-scanlon-images'>Angela Scanlon Images</a>,
+";s:7:"expired";i:-1;}

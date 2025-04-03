@@ -1,0 +1,141 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2597:"<p>The Law Offices of Lipsey & Clifford is a top rated Massachusetts law firm specializing in legal support in the areas of Workers Compensation, Social Security and Disability, Real Estate Law, Construction Law, Corporate Law, Personal Injury and Auto Accidents. </p> <p>“The Lipstick Building has long been a center for big law and top financial services organizations, including this celebrated firm,” said Gerard Nocera, a principal at Herald Square Properties—which operates the building alongside Buenos Aires-based real estate firm IRSA—in a statement. Based in Durban, South Africa, her firm is called Passcara and Partners Incorporated and focuses on family law, personal injury, and more. </p> <p>... Lipstick building … </p> <p>... the skyscraper at 53rd Street and Third Avenue rises 34 floors with access to the subway in front of the building. </p> <p>Below are their full profiles in each of their winning categories, as published in the July 8, 2018, edition of The Philadelphia Inquirer. The lead tenant, law firm Latham & Watkins, occupies 409,000 sf. </p> <p>The Lipstick Building 885 Third Avenue New York, NY 10022 T/ 212.300.1100 F/ 212.300.1111 </p> <p>Lipstick Building Is Host to an Art Show, '14 &15' - The New York Times ... Lipstick building … Janice Mac Avoy is a member of the Real Estate Department and the Litigation Department, co-head of the Real Estate Litigation Practice and a member of the Firm's Pro Bono Committee. Law firm Latham & Watkins is the largest tenant in the building along with other high-quality financial service and law firms. The 640,000-square-foot Class A office property, at 885 Third Avenue, was nicknamed the "Lipstick Building" for its shape. The Lipstick Building (also known as 53rd at Third) is a 453 foot (138 meters) tall skyscraper located at 885 Third Avenue, between East 53rd Street and 54th Street, across from the Citigroup Center in Manhattan, New York City, United States. </p> <p>Based in Durban, South Africa, her firm is called Passcara and Partners Incorporated and focuses on family law, personal injury, and more. "Compared to most modern office buildings, the Lipstick Building represents thinking outside the box," said Brian Ezratty, vice chairman of New York-based Eastern Consolidated, a … Newmark Knight Frank announced that it was named exclusive leasing agent for Manhattan’s renowned Lipstick Building. Then the fun began. </p> <p>New York, New York 10022. </p> <p>About Newmark Knight Frank Newmark Knight Frank is one of the largest independent real estate service firms in the world. </p>";s:7:"keyword";s:26:"lipstick building law firm";s:5:"links";s:9976:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-downes-halo-tv-series'>Steve Downes Halo Tv Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kim-kibum-wife'>Kim Kibum Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maltese-price-range'>Maltese Price Range</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Blake%27s-7-streaming'>Blake's 7 Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jbl-horizon-bluetooth-clock-radio'>Jbl Horizon Bluetooth Clock Radio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-want-to-fall-in-love-with-you-again-lyrics'>I Want To Fall In Love With You Again Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intimate-relations-%281996-full-movie-online%29'>Intimate Relations (1996 Full Movie Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=endless-praise-lyrics-and-chords'>Endless Praise Lyrics And Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=allie-deberry-movies'>Allie Deberry Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miguel-cabrera-art-style'>Miguel Cabrera Art Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spaceballs-2-release-date'>Spaceballs 2 Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lalala-tik-tok-song'>Lalala Tik Tok Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adventures-of-huckleberry-finn-movie-1953'>Adventures Of Huckleberry Finn Movie 1953</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-a-female-curmudgeon-called'>What Is A Female Curmudgeon Called</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-atkins%27-physical-chemistry'>Peter Atkins' Physical Chemistry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=biggest-college-rivalries-basketball'>Biggest College Rivalries Basketball</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=strategic-leadership-theory'>Strategic Leadership Theory</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=breanna-stewart-donates-%2435'>Breanna Stewart Donates $35</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeremy-hardy-speaks-to-the-nation'>Jeremy Hardy Speaks To The Nation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary-winkler-obituary'>Mary Winkler Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naruto-eonebook-price'>Naruto Eonebook Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pates-baroni-meaning'>Pates Baroni Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=america---a-horse-with-no-name'>America - A Horse With No Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-ashley----the-park'>Robert Ashley -- The Park</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=victaulic-870-coupling'>Victaulic 870 Coupling</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sahara-desert-animals-and-plants'>Sahara Desert Animals And Plants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jhabua-power-limited-corporate-office'>Jhabua Power Limited Corporate Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pond-life-cassie'>Pond Life Cassie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fish-and-chips-albany-wa'>Fish And Chips Albany Wa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yuen-biao-movie'>Yuen Biao Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=foolish-questions-poem-summary'>Foolish Questions Poem Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Words-Trailer'>The Words Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=darkest-fear-game'>Darkest Fear Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Last-night-I-Sang-to-the-Monster-quotes'>Last Night I Sang To The Monster Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=change-principle-philosophy'>Change Principle Philosophy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=westminster-bridge-wordsworth'>Westminster Bridge Wordsworth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Aesop-soap-Amazon'>Aesop Soap Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emma-gould-instagram'>Emma Gould Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-make-a-bullet-point-on-chromebook'>How To Make A Bullet Point On Chromebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cw-21-war-thunder-op'>Cw-21 War Thunder Op</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-did-Sophocles-die'>How Did Sophocles Die</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wishmaster-2-streaming'>Wishmaster 2 Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devil%27s-carnival-3-release-date'>Devil's Carnival 3 Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Where-is-Larry-Bird-now'>Where Is Larry Bird Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chester%27s-way-summary'>Chester's Way Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Man-to-Woman'>Man To Woman</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=63-up-youtube'>63 Up Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%22restless%22-bbc-watch-online'>"restless" Bbc Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=murder%2C-she-wrote-season-1-episode-10'>Murder, She Wrote Season 1 Episode 10</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sajid-javid-deutsche-bank'>Sajid Javid Deutsche Bank</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=herbert-marshall-spouse'>Herbert Marshall Spouse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yesterday-hbo-go'>Yesterday Hbo Go</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-gabriel-security-cover'>Peter Gabriel Security Cover</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marina-tsvetaeva-poetry'>Marina Tsvetaeva Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=georgia-mass-choir-songs-youtube'>Georgia Mass Choir Songs Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gospel-hall-near-me'>Gospel Hall Near Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emil-nolde-lino'>Emil Nolde Lino</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=learn-with-homer'>Learn With Homer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=privy-in-a-sentence'>Privy In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=family-rules-and-consequences'>Family Rules And Consequences</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=balderdash-game-app'>Balderdash Game App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=snow-software-wiki'>Snow Software Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marc-newson-products'>Marc Newson Products</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harshad-chopda-instagram'>Harshad Chopda Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=luc-tuymans-artworks'>Luc Tuymans Artworks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=o-sawariya-o-gujariya'>O Sawariya O Gujariya</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Event-planning-program'>Event Planning Program</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cole-younger-siblings'>Cole Younger Siblings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-stroke-dictionary'>Chinese Stroke Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wildest-Dreams-lyrics-meaning'>Wildest Dreams Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=summer-queen-5e'>Summer Queen 5e</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=snack-foods-for-parties'>Snack Foods For Parties</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alfredo-hern%C3%A1ndez-psicoterapeuta'>Alfredo Hernández Psicoterapeuta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jackson-wang-fans'>Jackson Wang Fans</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-uncle-floyd-still-alive'>Is Uncle Floyd Still Alive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=she-dwelt-among-the-untrodden-ways-meter'>She Dwelt Among The Untrodden Ways Meter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-irwin-biography'>Steve Irwin Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=casumo-casino-canada'>Casumo Casino Canada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=importance-of-agricultural-finance-ppt'>Importance Of Agricultural Finance Ppt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-did-ron-and-hermione-name-their-son-hugo'>Why Did Ron And Hermione Name Their Son Hugo</a>,
+";s:7:"expired";i:-1;}

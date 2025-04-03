@@ -1,0 +1,123 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2392:"<p> </p> <p>Stargazer) is a RPG game developed in 1987 for the Famicom by Another (developers behind The Black Bass) and published by HOT-B. </p> <p>Composed by Clarice Disc. In some ways, its scenario is pretty ambitious for such an old game, but it appears that the game designers were not actually familiar with video games, the programmers were clearly confounded by the architecture of the Famicom, the artists were clearly off their rockers, and the play-testers were simply non-existent. Hoshi wo Miru Hito (Stargazers) is an RPG infamous in Japan for its terrible interface, unbalanced combat, snail's-pace walking speed, nigh-impossible puzzles … you get the picture.Note to game developers: When NPCs walk twice as fast as the player and your game can't display the ones digit of HP in battle, you might want to rethink your design a little. Hoshi wo Miru Hito / MCU. Submission schedule. Template download. Hoshi wo Miru Hito will be re-released digitally on the Nintendo Switch in Summer 2020. Hoshi wo Miru Hito (星をみるひと a.k.a. Hoshi Wo Miru Hito Fc. Hoshi wo Miru Hito is known as "densetsu no kusoge", translating to "legendary shitty game", and for good reason. Details of the illustrations submission for Hoshi wo Miru Hito. File format: PSD or PNG . It would take an entire wiki (or at least a whole page) in and of itself to cover all the glaring flaws this game has to offer, but... that's how the Japanese fans like it. We hope a lot of artists submits their work! </p> <p>Why It Sucks . Soundtrack consists of 11 tracks tracks with duration over about 15 minutes. </p> <p>It takes seconds to move from one tile to another. We are also accepting illustrations for wallpaper that can be selected in the game. In the game you control four kids with ESP powers who must stop a computer which went insane and now threatens the world. Here you can freely listen to preview tracks from Hoshi Wo Miru Hito Fc.Album was composed by Clarice Disc and was released on February 27, 2013. Submission information. </p> <p>Hoshi Wo Miru Hito Games can be Played in Your Browser right here on Vizzed.com. Very slow game play. </p> <p>Play Hoshi Wo Miru Hito Video Game Roms Online! It seems that there will be some new features, as indicated in the official website. Product Particiption. Hoshi wo Miru Hito is the definition of a video game tragedy. Size:1920×1080px. </p>";s:7:"keyword";s:18:"hoshi wo miru hito";s:5:"links";s:7668:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blood-and-the-moon-yeats-analysis'>Blood And The Moon Yeats Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buddy-rich---caravan'>Buddy Rich - Caravan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oklahoma-crude-plot'>Oklahoma Crude Plot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Flint-town-Reddit'>Flint Town Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=which-clorox-bleach-disinfects'>Which Clorox Bleach Disinfects</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jeremy-Irons-voice'>Jeremy Irons Voice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edogawa-ranpo-books'>Edogawa Ranpo Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=luca-parmitano-spacewalk'>Luca Parmitano Spacewalk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mrs-piggle-wiggle-read-aloud'>Mrs Piggle Wiggle Read Aloud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=another-word-for-inbred-person'>Another Word For Inbred Person</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2k-blacktop-online'>2k Blacktop Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ex-boyfriend-meme'>Ex Boyfriend Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blueberry-scientific-name'>Blueberry Scientific Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sharyl-attkisson-books'>Sharyl Attkisson Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yosef-last-name'>Yosef Last Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spicy-food-images'>Spicy Food Images</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=astro-boy-cartoon'>Astro Boy Cartoon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sharon-stone-instagram'>Sharon Stone Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oxford-reading-tree-stage-2'>Oxford Reading Tree Stage 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-boole-education'>George Boole Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=medieval-studies-minor-notre-dame'>Medieval Studies Minor Notre Dame</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geppetto-meaning-in-tamil'>Geppetto Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Milk-and-skin'>Milk And Skin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nanny-mcphee-google-drive'>Nanny Mcphee Google Drive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lorraine-gary-1941'>Lorraine Gary 1941</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Evidence-of-Malice'>Evidence Of Malice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sasquatch-hunters-tv-show'>Sasquatch Hunters Tv Show</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=memory-lane-betekenis'>Memory Lane Betekenis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-autumn-wind-Tattoo'>The Autumn Wind Tattoo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hazards-and-control-measures-of-library-materials'>Hazards And Control Measures Of Library Materials</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apogee-duet-driver'>Apogee Duet Driver</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=syndrome-2004-movie'>Syndrome 2004 Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=another-word-for-embarrassed-or-ashamed'>Another Word For Embarrassed Or Ashamed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-improve-chinese-vocabulary'>How To Improve Chinese Vocabulary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tin-tin-protein-full-name'>Tin Tin Protein Full Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=farmhouse-delivery-houston'>Farmhouse Delivery Houston</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alpha-female-animals'>Alpha Female Animals</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mookie-Betts-contract'>Mookie Betts Contract</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Esi-Edugyan-Vancouver'>Esi Edugyan Vancouver</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-greenspan-producer'>Alan Greenspan Producer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oklahoma-coronavirus-cases-by-county'>Oklahoma Coronavirus Cases By County</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-incredible-book-eating-boy-vocabulary'>The Incredible Book Eating Boy Vocabulary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flower-still-life-rachel-ruysch'>Flower Still Life Rachel Ruysch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leave-for-sub-inspector'>Leave For Sub Inspector</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aj-ayer-wikiquote'>Aj Ayer Wikiquote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-contours---first-i-look-at-the-purse'>The Contours - First I Look At The Purse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gross-swedish-food'>Gross Swedish Food</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shin-lim-instagram'>Shin Lim Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Emmy-Dragon-Tales'>Emmy Dragon Tales</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreTakeoutWestpool-Chinese-Take-Away%2C-Dragon-Gate%2C-and-more'>+ 18moreTakeoutWestpool Chinese Take Away, Dragon Gate, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beck%27s-brewery-stock'>Beck's Brewery Stock</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-praise-of-shadows-sora-books'>In Praise Of Shadows Sora Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jack-Skellington-cat'>Jack Skellington Cat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mohsen-makhmalbaf%3A-the-poetic-trilogy'>Mohsen Makhmalbaf: The Poetic Trilogy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nucky-thompson-actor'>Nucky Thompson Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=art-of-war'>Art Of War</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gun-shy-%282000-trailer%29'>Gun Shy (2000 Trailer)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-pacific-movie'>The Pacific Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leadership-and-the-new-science-review'>Leadership And The New Science Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-install-vray-for-sketchup-2018'>How To Install Vray For Sketchup 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Zain-Asher-Instagram'>Zain Asher Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Winter-solstice-animals'>Winter Solstice Animals</a>,
+";s:7:"expired";i:-1;}

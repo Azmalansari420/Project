@@ -1,0 +1,100 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2446:"<p>Rooms at Jurys Galway feature Dream beds, flat-screen TVs and free Wi-Fi access. Photo gallery of Jurys Inn Galway city centre hotel on Quay Street. </p> <p>Eyre Square is minutes away. right at the heart of the historic city centre overlooking Galway Bay  View deals for Jurys Inn Galway, including fully refundable rates with free cancellation. The well lit, spacious feel is clearly designed around our guests’ comfort. </p> <p>Choose from our selection of delicate wines, cold beers and soft drinks. Guests praise the locale. This site attempts to protect users against Cross-Site Request Forgeries attacks. Jurys Inn Galway is a 2-minute walk from St. Nicholas' Collegiate Church. Grab a quick lunch with a range of tasty small plates, salads and sandwiches all available for room service. 15,624 were here. </p> <p>Spacious room for up to 3 adults or 2 adults/2 children sharing; Free WiFi WiFi is free, and this hotel also features a restaurant and a bar. It offers a restaurant and a 24-hour reception. </p> <p>See 3,287 traveler reviews, 594 candid photos, and great deals for Jurys Inn Galway, ranked #7 of 46 hotels in Galway and rated 4.5 of 5 at Tripadvisor. Perfectly situated in the heart of this historic city with a beautiful view of Galway Bay Jurys Inn Galway overlooks the Spanish Arch, and Eyre Square and Galway… Now $83 (Was $̶1̶0̶7̶) on Tripadvisor: Jurys Inn Galway, Galway. Jurys Inn hotel in Galway has 130 bedrooms in total. United Kingdom Hotel Menu Tuck into our 'something for everyone' Breakfast Breakfast at Jurys Inn has always been an experience worth getting up early for, but with a newly upgraded breakfast offering recently introduced across all Jurys Inn hotels, there’s now plenty more reasons to rise and shine. Room service is available between 12pm and 10pm at Jurys Inn Galway and a smaller night service menu is also available between 10pm and 6am. In order to do so, you must have JavaScript enabled in your web browser otherwise this site will fail to work correctly for you. Overlooking Galway Bay and located on Quay Street, Jurys Inn Galway is a 2-minute walk from St. Nicholas' Collegiate Church. </p> <p>More spacious than you’d expect, rooms can accommodate three adults or two adults with two children under twelve, or just one guest. It offers a restaurant and a 24-hour reception.Galway Cathedral and Galway Train Station are both within a 5-minute walk from the hotel. </p>";s:7:"keyword";s:21:"jurys inn galway menu";s:5:"links";s:4866:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marauders-movie-explained'>Marauders Movie Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kate-mulvany-imdb'>Kate Mulvany Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bergen-community-college-notable-alumni'>Bergen Community College Notable Alumni</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hasbro-Guess-Who%3F%283k%2B%29'>Hasbro Guess Who?(3k+)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saamer-usmani-run'>Saamer Usmani Run</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=indescribable-or-undescribable'>Indescribable Or Undescribable</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=conrad-aiken-poem'>Conrad Aiken Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=davina-oyg-review'>Davina Oyg Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-have-made-a-complaint'>I Have Made A Complaint</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=godless-youth-book'>Godless Youth Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tim-rice-disney-songs'>Tim Rice Disney Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=please-play-music'>Please Play Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roasted-pumpkin-seeds'>Roasted Pumpkin Seeds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2008-mustang-bullitt-hp'>2008 Mustang Bullitt Hp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=british-occupation-of-hawaii'>British Occupation Of Hawaii</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-spurgeon-commentary-on-the-whole-bible-pdf'>Charles Spurgeon Commentary On The Whole Bible Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-dragon-herbs'>American Dragon Herbs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chiodos-illuminaudio-review'>Chiodos Illuminaudio Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oklahoma-movie-review'>Oklahoma Movie Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=susan-kare-design'>Susan Kare Design</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=does-a-kangaroo-have-a-mother%2C-too-amazon'>Does A Kangaroo Have A Mother, Too Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ainslie-park-leisure-centre'>Ainslie Park Leisure Centre</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kokoro-kara-song'>Kokoro Kara Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-conclave-inquisitor'>The Conclave Inquisitor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=park-royal-tokyo'>Park Royal Tokyo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=as-i-lay-dying---shaped-by-fire-single'>As I Lay Dying - Shaped By Fire Single</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=multitrack-player-app'>Multitrack Player App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pilgrim%27s-progress-part-2'>Pilgrim's Progress Part 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gigantosaurus-%7C-disney-junior'>Gigantosaurus | Disney Junior</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=middle-school%3A-get-me-out-of-here-audiobook'>Middle School: Get Me Out Of Here Audiobook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deep-river-spiritual-meaning'>Deep River Spiritual Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=theoden-quotes-how-did-it-come-to-this'>Theoden Quotes How Did It Come To This</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=milk-drag-queen'>Milk Drag Queen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rafael-sabatini-captain-blood'>Rafael Sabatini Captain Blood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-life-hbo-episodes'>Love Life Hbo Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-welch-poems'>James Welch Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=schooled-cancelled-reddit'>Schooled Cancelled Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-read-a-book-for-a-book-report'>How To Read A Book For A Book Report</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devin-townsend-project'>Devin Townsend Project</a>,
+";s:7:"expired";i:-1;}

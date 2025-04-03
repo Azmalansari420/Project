@@ -1,0 +1,102 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2488:"<p>SimpleMDE Markdown Editor SimpleMDE is a simple, embeddable, and beautiful JS markdown editor View on GitHub Download .zip Download .tar.gz Demo Autosaving. Sign up . Actions Projects 0; Security Insights Dismiss Join GitHub today. </p> <p>Markdown Editor Example. How to use ☞ Vue Markdown Editor Guide. ** light-weight while implementing all markdown features from the supported flavors & specifications. Dead simple Markdown editor. Vue.js - The Progressive JavaScript Framework. to-markdown.  </p> <p>Pull requests 0. Vue Markdown Editor component for Vue.js. Markdown is a lightweight markup language with plain text formatting syntax. It's the de-facto syntax for writing documentation on major code repositories such as GitHub. v-markdown-editor is a simple Markdown editor component for Vue wrapper codemirror. Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email. </p> <p>Bootstrap-Markdown designed to be easily integrated with your bootstrap project. Issues 9. * Still working on metrics for comparative analysis and definition. An HTML to Markdown converter written in JavaScript. </p> <p>Markdown parser, done right. GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together. *** available as a command line interface (CLI) and running in client- or server-side JavaScript projects. Watch 9 Star 175 Fork 37 Code. JS Markdown editor is a Javascript plugin written by @Grafikart, it is an easy to use markdown editor with live preview and Image uploading. Demo. </p> <p>It exposes useful API that allow you to fully hook-in into the plugin. a low-level markdown compiler for parsing markdown without caching or blocking for long periods of time. As John Gruber writes on the Markdown site The overriding design goal for Markdown’s formatting syntax is to make it as readable The initialization of this plugin transforms a textarea into an markdown editor using a new instance of the MdEditor class. Recommended ☞ What's new in Bootstrap 5 ☞ Vue.JS Tutorial: Learn Vue.js from Scratch ☞ Building a simple Applications with Vue 3 Hidden toolbar and status bar. </p> <p>Markdown Editor. Grafikart / JS-Markdown-Editor. 100% CommonMark support, extensions, syntax plugins & high speed. markdown-it. Wiki.js supports the full CommonMark specification + adds some useful extensions (including the Github Flavored Markdown addons). </p>";s:7:"keyword";s:18:"markdown editor js";s:5:"links";s:5258:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skrt-skrt-kodak'>Skrt Skrt Kodak</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Munsch-Mini%E2%80%91Treasury-Three'>Munsch Mini‑Treasury Three</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-ciociara-full-movie'>La Ciociara Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dictionary-of-Composers'>Dictionary Of Composers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=high-and-tight-haircut'>High And Tight Haircut</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kadai-paneer-masala-ingredients'>Kadai Paneer Masala Ingredients</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-gross-foods'>List Of Gross Foods</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Works-Of-Robert-Herrick'>The Works Of Robert Herrick</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=witcher-3---best-enchantments'>Witcher 3 - Best Enchantments</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1439-odenton-road'>1439 Odenton Road</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-graves-boston'>The Graves Boston</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-red-kidney-beans-can'>Dark Red Kidney Beans Can</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dr-robert-g-heath-a-controversial-figure-in-the-history-of-deep-brain-stimulation'>Dr Robert G Heath A Controversial Figure In The History Of Deep Brain Stimulation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=entreleadership-summit-online'>Entreleadership Summit Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jurys-inn-galway-parking-cost'>Jurys Inn Galway Parking Cost</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=do-do-dessy-rhyme'>Do Do Dessy Rhyme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bekim-sejranovic-knjige'>Bekim Sejranovic Knjige</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-is-mark-goodman-married-to'>Who Is Mark Goodman Married To</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=opposite-of-despair'>Opposite Of Despair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=possessing-the-secret-of-joy-characters'>Possessing The Secret Of Joy Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eyehategod---take-as-needed-for-pain'>Eyehategod - Take As Needed For Pain</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tupolev-tu-144-interior'>Tupolev Tu-144 Interior</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-restaurants-in-columbus'>Best Restaurants In Columbus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=forgotten-realms%3A-demon-stone-mods'>Forgotten Realms: Demon Stone Mods</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daffodil-lament-lyrics'>Daffodil Lament Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=final-fantasy-xi-%28ps2%29'>Final Fantasy Xi (ps2)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=acoustic-communication-in-fish'>Acoustic Communication In Fish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=falling-for-innocence-ep-5-eng-sub-facebook'>Falling For Innocence Ep 5 Eng Sub Facebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brainstorm-software-eeg'>Brainstorm Software Eeg</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nils-lofgren-family'>Nils Lofgren Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pete-becker-net-worth'>Pete Becker Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeannie-gaffigan-brain-tumor'>Jeannie Gaffigan Brain Tumor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-seymour-chwast-still-alive'>Is Seymour Chwast Still Alive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=real-cowboys-history'>Real Cowboys History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=winner%27s-circle-first-in-math'>Winner's Circle First In Math</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=80s-nails-designs'>80s Nails Designs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=max-and-ruby-roger'>Max And Ruby Roger</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Paradise-Alley-%281962%29'>Paradise Alley (1962)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adulting%3A-how-to-become-a-grown-up-in-468-easy%28ish%29-steps-epub'>Adulting: How To Become A Grown-up In 468 Easy(ish) Steps Epub</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Nez-Perce-War'>Nez Perce War</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Vygotsky-and-culture'>Vygotsky And Culture</a>,
+";s:7:"expired";i:-1;}

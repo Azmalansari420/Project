@@ -1,0 +1,87 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:804:"<br> <br> <br>Emmy Award-winning journalist Lara Logan talked about the mainstream media’s left-wing bias in a podcast called “Mike Drop,” hosted by retired Navy SEAL Mike Ritland. 6 years ago, Lara Logan interviewed me in my living room for a 60 minutes piece. <br> “Lara Logan stopped working at CBS last year, but right-wing websites keep making it sound like she’s still there. Logan, former chief foreign affairs correspondent for CBS News and a correspondent for “60 Minutes,” blasted the media for dropping even the pretense of being objective, likening some journalists in [&hellip;] In a twist of amazing fate, and almost 6 … <br> <br>To say this episode was humbling is a gross understatement. <br> <br>I guess they didn’t fact-check,” he added on Twitter Tuesday. <br> <br>";s:7:"keyword";s:20:"lara logan interview";s:5:"links";s:3270:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kilim-vs-rug'>Kilim Vs Rug</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sam-%26-cat-episode-27'>Sam & Cat Episode 27</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mouse-soup-read-aloud'>Mouse Soup Read Aloud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caroline-bittencourt-cause-of-death'>Caroline Bittencourt Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harry-clarke-transfermarkt'>Harry Clarke Transfermarkt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=history-phd-grants'>History Phd Grants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=disconnect-movie-review'>Disconnect Movie Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brooks-lennon-atlanta'>Brooks Lennon Atlanta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naples%2C-fl-weather'>Naples, Fl Weather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=speaking-in-bones-spoilers'>Speaking In Bones Spoilers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Anne-Boleyn-parents'>Anne Boleyn Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-malouf-awards'>David Malouf Awards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ranch-homes-for-sale-in-23322-area'>Ranch Homes For Sale In 23322 Area</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Quidditch-Through-the-Ages-illustrated'>Quidditch Through The Ages Illustrated</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chechen-mafia-leader'>Chechen Mafia Leader</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natalie-schepman-joseph'>Natalie Schepman Joseph</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=irving-klaw-classics'>Irving Klaw Classics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=primetime-emmy-award-for-outstanding-lead-actor-in-a-limited-series-or-movie'>Primetime Emmy Award For Outstanding Lead Actor In A Limited Series Or Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ride-with-norman-reedus-2020'>Ride With Norman Reedus 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=killing-mercer-frey'>Killing Mercer Frey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-solo-on-piano'>How To Solo On Piano</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=he-man-mini-comics-in-bengali-at-amazon'>He Man Mini Comics In Bengali At Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Oxford-Dictionary-of-philosophy-pdf'>Oxford Dictionary Of Philosophy Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Phoenix-list-2019'>Phoenix List 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=azure-devops-delivery-plan'>Azure Devops Delivery Plan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eragon-sword-names'>Eragon Sword Names</a>,
+";s:7:"expired";i:-1;}

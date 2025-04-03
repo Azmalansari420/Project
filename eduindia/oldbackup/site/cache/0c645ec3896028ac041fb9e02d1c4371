@@ -1,0 +1,131 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2784:"<p>Several of these thunderstorms caused downdrafts and large-scale haboobs, or dust storms, to … Of course then, we weren't in the middle of a global pandemic and civil unrest within the country. In one of the larger events we’ve seen in years, a plume of dust blown out into the Atlantic from the western Sahara Desert is making its way across the Atlantic and heading for North America. The National Weather Force dust forecast model clearly shows the deep Saharan dust field coming into the Caribbean and moving through the Eastern half of the USA over the next 7 days. The initial dust outbreak was driven by a few smaller storm systems over central and west Africa. June 23, 2020 4:50 p.m. EDT . A cloud of dust coming all the way from the Sahara Desert is on its way to the United States, and some of the dust could reach into the atmosphere above Tennessee. Dust lofted into the air by a few dust storms across Africa has made the 5,000-mile journey across the Atlantic, the Caribbean, the Gulf of Mexico, and now on Thursday into the United States. That's right, folks, it looks like Louisiana is due for another dose of dust gifted to us by the Sahara Desert. Over the weekend, Saharan dust moved into the Caribbean. </p> <p>It ain't gonna be the second coming of a Woody Guthrie-esque Dust Storm. </p> <p>And it won't clog your car's air filter, air conditioner or anything else. </p> <p>https://www.facebook.com/weathertrends360/videos/289931839057038 Sahara Dust plumes are common during this time of the year. These tiny dust particles travel for thousands of miles through what is known as the Saharan Air Layer (SAL). Several of these thunderstorms caused downdrafts and large-scale haboobs, or dust storms, to develop.  It's not unusual for dust plumes that originate in Africa to drift thousands of miles across the ocean, but Gill said this event is especially large and intense. It also brings a mid-level easterly jet of air that can tear apart a developing storm. The initial dust outbreak was driven by a few smaller storm systems over central and west Africa. Particles of dust from the Sahara Desert may land in Minnesota in the days ahead. </p> <p>A severe dust storm that hit regional New South Wales sparked major power blackouts for about 5000 homes as the sky was turned red by whipped-up top soil. Those with respiratory issues face similar problems they would experience in the event of coming to contact with other dust particles or smoke. Yes, I am referring to the desert in Africa. The mask you have won't filter dust coming our way A dust storm head towards the Southease could cause health and breathing issues for some people. These tiny dust particles travel for thousands of miles through what is known as the Saharan Air Layer (SAL). </p>";s:7:"keyword";s:17:"dust storm coming";s:5:"links";s:8872:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=low-pressure-remedy'>Low Pressure Remedy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bungalow-for-rent'>Bungalow For Rent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chime-dispute-reviews'>Chime Dispute Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zari%2C-not-zari-release-date'>Zari, Not Zari Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ken-lawson-death'>Ken Lawson Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japanese-dessert-culture'>Japanese Dessert Culture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zoli-nail-trimmer-replacement-pads'>Zoli Nail Trimmer Replacement Pads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kaboom-percussion-i-m-still-standing'>Kaboom Percussion I M Still Standing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=approaches-to-foreign-policy-analysis'>Approaches To Foreign Policy Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=january-28th-zodiac'>January 28th Zodiac</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-burrow-inside'>The Burrow Inside</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glasgow-score-for-pancreatitis'>Glasgow Score For Pancreatitis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blackjack-weapon-wiki'>Blackjack Weapon Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Michael-Owen-wiki'>Michael Owen Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leeza-gibbons-memory-foundation'>Leeza Gibbons Memory Foundation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=viscount-linley-queen-elizabeth'>Viscount Linley Queen Elizabeth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sharon-carpenter-dresses'>Sharon Carpenter Dresses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ludwig-hohlwein-confection-kehl'>Ludwig Hohlwein Confection Kehl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=town-of-deer-trail'>Town Of Deer Trail</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=champagne---asda'>Champagne - Asda</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=forbidden-ground-%282013%29-full-movie'>Forbidden Ground (2013) Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-snow-child-summary'>The Snow Child Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whoever-you-are-mem-fox-ebook'>Whoever You Are Mem Fox Ebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hopscotch-coding-lessons'>Hopscotch Coding Lessons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-did-betsy-byars-die'>How Did Betsy Byars Die</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hobart%27s-funnies-book'>Hobart's Funnies Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unseen-meaning-in-malay'>Unseen Meaning In Malay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-cut-weight-for-boxing'>How To Cut Weight For Boxing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moonlight-syndrome-translation'>Moonlight Syndrome Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=if-you---bigbang-lyrics'>If You - Bigbang Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=summer-of-my-german-soldier-age-appropriate'>Summer Of My German Soldier Age Appropriate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=de-revolutionibus-orbium-coelestium-pdf'>De Revolutionibus Orbium Coelestium Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madeleine-of-france'>Madeleine Of France</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=John-Chrysostom-writings-pdf'>John Chrysostom Writings Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=everlost-book-2'>Everlost Book 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adrian-lukis-movies-and-tv-shows'>Adrian Lukis Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bessie-love-reds'>Bessie Love Reds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rebel-a-legend-novel-ending'>Rebel A Legend Novel Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deradicalization-meaning-in-telugu'>Deradicalization Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=braxton-bragg-family-tree'>Braxton Bragg Family Tree</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1889-missoula-reservation'>1889 Missoula Reservation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-wild-hearts-can%27t-be-broken-on-hulu'>Is Wild Hearts Can't Be Broken On Hulu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madison-reed-hair-color-reviews'>Madison Reed Hair Color Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-secret%3A-dare-to-dream-spoilers-what-is-the-secret'>The Secret: Dare To Dream Spoilers What Is The Secret</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-continental-club-events'>The Continental Club Events</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=synonyms-for-bad-father'>Synonyms For Bad Father</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pam-mu%C3%B1oz-ryan-esperanza-rising-summary'>Pam Muñoz Ryan Esperanza Rising Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=knut-hamsun-short-stories'>Knut Hamsun Short Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=military-school-fantasy-books'>Military School Fantasy Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stones-throw-records'>Stones Throw Records</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-do-choices-affect-our-identity'>How Do Choices Affect Our Identity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fried-scorpion-thailand'>Fried Scorpion Thailand</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=walter-brennan-wife'>Walter Brennan Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prince-seven-lyrics'>Prince Seven Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hikari-oe%3A-music'>Hikari Oe: Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=quadro-rtx-8000'>Quadro Rtx 8000</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-celebrate-spring-equinox-pagan'>How To Celebrate Spring Equinox Pagan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-states-in-usa-in-csv'>List Of States In Usa In Csv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-philosophy-basic-principle'>Chinese Philosophy Basic Principle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chac-mool-carlos-fuentes-resumen'>Chac Mool Carlos Fuentes Resumen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-man-who-wouldn%27t-die-cast'>The Man Who Wouldn't Die Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=portuguese-government-coronavirus'>Portuguese Government Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reading-iq-logo'>Reading Iq Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nederman-fume-extractor-manual'>Nederman Fume Extractor Manual</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cheng-yi-meaning'>Cheng Yi Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eragon-sword-names'>Eragon Sword Names</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sonic-blast-sizes-oz'>Sonic Blast Sizes Oz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jason-salda%C3%B1a-movies-and-tv-shows'>Jason Saldaña Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=general-frederick-james-kroesen'>General Frederick James Kroesen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lori-saunders-death'>Lori Saunders Death</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,93 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2421:"<br>What is there to do near Royal Park Hotel Tokyo Nihonbashi? Some of the more popular amenities offered include free wifi, an on-site restaurant… Are there restaurants at or near Royal Park Hotel Tokyo Nihonbashi?  <br>An underpass directly connects the hotel to Shimbashi and Shiodome stations, enabling guests to reach the hotel easily and comfortably without having to use an umbrella. Park Hotel Tokyo, opened in 2003, is located on the 25th floor and above in the Shiodome Media Tower. Recommended spots to visit include Musee Hamaguchi Yozo Yamasa Collection (1-min walk) and Suitengu Shrine (5-min walk), along with Matsushima Shrine (5-min walk) and Okannonji Temple (6-min walk). There are 270 guest rooms, located from the 26th to 34th floors. The city's view can be enjoyed through the windows behind the reception desk. <br> The Royal Park Hotel Tokyo Haneda has smooth access: It is directly connected to the departure lobby of Haneda Airport Terminal 3. Royal Park Hotel The Haneda is a perfect place to stay on a short stopover near Haneda airport. While staying at Royal Park Hotel Tokyo, visitors can check out Amazake Yokocho (0.3 mi) and Arashio Beya (0.4 mi), some of Chuo's top attractions. What are some of the property amenities at The Royal Park Hotel Iconic Tokyo Shiodome? 2-1-1 Nihonbashi-Kakigara-cho, Chuo-ku, Tokyo 103-8520, Japan | +81-3-3667-1111 <br> <br>Tokyo City Air Terminal next door is an arrival and departing point for the Airport Limousine Bus, which leaves every 10-15 minutes to Narita Airport and every 20-30 minutes to Haneda Airport. <br> <br>As your “home away from home,” the hotel rooms offer a flat screen TV, a refrigerator, and a minibar, and getting online is easy, with free wifi available. The Royal Park Hotel Iconic Tokyo Shiodome, occupies floors B2,1st,24th to 38th of the shiodome tower. The 25th floor has the lobby and reception desk besides restaurants and the bar. <br> <br>Opened in 2014 and directly connected to Tokyo Haneda Airport International Terminal, Royal Park Hotel The Haneda provides comfortable rooms, restaurants and services for transit passengers.  The Hotel Royal Park is a 10-minute subway ride from Tokyo Sky Tree, and within a 20 minute subway ride from Asakusa, Ginza and Akihabara shopping areas. The Terminals are continually being upgraded to provide better service for the increasing number of international flights. <br>";s:7:"keyword";s:16:"park royal tokyo";s:5:"links";s:3958:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeff-beck-guitar-exercises'>Jeff Beck Guitar Exercises</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Be-Here-To-Love-Me'>Be Here To Love Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=STELLAR-BANNER-size'>STELLAR BANNER Size</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=casino-party-supplies-wholesale'>Casino Party Supplies Wholesale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edna-lewis-facts-for-kids'>Edna Lewis Facts For Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=will-grrm-finish-the-books-reddit'>Will Grrm Finish The Books Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=giorgia-whigham-net-worth'>Giorgia Whigham Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mad-monkey-hostel-philippines'>Mad Monkey Hostel Philippines</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=savoir-faire%3A-an-advanced-french-course'>Savoir-faire: An Advanced French Course</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cruising-1980-filming-locations'>Cruising 1980 Filming Locations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=majority-report-merch'>Majority Report Merch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Science-fantasy-anime'>Science Fantasy Anime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kate-mulvany-imdb'>Kate Mulvany Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Schoolroom-in-the-Parlor'>Schoolroom In The Parlor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flying-witch-romance'>Flying Witch Romance</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wale---the-mixtape-about-nothing'>Wale - The Mixtape About Nothing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=famous-political-cartoons'>Famous Political Cartoons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=riker-lynch-age'>Riker Lynch Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-black-echo-amazon'>The Black Echo Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amount-of-use-synonym'>Amount Of Use Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Grace-Byers-sister'>Grace Byers Sister</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=laila-robins-movies-and-tv-shows'>Laila Robins Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saboteur-2-video-game'>Saboteur 2 Video Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=power-in-international-relations-pdf'>Power In International Relations Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=doritos-spicy-nacho'>Doritos Spicy Nacho</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jackpot-lottery-chart'>Jackpot Lottery Chart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=house-of-day%2C-house-of-night-epub'>House Of Day, House Of Night Epub</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-evans-portland-live-stream'>Robert Evans Portland Live Stream</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ralph-bruce-lindsey'>Ralph Bruce Lindsey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sharp-objects-ending-book'>Sharp Objects Ending Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=citadel-london-salary'>Citadel London Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Super-Mario-RPG-Mallow'>Super Mario RPG Mallow</a>,
+";s:7:"expired";i:-1;}

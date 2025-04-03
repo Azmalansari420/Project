@@ -1,0 +1,118 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2547:"<p>Seagram Building - Designing Buildings Wiki - Share your construction industry knowledge. Phyllis Lambert, who persuaded her father to make his Seagram Building a paragon of modern architecture, has written a new book, “Building Seagram.” This case study will analyze the Seagram Building in New York City designed by Ludwig Mies van der Rohe and Phillip Johnson. </p> <p>Cite this Seagram Building … The Presence of Mies. </p> <p>The Seagram Building Overview Built in the early part of the second half of the twentieth century, the Seagram Building is located in the borough of Manhattan in the City of New York, at 375 Park Avenue, between 52nd and 53rd Streets. Mies van der Rohe Rizzoli International Publications, Inc. Mies came to the U.S. in the late 1930s and brought with him some powerful, even radical, new ideas about architecture. In real estate and architecture, some dreams need a lot of staying power to get realized. Seagram Building German-born architect Ludwig Mies van der Rohe was an early director of the Bauhaus in Berlin, a school where the earliest modernist principles of architecture blossomed – that is, until the Nazis shut it down in 1933. pg 9 [9] ibid . Building Seagram New Haven, Conn.: Yale University Press, 2013, 320 pp., 140 b/w and 56 color illus. The Seagram Building Princeton Architectural Press. Princeton Architectural Press, 2000, pg 76 [6] Spaeth, David. This parcel is denoted as block number 10307 and lot number 0001 (the building occupies the entire block) (NYC Office of the City Register, 2012).  It was also the first tall building in the world, to use the structural system that Mies developed. Analysis: At some point in time, the Seagram Building was the most expensive skyscraper in the world, due to its expensive high-quality materials and interior decoration by Philip Johnson. The Seagram Building Princeton Architectural Press. </p> <p>US, 1999, pg 6 [8] ibid. It was designed by architect Ludwig Mies van der Rohe in the International Style, which would influence the architectural style of New York’s skyscrapers for several decades. As an example of an International Style skyscraper, the Seagram Building takes a relatively minimal structural system and US, 1985, pg 164 [7] Schulze, Franz. </p> <p>US, 1999, pg 10 [5] Neumeyer, Fritz. Mies designed many buildings during his life however none of the would be as popular and famous as the Seagram Building. The Seagram Building is an iconic skyscraper located on Park Avenue in mid-town Manhattan, New York City. </p>";s:7:"keyword";s:39:"seagram building architectural analysis";s:5:"links";s:6998:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=damascus-map-bible'>Damascus Map Bible</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-mcguigan-oasis'>Paul Mcguigan Oasis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ryder-mclaughlin-movies'>Ryder Mclaughlin Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-meanest-man-in-texas-full-movie'>The Meanest Man In Texas Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Robert-Gober-drawings'>Robert Gober Drawings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=an-unlikely-meeting-jenn-mckinlay'>An Unlikely Meeting Jenn Mckinlay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=10-branches-of-theology'>10 Branches Of Theology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=that-way-lyrics-tate'>That Way Lyrics Tate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=torch-lighter-refill'>Torch Lighter Refill</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=null-a-vogt'>Null A Vogt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eustace-scrubb-age'>Eustace Scrubb Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-gibson-adaptations'>William Gibson Adaptations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frank-thomas-%28animator%29-death'>Frank Thomas (animator) Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pain-management-ncbi'>Pain Management Ncbi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=real-black-roses'>Real Black Roses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=claudia-lyrics-the-view'>Claudia Lyrics The View</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sal-buscema-commission'>Sal Buscema Commission</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ymca-employee-login'>Ymca Employee Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joe-penny-today'>Joe Penny Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Deep-In-The-Motherlode'>Deep In The Motherlode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=samurai-rebellion-imdb'>Samurai Rebellion Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=benefits-of-doing-the-right-thing'>Benefits Of Doing The Right Thing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cruising-1980-filming-locations'>Cruising 1980 Filming Locations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cliff-dorfman-90210'>Cliff Dorfman 90210</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=omar-suarez-quotes'>Omar Suarez Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bruce-gordon-yale'>Bruce Gordon Yale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pilgrim%27s-progress-part-2'>Pilgrim's Progress Part 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paula-scher-abstract-quotes'>Paula Scher Abstract Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=human-communication-as-narration'>Human Communication As Narration</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=china-gate-shooting-location'>China Gate Shooting Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-babysitters-club-tv-show-cast'>The Babysitters Club Tv Show Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maltese-cross-tattoo-small'>Maltese Cross Tattoo Small</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poets-of-the-fall---cradled-in-love'>Poets Of The Fall - Cradled In Love</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Power-outage-westport-MA'>Power Outage Westport MA</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=List-of-metaphors-to-describe-a-person'>List Of Metaphors To Describe A Person</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jerrika-karlae-height'>Jerrika Karlae Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fabio-gentle-rogue'>Fabio Gentle Rogue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Throne-of-Glass-book-1'>Throne Of Glass Book 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=holybelly-brunch-menu'>Holybelly Brunch Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Is-mind-reading-possible'>Is Mind Reading Possible</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-a-good-protein-powder'>What Is A Good Protein Powder</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grimm%27s-complete-fairy-tales-amazon'>Grimm's Complete Fairy Tales Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philippe-starck-costes-chair'>Philippe Starck Costes Chair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=perl-split-on-whitespace'>Perl Split On Whitespace</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=haibun-matsuo-basho'>Haibun Matsuo Basho</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=li-chen-net-worth'>Li Chen Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-zombiecleo-married'>Is Zombiecleo Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hobart%27s-funnies-book'>Hobart's Funnies Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=godmother-bake-and-brunch'>Godmother Bake And Brunch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-can-say-where-the-road-goes-lyrics'>Who Can Say Where The Road Goes Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=que-es-ser-humano-filosof%C3%ADa'>Que Es Ser Humano Filosofía</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philbert-powwow-highway'>Philbert Powwow Highway</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cry-boy-cry-lyrics'>Cry Boy Cry Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nickelodeon-studios-theme-park'>Nickelodeon Studios Theme Park</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-God-Abandons-Antony'>The God Abandons Antony</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roll-of-thunder%2C-hear-my-cry-chapter-4'>Roll Of Thunder, Hear My Cry Chapter 4</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Grace-Byers-sister'>Grace Byers Sister</a>,
+";s:7:"expired";i:-1;}

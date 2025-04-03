@@ -1,0 +1,84 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2596:"<p>Le Corbusier Color Palette. Le Corbusier designed a set of paint colours in 1931 and again in 1959 for Swiss paint company Salubra, which he called his Claviers de Couleurs (Colour Keyboards).  </p> <p>You might think that such a broad palette (17 colors in total) would result in visual chaos, but the effect is surprisingly harmonious, thanks to the subtle gradient of tones (five of the colors are Sienna, for example). By Diana Budds 2 minute Read In an open plan, consider the acoustics. Le Corbusier`s 63 masterful colours, implemented in colour recipes of unique quality – that`s poLyChro®, Les Couleurs® Le Corbusier. poLyChro® is the perfect symbiosis of a matt, velvety surface with a fascinating depth of colour. VDF products fair: Building-technology supplier Jung has updated the colour range for its minimalist LS 990 switches to incorporate Le Corbusier's vast Les Couleurs palette. He was an enthusiastic artist and art lover himself and could not have avoided the influences of successive art movements of late 19th and early 20th century. The paint swatch palettes incorporated a systematic means of co-ordinating matching colours via moveable pockets and windows. Le Corbusier, byname of Charles-Édouard Jeanneret, (born October 6, 1887, La Chaux-de-Fonds, Switzerland—died August 27, 1965, Cap Martin, France), internationally influential Swiss architect and city planner, whose designs combine the functionalism of the modern movement with a bold, sculptural expressionism. This meant a fool-proof method for creating lovely colour chemes for even the least design savvy client. I wanted to bring the palette of the hills and the sea inside’ The overall look was inspired by the Le Corbusier-designed Maison La Roche, which Evelyn visited during a work trip to Paris in 2015. 5. Le Corbusier’s Color Theories, Explained The Swiss architect was a stickler for color, as a rare wallpaper book now up for auction shows. </p> <p>In fact, the paint used throughout her home is made by Drikolor, the company that holds the licence for Le Corbusier’s original colours. Le Corbusier applied these colors throughout the house and used them in repetition. Le Corbusier’s name is almost synonymous with the purist colour palette. DVD packaging was created as a fictional digital accompaniment to the printed edition of Le Corbusier's 'Polychromie Architectural'. </p> <p>The 63 colors are broken down into two palettes created by Le Corbusier: 1931, which is full of rich neutral tones and deep jewel shades, and 1959, where you can find some of his bolder hues. </p>";s:7:"keyword";s:20:"le corbusier palette";s:5:"links";s:2792:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-carry-your-heart-canvas-print'>I Carry Your Heart Canvas Print</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joshua-funk-wild-%27n-out'>Joshua Funk Wild 'n Out</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-gun-massager'>The Gun Massager</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-presence-of-god-sermon'>The Presence Of God Sermon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=schumann-concerto-cello'>Schumann Concerto Cello</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=softschools-com-login'>Softschools Com Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=8-person-bracket'>8 Person Bracket</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=celtic-cross-tattoos'>Celtic Cross Tattoos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orthodox-easter-memes'>Orthodox Easter Memes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-power-of-small-wins-summary'>The Power Of Small Wins Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-thread---victoria-hislop'>The Thread - Victoria Hislop</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aurora-car-2018'>Aurora Car 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=always-for-pleasure'>Always For Pleasure</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-wyatt-poems-pdf'>Thomas Wyatt Poems Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=henrico-county-jail-phone-number'>Henrico County Jail Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lisa-Emery---imdb'>Lisa Emery - Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jennifer-pe%C3%B1a-y-sus-hijos'>Jennifer Peña Y Sus Hijos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tense-adverb-chart-pdf'>Tense Adverb Chart Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=butch-hartman-tv-shows'>Butch Hartman Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=minecraft-lucid-dreams'>Minecraft Lucid Dreams</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Go-to-your-tomb%E2%80%91%E2%80%91right-now%21'>Go To Your Tomb‑‑right Now!</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-american-agent-richard-holm'>The American Agent Richard Holm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mokolii-island-kayak'>Mokolii Island Kayak</a>,
+";s:7:"expired";i:-1;}

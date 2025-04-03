@@ -1,0 +1,134 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2769:"<p>An unconventional retelling of the life of William Walker, a 19th century American mercenary leader who became the president of Nicaragua. William Walker fue un aventurero americano, filibustero y soldado que se convirtió en presidente de Nicaragua en 1856-1857. William Walker and his mercenary corps enter Nicaragua in the middle of the 19th century in order to install a new government by a coup d'etat. He led a complex revolution in Nicaragua, had a confused pro-slavery and anti-slavery agenda, was betrayed by Cornelius Vanderbilt and by the Royal Navy, and shot by a firing squad. less. William Walker resolved to establish himself as the preeminent filibuster of his era, and for a brief span (1853–60), he was indomitable in his quest. Directed by Alex Cox. Many pages devoted to the movie based on Walker's life. William Walker en Nicaragua William Walker: El Predestinado de los Ojos Grises (Alejandro Bolaños Geyer) COLLECTIONS Callender Fayssoux Collection of William Walker Papers Tulane University GRAVE William Walker Grave. </p> <p>Later called Vanderbilt University, the institution is located a short distance from William Walker's birthplace. William Walker (May 8, 1824 – September 12, 1860) was an American lawyer, journalist and adventurer, who organized several private military expeditions into Latin America, with the intention of establishing English-speaking colonies under his personal control, an enterprise then known as "filibustering. One more footnote about William Walker: About 15 years after Walker's escapade in Nicaragua, Cornelius Vanderbilt gave a million dollars to the construction of a Methodist university in Nashville.  This account of the life and times of the American adventurer William Walker, who briefly seized the presidency of Nicaragua in the 1850s, defies the conventional wisdom, which holds that Walker was bent on adding new slave states to the United States. William Walker war der Führer und Initiator eines "Filibusterzuges" mit amerikanischen Söldnern nach Nicaragua. Walker was a widely known figure in 1850, now forgotten. The narrative is well-writeen, but lacks an index. William Walker (1824–1860), a self-proclaimed “colonel,” doctor, lawyer, journalist, politician and adventurer, was the most famous of the American filibusters, leading armed expeditions into Mexico, Nicaragua and Honduras in the mid-1800s when the United States was at peace with these countries. </p> <p>With Ed Harris, Richard Masur, Rene Auberjonois, Keith Szarabajka. Es gelang ihm im Zeitraum von 1855-57 ein "amerikanisches Element in die Gesellschaft von Nicaragua" einzubringen, er selber wurde sogar Präsident dieses Staates. Nacido el 8 de mayo de 1824 – Fallecido el 12 de septiembre de 1860. </p>";s:7:"keyword";s:24:"william walker nicaragua";s:5:"links";s:9158:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=affinity-publisher-trial'>Affinity Publisher Trial</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=smokers-outside-the-hospital-doors-lyrics'>Smokers Outside The Hospital Doors Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Julius-Caesar-expansion'>Julius Caesar Expansion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=french-foreign-legion-age-limit'>French Foreign Legion Age Limit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kylie-Jenner-%26-Stormi'>Kylie Jenner & Stormi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=popular-board-games'>Popular Board Games</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=medieval-studies-minor-notre-dame'>Medieval Studies Minor Notre Dame</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pippi-stockholm-museum'>Pippi Stockholm Museum</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rube-goldberg-picture-book'>Rube Goldberg Picture Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frommer-georgia-tbilisi'>Frommer Georgia Tbilisi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Child-marriage-charity'>Child Marriage Charity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=patron-saint-of-disease'>Patron Saint Of Disease</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghost-story-games-reddit'>Ghost Story Games Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=outdoor-bleacher-seating'>Outdoor Bleacher Seating</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-thanks-meaning'>No Thanks Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=40-year-old-virgin---trailer'>40-year Old Virgin - Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=knaus-sport-and-fun-2020'>Knaus Sport And Fun 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=smallest-lotus-caravan'>Smallest Lotus Caravan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japanese-dessert-culture'>Japanese Dessert Culture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=agafia-lykova-latest-news'>Agafia Lykova Latest News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nepal-travel-coronavirus'>Nepal Travel Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mc-sniper---undercooled'>Mc Sniper - Undercooled</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mighty-You-Are'>Mighty You Are</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ted-dekker-green'>Ted Dekker Green</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=inspirational-firefighter-stories'>Inspirational Firefighter Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fantastic-4-characters'>Fantastic 4 Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=which-of-the-following-factors-limits-the-potential-production-of-wildlife-hunters-ed'>Which Of The Following Factors Limits The Potential Production Of Wildlife Hunters Ed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=short-poem-for-earth-day'>Short Poem For Earth Day</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stewart-francis-wife'>Stewart Francis Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=canning-orange-juice'>Canning Orange Juice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ludlow-lamonsoff-actor'>Ludlow Lamonsoff Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trans-am-worldwide'>Trans Am Worldwide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=m%C3%A9t%C3%A9o-rabat-heure-par-heure'>Météo Rabat Heure Par Heure</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-weirdest-school-books'>My Weirdest School Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jacob-nighthorse-house'>Jacob Nighthorse House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hallie-ephron-net-worth'>Hallie Ephron Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jim-Belushi-2019'>Jim Belushi 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=headless-horseman-name'>Headless Horseman Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Robert-Venturi-buildings'>Robert Venturi Buildings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naperville-riverwalk-is-it-open'>Naperville Riverwalk Is It Open</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mrs-piggle-wiggle-read-aloud'>Mrs Piggle Wiggle Read Aloud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=classical-persian-poetry'>Classical Persian Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fordham-high-school-for-the-arts'>Fordham High School For The Arts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seven-samurai-kanopy'>Seven Samurai Kanopy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oedipus-definition-psychology'>Oedipus Definition Psychology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=senior-service-delivery-manager-job-description'>Senior Service Delivery Manager Job Description</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blade-marvel-cast'>Blade Marvel Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cook%27s-illustrated-cookbooks'>Cook's Illustrated Cookbooks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=italy-human-geography'>Italy Human Geography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-mystery-of-dr-fu-manchu-summary'>The Mystery Of Dr Fu Manchu Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=modern-chinese-painting'>Modern Chinese Painting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=doyon-dividend-2019-1099'>Doyon Dividend 2019 1099</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=down-the-memory-lane-meaning-in-bengali'>Down The Memory Lane Meaning In Bengali</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=laurie-christine-king-products'>Laurie Christine King Products</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pete-becker-net-worth'>Pete Becker Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=danny-brown-merch'>Danny Brown Merch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soldiering-on-meaning'>Soldiering On Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kid-a-genius'>Kid A Genius</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=global-leadership-website'>Global Leadership Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cute-high-earth-defense-club-wiki'>Cute High Earth Defense Club Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shane-rangi-lord-of-the-rings'>Shane Rangi Lord Of The Rings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stoned-and-alone'>Stoned And Alone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-the-bible-say-about-pink'>What Does The Bible Say About Pink</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=it-wasn%27t-me-george-thorogood'>It Wasn't Me George Thorogood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dust-effect-png'>Dust Effect Png</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dennis-trillo-Instagram'>Dennis Trillo Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liverpool-england-weather'>Liverpool England Weather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=masters%27-union-school-of-business-reviews'>Masters' Union School Of Business Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nagoya-castle-map'>Nagoya Castle Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hard-laughter-meaning'>Hard Laughter Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tilly-bagshawe-and-sidney-sheldon'>Tilly Bagshawe And Sidney Sheldon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mays-kitchen-koh-lanta'>Mays Kitchen Koh Lanta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-jekyll-doesn%27t-hide-meaning'>My Jekyll Doesn't Hide Meaning</a>,
+";s:7:"expired";i:-1;}

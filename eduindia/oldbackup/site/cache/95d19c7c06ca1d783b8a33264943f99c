@@ -1,0 +1,155 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3894:"<p>These are free to download AutoCAD Blocks. I just wanted to post a couple blocks that I have wanted for a while but couldn't seem to find. The steel library includes: 296 – Wide Flange (W) shapes from W4 x 13 to W44 x 335; 28 – I-Beam (S) shapes from S3 x 5.7 to S24 x 121; 28 – Channel (C) shapes from C3 x 4.1 to C15 x 50; 33 – Misc. 3D ContentCentral ® is committed to building a strong community of designers, engineers, and manufacturers in order to help product designers around the globe not only to save time that would otherwise be spent building parts models and CAD drawings of supplier components, but also to utilize these productivity gains to innovate and create the breakthrough products of tomorrow. 1 cm 4 = 10-8 m = 10 4 mm; 1 in 4 = 4.16x10 5 mm 4 = 41.6 cm 4; 1 cm 3 = 10-6 m = 10 3 mm; The standard method for specifying the dimensions of a American Standard Steel Channels is like C 5 x 9. which is a beam 5 inches deep with a weight 9 lb/ft.. I-shaped cross-section beams: Share. Show more... Download files Like. </p> <p>1397 Downloads 16 Likes 6 Comments. View all. 3D ContentCentral ® is committed to building a strong community of designers, engineers, and manufacturers in order to help product designers around the globe not only to save time that would otherwise be spent building parts models and CAD drawings of supplier components, but also to utilize these productivity gains to innovate and create the breakthrough products of tomorrow. CAD blocks and files can be downloaded in the formats DWG, RFA, IPT, F3D.You can exchange useful blocks and symbols with other CAD and BIM users. The slope on the MC 8x20 does appear to be the same as that on the C 8x18.75; perhaps the data from the producing mill states otherwise. Stainless Steel Miscellaneous Channel MC 6X15.1 is available in laser fused profiles. AutoCAD includes industry-specific features for architecture, mechanical engineering, and more. This is the most versatile of the heat treatable aluminum alloys. </p> <p>Details. Therefore if you have a PDF or Excel database of steel sections that you require in CAD format then feel free to contact me. </p> <p>In the column headed "AISI Designation", a letter or letters precedes the size and weight per foot. Items: 23 View Items. More by Debbie Barnhouse. Uploaded: July 25th, 2013. Note: I have created an Excel spreadsheet that generates steel sections in CAD format (.dwg) based on height/width/thickness etc properties - all done in a few clicks. Channels 6x16d3 to 8x20. </p> <p>The American Iron and Steel Institute has established a designation system for structural shapes, which has been adopted by steel producers. For example, C3 X 4.1 is the AISI designation for a 3" x 4.1# Standard Structural Channel. It is that simple now! I realize that there is a Channel dynamic block in the structural tool palette in ACAD 2010, but it does not have filleted corners and does not have all the AISC sizes. So here are the C Channel and MC Channel blocks that I finally had time to make. </p> <p>AutoCAD Resources Being just as important as the design itself, outlining exactly what needs to be done, what is required and what specifications need to be followed is essential. View Files. Channels 10x6d5 to 10x28d5.dwg. Similar models. It has most of the good qualities of aluminum, and it offers a wide range of mechanical properties and corrosion resistance.  </p> <p>For example, C3 X 4.1 is the AISI designation for a 3" x 4.1# Standard Structural Channel. All MC Shapes From AISC 14th Edition Shapes Database. View our complete collection of … 2D CHANNEL LIBRARY . 6061-T6 Aluminum Alloys - Channels. "MC" shapes are channels that cannot be classified as "C" shapes. </p> <p>Stocked in Lengths up to 60' Less. MC Channel Dynamic Block I just wanted to post a block that I have wanted for a while but couldn't seem to find. </p>";s:7:"keyword";s:18:"MC Channel AutoCAD";s:5:"links";s:11670:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=units-of-happiness-economics'>Units Of Happiness Economics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=outlook-2016-keeps-disconnecting'>Outlook 2016 Keeps Disconnecting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rose-hill-book'>Rose Hill Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=power-outage-california-today-2020'>Power Outage California Today 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=veronica-roth-age-when-she-wrote-divergent'>Veronica Roth Age When She Wrote Divergent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amos-diggory-mrs-diggory'>Amos Diggory Mrs Diggory</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jim-rohn-herbalife-quotes'>Jim Rohn Herbalife Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=last-day%2C-luanne-rice-review'>Last Day, Luanne Rice Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dream-dream-song'>Dream Dream Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%22restless%22-bbc-watch-online'>"restless" Bbc Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=p%C3%A9ro-aneeth-arora'>Péro Aneeth Arora</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mockingjay-meaning-in-english'>Mockingjay Meaning In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naomi-japanese-name'>Naomi Japanese Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mansion-casino-restricted-countries'>Mansion Casino Restricted Countries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nl-blackstock-death-2005'>Nl Blackstock Death 2005</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=political-correctness%3A-the-munk-debates-book'>Political Correctness: The Munk Debates Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dangerous-games-series'>Dangerous Games Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ostriv-user-manual'>Ostriv User Manual</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tehran-episode-1'>Tehran Episode 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=distance-learning%3A-benefits-and-challenges'>Distance Learning: Benefits And Challenges</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Words-to-use-instead-of-they'>Words To Use Instead Of They</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=portuguese-government-coronavirus'>Portuguese Government Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=golden-brooks-husband'>Golden Brooks Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seth-godin-audiobook'>Seth Godin Audiobook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=humminbird-helix-5-di-gps'>Humminbird Helix 5 Di Gps</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-inception%27%27-on-netflix-2019'>Is Inception'' On Netflix 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=johnta-austin-net-worth'>Johnta Austin Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=schisma-stephen-king'>Schisma Stephen King</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cotton-candy-betta'>Cotton Candy Betta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-link-20-hearts-glitch'>Wolf Link 20 Hearts Glitch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=notre-dame-du-haut-interior'>Notre Dame Du Haut Interior</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dreams-universe-pc'>Dreams Universe Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=german-a-level-reading-practice'>German A Level Reading Practice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pasta-salad-ideas'>Pasta Salad Ideas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=letter-and-spirit-example'>Letter And Spirit Example</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=too-shy-lyrics-shy-fx'>Too Shy Lyrics Shy Fx</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amelia-earhart%3A-the-final-flight-full-movie'>Amelia Earhart: The Final Flight Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oklahoma-movie-review'>Oklahoma Movie Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amex-stadium-expansion'>Amex Stadium Expansion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fresno-california-weather'>Fresno California Weather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=allison-dubois-net-worth'>Allison Dubois Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caleb-johnson-american-idol'>Caleb Johnson American Idol</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eddie-peng-wife'>Eddie Peng Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-shiffrin-contribution-to-psychology'>Richard Shiffrin Contribution To Psychology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=take-your-woman-by-the-hand'>Take Your Woman By The Hand</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-dandelion-menu'>The Dandelion Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thank-you%2C-mr-panda-pdf'>Thank You, Mr Panda Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-girl-walks-home-alone-at-night-car'>A Girl Walks Home Alone At Night Car</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=duty-ethics-slideshare'>Duty Ethics Slideshare</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=under-capricorn-series'>Under Capricorn Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-british-writers-19th-century'>Black British Writers 19th Century</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cities%3A-Skylines%3A-Garbage-piling-up'>Cities: Skylines: Garbage Piling Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=berkeley-carroll-coronavirus'>Berkeley Carroll Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-art-of-healing-pdf'>The Art Of Healing Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jason-Isbell-Mercy'>Jason Isbell Mercy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scott-schiff-wife'>Scott Schiff Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-improve-chinese-vocabulary'>How To Improve Chinese Vocabulary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=witcher-map-interactive'>Witcher Map Interactive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=italian-mafia-tattoos'>Italian Mafia Tattoos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary-stone-obituary'>Mary Stone Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clockwork-princess-goodreads'>Clockwork Princess Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-ashes-of-london-reviews'>The Ashes Of London Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Romesh-Gunesekera-Reef'>Romesh Gunesekera Reef</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roy-phillips-boardwalk-empire'>Roy Phillips Boardwalk Empire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ralph-bunche-education'>Ralph Bunche Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-woman-movie-explained'>The Woman Movie Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ungifted-book-report'>Ungifted Book Report</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=matthew-corbett-book-8-release-date'>Matthew Corbett Book 8 Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=norway-economy-2020'>Norway Economy 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=knickerbocker-holiday-songs'>Knickerbocker Holiday Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maria-sesame-street'>Maria Sesame Street</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=operation-haylift-movie'>Operation Haylift Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ode-to-liberty-pushkin-analysis'>Ode To Liberty Pushkin Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercedes-kilmer-car-accident'>Mercedes Kilmer Car Accident</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sumy%2C-ukraine-war'>Sumy, Ukraine War</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kim-jae-wook-2020'>Kim Jae Wook 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Augean-Stables'>The Augean Stables</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Secretary-tree-scene'>Secretary Tree Scene</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Black-History-love'>Black History Love</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prayer-to-save-my-family'>Prayer To Save My Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-sabuda-parents'>Robert Sabuda Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phillis-wheatley-born'>Phillis Wheatley Born</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=larissa-ione-net-worth'>Larissa Ione Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=overstock-kitchen-curtains'>Overstock Kitchen Curtains</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dublin%2C-ca-map'>Dublin, Ca Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=can-i-hire-someone-to-beat-me-up'>Can I Hire Someone To Beat Me Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=billy-gilmour-current-teams'>Billy Gilmour Current Teams</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Spain-tour-packages'>Spain Tour Packages</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-tribune-prep-sports'>Star Tribune Prep Sports</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clementine-nicholson-height'>Clementine Nicholson Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naomi-wirthner-stephen-dillane'>Naomi Wirthner Stephen Dillane</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autocad-lt-tutorial'>Autocad Lt Tutorial</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fabulous-four-domino-price'>Fabulous Four Domino Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-pronounce-balderdash'>How To Pronounce Balderdash</a>,
+";s:7:"expired";i:-1;}

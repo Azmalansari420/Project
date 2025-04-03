@@ -1,0 +1,140 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2899:"<p>The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel, most commonly referred to as The Nobel Prize in Economic Sciences, is the most prestigious prize that can be awarded in Economics. Nobel Prize in Economics) (also available in alphabetical arrangement) brought to you by The 2019 Nobel Prize in Economics was awarded to Esther Duflo, Abijit Banerjee and Michael Kremer for their work adapting the method of randomized control … Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel 2019-1969 (a.k.a. </p> <p>List of Nobel Prize Winners in Economics:- Paul A. Samuelson, Sir John Hicks, Milton Friedman, Amartya Kumar Sen, Robert A Mundell, Joseph E. Stiglitz, Joseph A. Akerlof and A. Micheal Spence, Daniel Kahneman and Vernon Lomax Smith, Robert F. Engle and Clive W.J. </p> <p>On Monday, Abhijit Banerjee, 58, and Esther Duflo, 46, won the Nobel Prize in Economics, along with economist Michael Kremer, for their "experimental approach to alleviating global poverty". Abhijit Banerjee, Esther Duflo and Michael Kremer pioneered an … But, technically, there is no Nobel Prize in economics.  In October, Princeton University psychologist Daniel Kahneman, PhD, was awarded the Nobel Memorial Prize in Economic Sciences for his groundbreaking work in applying psychological insights to economic theory, particularly in the areas of judgment and decision-making under uncertainty. </p> <p>Nobel Memorial Prize In Economic Sciences: A prestigious award acknowledging outstanding contributions to the science of economics. List of Jewish Nobel Prize laureates in Economics, their country of origin, and links to their autobiographies. Nobel Prize winners by category (economics)* year name country** achievement *Officially called the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel, it is technically not a Nobel Prize, although it is identified with the award. The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel (Swedish: Sveriges riksbanks pris i ekonomisk vetenskap till Alfred Nobels minne), is an economic prize administered by the Nobel Foundation and generally regarded as the Nobel award of Economics. </p> <p>**Nationality given is the citizenship of the recipient at the time the award was made. 3 Win Nobel Prize In Economics For Work In Reducing Poverty Abhijit Banerjee, Esther Duflo and Michael Kremer will share the Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel. </p> <p>Granger, Finn E. Kydland and Edward C Prescott, Thomas Schelling and Robert J. Aumann, Edmund S. Phelps. The 2019 Nobel Prize in Economics was awarded to MIT Profs. A trio of economists were awarded the Nobel Prize on Monday for their work to alleviate global poverty. Every year the Laureates in Economics are selected by the Royal Swedish Academy of Science, based in Stockholm, Sweden. </p> <p></p>";s:7:"keyword";s:24:"nobel prize in economics";s:5:"links";s:10010:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Loose-Pink-Diamond'>Loose Pink Diamond</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-slager-family'>Michael Slager Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-is-tbilisi-georgia-on-world-map'>Where Is Tbilisi Georgia On World Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-agatha-folktale'>Old Agatha Folktale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nick-stahl-found'>Nick Stahl Found</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clifford-the-big-red-dog-%282020%29'>Clifford The Big Red Dog (2020)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shotel-warrior-vs-karambit'>Shotel Warrior Vs Karambit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fgm-statistics-2018'>Fgm Statistics 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hogwarts-to-welcome-you-home-fanfiction'>Hogwarts To Welcome You Home Fanfiction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=candy-box-2-squirrel'>Candy Box 2 Squirrel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kagero-nikki-translation'>Kagero Nikki Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-heart-annie-dillard'>The Heart Annie Dillard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-final-hour-2019'>The Final Hour 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harry-gregson-williams-website'>Harry Gregson-williams Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=I%27ll-End-Those-Dogs'>I'll End Those Dogs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=life-under-the-nazis-readworks-answers'>Life Under The Nazis Readworks Answers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Elements-of-Love%3A-Ballads'>Elements Of Love: Ballads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mont-blanc-starwalker-fragrantica'>Mont Blanc Starwalker Fragrantica</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rooms-to-rent-suffolk'>Rooms To Rent Suffolk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pauline-baynes-narnia-map'>Pauline Baynes Narnia Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ramblin%27-boy-donovan'>Ramblin' Boy Donovan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-birthday-party'>The Office Birthday Party</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pushpavalli-Season-2-watch-Online'>Pushpavalli Season 2 Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=metropolis%2C-illinois-hotels'>Metropolis, Illinois Hotels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=inga-moore-illustrations-wind-in-the-willows'>Inga Moore Illustrations Wind In The Willows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=death-note-volume-12-online'>Death Note Volume 12 Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blood-rain-%282005%29-watch-online'>Blood Rain (2005) Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grill-and-chill-eramalloor'>Grill And Chill Eramalloor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=allentown-pittsburgh-restaurants'>Allentown Pittsburgh Restaurants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=curtis-harris-height'>Curtis Harris Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=masters%27-union-school-of-business-reviews'>Masters' Union School Of Business Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=abhinay-deo-son'>Abhinay Deo Son</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maria-ouspenskaya-cause-of-death'>Maria Ouspenskaya Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bruce-bennett-piano'>Bruce Bennett Piano</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tin-tin-protein-full-name'>Tin Tin Protein Full Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autocad-doesnt-group'>Autocad Doesnt Group</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ternary-operator-syntax'>Ternary Operator Syntax</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=iq-by-roland-smith-characters'>Iq By Roland Smith Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alcoholic-drinks-that-are-not-sweet'>Alcoholic Drinks That Are Not Sweet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=canandaigua---news'>Canandaigua - News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=physical-power-example'>Physical Power Example</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tricycle-landing-gear'>Tricycle Landing Gear</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beer-can-brands'>Beer Can Brands</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tibco-spotfire%3A-a-comprehensive-primer-building-enterprise-grade-data'>Tibco Spotfire: A Comprehensive Primer Building Enterprise Grade Data</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=klong-nin-beach-bars'>Klong Nin Beach Bars</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=photography-art-definition'>Photography Art Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=German-A1-vocabulary-list-with-English-PDF'>German A1 Vocabulary List With English PDF</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=three-comrades-page-count'>Three Comrades Page Count</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=master-yi-jungle-path'>Master Yi Jungle Path</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-list-forensic-files-episode-netflix'>John List Forensic Files Episode Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=luca-parmitano-spacewalk'>Luca Parmitano Spacewalk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edna-st-vincent-millay-poems-about-death'>Edna St Vincent Millay Poems About Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hagerstown-md-to-rockville-md'>Hagerstown Md To Rockville Md</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tom-hanson-age'>Tom Hanson Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1_ad-roblox-myth'>1_ad Roblox Myth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=smart-woman-movie'>Smart Woman Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=process-theology-churches'>Process Theology Churches</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whole-shad-recipes'>Whole Shad Recipes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intermezzo-palate-cleanser'>Intermezzo Palate Cleanser</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tiger%27s-tail-plant'>Tiger's Tail Plant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kyle-cooke-baseball-wikipedia'>Kyle Cooke Baseball Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jamie-zhu-wealth'>Jamie Zhu Wealth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=suzanne-snyder-where-is-she-now'>Suzanne Snyder Where Is She Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-to-buy-a-lottery-ticket'>How To Buy A Lottery Ticket</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Innkeepers-ending'>The Innkeepers Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=little-lia-sister'>Little Lia Sister</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=30-day-meal-plan-for-family-of-4'>30 Day Meal Plan For Family Of 4</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Education-Week-logo'>Education Week Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=candide-summary-short'>Candide Summary Short</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roberta-shore-bio'>Roberta Shore Bio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=march-of-the-dinosaurs-scar'>March Of The Dinosaurs Scar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=delphic-sibyl-khan-academy'>Delphic Sibyl Khan Academy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kory-stamper-word-by-word'>Kory Stamper Word By Word</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=matilda-who-told-lies-and-was-burned-to-death-summary'>Matilda Who Told Lies And Was Burned To Death Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paulo-avelino-net-worth'>Paulo Avelino Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Grace-Byers-sister'>Grace Byers Sister</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=queens-of-the-stone-age-era-vulgaris-lp'>Queens Of The Stone Age Era Vulgaris Lp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=so-so-crossword-clue'>So-so Crossword Clue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=finally-mine-your-love-is-finally-mine'>Finally Mine Your Love Is Finally Mine</a>,
+";s:7:"expired";i:-1;}

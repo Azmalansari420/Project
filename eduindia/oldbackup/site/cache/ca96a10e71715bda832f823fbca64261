@@ -1,0 +1,93 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2416:"<p>Objective. Pancreatology 2004; 4:1. </p> <p>The advantage of the APACHE is that it can be used throughout the patient’s hospital course in monitoring the patient’s response to therapy. The disease has a varying etiology with an overall mortality of 5–10%. </p> <p>This is an unprecedented time. Most cases (80–90%) are mild and self-limited with a good outcome. Obesity increases the severity of acute pancreatitis: performance of APACHE-O score and correlation with the inflammatory response. Acute pancreatitis is a sudden inflammation of the pancreas. Limitations of Ranson's criteria include a 48‐hour time requirement for score determination, and a lack of ability to reassess severity at later points during the hospitalization. </p> <p>The Apache II Score estimates ICU mortality based on a number of laboratory values and patient signs taking both acute and chronic disease into account. Acute pancreatitis is a common and frequent inflammatory disorder of the pancreas with variable involvement of other regional tissues or remote organ systems . Papachristou GI, Papachristou DJ, Avula H, et al. It is the dedication of healthcare workers that will lead us through this crisis. Causes in order of frequency include: 1 a gallstone impacted in the common bile duct beyond the point where the pancreatic duct joins it; 2 heavy alcohol use; 3 systemic disease; 4 trauma; 5 and, in minors, mumps. Mild cases are usually successfully treated with conservative measures: hospitalization, pain control, nothing by mout A Ranson score > 3 or an APACHE II score > 8 indicates severe pancreatitis.  The accuracy of the APACHE II at admission as an early prognostic indicator of disease severity is about 75%; it is comparable with Ranson score in distinguishing mild from severe pancreatitis. </p> <p>Acute pancreatitis may be a single event; it may be recurrent; or it may progress to chronic pancreatitis. Combination of APACHE-II score and an obesity score (APACHE-O) for the prediction of severe acute pancreatitis. </p> <p>Our aim was to prospectively compare the Accuracy of Acute Physiology and Chronic Health Evaluation (APACHE) II, Bedside Index of Severity in Acute Pancreatitis (BISAP), Ranson’s score and modified Computed Tomography Severity Index (CTSI) in predicting the severity of acute pancreatitis based on Atlanta 2012 definitions in a tertiary care hospital in northern India. </p>";s:7:"keyword";s:25:"apache score pancreatitis";s:5:"links";s:3980:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philadelphia-fire-dispatch'>Philadelphia Fire Dispatch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=higher-power-definition'>Higher Power Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-villages-virginia-beach'>The Villages Virginia Beach</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autocad-doesnt-group'>Autocad Doesnt Group</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marina-carr-hecuba'>Marina Carr Hecuba</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=davina-oyg-review'>Davina Oyg Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=right-circular-cone-calc%3A-find-a_l'>Right Circular Cone Calc: Find A_l</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liu-qiangdong-wife'>Liu Qiangdong Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-makes-lone-wolf-barrels'>Who Makes Lone Wolf Barrels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wake-up%2C-ron-burgundy-imdb'>Wake Up, Ron Burgundy Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=live-a-little-song'>Live A Little Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-monk-matthew-lewis'>The Monk Matthew Lewis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=right-on-dude'>Right On Dude</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elk-city-tornado-2019'>Elk City Tornado 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cynthia-blaise-net-worth'>Cynthia Blaise Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=waterford-crystal-rose'>Waterford Crystal Rose</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=griffin-technology-nashville%2C-tn'>Griffin Technology Nashville, Tn</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Samuel-Barber-fun-facts'>Samuel Barber Fun Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-moon-movie-1986-cast'>Blue Moon Movie 1986 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clifford-the-big-red-dog-reading-game'>Clifford The Big Red Dog Reading Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Last-night-I-Sang-to-the-Monster-quotes'>Last Night I Sang To The Monster Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hunt-for-jack-reacher-wikipedia'>Hunt For Jack Reacher Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tuscaloosa-movie-streaming'>Tuscaloosa Movie Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreOutdoor-diningPipers-Hus%2C-Snekken-Trattoria%2C-and-more'>+ 18moreOutdoor DiningPipers Hus, Snekken Trattoria, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rudyard-kipling-hymns'>Rudyard Kipling Hymns</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i%27m-blessed-lyrics'>I'm Blessed Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=khuddar-full-movie'>Khuddar Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=butch-hartman-tv-shows'>Butch Hartman Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cousin-phillis-plot-summary'>Cousin Phillis Plot Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deadfall-in-a-sentence'>Deadfall In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buq-buq-egypt'>Buq Buq Egypt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-landscape-orchestra'>American Landscape Orchestra</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,92 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1050:"<br>Charlize Theron and director George Miller (right) on set for Mad Max: Fury Road. Source:Supplied For Theron, 44, that decision is “a tough one to swallow.” Charlize Theron says it's time for some "shaming" of companies and executives who don't support diversity and inclusion. <br> Charlize Theron is sitting the Furiosa movie out because it’s going to be a prequel focused on a younger iteration of the character. Award-winning actress Charlize Theron has revealed she's excited about the prospect of making a sequel to "The Old Guard". Charlize Theron’s Andy lies on the floor, her body riddled with bullets. She’s dead, but only for a moment.  Hibernation KiKi Layne on going toe-to-toe with Charlize Theron in The Old Guard and Coming 2 America Charlize Theron leads a group of immortal mercenaries in this action-packed Netflix thriller. <br> <br>Miller has already ruled out de-aging Theron with VFX. Charlize Theron said her vow to tell her daughters the truth “in a way that they could handle” has never been so important. ";s:7:"keyword";s:22:"theron charlize theron";s:5:"links";s:3888:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=100-photographs-that-changed-the-world-book'>100 Photographs That Changed The World Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apostasy-in-arabic'>Apostasy In Arabic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wiseguy-Jonathan-Banks'>Wiseguy Jonathan Banks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reviews-tandoori-international'>Reviews Tandoori International</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thyroid-isthmus-7mm'>Thyroid Isthmus 7mm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=platform-pumps-sandals'>Platform Pumps Sandals</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pavel-filonov-paintings'>Pavel Filonov Paintings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=uwe-blab-today'>Uwe Blab Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=letterbomb-lyrics-meaning'>Letterbomb Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rowan-witt-movies-and-tv-shows'>Rowan Witt Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barbara-park-family'>Barbara Park Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-does-the-senate-not-have-a-rules-committee'>Why Does The Senate Not Have A Rules Committee</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Henley-family-history'>Henley Family History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=functionalism-psychology-examples-everyday-life'>Functionalism Psychology Examples Everyday Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geoffrey-of-monmouth-history-of-the-kings-of-britain-pdf'>Geoffrey Of Monmouth History Of The Kings Of Britain Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=benjamin-pavard-goal'>Benjamin Pavard Goal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-pastoral-quotes'>American Pastoral Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autobiography-of-andrew-carnegie'>Autobiography Of Andrew Carnegie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spanish-in-japanese'>Spanish In Japanese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rebekah-Vardy-Instagram'>Rebekah Vardy Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeremih---down-on-me'>Jeremih - Down On Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=google-drive-link-sharing'>Google Drive Link Sharing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lil-wyte-house'>Lil Wyte House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liberian-girl-music-video-cast'>Liberian Girl Music Video Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paranorman-2-2019'>Paranorman 2 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noisy-nora-video'>Noisy Nora Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=inspirational-quotes-about-bitterness'>Inspirational Quotes About Bitterness</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=airport-1970-explosion'>Airport 1970 Explosion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=osho-quotes-on-woman'>Osho Quotes On Woman</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beck%27s-brewery-stock'>Beck's Brewery Stock</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-paulson-net-worth'>John Paulson Net Worth</a>,
+";s:7:"expired";i:-1;}

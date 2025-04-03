@@ -1,0 +1,90 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2698:"<br>Though it may take time, helping your teen eat a nutritious breakfast today will build healthy eating habits that last a lifetime. Eating breakfast can improve cognitive performance, test scores and achievement scores in students, especially in younger children. To say breakfast is the “most important” meal of the day underplays how significant it really is. Importance of Breakfast in a Student’s life It’s said breakfast is the most important meal of the day, but how true is this, is the real question.  <br>Scientists say that students learn fast when they consume nutritious food. We are what we eat, but eating at the right time, in the right quantity, and keeping a check on the nutritious count is also a big task, especially with students. Healthy Eating Is A Necessity For The Students Healthy Eating Is A Necessity For The Students. Students should take more fiber more juices and less fast-food in their food habits. mproved Grades.  <br> Grab-and-go meals such as a waffle with peanut butter, a boiled egg and fruit, or homemade oatmeal bars make eating breakfast a breeze. <br> <br>Healthy Breakfast Challenge Goals. According to Kathleen M. Zelman, “Not only does it [breakfast] give you energy to start a new day, but breakfast is linked to many health benefits, including weight control and improved performance” (WebMD). A new study has examined the importance of eating breakfast in the process of losing weight. That may not seem like a high number but at a school like Penn State that means around 12,000 kids don’t eat breakfast every single day. to educate/remind students and parents about the significance of eating a complete, nutritious breakfast; to define what a complete breakfast includes (carbohydrates, protein, vitamins/minerals) to introduce students to a variety of options for a complete breakfast It may not be as pivotal as once thought, say the authors. Plain, old cereal and milk are considered superior sources for … The purpose of our topic is to explain the importance of eating breakfast and why college students shouldn’t skip this meal. More times than not breakfast is not in the daily routine of kids in College around 30% of college age students don’t eat breakfast every day. Breakfast helps high school students excel in both social and academic realms, so make sure your kids don't skip their morning meals. They should consume food at regular intervals. Encourage eating breakfast daily at home or school and make it easy. Providing energy, nutrients and warding off chronic conditions, can you really afford not to eat it? Weight loss and early schedules are no excuses for missing a quick, satisfying breakfast. <br>";s:7:"keyword";s:43:"importance of eating breakfast for students";s:5:"links";s:3582:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=calendar-flyer-template'>Calendar Flyer Template</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=etsu-basketball-news'>Etsu Basketball News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Melting-point-examples'>Melting Point Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dorian-and-manon-kingdom-of-ash'>Dorian And Manon Kingdom Of Ash</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glen-keane-instagram'>Glen Keane Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-is-running-against-al-green'>Who Is Running Against Al Green</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=literature-review-on-child-marriage-in-bangladesh'>Literature Review On Child Marriage In Bangladesh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-instruments-did-amy-beach-play'>What Instruments Did Amy Beach Play</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=champagne---asda'>Champagne - Asda</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ac-milan-transfer-market'>Ac Milan Transfer Market</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=python-cryptography-library'>Python Cryptography Library</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ascent-protein-uk'>Ascent Protein Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=catwoman-vs-max-shreck-batman-returns'>Catwoman Vs Max Shreck Batman Returns</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=billy-jayne-movies'>Billy Jayne Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Where-can-i-watch-Madea-Boo-2-For-Free-online'>Where Can I Watch Madea Boo 2 For Free Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=juvenile-crime-statistics'>Juvenile Crime Statistics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Caravan-of-Courage-streaming'>Caravan Of Courage Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tripping-daisy-albums'>Tripping Daisy Albums</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wake-up%2C-ron-burgundy-imdb'>Wake Up, Ron Burgundy Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=abhinay-deo-son'>Abhinay Deo Son</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ucsd-cse-190'>Ucsd Cse 190</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ralph-bunche-education'>Ralph Bunche Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-ladd-jr-net-worth'>Alan Ladd Jr Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=A-Jewish-Holiday-ABC'>A Jewish Holiday ABC</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=legacy-award-winners'>Legacy Award Winners</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=farm-for-sale-in-york'>Farm For Sale In York</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wbz-radio-hosts'>Wbz Radio Hosts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tres-coronas-jerez-precio'>Tres Coronas Jerez Precio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=triumph-of-the-will-propaganda'>Triumph Of The Will Propaganda</a>,
+";s:7:"expired";i:-1;}

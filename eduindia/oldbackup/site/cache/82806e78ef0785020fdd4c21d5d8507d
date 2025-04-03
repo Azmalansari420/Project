@@ -1,0 +1,132 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3198:"<p>The MJD for a given date is the number of days to that date since Jan 1 4713 B.C. </p> <p>A Julian date is the number of days and fractional days since noon on November 24, 4714 BCE in the proleptic Gregorian calendar, or January 1, 4713 BCE in the proleptic Julian calendar. Care is needed … I am looking for a formula where I can put a 5 digit Modified Julian Date and have it convert it to today's date for me. </p> <p>Convert Modified Julian Date to UTC Date in Excel. </p> <p>The Julian Day Number so calculated will be for 0 hours, GMT, on that date. </p> <p>A partial date vector has three elements, specifying year, month, and day. </p> <p>Click and drag the bottom right corner of the cell containing the formula to copy the formula down the column. This type of date coding allows retailers, consumers, and service agents to identify when a product was made, and thus the age of the product. </p> <p>Different […] Active 2 months ago. I am looking for a formula where I can put a 5 digit Modified Julian Date and have it convert it to today's date for me. You can manipulate Modified Julian Day (MJD) formats using the J format string. </p> <p>Dates in the Julian calendar are called Julian dates and are not supported in Informatica. Julian dates are also used in programming, the military, and astronomy. The Julian Day number is the number of days elapsed since noon (12:00) on January 1, 4713 BC The Modified Julian Day number is the number of days since midnight (00:00) on November 17, 1858 AD (MJD=JD-2400000.5) The Gregorian calendar is used for dates on and after October 15, 1582 AD and the Julian calendar is used before October 4, 1582. </p> <p>This day-of-year (1-366) more correctly known as Ordinal Date.The use here of “Julian” is common but is, as far as I know, incorrect. The MJD for a given date is the number of days to that date since Jan 1 4713 B.C. The J format string does not convert this time component. Modified Julian dates begin at midnight rather than noon, and the first two digits of its corresponding Julian date are removed. </p> <p>Here's how to do it: 1) Express the date as Y M D, where Y is the year, M is the month number (Jan = 1, Feb = 2, etc. </p> <p>This term should not be confused with Julian Day or with Modified Julian Day. </p> <p>Ask Question Asked 2 months ago. </p> <p>Active 2 months ago. ), and D is the day in the month. This dating convention, designed to facilitate simplified chronological calculations, numbers all days in consecutive fashion, beginning at a date sufficiently far into the past so as to precede the historical period. Julian dates are often used in manufacturing environments as a timestamp and quick reference for a batch number. </p> <p>This calculator is a modified version from the U.S. 0. </p> <p>Because first two digits of Julian day remain constant for about three centuries, sometimes more short version of Julian day, Modified Julian Date is used. </p> <p>By definition, MJD includes a time component expressed as a decimal, which represents some fraction of 24 hours. MJD is a modification of the Julian Date that is routinely used by astronomers, geodesists, and even some historians. </p>";s:7:"keyword";s:20:"modified julian date";s:5:"links";s:8788:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=SCAR-20-skin'>SCAR 20 Skin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brody-dalle-2019'>Brody Dalle 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mine-plural-in-french'>Mine Plural In French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2k-blacktop-online'>2k Blacktop Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=disgusting-food-combinations-buzzfeed'>Disgusting Food Combinations Buzzfeed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-al-hunt-retired'>Is Al Hunt Retired</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fun-facts-about-presidents-day'>Fun Facts About Presidents Day</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=qayamat%3A-city-under-threat-qayamat-qayamat'>Qayamat: City Under Threat Qayamat-qayamat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fare-la-scarpetta-in-inglese'>Fare La Scarpetta In Inglese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=twas-the-night-before-christmas-technology-version'>Twas The Night Before Christmas Technology Version</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prey-novel-movie'>Prey Novel Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jan-hammer-group'>Jan Hammer Group</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pandora-account-billing'>Pandora Account Billing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=falcon-crest-anna'>Falcon Crest Anna</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=johnsonville-beer-brats'>Johnsonville Beer Brats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=koloman-moser-death'>Koloman Moser Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chuck-billy-covid'>Chuck Billy Covid</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unseen-app-for-android'>Unseen App For Android</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaiah-40%3A1-11-meaning'>Isaiah 40:1-11 Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Doctor-%7C-Doctor-Who'>The Doctor | Doctor Who</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=don%27t-think-of-an-elephant-review'>Don't Think Of An Elephant Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bailiwick-of-guernsey'>Bailiwick Of Guernsey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=schoolboy-arm-wrestling-instagram'>Schoolboy Arm Wrestling Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-garden-residences-site-plan'>The Garden Residences Site Plan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reddit-harry-potter%3A-wizards-unite'>Reddit Harry Potter: Wizards Unite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peppa-pig-the-golden-boots-full-movie'>Peppa Pig The Golden Boots Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Aurora-Colorado-Houses'>Aurora Colorado Houses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sycamore-row-sequel'>Sycamore Row Sequel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mother-courage-analysis'>Mother Courage Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dana-Delany-married'>Dana Delany Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joe-penny-today'>Joe Penny Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=China-Gate-Mukesh-Tiwari'>China Gate Mukesh Tiwari</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=automatic-knife-replacement-springs'>Automatic Knife Replacement Springs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-make-a-link-say-something-else-on-iphone'>How To Make A Link Say Something Else On Iphone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-just-poem-analysis'>In Just Poem Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=genesis-the-way-we-walk%2C-volume-one%3A-the-shorts-songs'>Genesis The Way We Walk, Volume One: The Shorts Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lighto-f-the-seven'>Lighto F The Seven</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Eugenia-Cooney-Wikipedia'>Eugenia Cooney Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wrentham-outlet-stores'>Wrentham Outlet Stores</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=javits-center-field-hospital'>Javits Center Field Hospital</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=D%26D-battle-sorcerer'>D&D Battle Sorcerer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=history-of-autocad'>History Of Autocad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backtrace-ending-explained'>Backtrace Ending Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=port-gore-color'>Port Gore Color</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drill-chuck-adapter'>Drill Chuck Adapter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Nicki-Minaj-height'>Nicki Minaj Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=open-theism-churches'>Open Theism Churches</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=British-conversation-examples'>British Conversation Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=turning-point-brands-careers'>Turning Point Brands Careers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hypovolemic-thirst-process'>Hypovolemic Thirst Process</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=primetime-martial-arts-san-jose'>Primetime Martial Arts San Jose</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=quotes-about-being-sanctimonious'>Quotes About Being Sanctimonious</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frank-auerbach-portraits'>Frank Auerbach Portraits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-perfect-host-explanation'>The Perfect Host Explanation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pina-pellicer---biograf%C3%ADa'>Pina Pellicer - Biografía</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=riposte---dark-souls'>Riposte - Dark Souls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gordon-Brown-now'>Gordon Brown Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bus-174-documentary'>Bus 174 Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=me-and-john-and-paul'>Me And John And Paul</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richelle-mead-book-series'>Richelle Mead Book Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thin-sausage---crossword-clue'>Thin Sausage - Crossword Clue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=event-marketing-strategies-ppt'>Event Marketing Strategies Ppt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chris-Lilley-Bumble'>Chris Lilley Bumble</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=I%27m-Too-Smurfy'>I'm Too Smurfy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boardwalk-empire-characters'>Boardwalk Empire Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=western-gun-holsters'>Western Gun Holsters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=china-gate-restaurant-mumbai'>China Gate Restaurant Mumbai</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=italian-baby-names'>Italian Baby Names</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-queen%27s-assassin-review'>The Queen's Assassin Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Relationship-coaching-tools'>Relationship Coaching Tools</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=union-bridge-movie-wikipedia'>Union Bridge Movie Wikipedia</a>,
+";s:7:"expired";i:-1;}

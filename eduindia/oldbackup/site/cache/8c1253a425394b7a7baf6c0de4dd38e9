@@ -1,0 +1,86 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2093:"The word itself has a number of meanings and interpretations. Muso Jikiden Eishin Ryu Iaido Iaido consists of a number of techniques, or waza, that represent combative situations where generally one or more opponents initiate an attack. <br> <br>Iaido was practiced by the ancient Samurai for centuries. <br> <br>Iaido practitioners use the term "Iaito" for practice or decorative swords. The word is comprised of 3 Japanese characters: i-ai-do.  <br>The term Iaito translates as mock or imitation sword; these swords differ from Shinken, which are sharpened swords meant for combat. Westerners are attracted to iaido because it’s a fascinating method of sword fighting with roots that can be traced back more than 400 years. Iaido (pronounced ‘ee’-‘yai’-‘doh’) is the traditional Japanese art of drawing, cutting, and sheathing the Japanese samurai sword or ‘katana.’ The word Iaido literally translates as “the way of mental presence and immediate reaction.” The art of Iaido is a product of Japan’s 17th and 18th century Edo-period, more commonly known by Americans as the era of the Shogun. <br> <br>Japanese swords, equipment, custom knives / weapons, and more. <br> <br>Each Iaito sword has the quality of its sharpened counterparts, but has a blunt edge for safely developing sword fighting skills. Iaido is the art of Japanese Swordsmanship. Iaido, the Way of the Sword, is the art of drawing and using the traditional Japanese sword. WE ARE OPEN AND FOLLOWING ALL CDC GUIDELINES (MASKS ARE REQUIRED). Our focus is supporting students of the sword and providing high quality functional swords and a full line of accessories. They like the formal training the art entails, as well as the ritual and tradition that inspire them to wonder what it would have been like to wield a sword … If you study iaido, battodo, kenjutsu, or any other form of Japanese swordsmanship - this is the place for you. <br> <br>Each is dependant of a subjective translation as the word itself, like many Japanese martial concepts does not translate into English at all easily.  <br>";s:7:"keyword";s:29:"japanese sword fighting iaido";s:5:"links";s:3122:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=erica-henderson-store'>Erica Henderson Store</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-use-purple-mash'>How To Use Purple Mash</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Winter-solstice-animals'>Winter Solstice Animals</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emma-straub-birthday'>Emma Straub Birthday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nikesh-patel-net-worth'>Nikesh Patel Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deadwood-complete-series-blu-ray'>Deadwood Complete Series Blu-ray</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Malayan-Campaign-Map'>Malayan Campaign Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youngest-couple-in-the-world-today'>Youngest Couple In The World Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-pronounce-fantasia'>How To Pronounce Fantasia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=an-evening-with-cs-lewis-schedule'>An Evening With Cs Lewis Schedule</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-gatekeepers-book-pdf'>The Gatekeepers Book Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-browne-easyjet'>Chris Browne Easyjet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edc-knife-australia'>Edc Knife Australia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-rintoul-audiobooks'>David Rintoul Audiobooks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frases-para-instagram-tumblr'>Frases Para Instagram Tumblr</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ruhr-region-of-germany-is-famous-for'>Ruhr Region Of Germany Is Famous For</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wish-local-reviews'>Wish Local Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rising-tide-ratification'>Rising Tide Ratification</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=slip-inside-this-house'>Slip Inside This House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-to-watch-the-secret%3A-dare-to-dream'>Where To Watch The Secret: Dare To Dream</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eugenio-recuenco-365-book'>Eugenio Recuenco 365 Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adventures-of-huckleberry-finn-movie-1953'>Adventures Of Huckleberry Finn Movie 1953</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cowboy-Boots-to-color'>Cowboy Boots To Color</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vampira-and-me'>Vampira And Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=owl-moon-visualizing-lesson'>Owl Moon Visualizing Lesson</a>,
+";s:7:"expired";i:-1;}

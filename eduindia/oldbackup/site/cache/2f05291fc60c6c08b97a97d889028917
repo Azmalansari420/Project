@@ -1,0 +1,156 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4858:"<br>Let's take a look at the bitwise AND operation of two integers 12 and 25.. JavaScript bitwise operators are used to perform functions on their bits. These operators convert operands to signed 32-bit integers in two's complement. Auch wenn Bitweise Operatoren mit Binärdarstellungen arbeiten, sind deren Ausgabewerte Javascript Standardzahlenwerte. The bitwise operator converts a given decimal number into a binary number. The bit with the lowest value is placed on the right and non values are zero filled. For the sake of this tutorial, we'll pretend sometimes that ints and uints only take up 1 byte and only have 8 binary digits.. In binary, 12 = 01100 25 = 01001 // Bitwise AND Operation of 12 and 25 00001100 & 00011001 ----- 00001000 = 8 (In decimal) A quick heads-up though: normally, ints and uints take up 4 bytes or 32 bits of space. JavaScript Bitwise Operators: In this tutorial, we are going to learn about the bitwise operations in JavaScript with examples. Bitwise operators. Bitwise operators. <br> <br>Two's complement format means that a number's negative counterpart (e.g. JavaScript | Bitwise Operators. They are less frequently used but can make you a more sophisticated developer if you understand their benefits. In this article, we discuss the benefits of using bitwise operators including real world use cases for each. If you don’t know how they work precisely, read on: They might just be the solution to a programming problem you aren’t quite sure how to solve. JavaScript Bitwise Operators. ones' complement of the number) plus one. In JavaScript, a number is stored as a 64-bit floating point number but the bit-wise operation is performed on a 32-bit binary number i.e. For example, the following encodes the integer 314:The following encodes ~314, i.e. Bitwise operators perform operations on bit values of data. Bitwise operators perform operations on binary representations of numbers. The term bitwise here means to operate on binary numbers. As JavaScript does not convert to unsigned ints when doing bit operations there is no operational equivalent: a = -256.67; result = (a >>> n) === Math.floor( Math.floor(a) / Math.pow(2,n) ); // result is false Bitwise assignment operators. What are bitwise operators? JavaScript Bitwise operators Example. <br> <br>Bit means (0 and 1s) or true or false. The result is converted back to a JavaScript number. Any numeric operand in the operation is converted into a 32 bit number. Numbers with more than 32 bits discard their most significant bits. The sequence of 8 bits is called byte. After the processing is completed the operands are converted back to standard Javascript numerical values before returning them. 5 vs. -5) is all the number's bits inverted (bitwise NOT of the number, a.k.a. Conversion to 32-bit integers. Bitwise operators in JavaScript introduce a weird, wild world where (12 & 3) = 0 and (12 & 4) = 4.Seriously, try it out in your console right now. JavaScript has seven bitwise operators. Numbers with more than 32 bits discard their most significant bits. <br> <br>This means each int or uint is stored as 32 binary digits. Up first: the bitwise AND operator, &. Submitted by Siddhant Verma, on October 02, 2019 .  <br>With the exception of not (~) all the above bitwise operators can be used as assignment operators: Bitwise operators. If you are interested, visit JavaScript Bitwise Operators to learn more. JavaScript Bitwise Operators. Operator Description & Bitwise AND | Bitwise OR ^ Bitwise XOR ~ Bitwise NOT << Left shift >> Sign-propagating right shift >>> Zero-fill right shift: Bitwise operators are rarely used in everyday programming. I’m not lying! <br> <br>Bitwise operators perform operations on bit values of data. Beispielsweise hat die Dezimalzahl neun die binäre Darstellung 1001. Bit operators work on 32 bits numbers. These operators convert operands to signed 32-bit integers in two's complement. JavaScript Bitwise operators. The operands of all bitwise operators are converted to signed 32-bit integers in two's complement format, except for zero-fill right shift which results in an unsigned 32-bit integer. Like C, C++, Java, Python and various other languages, JavaScript also supports bit-wise operations. Bitwise operators perform their operations by processing their operands as a sequence of 32 bit binary integers (zeros and ones). JavaScript Bitwise Operators.  The & Operator. A lot of times you come across some strange operators where you're knocking your head to understand what is going on in the code. Bitwise operators are mainly used for advanced performance tweaking in JavaScript. Bitweise Operatoren werden auf Sequenzen aus 32 bit (Nullen und Einsen) angewandt im Gegensatz zu Operatoren, die mit Dezimal-, Hexadezimal- oder Oktalzahlen (numbers) arbeiten. <br> Conversion to 32-bit integers. <br>";s:7:"keyword";s:28:"bitwise operators javascript";s:5:"links";s:11706:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mikropul-dust-collector-manual'>Mikropul Dust Collector Manual</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-is-george-koehler'>Who Is George Koehler</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=List-of-metaphors-to-describe-a-person'>List Of Metaphors To Describe A Person</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Among-the-Dolls'>Among The Dolls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kimberly-russell-head-of-the-class'>Kimberly Russell Head Of The Class</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kent-osborne---imdb'>Kent Osborne - Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leeza-gibbons-memory-foundation'>Leeza Gibbons Memory Foundation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-mcnally-boxer'>John Mcnally Boxer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boysenberry-health-benefits'>Boysenberry Health Benefits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ain%27t-no-woman-like-the-one-i-got-rap-song'>Ain't No Woman Like The One I Got Rap Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=knaus-boxstar-xl'>Knaus Boxstar Xl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ostriv-latest-version'>Ostriv Latest Version</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hudson-on-up-tv'>Hudson On Up Tv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Words-to-use-instead-of-they'>Words To Use Instead Of They</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=khon2-news-traffic'>Khon2 News Traffic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dreaming-of-lost-souls'>Dreaming Of Lost Souls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=facts-about-lauren-child'>Facts About Lauren Child</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mitt-romney-speech'>Mitt Romney Speech</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kaleidoscope-movie-explained-spoilers'>Kaleidoscope Movie Explained Spoilers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Who-built-Dover-Castle'>Who Built Dover Castle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=logic-daw-windows'>Logic Daw Windows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maze-movie-netflix'>Maze Movie Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=translate-english-to-spanish-creole'>Translate English To Spanish Creole</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=georgia-mass-choir-songs-youtube'>Georgia Mass Choir Songs Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=navigating-early-symbolism'>Navigating Early Symbolism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=english-feedback-comments'>English Feedback Comments</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=susan-buffett-scholarship-application'>Susan Buffett Scholarship Application</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=darn-that-dream-meaning'>Darn That Dream Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jennifer-rowe-facebook'>Jennifer Rowe Facebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scum-manifesto-quotes'>Scum Manifesto Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=John-Ottman-editing'>John Ottman Editing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cassie-randolph-instagram-stories'>Cassie Randolph Instagram Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Siren-sea-monster'>Siren Sea Monster</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-much-does-a-pig-roast-feed'>How Much Does A Pig Roast Feed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tim-Minear-married'>Tim Minear Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Get-What%27s-Yours-2019'>Get What's Yours 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=humberly-gonzalez-shadowhunters'>Humberly Gonzalez Shadowhunters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joyce-dewitt-2020'>Joyce Dewitt 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=colossians-3%3A18-kjv'>Colossians 3:18 Kjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-wuxia-novel-2020'>Best Wuxia Novel 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bartholomew-fair-characters'>Bartholomew Fair Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=itzhak-stern-death-cause'>Itzhak Stern Death Cause</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mohsen-makhmalbaf%3A-the-poetic-trilogy'>Mohsen Makhmalbaf: The Poetic Trilogy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-thing-lou-couldn%27t-do-lesson'>The Thing Lou Couldn't Do Lesson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jonah-1-commentary'>Jonah 1 Commentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-chessmen-movie'>The Chessmen Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=famous-quotes-about-victory-and-defeat'>Famous Quotes About Victory And Defeat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=embodied-cognition-iep'>Embodied Cognition Iep</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-ellison-photography'>David Ellison Photography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=middle-school%3A-get-me-out-of-here-audiobook'>Middle School: Get Me Out Of Here Audiobook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-marvels-2020'>The Marvels 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=realism-time-period'>Realism Time Period</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mk-ultra-movie'>Mk Ultra Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paymobilitybill-not-my-car'>Paymobilitybill Not My Car</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mythago-wood-summary'>Mythago Wood Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=galeria-valeria-split'>Galeria Valeria Split</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=good-time-girl-lyrics'>Good Time Girl Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=around-the-world-in-80-days-worksheet-answers'>Around The World In 80 Days Worksheet Answers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alien-hunter-2017'>Alien Hunter 2017</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=genesis-fly-on-a-windshield-lyrics'>Genesis Fly On A Windshield Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ed-wood-netflix'>Ed Wood Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-a-grove-character-list'>In A Grove Character List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-safire-pdf'>William Safire Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rachel-joy-scott-journal-pdf'>Rachel Joy Scott Journal Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bolo-Rolling-Knife'>Bolo Rolling Knife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maka-voice-actor'>Maka Voice Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreBest-breakfastsSree-Krishna-Kafe%2C-SLV-Corner%2C-and-more'>+ 18moreBest BreakfastsSree Krishna Kafe, SLV Corner, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tide-loads-of-hope-t-shirt'>Tide Loads Of Hope T-shirt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=things-to-do-in-chefchaouen'>Things To Do In Chefchaouen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anselm-kiefer-works'>Anselm Kiefer Works</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hydroxyzine-for-anxiety'>Hydroxyzine For Anxiety</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=california-state-prisons-map'>California State Prisons Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=egypt-ww2-map'>Egypt Ww2 Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=veronica-guerin-fields-of-athenry'>Veronica Guerin Fields Of Athenry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=living-sacrifice---the-hammering-process-vinyl'>Living Sacrifice - The Hammering Process Vinyl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hern%C3%A1n-English-subtitles'>Hernán English Subtitles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yunnan-tea-pu-erh'>Yunnan Tea Pu-erh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-deluise-now'>David Deluise Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=loveless-act-1-meaning'>Loveless Act 1 Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dan-reid-lone-ranger'>Dan Reid Lone Ranger</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Phoenix-list-2019'>Phoenix List 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=teddy-geiger-emma-stone'>Teddy Geiger Emma Stone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-harling-sister'>Robert Harling Sister</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-power-of-the-mind-pdf'>The Power Of The Mind Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-piller-fade-in-pdf'>Michael Piller Fade In Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=De-Architectura-PDF'>De Architectura PDF</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mackenzie-Foy-2020'>Mackenzie Foy 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-kay-jewelers'>My Kay Jewelers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Max-and-Ruby-Baby'>Max And Ruby Baby</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kate-mulvany-imdb'>Kate Mulvany Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dublin%2C-ca-map'>Dublin, Ca Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-French-Time-magazine'>David French Time Magazine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-planes-were-used-in-the-top-gun-film'>What Planes Were Used In The Top Gun Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-wojnarowicz-untitled-1992'>David Wojnarowicz Untitled 1992</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-bug-in-computer'>What Is Bug In Computer</a>,
+";s:7:"expired";i:-1;}

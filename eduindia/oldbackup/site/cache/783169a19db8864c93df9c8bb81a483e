@@ -1,0 +1,88 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4070:"<br>A nice rain knows when to fall – Coming as a natural product of the spring. The music reflects the scenes and the expression according to the meaning of the poem when it's being unfolded line by line. Happy Rain on a Spring Night by Du Fu (712-770 in Tang Dynasty). It follows the wind secretly into the night, And moistens all things softly, without sound. Welcome Rain on a Spring Night Du Fu. With night breeze it will fall, And quietly moisten all. Umbrellas In The Rain Ernestine Northover 18. Spring Rain was commissioned by the Singapore Anglo-Chinese Junior College Choir, directed by Valerie Wilson. At dawn one sees this place now red … And moistens everything with soft and silent blessings. 8.5 x 11 inches. Pleased with Rain on a Spring Night . Over wild lanes dark cloud spreads; In boat a lantern looms. UPC: 6-80160-53582-8 Happy Rain on a Spring Night by Du Fu (712-770 in Tang Dynasty) Happy rain comes in time, When spring is in its prime. SKU: 114-41271 Duration: 12:00 Tempo: Vividly (q = 60) Text Source: "Happy Rain on a Spring Night" by Du Fu (712-770 in Tang Dynasty) Commission Notice: Commissioned in 2002 by Music From Copland House Publisher: Theodore Presser Company Delivery Method: Print Page count: 96 Weight: 0.7 lbs. <br>  The good rain knows its season, When spring arrives, it brings life. Happy Rain on a Spring Night by Du Fu Good rain knows its time right, It will fall when comes spring. The place where the brocade workshop was located was called Jinli. Happy rain on a spring night = Chun ye xi yu : for flute, clarinet, violin, cello, and piano. With night breeze it will fall, And quietly moisten all. It was premiered in 2004 in New York. <br> <br> <br>The musical inspiration came from an ancient Chinese poem with the same title, written by Du Fu (712-770) in the Tang Dynasty: The Rain And The Wind Rain Or Shine Charles Bukowski 21. Chinese Lyrics: He Jia Le 何佳乐 Du Fu 杜甫 Chun Ye Xi Yu 春夜喜雨 Delighting In Rain On A Spring Night Lyrics 歌詞 With Pinyin By Zhang Liang Ying 张靓颖 Jane Zhang Learn Chinese Time From This Chinese Song Lyrics： Still Falls The Rain Dame Edith Louisa Sitwell 19. On the country road, the clouds are all black, On a riverboat, a single fire bright. In Spring Rain Kobayashi Issa 20. The musical inspiration came from an ancient Chinese poem with the same title, written by Du Fu (712-770) in the Tang Dynasty: Good rain knows its time right; It will fall when comes spring. The text, sung in Chinese, is from an ancient Chinese poem by Du Fu (712-770), titled "Happy Rain on a Spring Night." This is quoted from Happy Rain on a Spring Night by Du Fu, a great poet from the Tang Dynasty. <br> <br>Happy Rain on a Spring Night by Du Fu (712-770 in Tang Dynasty). 3. Since then, countless places named “Jin” kept emerging in Chengdu. It was premiered in 2004 in New York. It's like the welcome rain on a quiet spring night that nurtures the budding seeds, our new society is pushing us forward to the future. Happy Rain on a Spring Night (Excerpts) - by Du Fu (712-770) of Tang Dynasty. Happy Rain on a Spring Night by Du Fu (712-770 in Tang Dynasty) Happy rain comes in time, When spring is in its prime. “Dawn sees saturated reds; the town’s heavy with blooms." Good rain know season At spring be happen Follow wind secretly enter night Moist thing soft without sound Country road cloud all black River boat fire alone bright Dawn see red wet place Flower heavy brocade government city The good rain knows its season, Good rain knows its time right; It will fall when comes spring. Dark are the clouds above every country road; There is only one light coming from a slowly moving boat. Dawn sees saturated reds; The town' heavy with blooms. The music reflects the scenes and the expression according to the meaning of the poem when it's being unfolded line by line. A Night-Rain In Summer James Henry Leigh Hunt 17. Happy Rain on a Spring Night (Excerpts) - by Du Fu (712-770) of Tang Dynasty. 3. Following the wind, it smoothly occupies the night. <br>";s:7:"keyword";s:34:"happy rain on a spring night du fu";s:5:"links";s:3528:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lexi-randall-age'>Lexi Randall Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=between-%28tv-series%29-season-3'>Between (tv Series) Season 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=judas-definition-spanish'>Judas Definition Spanish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-are-the-similarities-between-plato%E2%80%99s-chariot-analogy-and-freud%E2%80%99s-structural-model-of-the-mind%3F'>What Are The Similarities Between Plato’s Chariot Analogy And Freud’s Structural Model Of The Mind?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-catholic-theology-books-for-beginners'>Best Catholic Theology Books For Beginners</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jackpot-lottery-chart'>Jackpot Lottery Chart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grimm%27s-complete-fairy-tales-amazon'>Grimm's Complete Fairy Tales Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=port-gore-color'>Port Gore Color</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary-shelley%27s-frankenhole-full-episodes'>Mary Shelley's Frankenhole Full Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kroonstad-to-bloemfontein'>Kroonstad To Bloemfontein</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=durban-tourism-internships'>Durban Tourism Internships</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-dunand-art-deco'>Jean Dunand Art Deco</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nagoya-castle-map'>Nagoya Castle Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-make-an-atlatl-pdf'>How To Make An Atlatl Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jory-worthen-family'>Jory Worthen Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pandora%27s-box-worksheets'>Pandora's Box Worksheets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mao-Zedong-quotes'>Mao Zedong Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hocus-focus-photography'>Hocus Focus Photography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mark-bazeley-wife'>Mark Bazeley Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rebecca-solnit-quotes-on-love'>Rebecca Solnit Quotes On Love</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-was-the-sundance-kid-when-he-died'>How Old Was The Sundance Kid When He Died</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hashire-sori-yo-original'>Hashire Sori Yo Original</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Postcode-sector-map-Glasgow'>Postcode Sector Map Glasgow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=durban-tourism-internships'>Durban Tourism Internships</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kaitlyn-bristowe-instagram-stories'>Kaitlyn Bristowe Instagram Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=top-dog-menu'>Top Dog Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=older-lone-wolf-climber'>Older Lone Wolf Climber</a>,
+";s:7:"expired";i:-1;}

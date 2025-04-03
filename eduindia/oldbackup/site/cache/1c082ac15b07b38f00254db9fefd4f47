@@ -1,0 +1,98 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3943:"<br>The Panzer II Ausf D and Ausf E were two very similar fast tanks, developed by Daimler Benz in 1938. H • V Pz.Kpfw. It remained in mass production throughout the war. IV. They had very little in common with the normal Panzer II, only sharing the turret but having a different hull, superstructure and suspension. <br> <br>The Pz.Kpfw. Panzer II Ausf. 903, mis jäigi sellest mudelist ainsaks. The Auf. G, with armor for the sides and rear increased to 20 mm and a new four speed transmission (plus … H is a German tier 5 medium tank.  <br>The PzKpfw II Ausf G, also known as the VK901, was a light reconnaissance tank that was used by the armies of Nazi Germany during World War II.The VK901 was an execution within the Panzerkampfwagen II series with the main objective to increase the speed of the Panzer II tank. H VK903 Panzerkampfwagen II neuer Art Ausf.H Given experimental designation VK 903, the Ausf. a/1: 20 001-21 000: 20 001-20 025: 25: Ausf. aantal was ze belangrijker voor de Duitse oorlogsinspanning dan betere Duitse tanks zoals de Panther, de Tiger I en Tiger II. IIH) Given experimental designation VK 903, the Ausf. H (Pz.Kpfw. T 25 • V VK 30.01 (H) • VI Pz.Kpfw. IV Schmalturm • VI VK 30.01 (D) • VI VK 30.02 (M) • VII Panther/M10 • VII Panther • VII VK 30.02 (D) • VIII Panther mit 8,8 cm L/71 • VIII Panzer 58 • VIII Schwarzpanzer 58 • VIII Panzer 58 Mutz • VIII M48A2 Räumpanzer • VIII Indien-Panzer • VIII Panther II … IV Ausf.  <br> <br>H was intended as the production model of the Ausf. H prototüüp VK. IIH) Given experimental designation VK 903, the Ausf. H (n/A -VK. Panzer Tracts No. H carries the powerful 75 mm L/48 gun that can destroy most tanks at its BR. <br> <br>Panzer II Ausf. <br> <br>It was introduced during the Closed Beta Test for Ground Forces before Update 1.41. G, with armor for the sides and rear increased to 20 mm and a new four speed transmission (plus reverse) similar to that of the PzKpfw 38(t) nA. From June to October of 1940, 160 Panzer III Ausf F/G/H and 8 Panzerbefehlswagen III Ausf E along with 42 Panzer IV Ausf Ds were converted into U-Panzers / Tauchpanzers. Panzer II Ausf. PzKpfw IV Ausf H on maneuvers in Normandy, 1944. <br> Panzer 31 of 221 Panzer Div. As a result of digging through public and private archives for 38 years, we are able to create this accurate history of the very rare variants from the Pz.Kpfw.II family - the VK 901, VK 903, VK 1301, VK 1303, and VK 1601. Not sure if they are including both types in the box. <br> <br>Panzer Tracts No. Een jaar later kwamen Krupp AG, MAN, Henschel und Sohn AG  en Daimler-Benz AG  allen met een eigen prototype van (een deel van) de tank. As a result of digging through public and private archives for 38 years, we are able to create this accurate history of the very rare variants from the Pz.Kpfw.II family - the VK 901, VK 903, VK 1301, VK 1303, and VK 1601. Ausf. Not sure if they are including both types in the box. IV was produced starting in May 1942. Panzer II Ausf. As such, only 22 of the vehicles were produced in total. History: Of the 3,935 Ausf H chassis produced, 3,774 were completed as Pz Kpfw IV, with 30 used for the first StuG IV and 130 for Brummbar. Out of Print. H and the Panzer II Ausf. <br> <br>Post 3:59 PM - Mar 24 #1 2020-03-24T15:59. Panzer II Ausf. Given experimental designation VK903, the Ausf. Source: panzerserra.blogspot.com The Panzer II Ausf. Panzer III was the common name of a medium tank that was developed in the 1930s by Germany and was used extensively in World War II.The official German designation was Panzerkampfwagen III Sd Kfz. <br> <br>121) was a German light tank originally designed as a stopgap while larger and more advanced tanks were developed. G, with armor for the sides and rear increased to 20 mm and a new four speed transmission (plus reverse) similar to that of the PzKpfw 38(t) nA. <br> <br>Panzer II Ausf. <br>";s:7:"keyword";s:16:"panzer ii ausf h";s:5:"links";s:4536:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-felt-that-meme-meaning'>I Felt That Meme Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Prayer-for-drama'>Prayer For Drama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-is-gus-a-nickname-for-constantine'>Why Is Gus A Nickname For Constantine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prayer-of-jabez'>Prayer Of Jabez</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-reunion-song'>Dark Reunion Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=somewhere-in-paris'>Somewhere In Paris</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=takeaway-com-tech'>Takeaway Com Tech</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jeff-Lynne-ELO'>Jeff Lynne ELO</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-play-electric-guitar-for-kid-beginners'>How To Play Electric Guitar For Kid Beginners</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=game-of-life-electronic-banking-target'>Game Of Life Electronic Banking Target</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boom-operator-definition'>Boom Operator Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-monk-matthew-lewis'>The Monk Matthew Lewis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gangsta-boo-run-the-jewels-4'>Gangsta Boo Run The Jewels 4</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Woman-in-the-Sun'>Woman In The Sun</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=parts-of-a-switchblade-knife'>Parts Of A Switchblade Knife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=witcher-3---best-enchantments'>Witcher 3 - Best Enchantments</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=silk-qum-rugs-for-sale'>Silk Qum Rugs For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-boogens-cast'>The Boogens Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=misty-upham-spielberg'>Misty Upham Spielberg</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jabberwocky-in-different-languages'>Jabberwocky In Different Languages</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tony-scott-musician'>Tony Scott Musician</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=de-dhakka-cast'>De Dhakka Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-Soul-songs'>David Soul Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ann-druyan-armenian'>Ann Druyan Armenian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-marais-french-actor'>Jean Marais French Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-veil-movie-2017'>The Veil Movie 2017</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=golden-ratio-papyrus-location'>Golden Ratio Papyrus Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jon-staff-net-worth'>Jon Staff Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-frog-he-would-a-wooing-go-book'>A Frog He Would A Wooing Go Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jamaica-map-pdf'>Jamaica Map Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=last-day%2C-luanne-rice-review'>Last Day, Luanne Rice Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=child-marriage-in-bangladesh-paragraph'>Child Marriage In Bangladesh Paragraph</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=MTY-Food-Group'>MTY Food Group</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=were-vs-where-pronunciation'>Were Vs Where Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=florence-knoll-corner-sofa'>Florence Knoll Corner Sofa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-busy-world-of-richard-scarry-%7C-a-trip-to-the-moon'>The Busy World Of Richard Scarry | A Trip To The Moon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Isabelle-allen-Instagram'>Isabelle Allen Instagram</a>,
+";s:7:"expired";i:-1;}

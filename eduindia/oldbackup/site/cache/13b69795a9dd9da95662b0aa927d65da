@@ -1,0 +1,84 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5038:"<p>According to the 2018 Socio-economic National Survey (Susenas), one in every nine girls aged 20-24 married before the age of 18. Indonesia has committed to eliminate child, early and forced marriage by 2030 in line with target 5.3 of the Sustainable Development Goals. In Kebumen, a rural part of Indonesia’s Java province, early and forced marriage has been a problem for many years. </p> <p>Indonesia is a majority Muslim country and has among the highest number of child brides in the world. Marrying before age 18 is harmful and should be banned with no exceptions. / Horii, Hoko; Grijns, Mies. Child marriage prevalence in Indonesia remains amongst the highest in the East Asian and Pacific region. However, child marriage is an issue in developed countries as well, since child marriage is still permitted in America. The 2018 decision is a (comparatively) brief document of 60 pages, whereas the earlier decision was a weighty 300-plus pages. Child marriage is as complex as a spider web and has been haunting the lives and futures of Indonesia’s 85 million children. All data is based on the 2018 annual Socio-Economic Survey (SUSENAS), which monitors child marriage trends as well as associated factors. India’s child marriage rate is one of the highest in the world, with a long list of social and economic pressures, from poverty to a dearth of education opportunities, propping up the number. </p> <p>Rates are 17% in the Middle East and North Africa, and 11% in Eastern Europe and Central Asia. Technically, child marriage is illegal in India. This has led to a widespread practice of forced child marriage in Indonesia. </p> <p>KUALA LUMPUR, Nov 10 — The issue of child marriage has cropped up over the years but without much resolution. Marriage before the age of 18 is a fundamental violation of human rights. </p> <p>In September 2019, the Indonesian parliament passed a bill to raise the minimum age of marriage … KUALA LUMPUR, Nov 10 — The issue of child marriage has cropped up over the years but without much resolution. The child can be a girl or a boy, but the large majority of child marriages are between a girl and a man, and are rooted in gender inequality. In June 2015, Indonesia’s Constitutional Court rejected a petition to end child marriage by an 8-to-1 vote. Child marriage refers to any formal marriage or informal union between a child under the age of 18 and an adult or another child. Child marriage, defined by international organisations as the marriage of someone under the age of 18, has come under increasing scrutiny in Indonesia in recent years. Pulled out of school to start a family, girls in the community are often denied opportunities to get an education and fulfil their potential. Many factors interact to place a child at risk of marriage, including poverty, the perception that marriage will provide ‘protection’, family honor, social norms, customary or religious laws that condone the practice, an inadequate legislative framework and the state of a country’s civil registration system. </p> <p>Of ever married women aged 20-24 years, at least a quarter were married before 18 years. Sustainable Development Goal 5 - Target 5.3 - aims to eliminate all harmful practices, including child marriage by 2030. Research output: Contribution to journal/periodical › Article › Scientific › peer-review </p> <p>Since child marriage … Several legislative changes have been initiated since 2014 to raise the legal marriageable age, responding to a growing public demand for government regulations to ban child marriage. Child marriage in a village in West Java (Indonesia): Compromises between legal obligations and religious concerns. “One of the big issues for children here is child marriage,” says one man, Sukirman. Research on child marriage in Southeast Asia is scarce. </p> <p>The child marriage burden remains high among female adolescents in Indonesia, despite increasing socioeconomic development. UNICEF is activating constituents in key states, spreading the word that child marriage is a violation of child rights.  Among girls growing up in South Asia, 30% experience early marriage, compared with 25% in Latin America and the Caribbean. Ending Child Marriage in Indonesia: The Role of Courts UNICEF and Statistics Indonesia (BPS) estimate that one in nine girls in Indonesia (11 per cent) marry before they have reached 18 years of age, placing Indonesia in the top ten countries in the world for numbers of child brides. Published online by Cambridge University Press: 05 March 2018; Abstract. Indonesia has ruled that child marriage violates children’s rights; a University of Melbourne expert says it's an important step toward gender equality. In: Asian Journal of Law and Society, 2018, p. 1-14. </p> <p>This article addresses the dilemmas and compromises in legal practice around the issue of child marriage in Indonesia. No nationally representative studies thus far have examined determinants of child marriage in Indonesia … </p>";s:7:"keyword";s:32:"child marriage in indonesia 2018";s:5:"links";s:2808:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-heckman-google-scholar'>James Heckman Google Scholar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spiral-game-dragon'>Spiral Game Dragon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elisabeth-sladen-age-at-death'>Elisabeth Sladen Age At Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=busy-town-cartoon'>Busy Town Cartoon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marty-mcfly-parents'>Marty Mcfly Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Joe-Pichler-Net-Worth'>Joe Pichler Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=OsloMet-%E2%80%93-storbyuniversitetet'>OsloMet – Storbyuniversitetet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=four-cups-bible-study'>Four Cups Bible Study</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=six-days-seven-nights-streaming'>Six Days Seven Nights Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-saunders-syracuse'>George Saunders Syracuse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Laura-Childs-Battered-Eggs'>Laura Childs Battered Eggs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-instruments-are-used-in-ragtime-music'>What Instruments Are Used In Ragtime Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chen-Duxiu-Call-to-Youth'>Chen Duxiu Call To Youth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=forever-amber-imdb'>Forever Amber Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spin-magazine-best-albums-of-all-time'>Spin Magazine Best Albums Of All Time</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phantom-4-price'>Phantom 4 Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pedro-Miguel-Arce'>Pedro Miguel Arce</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roger-bacon-medicine'>Roger Bacon Medicine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-wyler-jr-death'>William Wyler Jr Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grant-denyer-height-ft'>Grant Denyer Height Ft</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zoey-tur-kobe'>Zoey Tur Kobe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hallelujah-Criminal-Minds'>Hallelujah Criminal Minds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=definition-of-prayer-in-hebrew'>Definition Of Prayer In Hebrew</a>,
+";s:7:"expired";i:-1;}

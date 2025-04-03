@@ -1,0 +1,145 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5069:"<p>State and Laws of Matter . Heat and Temperature Geography Physical Geography Amazing World Strange Animals ... Units of Measurement CGS FPS MKS SI. </p> <p>The calorie was originally defined as the amount of heat required at a pressure of 1 standard atmosphere to raise the temperature of 1 gram of water 1° Celsius.Since 1925 this calorie has been defined in terms of the joule, the definition since 1948 being that one calorie is equal to approximately 4.2 joules. Abdul Basit … </p> <p>Latent heat of vaporization of water: That is 2264.705kJ/kg. </p> <p>It is equal to 4.1868 joules and is used in engineering steam tables. CGS and SI units of heat or energy = erg and Joule respectively. i.e. The unit of heat in the SI-system the Joule is. CGS Unit of Heat. </p> <p>CGS and MKS Units. </p> <p>Energy, ie work or heat, is defined as Joules, where 1 Joule is the work done by a force of 1 Newton in a distance of 1 metre. The quantity of heat that passes in unit time through unit area of a substance whose thickness is unity, when its opposite faces differ in temperature by one degree. Units Conversion of Energy. </p> <p>To convert from one system to the other, cgs unit factor mks unit… </p> <p>alternative metric system units square measure the force unit of force and also the heat unit … In the middle of the nineteenth century scientists began to discuss how best to extend the metric system to include physical units such as force, pressure, work, and power. Calculation of SI-Unit and Dimension of Work, Heat or Energy. </p> <p>1 Joule = 1 kg × (1 m) 2 /(1 sec) 2 ∴ 1 Joule = 10 3 gm × (10 2 cm) 2 /(1 sec) 2 =10 7 gm cm 2 sec-2 Thus 1 joule = 10 5 erg. The unit is also called the centigrade heat unit." In CGS system of unit refers to the Centimeter Gram System unit. </p> <p>What is the CGS unit of heat? </p> <p>Latent heat of fusion of water: That is 334kJ/kg. "This unit was sometimes called the pound centigrade unit, symbol “Pcu”." </p> <p>The known fixed quantity is called unit. A unit of heat energy used in thermochemistry is the thermochemical calorie, equal to 4.184 joules. Measurement without units of a physical quantity has no meaning. </p> <p>The comparison of an unknown quantity with a known fixed quantity of the same kind in called measurement. From the measurement of Work, W = F × S ∴ CGS unit of work = gm cm sec-2 × cm = gm cm 2 sec-2 or simply erg Measurement of SI unit of work = kg m sec-2 × m = kg m 2 sec-2 or simply joule. 01-01-2018 23057 times. "a unit of heat energy equal to the energy required to raise the temperature of one pound of water by 1°C at standard atmospheric pressure.  </p> <p>CGS Unit of Heat / Home / Questions / Categories / Science & Mathematics / Physics. Cgs system, system of units of measure supported the system of weights and measures and having the metric linear unit of length, the gram of mass, and also the second of your time as its basic units. Discuss and know the CGS unit of heat with an explanation. </p> <p>Table D.1: The centimetre-gram-seconds (CGS) and the metre-kilogram-seconds (SI) unit systems. Since the meter equals 100 centimeters and the kilogram equals 1000 grams, the ratio between a CGS unit and the corresponding MKS unit … </p> <p>The molar heat capacity is the heat capacity per unit amount (SI unit: mole) of a pure substance, and the specific heat capacity, often called simply specific heat, is the heat capacity per unit mass of a material. </p> <p>1 Chu is equal to exactly 1.8 Btu, approximately 453.59 IT calories (see above), or 1.8991 kilojoules. a unit of energy equal to the work done when a force of one newton acts through a distance of one meter; 4.184 joule of heat energy (or one calorie) is required to raise the temperature of a unit weight (1 g) of water from 0 o C to 1 o C, or from 32 o F to 33.8 o F From the above measurement of work = dimension of force × dimension of length The SI derived unit of thermal conductivityis watt per metre kelvin CGS= Centimetre–gram–second system of units. </p> <p>The centimetre–gram–second system of units is a variant of the metric system based on the centimetre as the unit of length, the gram as the unit of mass, and the second as the unit of time. In order for this to be done in a coherent way, a choice must be made as to what metric units of distance, mass, and time should form the foundation of the system. Bookmark Like 3 Dislike 0 ⚐ Report. Units of Measurement . The MKS unit of force, the newton, is the force which accelerates a mass of one kilogram at the rate of one meter per second per second. The SI unit of “Latent heat of Vaporization” is J/kg. Thereby, the CGS unit of “latent heat of vaporization” is Calorie per gram or Cal/g. Asked by: Kishor Kumar Sahu on Feb 6, 2017. </p> <p>2 Answers. </p> <p>Therefore, measurements of SI units and dimensions of energy, heat, and work are the same. Another calorie, a unit of heat energy, is the International Table calorie (IT calorie), originally defined as 1 / 860 international watt-hour. </p>";s:7:"keyword";s:16:"cgs unit of heat";s:5:"links";s:10662:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ville-contemporaine-plan-voisin'>Ville Contemporaine Plan Voisin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fun-facts-about-cynthia-rylant'>Fun Facts About Cynthia Rylant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=axel-scheffler-coronavirus'>Axel Scheffler Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whoever-you-are-mem-fox-ebook'>Whoever You Are Mem Fox Ebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kadai-paneer-masala-ingredients'>Kadai Paneer Masala Ingredients</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kim-kibum-wife'>Kim Kibum Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=friends-%27til-the-end-%28book%29'>Friends 'til The End (book)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Breakfast-burrito-vegetarian'>Breakfast Burrito Vegetarian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=horse-colors-chart'>Horse Colors Chart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thx-1138-despecialized'>Thx 1138 Despecialized</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Swinging-Safari-parents-Guide'>Swinging Safari Parents Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=magic%27s-biggest-secrets-finally-revealed'>Magic's Biggest Secrets Finally Revealed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=road-rage-youtube'>Road Rage Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=comptine-d%27un-autre-%C3%A9t%C3%A9-piano-chords'>Comptine D'un Autre été Piano Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flcl-season-1'>Flcl Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tri-city-valleycats-hat'>Tri City Valleycats Hat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=toshiki-masuda-characters'>Toshiki Masuda Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trace-latina-tv'>Trace Latina Tv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=You-Will-Never-Find-Me'>You Will Never Find Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-history-press-location'>The History Press Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=switzerland-abbreviation-code'>Switzerland Abbreviation Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beer-can-brands'>Beer Can Brands</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=obic%C3%A0-canary-wharf'>Obicà Canary Wharf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sense-of-hearing-function'>Sense Of Hearing Function</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aunt-bea-didn%27t-like-andy'>Aunt Bea Didn't Like Andy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-david-heard-lyrics'>When David Heard Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=san-antonio-public-library-tutoring'>San Antonio Public Library Tutoring</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michiru-yamane-castlevania'>Michiru Yamane Castlevania</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=political-correctness%3A-the-munk-debates-book'>Political Correctness: The Munk Debates Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=this-be-the-verse-you-grave-for-me'>This Be The Verse You Grave For Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chimaira---salvation'>Chimaira - Salvation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-wyatt-poems-pdf'>Thomas Wyatt Poems Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-trek-fleet-command-servers'>Star Trek Fleet Command Servers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tare-an%27-ouns'>Tare An' Ouns</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shawn-pyfrom-net-worth'>Shawn Pyfrom Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=react-tree-github'>React Tree Github</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-bad-things-did-vespasian-do'>What Bad Things Did Vespasian Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=galeria-valeria-split'>Galeria Valeria Split</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=west-highland-white-terrier-puppies'>West Highland White Terrier Puppies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stardock-multiplicity-crack'>Stardock Multiplicity Crack</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-maloney-obituary-may-21-2020'>Michael Maloney Obituary May 21 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=WoW-Hillsbrad-Foothills'>WoW Hillsbrad Foothills</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Elvis-sings-it-in-Blue-Hawaii'>Elvis Sings It In Blue Hawaii</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dr-haydock-miss-marple'>Dr Haydock Miss Marple</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-herrick-death'>Robert Herrick Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=khorne-berzerkers-meme'>Khorne Berzerkers Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Instructional-videos-examples'>Instructional Videos Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=four-cups-bible-study'>Four Cups Bible Study</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dearborn-michigan-arab-festival'>Dearborn Michigan Arab Festival</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-october-game-short-story-summary'>The October Game Short Story Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-rush-in-a-sentence'>No Rush In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hotel-transylvania-keep-your-hands-out-of-my-wife'>Hotel Transylvania Keep Your Hands Out Of My Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=can-i-pay-someone-to-beat-me-up'>Can I Pay Someone To Beat Me Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=change-principle-philosophy'>Change Principle Philosophy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-librarian-of-auschwitz-review'>The Librarian Of Auschwitz Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sumerian-game'>The Sumerian Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hunger-knut-hamsun-analysis'>Hunger Knut Hamsun Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=godard-nouvelle-vague-%281990%29'>Godard Nouvelle Vague (1990)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=weather-maseru-tomorrow'>Weather Maseru Tomorrow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fastrak-toll-roads'>Fastrak Toll Roads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tim-winton-the-turning'>Tim Winton The Turning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-nativity-emerson-paramount'>Black Nativity Emerson Paramount</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-you-lead---carole-king-lyrics'>Where You Lead - Carole King Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dennis-trillo-Instagram'>Dennis Trillo Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sweden-climate-map'>Sweden Climate Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lord-forgive-me-for-what-i-must-yabba-dabba-do'>Lord Forgive Me For What I Must Yabba Dabba Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Laura-Childs-Battered-Eggs'>Laura Childs Battered Eggs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-want-to-fall-in-love-with-you-again-lyrics'>I Want To Fall In Love With You Again Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=get-out-of-your-head-book-summary'>Get Out Of Your Head Book Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bhutan-Flag-Emoji'>Bhutan Flag Emoji</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mario-balotelli-news'>Mario Balotelli News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=powder-burn-movie'>Powder Burn Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miep-gies-movies'>Miep Gies Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-are-the-7-things-you-need-for-a-balanced-diet%3F'>What Are The 7 Things You Need For A Balanced Diet?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=famous-ghats-in-varanasi'>Famous Ghats In Varanasi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=estelle-instagram-model'>Estelle Instagram Model</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=duffer-brothers-net-worth'>Duffer Brothers Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=platform-stiletto-high-heels'>Platform Stiletto High Heels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chicken-sunday-ebook'>Chicken Sunday Ebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shakespeare-wallah-music'>Shakespeare Wallah Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Just-Cause-Gameplay'>Just Cause Gameplay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leaf-tornado-pok%C3%A9mon-go'>Leaf Tornado Pokémon Go</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brian%27s-winter-theme'>Brian's Winter Theme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mind-reading-definition-Psychology'>Mind Reading Definition Psychology</a>,
+";s:7:"expired";i:-1;}

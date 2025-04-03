@@ -1,0 +1,97 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3075:"<p>Use the Hyperlinksproperty to return the Hyperlinks collection. I can right click and open the hyperlink and it works fine but I cannot click it. When you're going through the presentation, you'll click on that link and go right to the page. ), the iSpring conversion engine will save this piece of text as a raster image, and therefore the hyperlink won’t work in a Flash or HTML5 version of your presentation. Select the show and return check box: Link to a slide in the current presentation. To add hyperlink to your presentation, do the following: 1. Hyperlinks object (PowerPoint) 06/08/2017; 2 minutes to read +1; In this article. If you assign a link to text that has a style applied to it (shadow, reflection, 3d, etc. Text hyperlinks are often blue and underlined, but don't have to be. Otherwise you have to close your PowerPoint browser, open your web browser (or wherever you're going) and then navigate to the right page. Under 'More Content' click 'Add or Edit Link.' Hyperlink: A hyperlink is a word, phrase, or image that you can click on to jump to a new document or a new section within the current document. Let's look at another example to link up to another section in the presentation. With hyperlinks, you can have your presentation link to that specific web page. Step 3: Find the slide you want to hyperlink in the PDF. Adding links can make your presentation more informative, such as including a hyperlink to a website, or provide alternatives, such as when you link to another slide within the presentation. Adding links in Google Slides. I tested hyperlinks in both a word document and an excel document and … </p> <p>Add any shape or a textbox to the slide: On the Insert tab, in the Illustrations group, click in the Shape dropdown list and then choose the shape you prefer: On the Insert tab, in the Text group, click the Text Box button: </p> <p>Step 4: A pane will pop up on the right side of the window. Example. Let's follow the same process, but choose the Slide option this time. On the Insert tab, click Hyperlink. Hyperlinks are found in nearly all Web pages, allowing users to click their way from page to page.  Click the Slides in this presentation drop-down arrow and select the slide you want to link to. PowerPoint has a Hyperlink feature that facilitates the addition of links anywhere on your presentation. You can also right-click and choose Hyperlink. Do one the following: Link to a custom show in the current presentation: Under select a place in this document, click the show that you want to use as the hyperlink destination. Inserting hyperlinks in PowerPoint. Under link to. Select the resource you want to use as a link. </p> <p>The hyperlink can lead to the first slide in the presentation, or it can lead to a specific slide within the presentation. You can also click the Insert link button on the toolbar. Use the Go to Page button to test your Keynote hyperlink. I have inserted hyperlinks in my Powerpoint presentation and they display as blue and underlined. Click 'Edit,' then 'Edit Text & Images.' </p>";s:7:"keyword";s:25:"Hyperlink in presentation";s:5:"links";s:4572:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=open-theism-churches'>Open Theism Churches</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=teri-aankhen-shayari'>Teri Aankhen Shayari</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=come-over-song-2020'>Come Over Song 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clifford-the-big-red-dog-leaf-of-absence'>Clifford The Big Red Dog Leaf Of Absence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goodbye-quotes-sad'>Goodbye Quotes Sad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=entertainment-lawyers-near-me'>Entertainment Lawyers Near Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wbbm-am-78'>Wbbm Am 78</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=azure-devops-delivery-plan'>Azure Devops Delivery Plan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mous-return-address'>Mous Return Address</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=khalid-jordan-height'>Khalid Jordan Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gideon-crew-books-in-order'>Gideon Crew Books In Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=killer-seven-netflix'>Killer Seven Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pricing-in-healthcare'>Pricing In Healthcare</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love%2C-lies-and-murders-full-movie'>Love, Lies And Murders Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=acoustic-communication-in-fish'>Acoustic Communication In Fish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ivy-flower-meaning'>Ivy Flower Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dr-maniac-goosebumps'>Dr Maniac Goosebumps</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=John-Bunyan-education'>John Bunyan Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dynasty-lyrics-nightcore'>Dynasty Lyrics Nightcore</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alaska-airlines-reservations-phone-number'>Alaska Airlines Reservations Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-dukas-biography'>Paul Dukas Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vector-group-e-cigarette'>Vector Group E Cigarette</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scented-oils-for-skin'>Scented Oils For Skin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=average-number-of-days-on-mechanical-ventilation'>Average Number Of Days On Mechanical Ventilation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Who-walks-the-bride-down-the-aisle-in-a-second-wedding'>Who Walks The Bride Down The Aisle In A Second Wedding</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Works-Of-Robert-Herrick'>The Works Of Robert Herrick</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-orchard-subsidiaries'>The Orchard Subsidiaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natalino-balasso-moglie'>Natalino Balasso Moglie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lavinia-meaning-in-English'>Lavinia Meaning In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-fear-shakespeare%3A-hamlet%3A-act-3%2C-scene-2'>No Fear Shakespeare: Hamlet: Act 3, Scene 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pour-le-M%C3%A9rite'>Pour Le Mérite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-was-xenia-goodwin-in-dance-academy'>How Old Was Xenia Goodwin In Dance Academy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-albert-michener'>James Albert Michener</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madagascar-penguin-meme-smile-and-wave'>Madagascar Penguin Meme Smile And Wave</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Francis-Dolarhyde-death'>Francis Dolarhyde Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adam%27s-house-shelton-ct'>Adam's House Shelton Ct</a>,
+";s:7:"expired";i:-1;}

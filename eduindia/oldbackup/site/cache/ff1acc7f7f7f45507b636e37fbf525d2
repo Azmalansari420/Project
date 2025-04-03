@@ -1,0 +1,94 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2706:"Read all poems of Robert E. Howard and infos about Robert E. Howard. Robert Ervin Howard (January 22, 1906 – June 11, 1936) was an American author who wrote pulp fiction in a diverse range of genres. Robert E Howard was, in his very short life time, responsible for the creation of pulp fiction characters that are still “alive” today, over seventy years after he created them. Robert E. Howard poems, quotations and biography on Robert E. Howard poet page. 'A Collection of Poetry' is a compilation of Howard's Poetical works. Conan the Character: Conan is a Cimmerian. Glenn Lord compiles this limited edition hardcover of Robert E. Howard's horror and supernatural poems. Robert E. Howard: Selected Poems (2009) [C] The Singer in the Mist & Others ( 2010 ) [C] Steel Swords and Iron Harps: A Sampling of Early Poetry Drafts by Robert E. Howard ( 2018 ) [C] Over 700 pages, this is a vast collection of visceral moving poetry. Each entry lists all appearances of the story from its first up to the most recent. 1, June 2007.) These early work of poetry by Robert E. Howard were originally published in the 20th century and we are now republishing them with a brand new introductory biography. A list of poems by Robert E. Howard (1906–1936), an American writer and poet in early … I have not yet finished this magnificent tome, but I am greatly enjoying it. <br> <br>The Robert E. Howard Reader (with Darrell Schweitzer) The Horror Stories of Robert E. Howard Heroes in the Wind Conan's Brethren El Borak and Other Desert Adventures The Singer in the Mist and Others (poems) A list of prose works by Robert E. Howard.The works are sorted by genre, by series and then alphabetically.  <br>This is an alphabetical listing of all fiction, non-fiction, synopses, and fragments written by Robert E. Howard. -- Robert E. Howard Robert Ervin Howard was born in Peaster, Texas in 1906. They were originally published in Weird Tales and other publications of the time. Robert Ervin Howard was born in Peaster, Texas in 1906. Howard commited suicide at the age of 30 after learning his mother would not recover from a coma. : 1303871h.html Language: English Date first posted: Jul 2013 Most recent update: Mar 2018 This eBook was produced by Roy Glashan. In his fiction, he used devices borrowed from classical and traditional works, as well as formal rhetoric. He was an American writer of fictional novels but he also dabbled in fantastical poetry, sometimes in … Collected Poetry of Robert E. Howard Realized it is 74 years today since my favorite author passed away. This one from RH Barlow, an early Mythos author and REH fan... R. E. H. Died June 11, 1936 Conan, the warrior king, lies stric <br>";s:7:"keyword";s:21:"robert e howard poems";s:5:"links";s:4046:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=french-foreign-legion-age-limit'>French Foreign Legion Age Limit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naughty-marietta-i%27m-falling-in-love-with-someone'>Naughty Marietta I'm Falling In Love With Someone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dogfight-musical-bootleg'>Dogfight Musical Bootleg</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dearborn-michigan-zip-code'>Dearborn Michigan Zip Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Edamame-in-a-can'>Edamame In A Can</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-dream-of-armageddon'>A Dream Of Armageddon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bdo-cokro-chamber-find-something-special'>Bdo Cokro Chamber Find Something Special</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jacqueline-bisset-marriages'>Jacqueline Bisset Marriages</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cavalier-lyrics-genius'>Cavalier Lyrics Genius</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Live-news-radio'>Live News Radio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-snake-woman'>The Snake Woman</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-adventure-book-up'>The Adventure Book Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-pastoral-quotes'>American Pastoral Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-did-Sophocles-die'>How Did Sophocles Die</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-was-stefan-salvatore-born'>When Was Stefan Salvatore Born</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-mcguigan-oasis'>Paul Mcguigan Oasis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gt500-predator-engine-for-sale'>Gt500 Predator Engine For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fumihiko-maki-works'>Fumihiko Maki Works</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=payless-dress-shoes'>Payless Dress Shoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Katana-vs-Longsword'>Katana Vs Longsword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=girlfriend-feels-like-a-burden'>Girlfriend Feels Like A Burden</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=feng-qingyang-vs-dongfang-bubai'>Feng Qingyang Vs Dongfang Bubai</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Alan-Halsall-wedding'>Alan Halsall Wedding</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-reichs-charlotte-nc'>Paul Reichs Charlotte Nc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=focus-ireland-stories'>Focus Ireland Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=child-bride-%281938%29'>Child Bride (1938)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=juvenile-crime-statistics'>Juvenile Crime Statistics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bear-compound-bow-for-sale'>Bear Compound Bow For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jet-pilot-lyrics'>Jet Pilot Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=instruction-manual-synonym'>Instruction Manual Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-josie-a-girl-or-boy-name'>Is Josie A Girl Or Boy Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Schultze-Gets-the-Blues'>Schultze Gets The Blues</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=avinash-kaushik-linkedin'>Avinash Kaushik Linkedin</a>,
+";s:7:"expired";i:-1;}

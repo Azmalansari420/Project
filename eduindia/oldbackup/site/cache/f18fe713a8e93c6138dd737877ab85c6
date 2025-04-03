@@ -1,0 +1,111 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2344:"<br>Kare: I never would have predicted that I would work for a Fortune 500 manufacturing company. This month Susan Kare was awarded an AIGA medal, putting her in the company of design greats like Paul Rand, Charles and Ray Eames, Milton Glaser and Saul Steinberg. Innovative …  <br>... collaboration, risk taking, problem solving, flexibility, and hard work. During 1980s, she developed many of the interface elements for the Apple Macintosh. Susan Kare is one of the notable contemporary American graphic designers. She worked as a creative director for the company NeXT that Steve Jobs founded after leaving Apple. For several summers during high school she interned at the Franklin Institute  for designer Harry Loucks, who introduced her to typography  and graphic design while she did phototypesettingwith "strips of type for labels in a dark room on a PhotoTypositor". After her P… I intended to be either a fine artist or teacher. They gave a lifeless computer a warmth and personality that lives on in the modern Mac to this day. According to the Museum of Modern Art in New York, Susan Kare is “a pioneering and influential computer iconographer. Because she didn't attend an artist training school, she built her experience and portfolio by taking many pro-bono graphics jobs such as posters and brochure design in college, holiday cards, and invitations. There is a lot of very good "pixel" design work before the 20th century, like a 1760 sampler by Elizabeth Laidman that looks like a bitmap font. <br> Susan Kare designed the distinctive icons, typefaces, and other graphic elements that gave the Apple Macintosh its characteristic—and widely emulated—look and feel. Susan D. Kare, "A study of the use of caricature in selected sculptures of Honore Daumier and Claes Oldenburg," Ph.D. thesis, New York University, 1978. Susan Kare’s icons and fonts for the original Macintosh were revolutionary. Susan Kare's career has always focused on fine art.  <br> <br>Susan Kare Art , Inspiration , Design Invention Stories . Susan went on to work with NeXT, Microsoft, IBM, and more, where she continued to pioneer charming designs in limited digital space. Susan Kare graphic design, located in San Francisco, California, welcomes the opportunity to collaborate on icon sets, corporate identity, or other design projects. <br>";s:7:"keyword";s:15:"susan kare work";s:5:"links";s:6144:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shinjuku-nightlife-area'>Shinjuku Nightlife Area</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-lady-in-the-tower-ritual'>The Lady In The Tower Ritual</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=movies-with-dragons-on-netflix'>Movies With Dragons On Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=minutemen---corona-%28acoustic%29'>Minutemen - Corona (acoustic)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=indo-persian-pesh-kabz'>Indo-persian Pesh Kabz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=our-lady-of-kibeho-prayer'>Our Lady Of Kibeho Prayer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=please-complete-in-spanish'>Please Complete In Spanish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jimmy-corrigan-characters'>Jimmy Corrigan Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=true-flies-clothing'>True Flies Clothing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=attention-song-lyrics'>Attention Song Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=What-causes-a-thunderstorm'>What Causes A Thunderstorm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sandra-scott-randolph-scott%27s-daughter'>Sandra Scott Randolph Scott's Daughter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cgs-unit-of-heat'>Cgs Unit Of Heat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=theme-of-the-poem-preludes'>Theme Of The Poem Preludes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-river-of-words-pdf'>A River Of Words Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gps-and-waas-instrument-flying-handbook'>Gps And Waas Instrument Flying Handbook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japanese-slang-2018'>Japanese Slang 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-crazy-movie'>The Crazy Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-age-to-become-a-manager'>Best Age To Become A Manager</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Liza-Minnelli-today'>Liza Minnelli Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=catholic-altar-crucifix-requirements'>Catholic Altar Crucifix Requirements</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=are-trench-knives-illegal'>Are Trench Knives Illegal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=herkimer-county-coronavirus'>Herkimer County Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vicky-the-viking-theme-song-english'>Vicky The Viking Theme Song English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-wiesner-illustrations'>David Wiesner Illustrations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jason-weaver-twitter'>Jason Weaver Twitter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=christina-pazsitzky-kids'>Christina Pazsitzky Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=louis-stone-1910'>Louis Stone 1910</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scum-manifesto-quotes'>Scum Manifesto Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buckler-dark-souls'>Buckler Dark Souls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=olivier-messiaen-biography'>Olivier Messiaen Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=GRIP-for-windows'>GRIP For Windows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philadelphia-movie-kiss'>Philadelphia Movie Kiss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kabali-Tamil-Movie'>Kabali Tamil Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mirror-mirror-on-the-wall%2C-who-is-the-fairest'>Mirror Mirror On The Wall, Who Is The Fairest</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-ranger-ace-atkins'>The Ranger Ace Atkins</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=town-of-norfolk%2C-ma'>Town Of Norfolk, Ma</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bachelorette-2020-men'>Bachelorette 2020 Men</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=compound-bow-amazon'>Compound Bow Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-divina-commedia'>La Divina Commedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amphi-middle-school'>Amphi Middle School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reddit-scifi-writing'>Reddit Scifi Writing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=With-mortal-voice'>With Mortal Voice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=watermelon-man-meaning'>Watermelon Man Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noodle-education-careers'>Noodle Education Careers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=batman%3A-city-of-crime-deluxe-edition'>Batman: City Of Crime Deluxe Edition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Leaves-the-room'>Leaves The Room</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moli%C3%A8re-quotes-in-clothes'>Molière Quotes In Clothes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-restaurants-coming-to-yuma%2C-az-2019'>New Restaurants Coming To Yuma, Az 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caroline-wozniacki-harvard'>Caroline Wozniacki Harvard</a>,
+";s:7:"expired";i:-1;}

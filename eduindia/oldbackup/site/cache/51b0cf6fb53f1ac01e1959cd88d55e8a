@@ -1,0 +1,108 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3260:"<p>¡Participa en esta conferencia e inspírate! Galileo nació el 15 de febrero de 1564 en Pisa, Italia y murió el 8 de enero de 1642, en Arcetri, un pueblo cerca de Florencia. </p> <p>De origen italiano, Galileo abarcó una enorme cantidad de facetas, siendo matemático, filósofo, astrónomo, físico e inventor. Alianza Editorial: Historia de la ciencia2007 Alianza Editorial: Historia de la ciencia2007 El artículo se escribió tras la lectura y análisis de los textos citados, y sí, lo han copiado sin mi consentimiento en otras webs, pero como verás , la fecha de copia es posterior. Tenia 17 años cuando entro a la universidad de Pisa donde se especializo en medicina y estudio tambien matematicas y ciencias fisicas. </p> <p> Aportes a la teoría copernicana. Su familia era noble, pero no demasiado pudiente, y se sustentaban a través del comercio. Aportaciones de Galileo Galilei Aporte a la teoría Copérnico. Galileo Galilei nacio en una familia de siete hijos con un padre que era talentoso musico y un hombre de considerable cultura. Galileo Galilei nació en Pisa el 15 de febrero de 1564. Biografía de Galileo Galilei. Galileo Galilei nació en (PISA FRANCIA) el 15 de febrero de 1564. Sus padres fueron el matemático y músico Vincenzo Galilei, oriundo de Florencia; y Giulia Amman… Entre los años 1590 y 1591, Galileo Galilei descubrió la Cicloide y se sirvió de ella para dibujar arcos de puentes. Se trató de un cuadro familiar extenso, ya que fueron seis hermanos en total.Galileo fue el mayor de todos sus hermanos. </p> <p>Lo poco que, a través de algunas cartas, se conoce de su madre, Giulia Ammannati di Pescia, no compone de ella una figura demasiado halagüeña. Antes de comenzar a hablar sobre las aportaciones de Galileo Galilei, vamos a adentrarnos en la biografía de este científico para conocer mejor quién fue. Principales aportes a la ciencia de Galileo Galilei. La guerra que existe entre los conceptos de la vida, bajo la creación divina y el Big Bang no tiene fin. Antes de la existencia de Galileo Galilei, la humanidad pensaba en la existencia y creación divina. Ya qué concibió un cosmos en el que las mismas reglas matemáticas explicarían el movimiento de los objetos en la Tierra, y de los astros en el firmamento Leyes de la Mecánica Galileo Galilei (Pisa, Toscana; 15 de febrero de 1564 [4] -Arcetri, Toscana; 8 de enero de 1642) [1] [5] fue un astrónomo, filósofo, ingeniero, [6] [7] matemático y físico italiano, relacionado estrechamente con la revolución científica.Eminente hombre del Renacimiento, mostró interés por casi todas las ciencias y artes (música, literatura, pintura). </p> <p>6. Galileo galilei. A temprana edad Galileo prometia mucho tanto mental como manualmente. Galileo Galilei, nació en la ciudad de Pisa Italia, el 15 de febrero de 1564.Físico y astrónomo, destacado representante del pensamiento científico renacentista. Antes que Newton. Galileo Galilei nació el 15 de febrero de 1564 en la región de la Toscana, específicamente en la ciudad de Pisa. elaboró una explicación mecánica del universo, coherente con el sistema copernicano. Galileo Galilei nació el 15 de febrero de 1564 en las cercanías de Pisa, Italia. Galileo Galilei. </p>";s:7:"keyword";s:23:"galileo galilei aportes";s:5:"links";s:5808:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cognitive-meaning-in-malayalam'>Cognitive Meaning In Malayalam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=campaign-monitor-api-php'>Campaign Monitor Api Php</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nanalan-pickle-episode'>Nanalan Pickle Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=werewolf-of-fever-swamp-cast'>Werewolf Of Fever Swamp Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Boer-War-machine-gun'>Boer War Machine Gun</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ironside-on-tv'>Ironside On Tv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-smashed-an-adjective'>Is Smashed An Adjective</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-ghost-story-games'>Chinese Ghost Story Games</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=slip-inside-this-house'>Slip Inside This House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clara-brereton-sanditon-actress'>Clara Brereton Sanditon Actress</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=El-amor-despu%C3%A9s-del-amor'>El Amor Después Del Amor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-rager-pokemon'>Chris Rager Pokemon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sister-definition-urban-dictionary'>Sister Definition Urban Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fun-facts-and-trivia-about-alabama'>Fun Facts And Trivia About Alabama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=johnsonville-beer-brats'>Johnsonville Beer Brats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=picnicing-or-picnicking'>Picnicing Or Picnicking</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-souls-2-shadow-dagger'>Dark Souls 2 Shadow Dagger</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=remi%2C-nobody%27s-boy-%282019%29'>Remi, Nobody's Boy (2019)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeremy-fischer%2C-nd'>Jeremy Fischer, Nd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Encyclop%C3%A9die-M%C3%A9thodique%2C-Botanique'>Encyclopédie Méthodique, Botanique</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kate-green-linkedin'>Kate Green Linkedin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hope-county-jail'>Hope County Jail</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jet-harris-wife'>Jet Harris Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kelly-hoppen-style'>Kelly Hoppen Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=speech-of-praise-synonym'>Speech Of Praise Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=piya-rangrezz-story'>Piya Rangrezz Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=norway-economy-2020'>Norway Economy 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sheila-raye-charles-siblings'>Sheila Raye Charles Siblings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oh-say-can-you-say-tongue-twisters'>Oh Say Can You Say Tongue Twisters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-emile-pissarro-pastel'>Paul Emile Pissarro Pastel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-can-god-be-timeless'>How Can God Be Timeless</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alice-in-wonderland-1911-edition'>Alice In Wonderland 1911 Edition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brandi-carlile---the-mother-lyrics'>Brandi Carlile - The Mother Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Spanish-words-with-meaning'>Spanish Words With Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=official-anime-website'>Official Anime Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blackheart-man-full-album'>Blackheart Man Full Album</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sojourner---the-deluge-lyrics'>Sojourner - The Deluge Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reprehensible-synonym-and-antonym'>Reprehensible Synonym And Antonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dive-shows-uk-2019'>Dive Shows Uk 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lots-of-time'>Lots Of Time</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dancing-with-the-stars---youtube'>Dancing With The Stars - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fu-zi-sacred-lotus'>Fu Zi Sacred Lotus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wentworth-miller-house-address'>Wentworth Miller House Address</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yu-rongguang-karate-kid'>Yu Rongguang Karate Kid</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=words-from-savory'>Words From Savory</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=iris-dement-live'>Iris Dement Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=little-grey-cells%3A-the-quotable-poirot-pdf'>Little Grey Cells: The Quotable Poirot Pdf</a>,
+";s:7:"expired";i:-1;}

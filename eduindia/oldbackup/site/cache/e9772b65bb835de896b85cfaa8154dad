@@ -1,0 +1,89 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2436:"<p>Movie: Himmatwala (2013) Singer(s): Shreya Ghoshal, Amit Kumar. Nainon Mein Sapna is a hindi song from the 1983 movie Himmatwala. Lyricist(s): Indeevar, Sameer. The duration of song is 04:02. </p> <p>Following is the lyrics of 'Nainon Mein Sapna' song from hindi movie 'Himmatwala (2013)'. The Naino Mein Sapna lyrics from ‘Himmatwala’, starring Ajay Devgan and Tamanna Bhatia in lead roles. Nainon Mein Sapna singers are Kishore Kumar, Lata Mangeshkar.  The duration of song is 04:02. Nainon Mein Sapna music director is Bappi Lahiri. Song: Nainon Mein Sapna . The lyrics of the song have been penned by Indeevar. Nainon Mein Sapna composer is Bappi Lahiri and Nainon Mein Sapna lyricist or song writer is Indeevar (Shyamalal Babu Rai). The music of Naino Mein Sapna has been recreated to click with today’s generation. Nainon Mein Sapna features Jeetendra, Sridevi. Naina Re (Dangerous Ishhq) Sung By: Himesh Reshammiya, Rahat Fateh Ali Khan, Shreya Ghoshal Nainon Mein Sapna (Himmatwala (2013)) Sung By: Shreya Ghoshal, Amit Kumar Nanga Punga Dost (Pk) Sung By: Shreya Ghoshal Natasha (Naam Gum Jayega) Sung By: Shreya Ghoshal, Udit Narayan Nile Nile Aasman Tale, Khwab Ke Ho Kafile (Holiday) Sung By: Shreya Ghoshal, Vijay Prakash Noor-E-Khuda … </p> <p>Naino Mein Sapna Lyrics Tathaiya thathaiya ho.. Shreya Ghoshal has sung the female parts of the song. Directed by Sajid Khan, the music has been composed by Sajid Wajid. This song is sung by Amit Kumar. LOL and I remember when i was young paying 3.5Rs to see this in one of a movie theater first week. Amit Kumar, son of the legendary Kishore Kumar, has re-recorded his father’s hit song ‘Naino mein sapna’ for Ajay Devgn’s Himmatwala remake. Music By: Sajid-Wajid. ‘Naino Mein Sapna’ sung by Amit Kumar and Shreya Ghoshal. The song is composed by Sajid, Wajid and the lyrics are penned by … Naino Mein Sapna Lyrics from the Movie Himmatwala - 2013, sung by Amit kumar, Shreya Ghoshal. </p> <p>And Amithabachan songs and Rajesh khanna pandyamuks on Tuesday, April 02, 2013 shoot the choreographer plz... :D I am amazed we used to watch this kind of movies! The new version of the song has been picturised […] Translation: Available. Nainon mein spana and nella asiman by amitha Bachan and I love all Lata Mang. </p> <p>Naino Mein Sapna (नैनो में सपना) song from the album Selfie With Shreya Ghoshal is released on Jun 2014 . </p>";s:7:"keyword";s:32:"shreya ghoshal nainon mein sapna";s:5:"links";s:3454:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=movie-reincarnated-lovers'>Movie Reincarnated Lovers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Throne-of-Glass-book-1'>Throne Of Glass Book 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buckler-dark-souls'>Buckler Dark Souls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=castle-point-va'>Castle Point Va</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=suzhou-venice-of-the-east'>Suzhou Venice Of The East</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unanticipated-meaning-in-telugu'>Unanticipated Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=exo-planet-%231-jakarta'>Exo Planet #1 Jakarta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blogs-like-seth-godin'>Blogs Like Seth Godin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gold-strappy-heels-steve-madden'>Gold Strappy Heels Steve Madden</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=do-brooke-and-alex-end-up-together'>Do Brooke And Alex End Up Together</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Utilitarianism-for-dummies'>Utilitarianism For Dummies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-maya-banks-alive'>Is Maya Banks Alive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kimberly-chandler-height'>Kimberly Chandler Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julia-lazar-franco-cause-of-death'>Julia Lazar Franco Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=time-travel-romance-imdb'>Time Travel Romance Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dr-haydock-miss-marple'>Dr Haydock Miss Marple</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unkle-psyence-fiction'>Unkle Psyence Fiction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sarson-leaves-in-kannada'>Sarson Leaves In Kannada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=modern-socialist-books'>Modern Socialist Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maldon-district-council-housing'>Maldon District Council Housing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isamu-noguchi-lamp'>Isamu Noguchi Lamp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-cut-weight-for-boxing'>How To Cut Weight For Boxing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=c-j-cherryh-foreigner-series-order'>C J Cherryh Foreigner Series Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mirror-mirror-store'>Mirror Mirror Store</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noob-saibot-fatality-mk9'>Noob Saibot Fatality Mk9</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=strategic-leadership-theory'>Strategic Leadership Theory</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=albertus-magnus-login'>Albertus Magnus Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=CS-Lewis-transposition-summary'>CS Lewis Transposition Summary</a>,
+";s:7:"expired";i:-1;}

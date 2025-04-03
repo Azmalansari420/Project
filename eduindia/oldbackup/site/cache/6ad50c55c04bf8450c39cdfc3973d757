@@ -1,0 +1,120 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4013:"Learn more about San Antonio Public Library Foundation and all the other organizations participating in #BigGive2020. For being the fourth largest city in the U.S., Houston’s library system ranks seventh in the nation on per capita expenditures. <br> <br>The San Diego Public Library Foundation’s 2017 Annual Report details the life-changing impact donors made in each San Diego community. The Eugenia and Lawrence A. Bertetti Foundation is proud to have partnered with the San Antonio Public Library and the San Antonio Public Library Foundation to provide additional funds for Landa Library’s 2017 renovation. The San Antonio Public Library plays a critical role in the quality of life and continued growth of San Antonio. Al Ferris, Trustee Member. The Lila Cockrell Endowment Fund for the Parks was launched in 2015 with a $1,000,000 gift from Alamo City based Valero Energy Corporation. In 2000, the Semmes Foundation donated $1 million to the San Antonio Public Library to create a special collection, including books and equipment, for the visually impaired. <br> <br>February 19, 2020. entertainment while helping San Antonio meet the goal of achieving 1,000,000 registered library card holders. Hone succeeds Interim Executive Director Tim Plant, who in turn succeeded long term President/CEO Tracey Bennett. I’m ready to support San Antonio Public Library Foundation on June 1, 2020 during The Big Give Emergency Relief. Guillermo has been focused on San Antonio for over 25 years and has focused on art and literacy.  <br>He is past-chairman of the San Antonio Public Library Foundation and a member of the board of the College of Communications at the University of Texas at Austin. The Houston Public Library’s vast array of service locations offer programs that enhance social inclusion, active citizenship, and personal development. Board of Trustees. Generous donor gifts allowed the Library to invest in new readers, create vibrant cultural and civic centers, ensure academic and career success and develop the virtual library. We believe that Houstonians deserve better. Over 25,000 programs serve 400,000 Houstonians annually and present opportunities to improve our local quality of life, including self-sustainability as well as competitiveness and employability. <br> <br>May 13, 2020 San Antonio Area Foundation Announces Second Cycle for 2020 Grant Applications San Antonio Public Library invites all ages to participate in the 2020 Mayor’s Summer Reading Club In light of the current CDC and Texas public health recommendations surrounding COVID-19, the Resource Library at the San Antonio Area Foundation remains closed to the general public. San Antonio Area Foundation awards $3.4 million in scholarships to 659 San Antonio area students. We are now pleased to provide ongoing support for Landa Library. San Antonio Public Library Foundation, Board; St. Mark’s Episcopal Church, Finance Committee; Jackson Walker Advises Blue River Partners in Acquisition by IQ-EQ. <br> <br>For more than 110 years, the award-winning San Antonio Public Library has been a vital center for free learning, knowledge, communication, culture and enjoyment for the whole community. Don't forget to board the Lee y serás ® (Read and You Will Be) caravan for fun literacy-building activities and more! Board of Trustees. The SAISD Board of Trustees, comprised of seven District residents, is the school system's policy-making body. Al Ferris, the senior founding principal of Ferris & Britton, was admitted to the California Bar in 1964. May 13, 2020 COVID-19 Response Fund Grows by $1 million to $6.3 million. Nashville Public Library Foundation. 24 June 2020 IMAGINE with San Antonio Public Library this summer! Approximately 1/3 of the Branch materials is for children. In addition to her Board service at the San Diego Public Library Foundation, Ms. De Llamas serves on the Marketing and Communications Committee. Our mission is to strengthen the Library in service to our community. <br>";s:7:"keyword";s:43:"san antonio public library foundation board";s:5:"links";s:7294:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cube-root-of-729'>Cube Root Of 729</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=there-goes-my-baby-song'>There Goes My Baby Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%22late-night-with-seth-meyers-cast%22'>"late Night With Seth Meyers Cast"</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sal-buscema-commission'>Sal Buscema Commission</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Ghost-and-Mrs-Muir-Full-movie'>The Ghost And Mrs Muir Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pedro-guerrero-composer'>Pedro Guerrero Composer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=masterminds%3A-criminal-destiny-movie'>Masterminds: Criminal Destiny Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-family-history-movies'>Best Family History Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wordsworth-250th-anniversary'>Wordsworth 250th Anniversary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orbital-2-vinyl'>Orbital 2 Vinyl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1974-nba-finals'>1974 Nba Finals</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Robotics-Club-London'>Robotics Club London</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=southern-shores-real-estate'>Southern Shores Real Estate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=online-coin-buyers'>Online Coin Buyers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=denial-in-grief'>Denial In Grief</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-make-a-link-say-something-else-on-iphone'>How To Make A Link Say Something Else On Iphone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=misato-fukuen-killua'>Misato Fukuen Killua</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=research-papers-on-events'>Research Papers On Events</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apple-jam-recipe-without-sugar'>Apple Jam Recipe Without Sugar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=evangelii-gaudium-analysis'>Evangelii Gaudium Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=books-can-be-deceiving'>Books Can Be Deceiving</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=X-23-movie'>X 23 Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=weather-baltimore-radar'>Weather Baltimore Radar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Education-Week-logo'>Education Week Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sani-abacha-dictatorship'>Sani Abacha Dictatorship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thumbelina-story-writing'>Thumbelina Story Writing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peace-maker-kurogane%3A-belief-and-friend'>Peace Maker Kurogane: Belief And Friend</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-tea-girl-of-hummingbird-lane-wikipedia'>The Tea Girl Of Hummingbird Lane Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-friend-at-hand-whiskey-price'>The Friend At Hand Whiskey Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rupture-full-movie'>Rupture Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jennifer-rowe-facebook'>Jennifer Rowe Facebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alexa-meade-interesting-facts'>Alexa Meade Interesting Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jennie-allen-reviews'>Jennie Allen Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-bones-lyrics'>Funny Bones Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prodigy-admin-hack'>Prodigy Admin Hack</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=retest-in-a-sentence'>Retest In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-man-who-could-walk-through-walls-analysis'>The Man Who Could Walk Through Walls Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=machine-translation-vs-human-translation-pdf'>Machine Translation Vs Human Translation Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kim-tae-pyung-pronunciation'>Kim Tae Pyung Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chopra-global-website'>Chopra Global Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Davy-and-the-Duckling'>Davy And The Duckling</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=honolulu-news-live'>Honolulu News Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=axel-scheffler-coronavirus'>Axel Scheffler Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-circus-of-dr-lao'>The Circus Of Dr Lao</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-tattooer-pdf'>The Tattooer Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=palomino-ss-500-reviews'>Palomino Ss-500 Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=professional-translation-english-to-arabic'>Professional Translation English To Arabic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tom-hanson-cbs-twitter'>Tom Hanson Cbs Twitter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anti-slavery-policy'>Anti Slavery Policy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=MC-Channel-AutoCAD'>MC Channel AutoCAD</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wisting-series-2'>Wisting Series 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flower-painting-easy-step-by-step'>Flower Painting Easy Step By Step</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fernanda-motta-marido'>Fernanda Motta Marido</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-perfect-romance-filming-location'>My Perfect Romance Filming Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raid-5-with-4-drives'>Raid 5 With 4 Drives</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ainslie-park-leisure-centre'>Ainslie Park Leisure Centre</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-link-20-hearts-glitch'>Wolf Link 20 Hearts Glitch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=serayah-mcneill-instagram'>Serayah Mcneill Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=going-ons-synonym'>Going Ons Synonym</a>,
+";s:7:"expired";i:-1;}

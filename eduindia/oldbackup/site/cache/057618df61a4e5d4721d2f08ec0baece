@@ -1,0 +1,102 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4088:"<p>I want to encrypt few files using python what is the best way I can use gpg/pgp using any standard/famous python libraries? </p> <p>A key object can be created in four ways: generate() at the module level (e.g. Key can consists letters, numbers, special character. cryptography is a package which provides cryptographic recipes and primitives to Python developers. cryptography includes both high level recipes and low level interfaces to common cryptographic algorithms such as symmetric ciphers, message digests, and key derivation functions. It has both "secure" primitives as well as a "hazmat" layer. Python Cryptography Toolkit (pycrypto) This is a collection of both secure hash functions (such as SHA256 and RIPEMD160), and various encryption algorithms (AES, DES, RSA, ElGamal, etc.). cryptography includes both high level recipes and low level interfaces to common cryptographic algorithms such as symmetric ciphers, message digests, and key …  Site last generated: 2020-02-16 72.5k 33 33 gold badges 158 158 silver badges 208 208 bronze badges. Cryptography. >>> key = Fernet.generate_key() … xenial (16.04LTS) (python): Python library exposing cryptographic recipes and primitives (Python 2) 1.2.3-1ubuntu0.2 [security]: amd64 i386 1.2.3-1 [ports]: arm64 armhf powerpc ppc64el s390x cryptography is an actively developed library that provides cryptographic recipes and primitives. Python cryptography is another implementation for cryptographic functions. The package is structured to make adding new modules easy. We will show how cryptography library can be used to encrypt any plain text string, and then further to recover plain text message from encrypted message. Exact hits Package python-cryptography. python-cryptography_2.8-1_x86_64.ipk. cryptography is a package which provides cryptographic recipes and primitives to Python developers. For example, to encrypt something with cryptography ’s high level symmetric encryption recipe: >>> from cryptography.fernet import Fernet >>> # Put this somewhere safe! </p> <p>cryptography is divided into two layers of recipes and hazardous materials (hazmat). Found 3 matching packages.. </p> <p>301 Moved Permanently The resource has been moved to /pypi/cryptography/; you should be redirected automatically. </p> <p>OpenWrt Packages x86_64 Official. cryptography includes both high level recipes and low level interfaces to common cryptographic algorithms such as symmetric ciphers, message digests, and key derivation functions. </p> <p>Source Code Examples are licensed under The Unlicense. In a public key cryptography system, senders and receivers do not use the same key. The "hazmat" layer requires care and knowledge of cryptography and it is easy to implement security holes using it. Anurag Uniyal Anurag Uniyal. ©2020 CryptoExamples - MIT License. Instead, the system defines a key pair, ... Asymmetric keys are represented by Python objects. We will not cover anything in the "hazmat" layer in this introductory article! python-cryptography is a python library for secure cryptographic services. share | improve this question | follow | edited Aug 1 '12 at 13:45. cryptography is a package which provides cryptographic recipes and primitives to Python developers. </p> <p>Our goal is for it to be your "cryptographic standard library". One useful library for cryptographic primitives in Python is called simply cryptography. </p> <p>Our goal is for it to be your “cryptographic standard library”. If you want to use cryptography with your own build of OpenSSL you will need to make sure that the build is configured correctly so that your version of OpenSSL doesn’t conflict with Python’s. Anurag Uniyal. It supports Python 2.7, Python 3.5+, and PyPy 5.4+. python3-cryptography_1.2.3-1_armhf.deb: Python library exposing cryptographic recipes and primitives (Python 3) Ubuntu Main i386 Official: python3-cryptography_1.2.3-1_i386.deb: Python library exposing cryptographic recipes and primitives (Python 3) Ubuntu Updates Main amd64 Official: python3-cryptography_1.2.3-1ubuntu0.2_amd64.deb </p>";s:7:"keyword";s:27:"python cryptography library";s:5:"links";s:5006:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anselm-kiefer-works'>Anselm Kiefer Works</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carnival-of-rust-song'>Carnival Of Rust Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=on-tour-kickstarter'>On Tour Kickstarter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vatican-approved-book-list'>Vatican Approved Book List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=northern-lights-%282009-full-movie%29'>Northern Lights (2009 Full Movie)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=100th-birthday-poem'>100th Birthday Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-was-craig-silvey-born'>Where Was Craig Silvey Born</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jubilate-agno-meaning'>Jubilate Agno Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-shining-poster'>The Shining Poster</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Who-built-Dover-Castle'>Who Built Dover Castle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intermediate-german-vocabulary'>Intermediate German Vocabulary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=90-day-fianc%C3%A9%3A-pillow-talk-imdb'>90 Day Fiancé: Pillow Talk Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mem-fox-reading-magic'>Mem Fox Reading Magic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=patrick-weekes-mass-effect'>Patrick Weekes Mass Effect</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Malcolm-Jenkins-salary'>Malcolm Jenkins Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=renegades-esports-fortnite'>Renegades Esports Fortnite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=little-town-on-the-prairie-1941'>Little Town On The Prairie 1941</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=friday-harbor-airport-fsx'>Friday Harbor Airport Fsx</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=are-trench-knives-illegal'>Are Trench Knives Illegal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-make-an-atlatl-pdf'>How To Make An Atlatl Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zero-kiryu-cosplay'>Zero Kiryu Cosplay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plac-europejski-4a'>Plac Europejski 4a</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=80s-nails-designs'>80s Nails Designs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Arne-Jacobsen-quotes'>Arne Jacobsen Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cop-town-movie'>Cop Town Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philip-roberts-%26yet'>Philip Roberts &yet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=this-savage-song-fanart'>This Savage Song Fanart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=just-mercy-film'>Just Mercy Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=temper-trap---sweet-disposition-%28live%29'>Temper Trap - Sweet Disposition (live)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rebecca-long-bailey-remainer'>Rebecca Long-bailey Remainer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=live-like-a-cop%2C-die-like-a-man-trailer'>Live Like A Cop, Die Like A Man Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=art-of-living-karaikudi'>Art Of Living Karaikudi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=niki-de-saint-phalle-biography'>Niki De Saint Phalle Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nancy-neele-christie'>Nancy Neele Christie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-love-again-original-singer-opm'>To Love Again Original Singer Opm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vegetarian-bean-chili'>Vegetarian Bean Chili</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dennett-brainstorms-summary'>Dennett Brainstorms Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=journey-ps4-gameplay'>Journey Ps4 Gameplay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=watchers-in-the-dark'>Watchers In The Dark</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bone-fragments-in-foot'>Bone Fragments In Foot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crime-coefficient-colors'>Crime Coefficient Colors</a>,
+";s:7:"expired";i:-1;}

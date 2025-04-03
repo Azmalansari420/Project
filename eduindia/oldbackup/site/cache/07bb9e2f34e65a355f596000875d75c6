@@ -1,0 +1,93 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:838:"<p>Published by Annick Press, 1985. I made it up way back in 1971 when I was a student teacher at Wellesley College Child Studies Nursery School. I hope you enjoy this selection of my work, as well as the creative art and short stories donated by kids and teachers. All About Robert Munsch; Poems & Stories; Kid's Stuff; Contact; Hi, welcome to robertmunsch.com. I first told version of the story in 1987 in Geraldton, Ontario. </p> <p>Written by Robert Munsch. </p> <p>MOOSE. Listen; Buy; Download; Mortimer was the first story I ever made up. I hope you enjoy this selection of my work, as well as the creative art and short stories donated by kids and teachers. I do not remember the name of the first kid in the story because it was a 'throw away' MOOSE story. Illustrated by Michael Martchenko.  Hi, welcome to robertmunsch.com. </p>";s:7:"keyword";s:34:"mortimer robert munsch read online";s:5:"links";s:4074:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raeford%2C-nc-things-to-do'>Raeford, Nc Things To Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mead-me-vs-i-mcat'>Mead Me Vs I Mcat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=summer-of-my-german-soldier-age-appropriate'>Summer Of My German Soldier Age Appropriate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clopin-trouillefou-musical'>Clopin Trouillefou Musical</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sengoku-2-neo-geo'>Sengoku 2 Neo Geo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poets-of-the-fall---carnival-of-rust-lyrics-meaning'>Poets Of The Fall - Carnival Of Rust Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chac-mool-carlos-fuentes-resumen'>Chac Mool Carlos Fuentes Resumen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pavlof-volcano-eruption'>Pavlof Volcano Eruption</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-books-by-lisa-gardner-in-chronological-order'>List Of Books By Lisa Gardner In Chronological Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leicester-hemingway-new-atlantis'>Leicester Hemingway New Atlantis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=relationship-activity-book'>Relationship Activity Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vietnamese-english-names'>Vietnamese English Names</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=monster-island-%28tv-show%29'>Monster Island (tv Show)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poul-kj%C3%A6rholm-stool'>Poul Kjærholm Stool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lowriders-in-Mexico'>Lowriders In Mexico</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=That-Apt-Ohm-anagram'>That Apt Ohm Anagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=matilda-who-told-lies-and-was-burned-to-death-summary'>Matilda Who Told Lies And Was Burned To Death Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-gibson-adaptations'>William Gibson Adaptations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kelly-hoppen-husband'>Kelly Hoppen Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seals-on-chinese-scrolls'>Seals On Chinese Scrolls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=introduction-to-electromagnetic-theory-pdf'>Introduction To Electromagnetic Theory Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ancient-greece-ks2-activities'>Ancient Greece Ks2 Activities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thom-mayne-biography'>Thom Mayne Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barbara-ehrenreich-book'>Barbara Ehrenreich Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-du-toit-death'>Paul Du Toit Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-black-flamingo-review'>The Black Flamingo Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ocad-university-tuition'>Ocad University Tuition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fast-food-quiz'>Fast Food Quiz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=missa-solemnis-translation'>Missa Solemnis Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nobel-prize-in-economics'>Nobel Prize In Economics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hang-on-Now'>Hang On Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Natrang-movie-budget'>Natrang Movie Budget</a>,
+";s:7:"expired";i:-1;}

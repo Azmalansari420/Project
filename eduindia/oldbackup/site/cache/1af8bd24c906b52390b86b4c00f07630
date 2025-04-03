@@ -1,0 +1,90 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2644:"<p>first name n a name given to a person at birth, as opposed to a surname. Top 10 English names . We also provide a baby name search function that allows a user to see where a given girl's name ranks historically Source: U.S. Census Bureau, … </p> <p>We also provide a baby name search function that allows a user to see where a given boy's name ranks historically. Find the meaning, history and popularity of given names from around the world. It includes lists …  Baby Names List (A-Z) All Boys Girls. The following tables include the most common male first names in the US population during the 1990 census according to the U.S. Census Bureau's Population Division. It should of some use to anyone thinking about choosing a name for a baby or interested in finding out what their own name means. Also called: Christian name, forename or given name giv′en name′ n. the name given to one, as distinguished from an inherited family name; first name. boy Fire, little fire + Add to my list Related names. </p> <p>Here is fairly comprehensive list of first (Christian) names used in the English-speaking world (Great Britain, the United States, Ireland; Australia etc.). (previous page) A. Abraham (given name) Achim (name) Adam (given name) Adel (name) Adolf; Adrian; Albert (given name) Albrecht; Alexander; Alfred (name) Alois; Alvin (given name) Alwin; Andreas; Ansgar (name) Anthon (given … first name Christian name forename given name 1. I've come across a few smaller lists/sets of names but I was wondering if there is a free data source out there that can provide a list of names (comma delimited or in a sql structure)? Aaden. This valuable tool is a “must have” for: Writers: use it to create character names; Expectant parents: use it to pick baby names; Website registrants: use it create an alternate identity; I originally wrote this application to generate lists of random names to populate a test database with 1000’s of users. Another way to estimate the most common first names in America is to look at names of babies registered at birth with the Social Security Administration (SSA). Soraida (name) T. Tahira; Tala (name) Tamara (given name) Tanisha (name) Tanya (name) Tara (given name) Taslima; Tina (given name) Tuba (given name) U. Umm Kulthum (name) W. Wafaa (name) Waliya (name) Wajahat (Name) Wajhat (Name) Y. Yamina; Yara (given name) Yasmin (given name) Z. Zahra (name) Zalayha; Zakiya; Zaynab (name) Zuhal; Zoraida; Unisex A. Amal (given name) C. Chadi; D. Dana … Pages in category "German masculine given names" The following 200 pages are in this category, out of approximately 292 total. </p>";s:7:"keyword";s:19:"list of first names";s:5:"links";s:3612:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-enchantress-opera'>The Enchantress Opera</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-john-mars'>Michael John Mars</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cool-fire-extinguisher'>Cool Fire Extinguisher</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=running-wild-merchandise'>Running Wild Merchandise</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gag-or-Throttle'>Gag Or Throttle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=memnoch-name-meaning'>Memnoch Name Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=LEGO-Batman-sale'>LEGO Batman Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dean-Koontz-Midnight-movie'>Dean Koontz Midnight Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=which-of-the-following-are-characteristics-of-the-high-renaissance%3F'>Which Of The Following Are Characteristics Of The High Renaissance?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=winners-hawkesbury-hours'>Winners Hawkesbury Hours</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sword-ninja-game'>Sword Ninja Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dj-tiesto---wave-rider-seavolution'>Dj Tiesto - Wave Rider Seavolution</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Science-fantasy-anime'>Science Fantasy Anime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gregory-itzin-star-trek'>Gregory Itzin Star Trek</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Arhat-vs-bodhisattva'>Arhat Vs Bodhisattva</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Queens-of-Talk'>Queens Of Talk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-long-does-it-take-to-learn-norwegian'>How Long Does It Take To Learn Norwegian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zathura-reading-level'>Zathura Reading Level</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=innocent-suffering-quotes'>Innocent Suffering Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Best-Drake-songs-2018'>Best Drake Songs 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shadow-dance-band'>Shadow Dance Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i%27m-going-back-to-cali-lyrics'>I'm Going Back To Cali Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-benioff-net-worth-2020'>David Benioff Net Worth 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=twiggy-60s-makeup'>Twiggy 60s Makeup</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=syriac-malayalam-dictionary'>Syriac Malayalam Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=commend-intercom-default-username-and-password'>Commend Intercom Default Username And Password</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rocking-horse-plans-wood-magazine'>Rocking Horse Plans Wood Magazine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bruno-bauer-die-judenfrage'>Bruno Bauer Die Judenfrage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=benchmade-balisong-42'>Benchmade Balisong 42</a>,
+";s:7:"expired";i:-1;}

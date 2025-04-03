@@ -1,0 +1,111 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3364:"<br>... a standard mobile device has gone from being no more than a simple two-way pager to being a mobile phone, GPS navigation device, an embedded web browser and instant messaging client, and a handheld game console. We also discussed how a mobile network differs from other networks (i.e. In this lesson we discussed the definition of a mobile network is and how it functions and is measured. The first ever public call from a mobile phone was actually made a whole ten years before any mobile phone was commercially available.  <br>A city of southwest Alabama at the mouth of the Mobile River, about 61 km long, on the north shore of Mobile Bay, an arm of the Gulf of Mexico. Mobile applications frequently serve to provide users with similar services to those accessed on PCs. <br> <br>Mobile hotspots are … mobile synonyms, mobile pronunciation, mobile translation, English dictionary definition of mobile. Define mobile. Definition of mobile phone case in the Definitions.net dictionary. Mobile Wallet: A virtual wallet that stores payment card information on a mobile device. <br> <br>Mobile phone definition, any wireless telephone that operates over a relatively large area, as a cell phone or PCS phone. mobile phone: Portable telephone device that does not require the use of landlines. Information and translations of mobile phone case in the most comprehensive dictionary definitions resource on the web. <br> <br>What does mobile technology mean? <br> <br>Definition - What does Mobile Application (Mobile App) mean? An electronic telecommunications device, often referred to as a cellular phone or cellphone.Mobile phones connect to a wireless communications network through radio wave or satellite transmissions. Meaning of mobile technology. <br> <br>A mobile phone (also known as a hand phone, cell phone, or cellular telephone) is a small portable radio telephone.. A mobile hotspot is an ad hoc wireless access point that is created by a dedicated hardware device or a smartphone feature that shares the phone's cellular data. Meaning of mobile phone case. Most mobile phones provide voice communications, Short Message Service (), Multimedia Message Service (), and newer phones may also provide Internet services such as Web browsing and e-mail.  See more. It works by communicating with a nearby base station (also called a "cell site") which connects it to the main phone … A mobile application, most commonly referred to as an app, is a type of application software designed to run on a mobile device, such as a smartphone or tablet computer. Martin Cooper, a senior engineer at Motorola, made history when he called a rival telecommunications company and informed them that he was speaking from a mobile phone. wireless). The first mobile phone operated on an analog service and was developed by Motorola, Inc. A phone that interests me has pretty much all the features I want except NFC. <br> <br>Mobile data is Internet content delivered to mobile devices such as smartphones and tablets over a wireless cellular connection. What does mobile phone case mean? <br> <br>Definition of mobile technology in the Definitions.net dictionary. Mobile phones utilize frequencies transmitted by cellular towers to connect the calls between two devices. <br> The mobile phone can be used to communicate over long distances without wires. <br>";s:7:"keyword";s:23:"Mobile phone definition";s:5:"links";s:6382:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=online-games-big-two'>Online Games Big Two</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=erik-larson-%28the-splendid-and-the-vile%29'>Erik Larson (the Splendid And The Vile)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=derry-city-twitter'>Derry City Twitter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=west-virginia-mountains-cabins'>West Virginia Mountains Cabins</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deon-cole-wife'>Deon Cole Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tornado-warning-Miami'>Tornado Warning Miami</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blasphemous-game-switch'>Blasphemous Game Switch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-are-the-knights-of-malta'>Who Are The Knights Of Malta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-beardsley-teams-coached'>Peter Beardsley Teams Coached</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-reichs-charlotte-nc'>Paul Reichs Charlotte Nc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=schumann-concerto-cello'>Schumann Concerto Cello</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=First-self-driving-car-Tesla'>First Self-driving Car Tesla</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercenaries-2-ps2-cheats'>Mercenaries 2 Ps2 Cheats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercenaries-2%3A-world-in-flames-repack'>Mercenaries 2: World In Flames Repack</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Difference-between-Chinese-and-Japanese-language'>Difference Between Chinese And Japanese Language</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=essex-county-nj'>Essex County Nj</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=contempt-%281963-english-subtitles%29'>Contempt (1963 English Subtitles)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fail-safe-example-in-java'>Fail-safe Example In Java</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=salon-kitty-blu-ray'>Salon Kitty Blu-ray</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mother-dolores-hart'>Mother Dolores Hart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manual-roller-coaster-broken-back'>Manual Roller Coaster Broken Back</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Finnish-to-English'>Finnish To English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jason-graves-pastor'>Jason Graves Pastor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=habakkuk-3%3A19-meaning'>Habakkuk 3:19 Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hattie-self-reported-grades'>Hattie Self-reported Grades</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-andorra-a-country'>Is Andorra A Country</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stardock-multiplicity-crack'>Stardock Multiplicity Crack</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geoffrey-of-monmouth-history-of-the-kings-of-britain-pdf'>Geoffrey Of Monmouth History Of The Kings Of Britain Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trueform-runner-manual'>Trueform Runner Manual</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nefertari-and-ramses'>Nefertari And Ramses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=god%3A-the-most-unpleasant-character-in-all-fiction-pdf'>God: The Most Unpleasant Character In All Fiction Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julie-taymor-ted-talk'>Julie Taymor Ted Talk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rise-of-industry-gameplay'>Rise Of Industry Gameplay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sweeney-among-the-nightingales-genius'>Sweeney Among The Nightingales Genius</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eustace-scrubb-age'>Eustace Scrubb Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=between-wiki-wiley'>Between Wiki Wiley</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=child-protection-issues'>Child Protection Issues</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Innkeepers-ending'>The Innkeepers Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Home-Front-Kristin-Hannah'>Home Front Kristin Hannah</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=esherick-house-interior'>Esherick House Interior</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soil-conservation-facts'>Soil Conservation Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=magnus-paulin-ferrell'>Magnus Paulin Ferrell</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shock-%26-Terror'>Shock & Terror</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=enslaved-definition-synonym'>Enslaved Definition Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-the-conjuring-on-netflix-2019'>Is The Conjuring On Netflix 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=battle-beast---straight-to-the-heart'>Battle Beast - Straight To The Heart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=california-milk-processor-board-tagline'>California Milk Processor Board Tagline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interventional-vs-diagnostic-radiology-salary'>Interventional Vs Diagnostic Radiology Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rita-williams-garcia-website'>Rita Williams-garcia Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brother-ben-x-%28dallas%29'>Brother Ben X (dallas)</a>,
+";s:7:"expired";i:-1;}

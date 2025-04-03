@@ -1,0 +1,115 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2655:"<br>Dining hall restricted to Lowell ONLY during Opera Season. Lowell House is one of twelve undergraduate residential Houses at Harvard University, located on Holyoke Place facing Mount Auburn Street between Harvard Yard and the Charles River. Lowell's sister college at Yale University is Pierson College. Lowell Speeches are dignified, the Lowell Opera is cultured, and Bacchanalia is decadent. Lowell House is one of twelve undergraduate residential Houses at Harvard University, located on Holyoke Place facing Mount Auburn Street between Harvard Yard and the Charles River.Officially, it is named for the Lowell family, but an ornate ALL woven into the ironwork above the main gate discreetly alludes to Abbott Lawrence Lowell, Harvard's president at the time of construction. It hosts high tea every Thursday and the grass in its two courtyards is trimmed every Tuesday. <br> <br>Lowell HoCo is a group of students committed to fostering community and house spirit in Lowell! House traditions include Masters' Tea on Thursday afternoons, a May Day Waltz at dawn on the Weeks Footbridge, High Table, and the annual Lowell House Opera mounted in the dining hall. <br> <br>To that end, the committee plans weekly events for the house, coordinates house intramural participation, maintains house facilities and plans the University's best house-wide formals. Officially, it is named for the Lowell family, but an ornate ALL woven into the ironwork above the main gate discreetly alludes to Abbott Lawrence Lowell, Harvard's president at the time of construction. A four … Face it: Lowell is Elite. <br> <br>Springtime brings the Bacchanalia Formal, often with a live swing band in the courtyard. Lowell House Opera begins Mar 25! It’s pretty to look at and even nicer to live in. <br>  <br> <br>Lowell House is one of twelve undergraduate residential Houses at Harvard University, located at 10 Holyoke Place facing Mount Auburn Street between Harvard Yard and the Charles River. The Lowell House Committee, or "HoCo" as it is affectionately known, is a group of Lowell students elected by the house primarily for the purpose of providing fun and exciting social programming. Officially, it is named for the Lowell family, but an ornate ALL woven into the ironwork above the main gate discreetly alludes to Abbott Lawrence Lowell, Harvard's president at the time of construction. Lowell house is where we stay ... At Bacchanalia fizz will flow Swipe in the back gate just like you know One swipe (come on) Two swipes (come …  <br>Our signature events are our two formals, the festive Yule Ball in December and the extravagant Bacchanalia … <br>";s:7:"keyword";s:24:"lowell house bacchanalia";s:5:"links";s:6820:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lucy-pevensie-age'>Lucy Pevensie Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-places-to-eat-in-saladan-koh-lanta'>Best Places To Eat In Saladan Koh Lanta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-other-side-of-heaven-2%3A-fire-of-faith-full-movie'>The Other Side Of Heaven 2: Fire Of Faith Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=feeder---tallulah'>Feeder - Tallulah</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hatchet-chapter-6-questions'>Hatchet Chapter 6 Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Penguin-Maigret-books-in-order'>Penguin Maigret Books In Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-tissot-legion-of-honor'>James Tissot Legion Of Honor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drastically-meaning-in-tamil'>Drastically Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Melting-point-examples'>Melting Point Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chlorpromazine-nursing-interventions'>Chlorpromazine Nursing Interventions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=21-hour-day-8-day-week'>21 Hour Day 8 Day Week</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grand-opening-synonym'>Grand Opening Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Comedy-drama-examples'>Comedy Drama Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=florence-knoll-corner-sofa'>Florence Knoll Corner Sofa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bruce-bennett-piano'>Bruce Bennett Piano</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sonny-valicenti-wikipedia'>Sonny Valicenti Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kylie-country-album'>Kylie Country Album</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-dawkins-quotes-about-god'>Richard Dawkins Quotes About God</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meek-mill---wins-and-losses'>Meek Mill - Wins And Losses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ralph-nader-unsafe-at-any-speed-summary'>Ralph Nader Unsafe At Any Speed Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=time-abbreviation-meaning'>Time Abbreviation Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fun-food-news'>Fun Food News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=obsidian-cape-melvor'>Obsidian Cape Melvor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=examples-of-tap-root-and-fibrous-root'>Examples Of Tap Root And Fibrous Root</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shabu-shabu-Austin'>Shabu Shabu Austin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=basket-hilt-sword-for-sale-uk'>Basket Hilt Sword For Sale Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=karen-robards-books-in-order'>Karen Robards Books In Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=axel-scheffler-coronavirus'>Axel Scheffler Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-lost-honour-of-katharina-blum-film'>The Lost Honour Of Katharina Blum Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soul-detox-small-group-study'>Soul Detox Small Group Study</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kartell-sale-2019'>Kartell Sale 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-ellison-linkedin'>David Ellison Linkedin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fantasy-quest-ideas'>Fantasy Quest Ideas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hout-bay-accommodation'>Hout Bay Accommodation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vegas-gone-country-2020-lineup'>Vegas Gone Country 2020 Lineup</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Solar-Film'>The Solar Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-big-is-arlington-cemetery'>How Big Is Arlington Cemetery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=does-a-kangaroo-have-a-mother%2C-too-amazon'>Does A Kangaroo Have A Mother, Too Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=happy-in-chinese'>Happy In Chinese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alb%C3%A9niz%3A-suite-espa%C3%B1ola'>Albéniz: Suite Española</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beneath-%282007-movie-ending-explained%29'>Beneath (2007 Movie Ending Explained)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-still-haven%27t-found-what-i%27m-looking-for-lyrics'>I Still Haven't Found What I'm Looking For Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jesse-Casper-Brown'>Jesse Casper Brown</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xu-beihong-horse-paintings'>Xu Beihong Horse Paintings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Paragraph-About-Nepal'>Paragraph About Nepal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-American-Wei'>The American Wei</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-chalmers-philosophy'>David Chalmers Philosophy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dr-Seuss%27s-ABC-1989'>Dr Seuss's ABC 1989</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-last-dragonslayer'>The Last Dragonslayer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jeremy-Irons-voice'>Jeremy Irons Voice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daniel-silva-car-accident'>Daniel Silva Car Accident</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emerald-solitaire-game'>Emerald Solitaire Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interventional-radiology-salary-2019'>Interventional Radiology Salary 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prodigal-summer-reviews'>Prodigal Summer Reviews</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,83 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2041:"<br>Acquiring street smart characteristics is something we often hear about from previous generations since the concept of ‘street smarts’ dates back several decades. ‘The street-smart cop initially wants nothing to do with the ambitious, sophisticated lawyer, but he soon realizes she might be his only chance to save himself.’ ‘The result is an explosive, percussive, street-smart energy that has not been rearranged or finessed through the lens of modern and ballet techniques.’ And that is why being street smart, or streetwise, is the key to success in your startup. You can read all the success stories you like. Street smart is someone who knows who how to look after themselves. Street Smart is able to read and apply SLD/SE 1.1.  street-smart definition: 1. streetwise 2. knowledgeable or shrewd in any given field, social setting, etc. <br> <br>Book smarts, as I’ve framed it, means someone who is good at following the rules. Basically common sence that some people do not have. It shows several examples explaining the limitations if applicable. You’ve probably heard your parents or grandparents mention the term and it is just as important that you introduce it to your children and pass down your street smart knowledge. OR knowledge of streets.  See more. They like things that have singular right answers. 3.Looking for oncoming traffic when crossing a road. Examples: 1.Avoiding trouble. Being street smart can lead to book smarts as the street smart sense what works and what doesn’t, and adapt accordingly. 2.Earning money. These are people who get straight A’s, sit in the front, and perhaps enjoy crossword puzzles. Read the founders’ secret formula for ‘making it’. This document describes what’s currently supported of SLD/SE 1.1 in Street Smart. This document doesn’t explain the internals of SLD or an in depth explanation on how various styles can be used. Street-smart definition, possessing or showing street smarts. SLD 1.0 is not supported. 4.Not taking candy from strangers. <br>";s:7:"keyword";s:24:"examples of street smart";s:5:"links";s:2806:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-munsch-lesson-plans'>Robert Munsch Lesson Plans</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sam-spade-tool'>Sam Spade Tool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=diplo-jevon-king'>Diplo Jevon King</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-did-Giorgione-die'>How Did Giorgione Die</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=What-is-cleaning-bleach'>What Is Cleaning Bleach</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reggie-watts-movies-and-tv-shows'>Reggie Watts Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glen-or-glenda'>Glen Or Glenda</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=torch-lighter-refill'>Torch Lighter Refill</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bill-and-melinda-gates-foundation-headquarters-building'>Bill And Melinda Gates Foundation Headquarters Building</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what%27s-the-difference-between-jelly-and-jam-joke-how-i-met-your-mother'>What's The Difference Between Jelly And Jam Joke How I Met Your Mother</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=microneedling-near-me'>Microneedling Near Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rottweiler-with-dwarfism'>Rottweiler With Dwarfism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=viktor-frankl%2C-meaning-of-life'>Viktor Frankl, Meaning Of Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hornet%27s-nest-movie-tnt'>Hornet's Nest Movie Tnt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=airport-1970-explosion'>Airport 1970 Explosion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=voltaire-liberty-quotes'>Voltaire Liberty Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lalonne-martinez-age'>Lalonne Martinez Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=azlan-meaning-in-arabic'>Azlan Meaning In Arabic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=coachman-460-vip-2020'>Coachman 460 Vip 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gladys-portugues-bodybuilder'>Gladys Portugues Bodybuilder</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gametrailers-tv-with-geoff-keighley'>Gametrailers Tv With Geoff Keighley</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sophocles-quotes-antigone'>Sophocles Quotes Antigone</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,139 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2844:"<br>Lightning has destroyed our servers town several times and im sick of it so I need a plugin/mod that allows me to disable lightning completely. ~THAT~ will come in … <br> <br>disable fire starting by lightning, fire spread, explosions, fireballs, explosions, ender crystals, and/or lava; disable starting fire to blocks by players (with enable by Permissions) disable starting fire to mobs & players by players (with enable by Permissions) make certain block types fireproof! Ok basically I have been searching the internet for hours looking for a working weather mod that's compatible with essentials & bukkit. <br> <br>It appears the sandstorms only work in the literal minecraft:desert biome and not other desert biomes like minecraft:desert_hills. <br> use strikeLightningEffect instead Rocoty, Oct 15, 2013 #2. Thunderstorms seem to … Introduction: This mod makes hardcore worlds (by default) harder without introducing new entities, or items. This causes it to start and stop as you're running across the biome because you're leaving and entering the actual minecraft:desert biome. Offline Rocoty. I am not sure if there is a way to disable the fire, or if I have to extinguish the block right after the strike (which I am not sure how to do that either). alexander7567, Oct 15, 2013 #1. <br> <br>Set to 0 to disable thunderstorms. Hello @camden You should look at your spigot.yml and change the random-light-updates to false.You can see the same here; I hope this helps you, if it … <br> <br>Content is available under CC BY-NC-SA 3.0 unless otherwise noted. This page was last edited on 18 June 2020, at 04:40. CanSnowMelt - if set to false will disable all snow melting in that world CanIceForm - if set to false will disable all ice accumulation in that world CanIceMelt - if set to false will disable all ice melting in that world ThunderstormChancePercentage - Sets the thunderstorm chance in the world. <br> <br>Gastroid posted... /gamerule commandBlockOutput false Oh, and attach a /time set day Command Block and a /weather clear 1000000 Command Block to the same Redstone wire, connected to a calibrated Daylight Sensor. <br> <br>Each sunset turns into morning and every morning clear skies. Hmmm. Thanks for any help! bad dreams; basically a feature from the beta days where there is a chance for a monster to spawn next to you and wake you up when you sleep in a dark place like a cave or simply the surface (this was replaced by the monster check in Minecraft 1.0 which this mod has an option to disable) Options for how beds should set a new spawn point:  <br> This mod is not a core mod! Game content and materials are trademarks and copyrights of their respective publisher and its licensors. <br> <br>I never realized one could disable the chat spamming from Command Blocks. Configurable list of block IDs. <br>";s:7:"keyword";s:31:"minecraft disable thunderstorms";s:5:"links";s:9618:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=William-Cowper-poems'>William Cowper Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shuriken-naruto-origami'>Shuriken Naruto Origami</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=waywardness-meaning-in-tamil'>Waywardness Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blubber-judy-blume'>Blubber Judy Blume</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daniel-plan-classes'>Daniel Plan Classes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=obito-ten-tails'>Obito Ten Tails</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-western-shore-fs19'>The Western Shore Fs19</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brian-regan-kids'>Brian Regan Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=st-elmo%27s-fire-phenomenon'>St Elmo's Fire Phenomenon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kobayashi-yoshio-rampo-kitan'>Kobayashi Yoshio Rampo Kitan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=basil%27%27-en-espa%C3%B1ol-significa'>Basil'' En Español Significa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=navigators-conference-2020'>Navigators Conference 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=independence%2C-missouri-lds-temple'>Independence, Missouri Lds Temple</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gordon-korman-framed-answers'>Gordon Korman Framed Answers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bleach-art-book'>Bleach Art Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pour-le-M%C3%A9rite'>Pour Le Mérite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-catholic-philosophers'>Best Catholic Philosophers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=majority-report-merch'>Majority Report Merch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=katie-kimmel-dog-vase'>Katie Kimmel Dog Vase</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goodbye-quotes-sad'>Goodbye Quotes Sad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-tea-girl-of-hummingbird-lane-wikipedia'>The Tea Girl Of Hummingbird Lane Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=christina-pazsitzky-kids'>Christina Pazsitzky Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=haibun-matsuo-basho'>Haibun Matsuo Basho</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-edge-building-amsterdam-address'>The Edge Building Amsterdam Address</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donald-rumsfeld-2020'>Donald Rumsfeld 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dean-clark-aristocats'>Dean Clark Aristocats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blubber-judy-blume'>Blubber Judy Blume</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-ella-dershowitz'>How Old Is Ella Dershowitz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=southwestern-energy-subsidiaries'>Southwestern Energy Subsidiaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=micrometer-to-meter'>Micrometer To Meter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sound-machine-characters'>The Sound Machine Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=camp-k9-auburn-maine'>Camp K9 Auburn Maine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-underground-railroad-colson-whitehead'>The Underground Railroad Colson Whitehead</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gideon%27s-way-morna'>Gideon's Way Morna</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Make-It-Take-It'>Make It Take It</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shane-strickland-age'>Shane Strickland Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cream---Wheels-of-Fire'>Cream - Wheels Of Fire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-was-james-chadwick-discovery-important'>Why Was James Chadwick Discovery Important</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-spurgeon-commentary-on-the-whole-bible-pdf'>Charles Spurgeon Commentary On The Whole Bible Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-death-and-life-of-great-american-cities-full-text'>The Death And Life Of Great American Cities Full Text</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=summer-queen-5e'>Summer Queen 5e</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2nd-tank-battalion'>2nd Tank Battalion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dominic-raab-erika-rey'>Dominic Raab Erika Rey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=erin-morgenstern-agent'>Erin Morgenstern Agent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-unteachables-ar-test-answers'>The Unteachables Ar Test Answers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=obvious-plant-revengers'>Obvious Plant Revengers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-writer-observed'>The Writer Observed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cry-of-the-penguins-trailer'>Cry Of The Penguins Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ostriv-latest-version'>Ostriv Latest Version</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hungarian-past-tense'>Hungarian Past Tense</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sonic-blast-sizes-oz'>Sonic Blast Sizes Oz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sophocles-quotes-antigone'>Sophocles Quotes Antigone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=graeme-sharp-everton-stats'>Graeme Sharp Everton Stats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bachelor-nation-instagram'>Bachelor Nation Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lidya-Jewett-wikipedia'>Lidya Jewett Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-last-whisper-book'>The Last Whisper Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kidnapped-series-korman'>Kidnapped Series Korman</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=32nd-european-film-awards'>32nd European Film Awards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alcatel-a3-xl-9008x'>Alcatel A3 Xl 9008x</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gangstar-west-coast-hustle-1280x720-apk'>Gangstar West Coast Hustle 1280x720 Apk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bugsy-Siegel-wife'>Bugsy Siegel Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=henry-mancini-songs'>Henry Mancini Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-ballad-of-reading-gaol-analysis-pdf'>The Ballad Of Reading Gaol Analysis Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=strongarm-sport-canada'>Strongarm Sport Canada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-louis-deniot-book'>Jean-louis Deniot Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bruno-campos-princess-and-the-frog'>Bruno Campos Princess And The Frog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plymouth-rock-phone-number'>Plymouth Rock Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-moon-bronxville-menu'>Blue Moon Bronxville Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eversource-western-mass'>Eversource Western Mass</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pse-guide-youth-compound-bow-adjustment'>Pse Guide Youth Compound Bow Adjustment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emma-straub-birthday'>Emma Straub Birthday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-gun-massager'>The Gun Massager</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2-hour-drive-from-los-angeles'>2 Hour Drive From Los Angeles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marcus-claudius-marcellus'>Marcus Claudius Marcellus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kim-walker-brain-tumor'>Kim Walker Brain Tumor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arrange-crossword-clue'>Arrange Crossword Clue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=postman-blues-ending'>Postman Blues Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=De-Architectura-PDF'>De Architectura PDF</a>,
+";s:7:"expired";i:-1;}

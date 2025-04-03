@@ -1,0 +1,105 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2741:"<br>Recently opened by Lauren Singer, the mind behind the zero-waste lifestyle blog Trash is for Tossers, Package Free sells bulk home goods and bath & body products.Among the many natural, unpackaged products that fill the shelves of this bright and airy shop are small-batch naturally-made deodorant and Lauren’s all-natural laundry detergent. Oaktown Spice Shop, Oakland. Zero Waste Near Me is a volunteer-run non-profit organisation that promotes businesses and community initiatives that are doing their part to help us live more sustainably. <br> <br>Welcome to the new and improved Bulk Locations Map! <br> <br>  <br>Herndon Mudlab, Oakland – zero waste grocery supplies. I know how difficult it can be to find stores that carry package-free foods.Shopping bulk is the epitome of zero waste living as it appears and many think they do not have this option near them. ingredients, oils, tea, plastic-free body care and household products, and huge selection of daily life products to help you achieve a zero-waste lifestyle. Lead the trend of sustainability by switching to zero waste products today! <br> <br>Olive This, Olive That – San Francisco (Return your bottle clean and dry and they will refill it for you and are very and give you $2 off each bottle!) <br> <br>ZERO market is open inside the Stanley Marketplace in Aurora, Colorado and also inside Edgewater Public Market in Edgewater, Colorado featuring zero waste goodies including bulk D.I.Y. Zero Waste Store offers all natural, sustainably sourced, eco-friendly, plastic-free alternatives to items people use in their everyday lives, at an affordable price! Precycle is a package-free store in Brooklyn NY, selling local organic produce, bulk food and sustainable, Eco friendly household products for a zero waste lifestyle House Kombucha Taproom cafe/taproom – Berkeley. Find everything from reusable cotton bulk bags to cloth diapers to charcoal water filtering sticks to bamboo utensils, and so much more.-Friendly City Food Co-op: Offers bulk flour, beans, grains, candy, trail mix, snacks, herbs, and spices. North Coast Coop San Francisco Mandela Grocery Co-op – West Oakland. With over 1000 locations and growing! <br> At Package Free Shop we sell sustainable, green, eco friendly, plastic free products to help you live a zero waste, minimalist, and low impact lifestyle. zero waste grocery guide COVID-19 Update: Regardless of what the lists below for each state say, many if not most stores offering bulk foods are not currently accepting Bring Your Own Containers (BYOC) to minimize potential contact. All of our products are free from toxins, chemicals, plastic, and more. <br> <br>-Bring Your Own: This store sells good for a zero waste life. <br>";s:7:"keyword";s:32:"zero waste grocery store near me";s:5:"links";s:5482:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Riker-and-Troi'>Riker And Troi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robin-wells-wikipedia'>Robin Wells Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paying-someone-to-hurt-someone'>Paying Someone To Hurt Someone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=medea---youtube'>Medea - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=uglies-quotes-about-society'>Uglies Quotes About Society</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1960s-detective-movies'>1960s Detective Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rita-williams-garcia-website'>Rita Williams-garcia Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kawhi-Leonard-back'>Kawhi Leonard Back</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=overthrow-of-the-hawaiian-kingdom'>Overthrow Of The Hawaiian Kingdom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Electric-Wizard---funeralopolis'>Electric Wizard - Funeralopolis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hot-girl-lyrics'>Hot Girl Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=holly-hobbie-and-friends---surprise-party'>Holly Hobbie And Friends - Surprise Party</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-arrival-%281996-trailer%29'>The Arrival (1996 Trailer)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-last-truck%3A-closing-of-a-gm-plant-summary'>The Last Truck: Closing Of A Gm Plant Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jump-in-japanese'>Jump In Japanese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-soul-covers'>Best Soul Covers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autocad-group-command'>Autocad Group Command</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gag-or-Throttle'>Gag Or Throttle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rolf-scamander-family-tree'>Rolf Scamander Family Tree</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kurt-masur-gewandhaus'>Kurt Masur Gewandhaus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=complete-beatrix-potter-collection-dvd'>Complete Beatrix Potter Collection Dvd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-princess-and-the-dragon-story'>The Princess And The Dragon Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=God-of-death'>God Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tolkien-estate-fanfiction'>Tolkien Estate Fanfiction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=extreme-sports-meaning-in-punjabi'>Extreme Sports Meaning In Punjabi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-follow-along-with'>To Follow Along With</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Alice-Adams-novel'>Alice Adams Novel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hypovolemic-thirst-process'>Hypovolemic Thirst Process</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Best-school-dance-songs'>Best School Dance Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=twist-bioscience-careers'>Twist Bioscience Careers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=World-Without-Men'>World Without Men</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=professional-translation-english-to-arabic'>Professional Translation English To Arabic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=titanic-netflix-canada'>Titanic Netflix Canada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=List-of-state-abbreviations-Excel'>List Of State Abbreviations Excel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-julie-taymor-known-for'>What Is Julie Taymor Known For</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-key-to-success-is-failure-quote'>The Key To Success Is Failure Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-fletcher-quotes'>Alan Fletcher Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mine-plural-in-french'>Mine Plural In French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unreal-reality-of-numbers'>Unreal Reality Of Numbers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sonic-blast-sizes-oz'>Sonic Blast Sizes Oz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gangstar-west-coast-hustle-1280x720-apk'>Gangstar West Coast Hustle 1280x720 Apk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-did-boystory-debut'>When Did Boystory Debut</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chinese-symbol-for-english'>Chinese Symbol For English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-power-of-the-mind-pdf'>The Power Of The Mind Pdf</a>,
+";s:7:"expired";i:-1;}

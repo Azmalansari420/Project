@@ -1,0 +1,138 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3401:"<p>James Chadwick (1891 - 1974) James Chadwick is best known for his discovery of the neutron in 1932, for which he received the Nobel Prize in 1935. </p> <p>Louis de Broglie (In full:Louis-Victor-Pierre-Raymond, 7th duc de Broglie) was an eminent French physicist. </p> <p>A whole new part of the atom has now been discovered. Early in the century, Ernest Rutherford  developed a crude model  of the atom,     based on the gold foil experiment  of Hans Geiger  and Ernest Marsden. Born in Manchester, he was one of the most brilliant disciples of Ernest Rutherford, with whom he worked from 1909 to 1935. </p> <p>Now that the neutron was discovered, some pretty important aspects of science were opened up. James Chadwick is important in todays society because he discovered that atoms contained sub-atomic particles known as neutrons. Sir James Chadwick, CH, FRS (20 October 1891 – 24 July 1974) was a British physicist who was awarded the 1935 Nobel Prize in Physics for his discovery of the neutron in 1932. </p> <p>That brings about two new things that can now be made. In 1941, he wrote the final draft of the MAUD Report, which inspired the U.S. government to begin serious atomic bomb research efforts. </p> <p>In 1908 he began studying physics at the University of Manchester, where he graduated in 1911. </p> <p>By 1920 chemical isotopes  had been discovered, the atomic masses  had been determined to be (approximately) integer multiplesof the … James Chadwick, in full Sir James Chadwick, (born October 20, 1891, Manchester, England—died July 24, 1974, Cambridge, Cambridgeshire), English physicist who received the Nobel Prize for Physics in 1935 for the discovery of the neutron.. Chadwick was educated at the University of Manchester, where he worked under Ernest Rutherford and earned a master’s degree in 1913. </p> <p>Chadwick was born in Bollington, near Manchester. </p> <p>In his 1924 thesis, he discovered the wave nature of electrons and suggested that all matter have wave properties. </p> <p>He first attended the Bollington Cross C of E Primary School and later the Central Grammar School for Boys in Manchester. His parents were John Joseph Chadwick and Mary Anne Knowles. </p> <p>He gained worldwide acclaim for his groundbreaking work on quantum theory. Held in a German prison camp for all of World War 1, he led the British team in the Manhattan Project, in which the UK and Canada supported the USA’s World War 2 effort to build the world’s first nuclear bomb. </p> <p>Along with that, atomic fission was now possible. The discovery of the neutron  and its properties was central to the extraordinary developments in atomic physics  in the first half of the 20th century. Chadwick then spent two years with Ernest Rutherford at the Physical Laboratory in Manchester, … In 1941, he wrote the final draft of the MAUD Report, which inspired the U.S. government to … In this model, atoms had their mass  and positive electric charge  concentrated in a very small nucleus. James Chadwick discovered the neutron in 1932 and was awarded the Nobel Prize for Physics in 1935. </p> <p>Sir James Chadwick, CH, FRS (20 October 1891 – 24 July 1974) was an English physicist who was awarded the 1935 Nobel Prize in Physics for his discovery of the neutron in 1932. </p> <p> </p> <p>For example, this changed the way that people thought of an atom all together. </p>";s:7:"keyword";s:42:"why was james chadwick discovery important";s:5:"links";s:9712:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=globe-life-app'>Globe Life App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=princess-connect-re%3Adive-anime-release-date'>Princess Connect Re:dive Anime Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Acronym-for-PEACE'>Acronym For PEACE</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=for-love-and-lemons-corset'>For Love And Lemons Corset</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crinkle-mouse-snl'>Crinkle Mouse Snl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sarah-Waters-wiki'>Sarah Waters Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-pimp-a-butterfly-pulitzer'>To Pimp A Butterfly Pulitzer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=time-abbreviation-meaning'>Time Abbreviation Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=used-jane-austen-books'>Used Jane Austen Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=um-hello-meme'>Um Hello Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wise-and-Benevolent-Women'>Wise And Benevolent Women</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-tucci-wife'>Michael Tucci Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-dinosaur-can-kill-a-spinosaurus'>What Dinosaur Can Kill A Spinosaurus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=general-idi-amin-dada%3A-a-self-portrait-watch-online'>General Idi Amin Dada: A Self Portrait Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=el-alamein-1'>El Alamein 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seinfeld-manzier-episode'>Seinfeld Manzier Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marked-npm-library'>Marked Npm Library</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sensible-shoes-summary'>Sensible Shoes Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=does-cady-die-in-longmire'>Does Cady Die In Longmire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=h-e-b-partner-jackets'>H-e-b Partner Jackets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jennifer-courtney-pharmacist'>Jennifer Courtney Pharmacist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carrie-lynn-hula-gods'>Carrie Lynn Hula Gods</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=forbes-china-list-2019'>Forbes China List 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-bad-things-did-vespasian-do'>What Bad Things Did Vespasian Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=100th-birthday-poem'>100th Birthday Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=quiet-night-thoughts'>Quiet Night Thoughts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gospel-hall-brethren'>Gospel Hall Brethren</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=matilda-broadway-cast---2015'>Matilda Broadway Cast - 2015</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-home-filler-up-and-keep-on-truckin%27-cafe-commercial'>Old Home Filler Up And Keep On Truckin' Cafe Commercial</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goebbels-sportpalast-speech-transcript'>Goebbels Sportpalast Speech Transcript</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hopeless-opus-backwards'>Hopeless Opus Backwards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=street-magic-meme'>Street Magic Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=playing-your-game%2C-baby-lyrics'>Playing Your Game, Baby Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=irish-themed-films'>Irish Themed Films</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-walk%3A-steps-for-new-and-renewed-followers-of-jesus'>The Walk: Steps For New And Renewed Followers Of Jesus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blake-clark-grown-ups'>Blake Clark Grown Ups</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=feminism-in-renaissance-england'>Feminism In Renaissance England</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kenya-hara-designing-design-pdf'>Kenya Hara Designing Design Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=English-Speaking-videos'>English Speaking Videos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maltese-cross-firefighter-tattoo'>Maltese Cross Firefighter Tattoo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=celina-jade-hangeng'>Celina Jade Hangeng</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cheap-restaurants-in-malaysia'>Cheap Restaurants In Malaysia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Switzerland-before-ww2'>Switzerland Before Ww2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-court-of-frost-and-starlight'>A Court Of Frost And Starlight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-language-articles-pdf'>Chinese Language Articles Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kim-tae-pyung-meaning'>Kim Tae Pyung Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Comedy-drama-examples'>Comedy Drama Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flower-painting-easy-step-by-step'>Flower Painting Easy Step By Step</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drew-struzan-stranger-things'>Drew Struzan Stranger Things</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tremors-2-movie'>Tremors 2 Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-york-rens-hall-of-fame'>New York Rens Hall Of Fame</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=me-and-my-place-in-space'>Me And My Place In Space</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=racy-mr-and-mrs-questions'>Racy Mr And Mrs Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-writer-observed'>The Writer Observed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=theron-ware-hudson'>Theron Ware Hudson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blood-rappers-2019'>Blood Rappers 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=navaja-knife-csgo'>Navaja Knife Csgo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mithunam-malayalam-movie'>Mithunam Malayalam Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=infestation-2-idw'>Infestation 2 Idw</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=canal-street-%282018-full-movie-online%29'>Canal Street (2018 Full Movie Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jungle-book-pop-up-book'>Jungle Book Pop-up Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charlotte-coleman-movies-and-tv-shows'>Charlotte Coleman Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miley-cyrus---nothing-breaks-like-a-heart-chords'>Miley Cyrus - Nothing Breaks Like A Heart Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Martin-Chuzzlewit-summary'>Martin Chuzzlewit Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saturday-fiction-dvd'>Saturday Fiction Dvd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=golden-fluid-acrylics-hobby-lobby'>Golden Fluid Acrylics Hobby Lobby</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chatsworth-ga-to-chattanooga-tn'>Chatsworth Ga To Chattanooga Tn</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-of-j-roc'>Best Of J-roc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=platform-stiletto-high-heels'>Platform Stiletto High Heels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=helicopter-meaning-tik-tok'>Helicopter Meaning Tik Tok</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-do-choices-affect-our-identity'>How Do Choices Affect Our Identity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lavender-tree-care-instructions'>Lavender Tree Care Instructions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Eye-Candy%3A-A-Novel'>Eye Candy: A Novel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-duchovny-and-gillian-anderson-tv-show'>David Duchovny And Gillian Anderson Tv Show</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meaning-of-silence-in-relationship'>Meaning Of Silence In Relationship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clorox-fuzion-spec-sheet'>Clorox Fuzion Spec Sheet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bone-fragments-in-foot'>Bone Fragments In Foot</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,131 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3118:"<p>Bekim Fehmiu u gjend i vdekur më 15 qershor 2010 në banesën e tij në Lagjen “ Zvezdara ” në Beograd. Ai konsiderohet gjithashtu si aktori i parë shqiptar i filmit dhe i teatrit, i cili ka luajtur me sukses në filmat dhe skenat e gjithë hapësirës së ish-Jugosllavisë. Komuna e Prizrenit ka përmbyllur konkursin për zgjedhjen e aktorëve rezident të Teatrit “Bekim Fehmiu”, duke përzgjedhur 11 aktorë. Bekim Fehmiu (serbisht: Беким Фехмију) ishte një aktor Shqiptar nga Kosova.Lindi në Sarajevë, Bosnja dhe Hercegovina më 1 Qershor 1936 dhe vdiq më 15 Qershor 2010 në Beograd, Serbia.. Rrjedh nga një familje e njohur gjakovare.Babai i tij, Ibrahim Fehmiu, ishte patriot i shquar, njëri ndër mësuesit e gjeneratës së parë në Kosovë dhe propagandues i madh i arsimit në. Bekim Fehmiu do të kujtohet vetëm me “Mbledhësin e puplave” në Prizren Sipas Rregullores për ndarjen e çmimeve në kinematografi, çmimi për vepër jetësore “Bekim Fehmiu” dhe çmimet e tjera ndahen në një ceremoni solemne, çdo vit më 1 qershor, në ditën e lindjes së aktorit. Bekim Fehmiu, një ndër aktorët më të mëdhenj shqiptarë që pati famë kudo nëpër botë, në vitin 2001 ka dhënë një intervistë për gazetën serbe “Vreme”. “Jo vetëm për mua, por edhe për të … Majka Hazlija rodila ga je 1. lipnja 1936. u Sarajevu - gdje mu se otac Ibrahim bio otisnuo trbuhom za kruhom - što će reći da je petnaest dana prije nego što je počinio samoubojstvo ugasio sedamdeset četiri svjećice na rođendanskoj torti. Bekim Fehmiu u bë i famshëm me filmin “Mbledhësit e Puplave”, në vitin 1966. Bekim Fehmiu je Albanac čiji su preci iz Đakovice na Kosovu. </p> <p>Këto ditë, me shumë vonesë u njoftova se Komisioni për vlerësimin e aplikimeve për subvencione nga ana e Drejtorisë së Kulturës, Rinisë dhe Sportit pranë komunës së Prizrenit, më 8 Qershor, e paska refuzuar projektin tonë për subvencionimin e filmit dokumentar të metrazhit të gjatë, kushtuar jetës dhe veprës së aktorit, Bekim Fehmiu. Lajmi është bërë i ditur edhe nga drejtori i këtij teatri, Fetah Paçarizi. Aty ai ka biseduar edhe për besën, virtyt ky që dallon te shqiptarët. 11 aktorë do të përbëjnë edhe zyrtarisht ansamblin rezident të aktorëve të Teatrit të Qytetit të Prizrenit, “Bekim Fehmiu”. </p> <p>Sipas autoriteteve bëhet fjalë për vetëvrasje. Lajmi se Bekim Fehmiu më 15 qershor 2010 bëri vetëvrasje në banesën e vet në Beograd, u prit me shumë pikëllim.  Beli Bora nga "Mbledhësit e puplave”, nuk harrohet. Festivali Ndërkombëtar i Filmit në Beograd kësaj here i është dedikuar aktorit më të mëdhe shqiptarë në kinematografinë Jugosllave, Deri në atë kohë, ai kishte studiuar dhe ishte bërë i njohur nga shumë shtëpi filmi nëpër botë. </p> <p>Gjatë karrierës së tij, Fehmiu realizoi role që e bënë të njohur në kinematografinë botërore, si në filmmat: “Mbledhësit e puplave”, “ Odissea ”, “ Avanturierët ”, “Përgjithmonë Xhulia”, etj. </p>";s:7:"keyword";s:20:"si vdiq bekim fehmiu";s:5:"links";s:8620:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wallace-and-gromit-fluffles'>Wallace And Gromit Fluffles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=belief-meaning-in-telugu'>Belief Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=imagination-company-stock'>Imagination Company Stock</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=red-sands-sea-forts-for-sale'>Red Sands Sea Forts For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=space-cadet-sparknotes'>Space Cadet Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scarface-poster-walmart'>Scarface Poster Walmart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=house-by-the-railroad-essay'>House By The Railroad Essay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-God-Abandons-Antony'>The God Abandons Antony</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeff-goldblum-appearances-2019'>Jeff Goldblum Appearances 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-and-courage-quotes'>Love And Courage Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nicholas-cirillo-actor'>Nicholas Cirillo Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=french-classical-violinist-ginette'>French Classical Violinist Ginette</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-nativity-emerson-paramount'>Black Nativity Emerson Paramount</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Circuit-in-a-sentence'>Circuit In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stinger-car-price'>Stinger Car Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nature-of-recreation-in-physical-education'>Nature Of Recreation In Physical Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tehran-episode-1'>Tehran Episode 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=operation-game-amazon'>Operation Game Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=5-marks-of-the-church'>5 Marks Of The Church</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antonina-shevchenko-sherdog'>Antonina Shevchenko Sherdog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interventional-radiology-salary-2019'>Interventional Radiology Salary 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barn-34-menu'>Barn 34 Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-kidd-gilchrist-trade'>Michael Kidd-gilchrist Trade</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jacqueline-bisset-marriages'>Jacqueline Bisset Marriages</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pop-art-definition'>Pop Art Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Akira-Toriyama-age'>Akira Toriyama Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ae-fond-kiss-film'>Ae Fond Kiss Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dragon-prince%27s-bride'>The Dragon Prince's Bride</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wringer-chapter-40-summary'>Wringer Chapter 40 Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=With-mortal-voice'>With Mortal Voice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=owens-community-college'>Owens Community College</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=doctors-bbc-watch-online'>Doctors Bbc Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=don%27t-do-it-lyrics-starlito'>Don't Do It Lyrics Starlito</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nobody-knows-film-rudy-pankow'>Nobody Knows Film Rudy Pankow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=outlook-2016-keeps-disconnecting'>Outlook 2016 Keeps Disconnecting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=A-Channeling-Handbook'>A Channeling Handbook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-issachar-anointing-pdf'>The Issachar Anointing Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sarah-michelle-gellar-net-worth-2020'>Sarah Michelle Gellar Net Worth 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ludlow-lamonsoff-actor'>Ludlow Lamonsoff Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=iq-children%27s-books'>Iq Children's Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lauren-reid-instagram'>Lauren Reid Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caroline-bittencourt-cause-of-death'>Caroline Bittencourt Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eragon-game-ps2'>Eragon Game Ps2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lan-Yi-Chinese-actor'>Lan Yi Chinese Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-missing-beach-ball'>The Missing Beach Ball</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cowboy-movies---youtube'>Cowboy Movies - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=birthright-israel-reviews'>Birthright Israel Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backseat-driver-idiom'>Backseat Driver Idiom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=101-cooking-for-two'>101 Cooking For Two</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=denis-matsuev-concert-schedule-2019'>Denis Matsuev Concert Schedule 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-father-son-and-holy-spirit-lyrics'>The Father Son And Holy Spirit Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hand-climber-tree-stand'>Hand Climber Tree Stand</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-year-is-79-ad'>What Year Is 79 Ad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=megan-parlen-imdb'>Megan Parlen Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ngaio-marsh-best-books'>Ngaio Marsh Best Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=places-to-eat-in-ambleside'>Places To Eat In Ambleside</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jesse-bostick-net-worth'>Jesse Bostick Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-does-a-peach-grow'>How Does A Peach Grow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=root-of-a-number-in-excel'>Root Of A Number In Excel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=royal-chaos-diaochan'>Royal Chaos Diaochan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mount-shishaldin-tectonic-plates'>Mount Shishaldin Tectonic Plates</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tupolev-tu-144-interior'>Tupolev Tu-144 Interior</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=first-year-college-student-scholarships'>First Year College Student Scholarships</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=melbourne-florida-weather'>Melbourne Florida Weather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=good-bye-meaning-in-telugu'>Good Bye Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tom-francis-games'>Tom Francis Games</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scarpetta-patricia-cornwell'>Scarpetta Patricia Cornwell</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julie-cox---imdb'>Julie Cox - Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=busan-modern-history-museum'>Busan Modern History Museum</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-the-grounding-problem'>What Is The Grounding Problem</a>,
+";s:7:"expired";i:-1;}

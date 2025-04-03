@@ -1,0 +1,149 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3524:"<p>Duplicati: Duplicity: Repository: 4,894 Stars: 51 204 Watchers: 4 564 Forks: 7 10 days Release Cycle: 35 days 4 months ago: Latest Version: almost 9 years ago: 3 months ago Last Commit - More - Code Quality: L3: C# Language: Python </p> <p>Duplicati vs Duplicacy vs others? ams6110 on July 18, 2017 > duplicity has a serious flaw in its incremental model -- the user has to decide whether to perform a full backup or an incremental backup on each run. Duplicati is an excellent choice to backup your files. Duplicate vs duplicity; Duplicate and duplicity are two words that come from the same roots but have different meanings. See more. Duplicati vs Duplicacy vs others? Duplicati is a free, open source, backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. With Crashplan’s announced deprecation of Home services, I set up Minio on my various endpoints, exposed the port to relevant subnets, and set up peer-to-peer backup. Duplicati tried to delete the files, but they were in use by the CrashPlan client. less frequently used items: Windows 32bit . 8 thoughts on “Best Mac Backup: Time Machine vs Arq vs Duplicati vs Cloudberry Backup” PitBullCH says: 2017/08/26 at 12:55 Reply. Duplicati 2.0 Store securely encrypted backups on cloud storage services! So I had no indication in Duplicati that the entire backup still existed at the destination, and no … Currently the encryption, compression and storage component are considered subcomponent and are loaded at runtime, making it possible for a third-party developer to inject a subcomponent into Duplicati without access to the source or any need to modify Duplicati itself. In that year the storage model was redesigned completely and the program was rebuilt from scratch. It might take a little more to get installed and running but the large number of cloud storage services it can use and the level of encryption is great for those wanting more of a do it yourself cloud backup solution. 2 years ago. </p> <p>Archived. Duplicity definition is - contradictory doubleness of thought, speech, or action; especially : the belying of one's true intentions by deceptive words or action. Backup with Duplicati and Minio 30 Aug 2017. The license type is also flexible enough to allow redistribution of Duplicati with a closed-… The Duplicati project was inspired by Duplicity and had similar functionality until 2008. Download the latest and greatest version of Duplicati here: Windows . It may be misspelled. Below are some screenshots of my testing of Duplicati. Sort by. interrupted backups can be resumed and Duplicati tests the content of backups regularly. share. Gallery. Duplicati: Duplicity: Repository: 4,894 Stars: 51 204 Watchers: 4 564 Forks: 7 10 days Release Cycle: 35 days 4 months ago: Latest Version: almost 9 years ago: 3 months ago Last Commit - More - Code Quality: L3: C# Language: Python Complicity vs Duplicity - What's the difference? complicity | duplicity | As nouns the difference between complicity and duplicity is that complicity is (senseid)the state of being complicit; involvement as a partner or accomplice, especially in a crime or other wrongdoing while duplicity is intentional deceptiveness; double-dealing. for developers and system administrators: Source code - on GitHub. </p> <p>New comments cannot be posted and votes cannot be cast. macOS / OSX . 1.6 - Duplicati VS Backupninja Lightweight, extensible meta-backup system. complicity . </p>";s:7:"keyword";s:19:"blink 182 tour 1999";s:5:"links";s:10970:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=as-i-grow-older%2C-i-pay-less-attention'>As I Grow Older, I Pay Less Attention</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cop-town-movie'>Cop Town Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goosebumps-season-1-episode-4-cast'>Goosebumps Season 1 Episode 4 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kyouka-izumi-age-bungo-stray-dogs'>Kyouka Izumi Age Bungo Stray Dogs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hayley-cropper-red-coat'>Hayley Cropper Red Coat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Grimm%27s-Fairy-Tale-Classics-Bluebeard'>Grimm's Fairy Tale Classics Bluebeard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devilman-anime-movie'>Devilman Anime Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-trek-convention-2020-dates'>Star Trek Convention 2020 Dates</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=missa-solemnis-translation'>Missa Solemnis Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-wrote-the-song-foolish-questions'>Who Wrote The Song Foolish Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shadows-feat-miss-mary-ncs-release'>Shadows Feat Miss Mary Ncs Release</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-brothers-film'>The Brothers Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-landscape-orchestra'>American Landscape Orchestra</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soundcity-top-10-usa-this-week'>Soundcity Top 10 Usa This Week</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-barrera-obituary'>David Barrera Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Death-Wish-IMDb'>Death Wish IMDb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interrupting-chicken-pdf'>Interrupting Chicken Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Spring-Breakdown-full-movie-123movies'>Spring Breakdown Full Movie 123movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=confession-scriptures-in-the-bible'>Confession Scriptures In The Bible</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=siege-meaning-in-tamil'>Siege Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Alex-Lawther-TV-Shows'>Alex Lawther TV Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=first-generation-scholarship'>First Generation Scholarship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mrs-piggle-wiggle-read-aloud'>Mrs Piggle Wiggle Read Aloud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dyna-switchback-for-sale'>Dyna Switchback For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-do-you-draw-the-line'>Where Do You Draw The Line</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cities-in-iceland'>Cities In Iceland</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jimmy-Fallon-office'>Jimmy Fallon Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=advanced-japanese-phrases'>Advanced Japanese Phrases</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Universal-Love-Squad'>Universal Love Squad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1-corinthians-3%3A17'>1 Corinthians 3:17</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daybreak-login-issues'>Daybreak Login Issues</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roscoe-dash-height'>Roscoe Dash Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-thank-you-song-lyrics'>No Thank You Song Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antiquity-time-period'>Antiquity Time Period</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-joe-hills-hermitcraft'>How Old Is Joe Hills Hermitcraft</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=can-i-pay-someone-to-beat-me-up'>Can I Pay Someone To Beat Me Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=human-genome-book-pdf'>Human Genome Book Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autocad-help-2018'>Autocad Help 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=colossians-3%3A1-3-niv'>Colossians 3:1-3 Niv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phases-of-matter-worksheet-pdf'>Phases Of Matter Worksheet Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-american-agent-kindle'>The American Agent Kindle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=religion-using-fear-to-control'>Religion Using Fear To Control</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-betjeman-metroland'>John Betjeman Metroland</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lego-pop-up-books'>Lego Pop-up Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=serial-monogamy-definition-sociology'>Serial Monogamy Definition Sociology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sailor-moon-super-s-characters'>Sailor Moon Super S Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eighteen-arhats-in-shaolin-temple-%282020%29'>Eighteen Arhats In Shaolin Temple (2020)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=John-Kay-%26-Steppenwolf'>John Kay & Steppenwolf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=warriors-orochi-4-ultimate-ps4'>Warriors Orochi 4 Ultimate Ps4</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reached-book-review'>Reached Book Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ninja-sword-toy'>Ninja Sword Toy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-course-in-miracles-pdf-drive'>A Course In Miracles Pdf Drive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-restaurants-coming-to-yuma%2C-az-2019'>New Restaurants Coming To Yuma, Az 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-school-love-lyrics'>Old School Love Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Funny-knowledge-Quotes'>Funny Knowledge Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gladiolus-companion-plants'>Gladiolus Companion Plants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spiritism-vs-spiritualism'>Spiritism Vs Spiritualism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=To-Die-But-Once'>To Die But Once</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nobody-knows-film-rudy-pankow'>Nobody Knows Film Rudy Pankow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Henry-VIII-battles'>Henry VIII Battles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=they-sowed-their-isn%27t-they-reaped-their-same-meaning'>They Sowed Their Isn't They Reaped Their Same Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-bullet-mask'>Black Bullet Mask</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=watermelon-man-meaning'>Watermelon Man Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Ghost-and-Mrs-Muir-Full-movie'>The Ghost And Mrs Muir Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Amped-Wireless-RTA2600'>Amped Wireless RTA2600</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-did-frank-luke-do'>What Did Frank Luke Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youngstown-death-records'>Youngstown Death Records</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Marriage-feels-like-a-business-relationship'>Marriage Feels Like A Business Relationship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hero-of-Alexandria-vending-machine'>Hero Of Alexandria Vending Machine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naruto-season-4-episode-7'>Naruto Season 4 Episode 7</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=medfield-state-hospital'>Medfield State Hospital</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=freaky-ali-netflix'>Freaky Ali Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=america-america-kannada-movie-cast'>America America Kannada Movie Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pig-farming-profit-margin'>Pig Farming Profit Margin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=book-one-by-one'>Book One By One</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=facts-about-sandra-cisneros'>Facts About Sandra Cisneros</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wroclaw%2C-poland-weather'>Wroclaw, Poland Weather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-creek-pass-with-lyrics'>Wolf Creek Pass With Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bad-ice-cream-unblocked'>Bad Ice Cream Unblocked</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dylan-the-dog'>Dylan The Dog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bekim-sejranovic-knjige'>Bekim Sejranovic Knjige</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=making-comics-app'>Making Comics App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plymouth-rock-phone-number'>Plymouth Rock Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shoot-a-video'>Shoot A Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mushroom-shake-koh-lipe'>Mushroom Shake Koh Lipe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madly-madagascar-youtube'>Madly Madagascar Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vita-student-edinburgh'>Vita Student Edinburgh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kelechi-osemele-team'>Kelechi Osemele Team</a>,
+";s:7:"expired";i:-1;}

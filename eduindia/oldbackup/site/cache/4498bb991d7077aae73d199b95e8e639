@@ -1,0 +1,117 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1343:"<p>One of the major Latin American writers of this century, he is the author of The Lost Steps, Explosion in a … It took place on the island of Hispanola in what is now Haiti between 1791 and 1804. </p> <p>The Kingdom of This World by Alejo Carpentier. Alejo Carpentier was born in Havana in 1904. The Kingdom of This World takes place prior to, during, and after the Haitian Revolution which began in 1791 and led to the declaration of Haitian independence in 1804. </p> <p>He lived for many years in France and Venezuela but returned to Cuba after the revolution. The Kingdom of This World is a novel by Cuban author Alejo Carpentier, published in 1949 in his native Spanish and first translated into English in 1957. By Ted Gioia. The Kingdom of this World (1949) is Alejo Carpentier’s historical novel documenting the first successful slave revolution in the Americas. … </p> <p> a literary attitude that would pervade Latin. employs the phrase lo real maravilloso—which. </p> <p>translates as "the marvelous real"—delineating. </p> <p>The Kingdom of This World, written by Alejo Carpentier and originally published in 1949, traces events in 20 th -century Haiti, beginning in the French colonial period and stretching through the lifetime of its protagonist, Ti Noël. </p> <p>In the preface to this work, Alejo Carpentier. </p>";s:7:"keyword";s:43:"alejo carpentier: the kingdom of this world";s:5:"links";s:6784:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sandra-scott-randolph-scott%27s-daughter'>Sandra Scott Randolph Scott's Daughter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ruth-porat-family'>Ruth Porat Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-am-spartacus'>I Am Spartacus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=on-tour-kickstarter'>On Tour Kickstarter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Michael-Owen-interview'>Michael Owen Interview</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=palominos-franklin-square-menu'>Palominos Franklin Square Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aleko-canada-location'>Aleko Canada Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=types-of-vampires-in-mythology'>Types Of Vampires In Mythology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=audiobooks-com-library'>Audiobooks Com Library</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=underwater-dogs-calendar-2020'>Underwater Dogs Calendar 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=asmodeus-cleric-pathfinder'>Asmodeus Cleric Pathfinder</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-are-the-5-elements-of-defamation'>What Are The 5 Elements Of Defamation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lifeline-recertification-qlink'>Lifeline Recertification Qlink</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gemini-Man-IMDb'>Gemini Man IMDb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Noah-clothing-Sale'>Noah Clothing Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Victor-Borge---Page-turner'>Victor Borge - Page Turner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dieter-rams-personal-life'>Dieter Rams Personal Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mary-Engelbreit%27s-Nutcracker'>Mary Engelbreit's Nutcracker</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gulistan-saadi-in-farsi'>Gulistan Saadi In Farsi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=salon-kitty-blu-ray'>Salon Kitty Blu-ray</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liberty-london-tote-sale'>Liberty London Tote Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=minneapolis-police-department-jobs'>Minneapolis Police Department Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-marsden-so-much-to-tell-you'>John Marsden So Much To Tell You</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eversource-pay-bill'>Eversource Pay Bill</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sympathetic-and-parasympathetic'>Sympathetic And Parasympathetic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=malory-family-books-in-order'>Malory Family Books In Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Grunge-style-2019'>Grunge Style 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=encyclopedia-of-witchcraft'>Encyclopedia Of Witchcraft</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sharon-core%3A-early-american'>Sharon Core: Early American</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mileena-Mortal-Kombat-3'>Mileena Mortal Kombat 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-flea-john-donne-summary'>The Flea John Donne Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lynne-benioff-wedding'>Lynne Benioff Wedding</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=looking-unto-jesus-meaning'>Looking Unto Jesus Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pulkovo-airport-arrivals'>Pulkovo Airport Arrivals</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=matt-levine%2C-drifter'>Matt Levine, Drifter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Knut-Hamsun-Goodreads'>Knut Hamsun Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buck-henry-quotes'>Buck Henry Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jack-davis-education'>Jack Davis Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spartacus-netflix-2020'>Spartacus Netflix 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dreamer-superhero-powers'>Dreamer Superhero Powers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-reichs-charlotte-nc'>Paul Reichs Charlotte Nc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=21-day-weather-forecast-gibraltar'>21 Day Weather Forecast Gibraltar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rick-owens-ramones'>Rick Owens Ramones</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=some-pig-gif'>Some Pig Gif</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trigger-warning-song'>Trigger Warning Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hana-hayes-the-walking-dead'>Hana Hayes The Walking Dead</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amos-diggory-mrs-diggory'>Amos Diggory Mrs Diggory</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kathryn-morris-instagram'>Kathryn Morris Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madonna-del-prato-medium'>Madonna Del Prato Medium</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Introduction-to-Poetics'>Introduction To Poetics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marcus-lemonis-wiki'>Marcus Lemonis Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arnold-lobel-books-list'>Arnold Lobel Books List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thurgood-marshall-school'>Thurgood Marshall School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Buddha-Quotes-in-tamil'>Buddha Quotes In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sza---julia'>Sza - Julia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amazon-basin-map'>Amazon Basin Map</a>,
+";s:7:"expired";i:-1;}

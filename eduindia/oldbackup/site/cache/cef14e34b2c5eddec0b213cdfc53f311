@@ -1,0 +1,107 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3610:"Yayoi Kusama was born in 1929 and raised in Matsumoto, Japan. In equal parts exuberantly fantastical and whimsically ominous, the spectacular installation features an unruly mass of scarlet appendages that sprout and bloom from the ground, roaming and reaching like sinister tentacles. “I am an obsessional artist,” she once said. A vital part of New York’s avant-garde art scene from the late 1950s to the early 1970s, Yayoi Kusama developed a distinctive style utilizing approaches associated with Abstract Expressionism, Minimalism, Pop art, Feminist art, and Institutional Critique—but she always defined herself in her own terms. <br> <br>Specific obsessions: Reading Kusama through Minimalism One measure of Yayoi Kusama’s significance as an artist is the vast body of scholarship that has been generated around her work, particularly since its rediscovery by the international art world in 1989. Her primarily conceptual art displays elements of feminism, surrealism, minimalism, pop art, abstract expressionism infused with content that is psychological, often autobiographical, and sexual. Kusama will be the first graphic novel on the world-wide cult artist, Yayoi Kusama. Yayoi Kusama: List of works - All Artworks by Date 1→10.  <br>... “Minimalism… Plagued by mental illness as a child, and thoroughly abused by a callous mother, the young artist persevered by using her hallucinations and personal obsessions as fodder for prolific artistic output in various disciplines. Yayoi Kusama spent a successful artistic life in the different part of the world, but due to some personal reason, she had to return her home country Japan.. Yayoi Kusama (草間 彌生, Kusama Yayoi, born 22 March 1929) is a Japanese contemporary artist  who works primarily in sculpture and installation, but is also active in painting, performance, film, fashion, poetry, fiction, and other arts. Her primarily conceptual art displays elements of feminism, surrealism, minimalism, pop art, abstract expressionism infused with content that is psychological, often autobiographical, and sexual. In the Kyoto School of Arts and Crafts, she was trained to create paintings in the traditional Japanese style called nihonga. Yet she also inspired artists aligned with Post-Minimalism, such as Eva Hesse, and Kusama's works provided more sensual and organic repetition that departed from Minimalism's industrial aesthetic of Minimalism. Yayoi Kusama is a Japanese contemporary artist who works primarily in sculpture and installation, but is also active in painting, performance, film, fashion, poetry, fiction, and other arts. Confirmed by the Kusama Studio (4/3/2018) when previously offered at auction. Her work is based in conceptual art and shows some attributes of feminism, minimalism, surrealism, Art Brut, pop art, and abstract expressionism, and is infused with autobiographical, psychological, and sexual content. Often hailed as a precursor to Minimalism and a figure in Pop Art, Yayoi Kusama does not align herself with any artistic movements and has worked across mediums in a style that … This pop art artist received the Praemium Imperiale award for the commendable achievement in these fields. Yayoi Kusama was born in 1929 and raised in Matsumoto, Japan. An extreme comparison, of course, as Warhol is one of the few artists most people outside of the art world know about. List of works Featured works (8) All Artworks by Date 1→10 ... Abstract Expressionism (7) Art Brut (17) Conceptual Art (2) Feminist Art (1) Minimalism (7) Pop Art (15) Genres abstract (9) animal painting (1) … <br>";s:7:"keyword";s:23:"Yayoi Kusama Minimalism";s:5:"links";s:5684:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=major-financial-crisis-in-the-world'>Major Financial Crisis In The World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=programme-delivery-definition'>Programme Delivery Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=melrose-swimming-pool'>Melrose Swimming Pool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rottweiler-with-dwarfism'>Rottweiler With Dwarfism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scarlett-2i2-1st-gen-vs-2nd-gen'>Scarlett 2i2 1st Gen Vs 2nd Gen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kaden-martin-espn'>Kaden Martin Espn</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=an-unlikely-meeting-jenn-mckinlay'>An Unlikely Meeting Jenn Mckinlay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=distance-learning%3A-benefits-and-challenges'>Distance Learning: Benefits And Challenges</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adrian-lester-2020'>Adrian Lester 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ap-miss-fortune'>Ap Miss Fortune</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chetan-hansraj-age'>Chetan Hansraj Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phelloderm-other-name'>Phelloderm Other Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jory-worthen-family'>Jory Worthen Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backfire-g3-battery'>Backfire G3 Battery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-life-hbo-episodes'>Love Life Hbo Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jude-commentary-bible-hub'>Jude Commentary Bible Hub</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lawrence-summers-truro%2C-ma'>Lawrence Summers Truro, Ma</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=List-of-metaphors-to-describe-a-person'>List Of Metaphors To Describe A Person</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ovid-meaning-latin'>Ovid Meaning Latin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bad-country-rotten-tomatoes'>Bad Country Rotten Tomatoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Edwin-Hubble-contributions'>Edwin Hubble Contributions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scrooged-original-script'>Scrooged Original Script</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Novella-word-count'>Novella Word Count</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=allison-dubois-net-worth'>Allison Dubois Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=be-for-beauty-nottingham'>Be For Beauty Nottingham</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drill-chuck-adapter'>Drill Chuck Adapter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wrong-turn-6-full-movie-dailymotion'>Wrong Turn 6 Full Movie Dailymotion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-cage-sonata-v-sheet-music'>John Cage Sonata V Sheet Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=element-wise-exponential-matlab'>Element Wise Exponential Matlab</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=breaking-the-waves-ending-explained'>Breaking The Waves Ending Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-much-are-hugo-boss-shirts'>How Much Are Hugo Boss Shirts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ann-coulter-husband'>Ann Coulter Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buffalo-gals-analysis'>Buffalo Gals Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ascent-protein-uk'>Ascent Protein Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jim-rohn-herbalife-quotes'>Jim Rohn Herbalife Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-rush-in-a-sentence'>No Rush In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=John-C-Reilly'>John C Reilly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ralph-nader-unsafe-at-any-speed-summary'>Ralph Nader Unsafe At Any Speed Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Homecoming-Sonia-Sanchez'>Homecoming Sonia Sanchez</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=theme-of-the-poem-preludes'>Theme Of The Poem Preludes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ulan-bator-mongolia'>Ulan Bator Mongolia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rin-tin-tin-vs-tin-tin'>Rin Tin Tin Vs Tin Tin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blueberry-scientific-name'>Blueberry Scientific Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=texas-humor-warehouse'>Texas Humor Warehouse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mockingjay-meaning-in-english'>Mockingjay Meaning In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gmc-gentleman-jim-pickup'>Gmc Gentleman Jim Pickup</a>,
+";s:7:"expired";i:-1;}

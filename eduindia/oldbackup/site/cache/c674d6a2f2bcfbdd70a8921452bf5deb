@@ -1,0 +1,86 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2626:"<p>I’m not going to hurt myself. Me is an object pronoun, which means that it refers to the person that the action of a verb is being done to, or to whom a preposition refers. Like “To be black in the Baltimore of my youth was to be naked before the elements of the world, before all the guns, fists, knives, crack, rape, and disease. ― Ta-Nehisi Coates, Between the World and Me. Between you and me, he’s right. Me. All my friends tell me I'm a fool for holding on I know they're tryin' to help me but I've been a fool too long I don't want to talk about it so why can't they just let me be Can't they see this is just between an old memory and me. Tell me a story. I'm not hurtin' anybody as far as I can see "That's me" uses the object pronoun "me," while "'twas I" uses the subject pronoun "I." . When the host asked me about my body, her face faded from the screen, and was replaced by a scroll of words, written by me earlier that week. Between the World and Me is a love letter written in a moral emergency, one that Coates exposes with the precision of an autopsy and the force of an exorcism. Between You and Me was very well liked by a few GR friends and their reviews got me curious so I requested a copy from Netgalley. Myself is a reflexive pronoun.. She sort of turned her body so that her pussy was facing me and I went to town on her. </p> <p>In other words, use myself when you have already used I in a sentence, but you are still talking about yourself.Myself becomes the object.. It should be treated like “beside” or “in front of”. If the answer to, “where is the table,” is, “beside me,”, then “between you and me,” is correct. Coveted her and me. Both sound a little bit awkward, but I have a hard time seeing either as ungrammatical (in the object position), although perhaps it is true that the latter is, marginally, more polite (although I cannot imagine anyone actually being offended by the former). As for "me and her" versus "her and me," I see very little to choose between them. Carol wants to meet with John and me tomorrow. The angels, not half so happy in heaven, Went envying her and me- . I don’t know if it was me playing hard to … The fact that pronouns are combined by "and" should make no difference to this choice. </p> <p>. I bought myself a new car!. They want me to study more. Her / She and her mother went to the movies. </p> <p>I should probably have known that this one wasn't for me when I saw that the premise of the book is an abusive relationship between the main characters -- Charlie and Sal. I gave myself a manicure.. Don’t worry. </p>";s:7:"keyword";s:18:"between her and me";s:5:"links";s:3020:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=st-kilda-island'>St Kilda Island</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=100th-birthday-ideas'>100th Birthday Ideas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=highland-warrior-style'>Highland Warrior Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wallace-and-gromit-fluffles'>Wallace And Gromit Fluffles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jacky-and-friends'>Jacky And Friends</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-wall-arliss'>Robert Wall Arliss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meister-eckhart-on-creation'>Meister Eckhart On Creation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=county-cork-map'>County Cork Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=johann-georg-hiedler'>Johann Georg Hiedler</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i%27m-heading-for-a-breakdown-song'>I'm Heading For A Breakdown Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=importance-of-rural-banks-in-ghana'>Importance Of Rural Banks In Ghana</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adriana-paz-la-rosa-de-guadalupe'>Adriana Paz La Rosa De Guadalupe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=volunteer-with-us'>Volunteer With Us</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Day-That-Was-the-Day'>The Day That Was The Day</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rube-goldberg-planning-sheet-pdf'>Rube Goldberg Planning Sheet Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Khakee-Full-Movie-Download-480p'>Khakee Full Movie Download 480p</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-wyatt-poetry'>Thomas Wyatt Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=icon-motorcycle-hat'>Icon Motorcycle Hat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naming-the-elephant-summary'>Naming The Elephant Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=norway-economy-2020'>Norway Economy 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-is-the-next-full-moon-in-texas-2020'>When Is The Next Full Moon In Texas 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-willies-phrase'>The Willies Phrase</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jocelyn-lane-death'>Jocelyn Lane Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Swift-Challenger-470'>Swift Challenger 470</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=target-supermarket-uk'>Target Supermarket Uk</a>,
+";s:7:"expired";i:-1;}

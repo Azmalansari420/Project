@@ -1,0 +1,152 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2387:"<p>A helper script to change Kitty Terminal Emulator themes on the fly. Retrouvez de nombreux autres thèmes pour PuTTY et KiTTY sur www.noobunbox.net. This can be done safelyinside a python virtual environment or using the --user flag on pipinstall to install the script in your home directory. # map kitty_mod+p>l kitten hints --type line --program - #: Select a line of text and insert it into the terminal. </p> <p>GitHub is where people build software. A cross-platform, fast, feature full, GPU based terminal emulator - kovidgoyal/kitty terminal tools utilities python3 terminal-themes color-schemes kitty theme-switcher kitty-terminal Updated Feb 29, 2020 </p> <p>Use for the #: output of things like: ls -1 # map kitty_mod+p>w kitten hints --type word - … In this repository you can find a set of themes to personalize your kittyterminal, these have been ported from iTerm2-Color-Schemes. </p> <p>It provides a simple CLI interface for changing the Theme used by your Kitty Terminal as well as toggling between a light and a dark theme if you wish. It even extends existing text formatting escape codes, to add support for features not available elsewhere, such as colored and styled (curly) underlines.  Home directory install: Note that you caninstall the Kitty Theme Changer into the system's corepython installation but I feel that python package management is a bit … </p> <p># map kitty_mod+p>shift+f kitten hints --type path #: Select a path/filename and open it with the default open program. You can findthe previews for each theme in the section below or in this otherrepository. Thème Glacier-Remix - Installation via la base de registre. Finally, kitty is designed from the ground up to support all modern terminal features, such as unicode, true color, bold/italic fonts, text formatting, etc. More than 40 million people use GitHub to discover, fork, and contribute to over 100 million projects. The recommended method for installing the Kitty Theme Changer is to use pipto install the package into your python environment. Kitty Terminal Theme Changer I just released a tool that some people might find helpful. </p> <p>Kitty is a very nice and fast terminal that uses GPU, you can find more information here.For this terminal there are lot of themes available that you can checkout on the kitty themes github page here.. You can checkout the themes with </p>";s:7:"keyword";s:21:"kitty terminal themes";s:5:"links";s:11456:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charlie-brooker-books'>Charlie Brooker Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kill-me-already-meaning'>Kill Me Already Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Buddha-Quotes-in-tamil'>Buddha Quotes In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ming-dynasty-religion-and-philosophy'>Ming Dynasty Religion And Philosophy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mermaid-yellow-climbing-rose'>Mermaid Yellow Climbing Rose</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seyfarth-shaw-atlanta-salary'>Seyfarth Shaw Atlanta Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gloria-hatrick-mclean-height'>Gloria Hatrick Mclean Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harlow%2C-essex-united-kingdom'>Harlow, Essex United Kingdom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=radiology-associates-login'>Radiology Associates Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Carl-Brutananadilewski-meme'>Carl Brutananadilewski Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghost-voyage-%282008-full-movie%29'>Ghost Voyage (2008 Full Movie)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=synonyms-for-malevolent'>Synonyms For Malevolent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-final-hour-2019'>The Final Hour 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-arthur-will'>Jean Arthur Will</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pierre-Bourdieu-habitus'>Pierre Bourdieu Habitus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=le-mans-events-2020'>Le Mans Events 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stefan-zweig-letter-from-an-unknown-woman-quotes'>Stefan Zweig Letter From An Unknown Woman Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bilbo-meets-gandalf'>Bilbo Meets Gandalf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sword-veil-of-isis-lyrics'>The Sword Veil Of Isis Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drop-point-app'>Drop Point App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gene-hackman-politics'>Gene Hackman Politics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gumtree-south-africa'>Gumtree South Africa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=order-to-kill'>Order To Kill</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trafficked-movie-onlinethe-searchers-behind-the-scenes'>Trafficked Movie Onlinethe Searchers Behind The Scenes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mystery-files-documentary'>Mystery Files Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sean-o-casey-autobiographies'>Sean O Casey Autobiographies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chesapeake-bay-foundation-board-of-directors'>Chesapeake Bay Foundation Board Of Directors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-power-of-small-wins-summary'>The Power Of Small Wins Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beethoven-tune-codycross'>Beethoven Tune Codycross</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=groundbreaking-meaning-in-tamil'>Groundbreaking Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=production-music-live'>Production Music Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Billy-Collins-poems'>Billy Collins Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=family-of-acrobats'>Family Of Acrobats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-library-is-open-%7C-rupaul'>The Library Is Open | Rupaul</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-broly-figure'>Dark Broly Figure</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pound-puppies-target'>Pound Puppies Target</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=taylor-lacher-cause-of-death'>Taylor Lacher Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Edna-May-Oliver'>Edna May Oliver</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tsurune-anime-characters'>Tsurune Anime Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=warriors-orochi-4-ultimate-ps4'>Warriors Orochi 4 Ultimate Ps4</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dorothy-height-job'>Dorothy Height Job</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chiodos-illuminaudio-review'>Chiodos Illuminaudio Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antiques-roadshow-rodin-eternal-spring-auction'>Antiques Roadshow Rodin Eternal Spring Auction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fantastic-four-%231-2018'>Fantastic Four #1 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skrt-skrt-kodak'>Skrt Skrt Kodak</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geoffrey-bayldon-fort-boyard'>Geoffrey Bayldon Fort Boyard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hungarian-good-luck-charm'>Hungarian Good Luck Charm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cape-verde-airport'>Cape Verde Airport</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=belfast-cohousing-and-ecovillage'>Belfast Cohousing And Ecovillage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Electro-Lux-Imbroglio'>Electro Lux Imbroglio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lucas-Neff-Instagram'>Lucas Neff Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spongebob-toys-ebay'>Spongebob Toys Ebay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=google-timer-30-minutes'>Google Timer 30 Minutes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spartacus-netflix-2020'>Spartacus Netflix 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-first%2C-my-last%2C-my-everything-lyrics'>My First, My Last, My Everything Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-stone-angel-genre'>The Stone Angel Genre</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-philosophy-basic-principle'>Chinese Philosophy Basic Principle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vampire%3A-the-masquerade---bloodlines-2-collectors-edition'>Vampire: The Masquerade - Bloodlines 2 Collectors Edition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bob%27s-Burgers-movie'>Bob's Burgers Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paper-round-urban-dictionary'>Paper Round Urban Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-is-social-diversity-important-in-corrections'>Why Is Social Diversity Important In Corrections</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fraum%C3%BCnster-abbey-z%C3%BCrich'>Fraumünster Abbey Zürich</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backfire-g3-battery'>Backfire G3 Battery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-storm-read-aloud'>The Storm Read Aloud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-catholic-churches-in-singapore'>List Of Catholic Churches In Singapore</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marty-%281955-awards%29'>Marty (1955 Awards)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=waterfalls-near-elizabethtown%2C-pa'>Waterfalls Near Elizabethtown, Pa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=masahiro-shinoda-silence'>Masahiro Shinoda Silence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meditation-cushion-set'>Meditation Cushion Set</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Randall-boggs-meme'>Randall Boggs Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bronco-billy-youtube'>Bronco Billy Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geraldine-somerville-age'>Geraldine Somerville Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=korengal-valley-movie'>Korengal Valley Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andrew-keegan---full-circle'>Andrew Keegan - Full Circle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-many-books-has-anne-fine-written'>How Many Books Has Anne Fine Written</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-noah-in-flush'>How Old Is Noah In Flush</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=translate-english-to-spanish-creole'>Translate English To Spanish Creole</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richards-medical-research-laboratories-visit'>Richards Medical Research Laboratories Visit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Richard-Dawkins-books'>Richard Dawkins Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clockwork-princess-goodreads'>Clockwork Princess Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drum-tower-europe'>Drum Tower Europe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shane-West-child'>Shane West Child</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Polite-Force'>The Polite Force</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=loser-lyrics-bigbang'>Loser Lyrics Bigbang</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=silence-falls-meaning'>Silence Falls Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=silence-falls-meaning'>Silence Falls Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1_ad-roblox-myth'>1_ad Roblox Myth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=casa-tomada-quizlet'>Casa Tomada Quizlet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mississippi-travel-guide'>Mississippi Travel Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interventional-radiology-salary-2019'>Interventional Radiology Salary 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-japan-and-china-have-in-common'>What Does Japan And China Have In Common</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,106 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2772:"<p>Heat moves in the atmosphere the same way it moves through the solid Earth (Plate Tectonics chapter) or another medium.What follows is a review of the way heat flows and is transferred, but applied to the atmosphere. This transfer takes place in three ways - conduction, convection, and radiation. 2 $\begingroup$ I have a heater wrapped in insulation and placed in an aluminum box. Convection Heat Transfer Problem Example. The air-side heat transfer resistance is a function of the air-side heat transfer coefficient hfs and the air-side area of heat transfer Afs (note that the theoretical air-side heat transfer coefficient has a fin efficiency embedded in its calculation; we can ignore this in our calculations since we consider the overall air-side resistance to be constant for all of our calculations). As the name suggests, heat transfer is the travel of heat or thermal energy from one object or entity to another. Heat can transfer (or move) in 3 ways: conduction, convection, and radiation. As air is such a good insulator, it provides even more resistance to heat transfer. This is an energy efficient heating solution with low running costs. </p> <p>Where q is the heat transferred by radiation, E is the emissivity of the system, σ is the constant of Stephan-Boltzmann (5.6697 x 10^-8 W/m^2.K^4), A is the area involved in the heat transfer by radiation, and (ΔT)^4 is the difference of temperature between two systems to the fourth or higher power. The sample problem can be solved by following the steps given here. As the name suggests, heat transfer is the travel of heat or thermal energy from one object or entity to another. This is called heat transfer. This flat plate is cooled using forced air at a temperature 22 ºC. It will utilise the heat being generated in an already heated room and efficiently transfer this excess heat from the ceiling to other rooms. 1, for example). Abstract In this paper a method is presented for the computation of the heat transfer coefficient in a gas‐air burner in the presence of combustion‐driven transverse mode oscillations. Kits are available from 1-1 room transfer all the way up to 1-4 room transfer. This ScienceStruck post discusses the methods of heat transfer and its applications in detail. </p> <p>Wet Bulb to Enthalpy Chart. Question: Consider an electronics component that is transferring heat to a flat plate of size 200 x 200 mm and at a temperature 50 ºC. Heat Convection Convection is heat transfer by mass motion of a fluid such as air or water when the heated fluid is caused to move away from the source of heat, carrying energy with it. (Remember, we learned that energy transfer is when energy moves from one thing or place to another, but the energy type stays the same). </p>";s:7:"keyword";s:20:"Heat transfer in air";s:5:"links";s:6032:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jal-bin-machhli-nritya-bin-bijli-kajra-laga-ke-bindiya-saja-ke'>Jal Bin Machhli Nritya Bin Bijli Kajra Laga Ke Bindiya Saja Ke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=next-to-of-course-god-america-i-litcharts'>Next To Of Course God America I Litcharts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kartell-sale-2019'>Kartell Sale 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=massachusetts-midday-lottery-number'>Massachusetts Midday Lottery Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-it-mean-when-you-dream-of-being-in-a-haunted-house'>What Does It Mean When You Dream Of Being In A Haunted House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=triptych-august-1972-analysis'>Triptych August 1972 Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we-are-so-close-quotes'>We Are So Close Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-ocean%3A-first-departure-best-characters'>Star Ocean: First Departure Best Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-last-stop-lyrics-meaning'>The Last Stop Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=god%27s-crime-scene-video-series'>God's Crime Scene Video Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wajib-in-islamic-law'>Wajib In Islamic Law</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-end-of-juemon'>The End Of Juemon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bhishma-on-death-bed-of-arrow'>Bhishma On Death Bed Of Arrow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-teach-baby-to-self-soothe-without-pacifier'>How To Teach Baby To Self Soothe Without Pacifier</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=comptine-d%27un-autre-%C3%A9t%C3%A9-piano-chords'>Comptine D'un Autre été Piano Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=please-find-the-below-details-as-per-your-request'>Please Find The Below Details As Per Your Request</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=persian-poets-in-bengal'>Persian Poets In Bengal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=king-of-the-undertow'>King Of The Undertow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-or-an%27%27-before-h-abbreviation'>A Or An'' Before H Abbreviation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hans-jensen-somerville'>Hans Jensen Somerville</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elite-syncopations---youtube'>Elite Syncopations - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=running-wild-merchandise'>Running Wild Merchandise</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chris-Lilley-Mr-G'>Chris Lilley Mr G</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-russian-language-schools'>Best Russian Language Schools</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-a-bit'>What Is A Bit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Words-to-use-instead-of-they'>Words To Use Instead Of They</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pandora-music-app'>Pandora Music App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mother-courage-analysis'>Mother Courage Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kauai-restaurants-kapaa'>Kauai Restaurants Kapaa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=londonderry-police-log'>Londonderry Police Log</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-man-who-could-walk-through-walls-analysis'>The Man Who Could Walk Through Walls Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caste-code-in-karnataka'>Caste Code In Karnataka</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nyu-summer-vocal-program'>Nyu Summer Vocal Program</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-British-Short-Story'>The British Short Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=full-spectrum-warrior-%28ps2%29'>Full Spectrum Warrior (ps2)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maximum-ride-anime'>Maximum Ride Anime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=molkky-for-sale'>Molkky For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tim-winton-the-turning'>Tim Winton The Turning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heat-director%27s-definitive-edition-4k'>Heat Director's Definitive Edition 4k</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=galway-city-council-opening-hours'>Galway City Council Opening Hours</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=movie-reincarnated-lovers'>Movie Reincarnated Lovers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dieter-rams%27-t3-radio'>Dieter Rams' T3 Radio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gemma-Arterton-Net-worth'>Gemma Arterton Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hungry-synonyms-Urban-Dictionary'>Hungry Synonyms Urban Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreBest-places-to-eatWaipouli-Deli-%26-Restaurant%2C-Anuenue-Cafe%2C-and-more'>+ 18moreBest Places To EatWaipouli Deli & Restaurant, Anuenue Cafe, And More</a>,
+";s:7:"expired";i:-1;}

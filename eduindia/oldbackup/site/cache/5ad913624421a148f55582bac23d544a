@@ -1,0 +1,89 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2775:"<p>Alianza Nacional De Campesinas - National Farmworkers Women's Alliance. The National Women's History Alliance (NWHA) is an American non-profit organization dedicated to honoring and preserving women's history. The Women’s History Alliance The National Women’s History Alliance is proud to announce the establishment of a new Women’s History Alliance, which will help link women’s history advocates at the local, state, and federal level and significantly expand each group’s circle of influence. Later this month, the National Women’s History Alliance will honor 11 women whose lives embody that theme. nationalwomenshistoryalliance.org ©2019 National Women's History Alliance |730 2nd St., PO Box 469, Santa Rosa, CA 95402 | 707-636-2888 | Admin Use the drop down menu to choose the shipping that best suits your needs. National Women’s History Alliance is looking for Interns & Volunteers like you! USPS can take another 3 business days for delivery. Learn about the women who served as rescue boat operators for stranded sailors, … ©2019 National Women's History Alliance |730 2nd St., PO Box 469, Santa Rosa, CA 95402 | 707-636-2888 | Admin  </p> <p>Timeline of Legal History of Women in the United States, National Women’s History Alliance. By 1942, WWII was well underway. Use the drop down menu to choose the shipping that best suits your needs. We ship within 3 business days. </p> <p>JOIN OUR TEAM Since the NWHA ﬁrst lobbied congress in 1980 to make March Women’s History Month, we have dedi-cated the efforts of our organization to celebrate the accomplishments and historic impacts of women. The National Women’s History Museum bears no responsibility for the accuracy, legality, or content of the external site or for that of subsequent links. Eventbrite - The National Women's History Alliance presents National Women's History Alliance 2020 Honoree Luncheon - Saturday, August 29, 2020 at The Hamilton, Washington, DC. When I first read about it, the woman who immediately came to … These exciting State Centennial group websites offer a wide array of resources, new research, information on state history and local suffragists, calendars of events, curricula, links, and more. </p> <p>STAY IN … Contributions to the National Women’s History Museum are tax-deductible to the extent permitted by law. </p> <p>One result from this contact has been the establishment of a women’s history program and museum in the Ukraine. The National Women’s History Museum’s tax identification number is 54-1801426. The National Women’s History Museum is a 501(c)(3) non-profit organization. We ship within 3 business days. Alliance Women 8595 Explorer Drive Colorado Springs, CO 80903 (719) 599-5999 AllianceWomen@cmalliance.org </p>";s:7:"keyword";s:33:"national women's history alliance";s:5:"links";s:3392:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seth-godin-advice'>Seth Godin Advice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dragonheart-2-imdb'>Dragonheart 2 Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Edna-May-Oliver'>Edna May Oliver</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backfire-g3-manual'>Backfire G3 Manual</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-savident-children'>John Savident Children</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=constellis-security-officer-pay'>Constellis Security Officer Pay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-nelson-dining-table'>George Nelson Dining Table</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wwe-naomi-returns'>Wwe Naomi Returns</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=muskingum-county-court'>Muskingum County Court</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=were-vs-where-pronunciation'>Were Vs Where Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gordon-singer-ac-milan'>Gordon Singer Ac Milan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-weirdest-school-books'>My Weirdest School Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Michael-Owen-interview'>Michael Owen Interview</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-piranhas-albums'>The Piranhas Albums</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wotv-sage-staff'>Wotv Sage Staff</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fare-la-scarpetta-in-inglese'>Fare La Scarpetta In Inglese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=modified-julian-date'>Modified Julian Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-michael-morpurgo-dead'>Is Michael Morpurgo Dead</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=level-pq-books'>Level Pq Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isidora-invisible-cities'>Isidora Invisible Cities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=affect-each-other-synonym'>Affect Each Other Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joseph-full-movie-dailymotion'>Joseph Full Movie Dailymotion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=feast-your-eyes-on-me'>Feast Your Eyes On Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scott-braddock-parks-and-rec'>Scott Braddock Parks And Rec</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-man-who-wouldn%27t-die-cast'>The Man Who Wouldn't Die Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dear-america%3A-notes-of-an-undocumented-citizen-review'>Dear America: Notes Of An Undocumented Citizen Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=first-history-book-in-tamil'>First History Book In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pricing-in-healthcare'>Pricing In Healthcare</a>,
+";s:7:"expired";i:-1;}

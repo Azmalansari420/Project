@@ -1,0 +1,90 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2928:"<p>Night sweats is the occurrence of excessive sweating during sleep.The person may or may not also perspire excessively while awake.. One of the most common causes of night sweats in women over 40 is the hormonal changes related to menopause and perimenopause. Find Nathaniel Rateliff & the Night Sweats bio, music, credits, awards, & streaming links on AllMusic - A gritty, rootsy R&B and rock act fronted by the… </p> <p>Other causes of night sweats in men and women are cancers, infections, medications, low blood sugar, hormone disorders, and neurological conditions. Infections. </p> <p>Night sweats are when you sweat so much that your night clothes and bedding are soaking wet, even though where you're sleeping is cool. Infection. </p> <p>Causes shown here are commonly associated with this symptom. Night sweats are a common symptom of hormone disorders, since they tend to throw the body’s functions out of wack. </p> <p>One hormone disorder which can cause night sweats is carcinoid syndrome, which refers to the group of symptoms experienced by people with carcinoid tumours, which can appear all over but tend to originate in the digestive tract. For instance, if your night sweats have coincided with getting an infection like a nasty tummy bug or …  What's worse is it fails spectacularly at all three. </p> <p>Adults and children can get night sweats. It is important to consult a health-care professional for unexplained night sweats that do not resolve over time. If you are around age 50 and are having irregular or absent menstrual periods, and have no other symptoms, this is likely the cause of your symptoms. </p> <p>Anxiety or stress. You may sweat a little or a lot, depending on how many blankets you sleep with, how warm your room is, … Night sweats caused by environmental or lifestyle should go away on their own once you eliminate their triggers. </p> <p>Night sweats are fairly common: In one study published in Annals of Family Medicine, about one-third of primary care patients reported night sweats during the … </p> <p>You could break into a sweat when your room feels warm or you've piled on … Night sweats are repeated episodes of extreme perspiration that may soak your nightclothes or bedding and are related to an underlying medical condition or illness. Tuberculosis, … </p> <p>Many infections can cause a fever, which in turn leads to night sweats. Night sweats are a symptom, not a medical condition in their own right. If infection is the cause, your doctor may prescribe antibiotics. Night sweats are fairly common: In one study published in Annals of Family Medicine, about one-third of primary care patients reported night sweats during the past month. Night sweats are often repeated episodes related to a medical condition or illness and may be associated with fever, chills, weight loss, localized pain, cough, diarrhea or other symptoms that are concerning. </p>";s:7:"keyword";s:16:"the night sweats";s:5:"links";s:3678:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-does-bistromd-work'>How Does Bistromd Work</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blink-182-california-font'>Blink-182 California Font</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sonnet-147-paraphrase'>Sonnet 147 Paraphrase</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=albert-king---born-under-the-bad-sign'>Albert King - Born Under The Bad Sign</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=de-rerum-natura-latin-pdf'>De Rerum Natura Latin Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fractured-MMO-Gameplay'>Fractured MMO Gameplay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tommy-green-sleeping-giant'>Tommy Green Sleeping Giant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-carter-books-2020'>Chris Carter Books 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=can-your-heart-explode-from-drugs'>Can Your Heart Explode From Drugs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Johnny-Depp-photoshoot'>Johnny Depp Photoshoot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-weiser-field-guide-to-the-paranormal-pdf'>The Weiser Field Guide To The Paranormal Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sick-puppy-meaning'>Sick Puppy Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harriet-vane-description'>Harriet Vane Description</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=triple-seat-cast'>Triple Seat Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-adventures-of-tom-sawyer-%281980-tv-series-episodes%29'>The Adventures Of Tom Sawyer (1980 Tv Series Episodes)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=memory-lost-ending-explained'>Memory Lost Ending Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=henry-brubaker-obituary'>Henry Brubaker Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=candle-making-scents'>Candle Making Scents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joanna-numata-wikipedia'>Joanna Numata Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frog-and-toad-facebook'>Frog And Toad Facebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bheem-in-Mahabharat'>Bheem In Mahabharat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-contender-winners'>The Contender Winners</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adulting%3A-how-to-become-a-grown-up-in-468-easy%28ish%29-steps-epub'>Adulting: How To Become A Grown-up In 468 Easy(ish) Steps Epub</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Push-dagger-California'>Push Dagger California</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=suburra-movie-netflix'>Suburra Movie Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=czech-republic-tourism'>Czech Republic Tourism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jen-Wilkin-family'>Jen Wilkin Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-is-running-against-al-green'>Who Is Running Against Al Green</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=BJ%27s-on-the-Water'>BJ's On The Water</a>,
+";s:7:"expired";i:-1;}

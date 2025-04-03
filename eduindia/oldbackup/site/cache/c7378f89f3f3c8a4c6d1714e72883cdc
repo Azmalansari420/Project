@@ -1,0 +1,102 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2950:"<br>Child marriage, or early marriage, is any marriage where at least one of the parties is under 18 years of age. The figures are therefore for young women who were married and under 15 before 2010. Contact Freedom to find out more about our PSHE Association accredited lesson plans and our professional training programme. Child marriage happens across cultures, religions, countries, and continents. Child marriage robs girls of the opportunity to thrive. Child marriages in parts of Europe and Central Asia may reflect a hardening of gender attitudes that reinforce stereotypical roles for girls and limit their opportunities. Child marriage is often linked to patriarchal attitudes towards girls, including the need to safeguard family ‘honour’. 93% of millennial wedding guests would purchase a gift from a couple’s registry if a charity contribution is included free of charge. The charity said it is linked to maternal and infant mortality – usually because child brides who become pregnant are not physically ready to give birth. Get Involved; Impact; About VOW; Partners; Products; VOW Pro; Donate now Why we need to end child marriage . If they do survive, children of child brides are less healthy and less likely to receive an education. Child brides can be found in every region in the world, from the Middle East to Latin America, South Asia to Europe.It is a global problem. More than 91% of couples register for wedding gifts and $19 billion is spent on gifts. Home > Our Work > Women's Empowerment > Child Marriage > The Top 5 Things You Didn't Know About Child Marriage The Top 5 Things You Didn't Know About Child Marriage Share this infographic with your friends on social media, and be sure to learn more about CARE’s work to stop it . Where does child marriage happen?  <br>Child marriage rates: these are 2015 estimates produced by the UN for girls under 15 by asking women aged 20-24 if they were married before that age. Forced marriages are marriages in which one and/or both parties have not personally expressed their full and free consent to the union. <br> <br>Girls account for the vast majority of those who marry as children. <br> <br>This harmful practice can expose girls to violence, unintended pregnancy and unsafe abortion, denying them their basic rights to childhood, with damaging impact on their education, health and economic prospects. Child, early and forced marriage has significant negative impacts on the futures of children, particularly girls. In sub-Saharan Africa, 35 per cent of young women are married before the age of 18. Every year, 12 million girls are married before they turn 18. <br> VOW is engaging this tremendous industry to help to end child marriage. Forced marriage is a human rights abuse and in children it is child abuse.  In the UK, the Home Office’s Forced Marriage Unit supported over 1,400 suspected cases of forced child marriage in 2016.3. Forced Marriage. <br>";s:7:"keyword";s:22:"Child marriage charity";s:5:"links";s:5014:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shawn-pyfrom-net-worth'>Shawn Pyfrom Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=toddler-waking-up-at-4am'>Toddler Waking Up At 4am</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=safe-training-london'>Safe Training London</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=red-high-heels-shoes'>Red High Heels Shoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-four-last-things-book'>The Four Last Things Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hoover-meaning-in-telugu'>Hoover Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%22late-night-with-seth-meyers-cast%22'>"late Night With Seth Meyers Cast"</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=taiping-rebellion-summary'>Taiping Rebellion Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eversource-western-mass'>Eversource Western Mass</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=balamb-garden-theme'>Balamb Garden Theme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=political-problems-that-need-to-be-solved'>Political Problems That Need To Be Solved</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=story-file-viewer'>Story File Viewer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hawthorne-heights%27-casey'>Hawthorne Heights' Casey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Queen-of-Diamonds'>The Queen Of Diamonds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=big-group-restaurants'>Big Group Restaurants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=opening-files-in-c'>Opening Files In C</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dirty-love---trailer'>Dirty Love - Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Joan-Collins-net-worth'>Joan Collins Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1000-s-hawkins-ln%2C-goddard%2C-ks-67052'>1000 S Hawkins Ln, Goddard, Ks 67052</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gareth-edwards-2020'>Gareth Edwards 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cached-exchange-mode-sync-settings-registry'>Cached Exchange Mode Sync Settings Registry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=police-week-2020-cancelled'>Police Week 2020 Cancelled</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=power-outage-california-today-2020'>Power Outage California Today 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jo-whiley-age'>Jo Whiley Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skyway-invest-group-%7C-cru'>Skyway Invest Group | Cru</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sama-Hai-Suhana-Suhana'>Sama Hai Suhana Suhana</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sage-bistro-canmore'>Sage Bistro Canmore</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-bug-in-computer'>What Is Bug In Computer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Purcell-Papers'>The Purcell Papers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-wojnarowicz-untitled-1992'>David Wojnarowicz Untitled 1992</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carlo-scarpa-milan'>Carlo Scarpa Milan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alice-walker-fun-facts'>Alice Walker Fun Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ravi-zacharias-sermons-2020'>Ravi Zacharias Sermons 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tarhuna-libya-news'>Tarhuna Libya News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=welch%27s-fruit-snacks-strawberry'>Welch's Fruit Snacks Strawberry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cinthya-carmona-husband'>Cinthya Carmona Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harshad-chopda-instagram'>Harshad Chopda Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=uae-embassy-usa'>Uae Embassy Usa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barbara-mertz-net-worth'>Barbara Mertz Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeff-goldblum-appearances-2019'>Jeff Goldblum Appearances 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jonathan-stamp-organist'>Jonathan Stamp Organist</a>,
+";s:7:"expired";i:-1;}

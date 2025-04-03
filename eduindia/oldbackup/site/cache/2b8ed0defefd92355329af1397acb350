@@ -1,0 +1,128 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2672:"Bleach and other disinfectants are not suitable for consumption or injection under any circumstances. Unfortunately, splash-less bleach does not disinfect. Clorox ® Disinfecting Bleach . Chlorine bleach can also kill dangerous bacteria and viruses on surfaces, such as methicillin-resistant Staphylococcus aureus (), influenza and HIV. Bleach and other disinfectants are not suitable for consumption or injection under any circumstances. The splash-less bleach formula even says on the back of the bottle that it does not sanitize.To prove this, I went to clorox.com and looked at their bleach products.. Disinfecting surfaces with bleach and other disinfecting products is one of the ways to help stop the spread of COVID-19, according to the Centers for Disease Control. People should always read the label for proper usage instructions.  Chlorine bleach kills Vibrio cholerae, the bacterium that causes cholera, a disease that killed in epidemic proportions before water treatment.It can still kill in countries where clean drinking water is not available. The Smart Tube technology insures you spray every stain fighting drop. Clorox ® Disinfecting Bleach makes stain removal easier. Clorox Disinfecting Bleach with CloroMax kills 99.9% of household germs and bacteria. It is still a powerful cleaner, but it shouldn't be used for sanitizing. If you need a registered disinfectant, you can purchase Clorox® Disinfecting Bleach at almost any store that sells laundry products. Make sure that "Disinfects" or "Kills germs" appears on the label. The easy to handle bottle allows you to grip the handle and pour without the mess of spillage. Behind every sparkling clean bathroom, there is Clorox ® Disinfecting Bleach, the bleach you've known and trusted for generations with the power to clean, whiten, disinfect, and kill bacteria and viruses. People should always read the label for proper usage instructions. • Delivers brighter and longer-lasting whites by improving performance between Clorox ® Disinfecting Bleach and detergents • Disinfects to kill 99.9% of germs and bacteria; New Clorox® Disinfecting Bleach with CLOROMAX® keeps clothes whiter longer † and cleans and protects surfaces ‡. Clorox Disinfecting Bleach whitens whites, keeps clothes whiter longer, and removes 70% more stains than detergent alone. America's #1 bleach brand cleans, disinfects, deodorizes, whitens and removes stains. Disinfecting surfaces with bleach and other disinfecting products is one of the ways to help stop the spread of COVID-19, according to the Centers for Disease Control. If you filter to bleach, you see regular bleach and splash-less bleach products. ";s:7:"keyword";s:30:"which clorox bleach disinfects";s:5:"links";s:8474:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michigan-basketball-news'>Michigan Basketball News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-did-Thaddeus-Troi-Riker-die'>How Did Thaddeus Troi-Riker Die</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yu-rongguang-karate-kid'>Yu Rongguang Karate Kid</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=homecoming-lyrics-hey-monday'>Homecoming Lyrics Hey Monday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poets-of-the-fall---late-goodbye-lyrics'>Poets Of The Fall - Late Goodbye Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-does-moses-have-horns'>Why Does Moses Have Horns</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=swtor-obsidian-squad-flair'>Swtor Obsidian Squad Flair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=opposing-views-on-universal-health-care'>Opposing Views On Universal Health Care</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=teenage-sound-test'>Teenage Sound Test</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Secretary-tree-scene'>Secretary Tree Scene</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=four-cups-bible-study'>Four Cups Bible Study</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-girl-melody-collection'>American Girl Melody Collection</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=len-deighton-movies'>Len Deighton Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=waving-hi-gif'>Waving Hi Gif</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mk-ultra-girl'>Mk Ultra Girl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-does-chris-offutt-live'>Where Does Chris Offutt Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Couples-word-search'>Couples Word Search</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=khalid-jordan-height'>Khalid Jordan Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fuel-ed-houston'>Fuel Ed Houston</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cheapest-way-to-travel-to-finland'>Cheapest Way To Travel To Finland</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we-are-sleeping-on-a-volcano'>We Are Sleeping On A Volcano</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Armitage-III-Wiki'>Armitage III Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-yearling-anime'>The Yearling Anime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=puerto-rico-hotels-and-flights'>Puerto Rico Hotels And Flights</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=World-Without-Men'>World Without Men</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wise-children-screenings'>Wise Children Screenings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=campbell-college-headmaster'>Campbell College Headmaster</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-build-a-fire-pdf'>To Build A Fire Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clifford-the-big-red-dog-season-1-episode-1'>Clifford The Big Red Dog Season 1 Episode 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=opi-natural-nail-strengthener-target'>Opi Natural Nail Strengthener Target</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kartell-sale-2019'>Kartell Sale 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ni-no-Kuni-2-Swift-Solutions-quests'>Ni No Kuni 2 Swift Solutions Quests</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angela-carter-pdf'>Angela Carter Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kelechi-nwakali-sofifa'>Kelechi Nwakali Sofifa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alien-hunter-2017'>Alien Hunter 2017</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-get-a-teaching-assistantship-for-grad-school'>How To Get A Teaching Assistantship For Grad School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=governor-of-oklahoma-speech-today'>Governor Of Oklahoma Speech Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pajanimals-season-1'>Pajanimals Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aim%3A-a-behavior-analytic-curriculum-for-social-emotional-development-in-children'>Aim: A Behavior Analytic Curriculum For Social-emotional Development In Children</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blind-willow%2C-sleeping-woman-summary'>Blind Willow, Sleeping Woman Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sarah-haden-joe-haden'>Sarah Haden Joe Haden</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-architecture-pdf'>Chinese Architecture Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary-j-blige-new-movie-2020'>Mary J Blige New Movie 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=royal-flush-drink'>Royal Flush Drink</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=secret-relationship-from-parents'>Secret Relationship From Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-savident-children'>John Savident Children</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-thompson-michael-jordan'>David Thompson Michael Jordan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joseph-prince-parents'>Joseph Prince Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nature-of-recreation-in-physical-education'>Nature Of Recreation In Physical Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-is-lutefisk-made'>How Is Lutefisk Made</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=green-day---are-we-the-waiting-%2F-st-jimmy'>Green Day - Are We The Waiting / St Jimmy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-many-pages-is-lady-susanandrew-grant-congress'>How Many Pages Is Lady Susanandrew Grant Congress</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Super-Mario-RPG-Culex'>Super Mario RPG Culex</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naruto-to-boruto%3A-shinobi-striker-gameplay'>Naruto To Boruto: Shinobi Striker Gameplay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=too-windy-meaning'>Too Windy Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=god-of-crafting'>God Of Crafting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=texas-courthouses-book'>Texas Courthouses Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Little-Bird%27s-Day'>Little Bird's Day</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-dubuffet-facts'>Jean Dubuffet Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=short-cuts-book'>Short Cuts Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-liesel-keep-after-the-bombing'>What Does Liesel Keep After The Bombing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=To-the-Unknown-Voice'>To The Unknown Voice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brick-lane-curry-house'>Brick Lane Curry House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-powell-albums'>John Powell Albums</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scented-oils-for-skin'>Scented Oils For Skin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dance-academy%3A-the-comeback-2'>Dance Academy: The Comeback 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=finn-roberts-tiktok'>Finn Roberts Tiktok</a>,
+";s:7:"expired";i:-1;}

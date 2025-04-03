@@ -1,0 +1,146 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5474:"<br>The Focusrite Scarlett 4i4 3rd Gen gives you superior audio in the latest version of this incredibly popular 4-in, 4-out USB audio interface. Scarlett 4i4 is designed to stand up to days on the road and connects straight to your Mac or PC via USB cable, with no external power required. <br> <br>Check out the Example setup diagram for a Focusrite Scarlett 2i4 page at Sweetwater — the world's leading music technology and instrument retailer! <br> <br>I tried with Windows 10 successfully by setting the interface input to 6ch/48K and I can have the line grab everything, from analogs 1 to 4 plus loopback 5+6. Page 10: Audio Setup In Your Daw Mac-based DAW that uses Core Audio. All Rights Reserved. <br> <br>If you’re looking to expand your setup, record a few more instruments and give yourselves a lot more options, you want the Scarlett 4i4. For more detailed setup options on a Mac, open Applications > Utilities > Audio MIDI Setup. Essential Software. <br> <br>I have a Focusrite Scarlett 4i4 and want to create four discrete audio inputs and four discrete audio outputs in vMix. <br> <br>When I first installed the drivers and launched Cakewalk it already came up with 48k and a buffer size of 128 and 2.7 ms latency; I was completely blown away at the responsiveness that I was experiencing. PAINLESS SETUP We felt it would be confusing to illustrate the Guide with screenshots from more than one model, therefore we have settled to use the Scarlett 18i20 as the “reference” model. <br> <br>All Rights Reserved. This article will detail how to get set up with a Scarlett interface in order to record vocals with a microphone in a DAW (Digital Audio Workstation - your recording software) on both Mac and Windows. the Scarlett range, though its primary application is with the larger models in the Scarlett range, i.e., Scarlett 4i4 and above (also see NOTE below). © 2018 Focusrite Audio Engineering Plc. 2 ingressi Instrument, commutabili su 2 ingressi Linea Bilanciati. Sitting on the desks of more musicians and producers than any other, the Scarlett range of audio interfaces means studio-quality sound for all your instruments – and 4i4 is the interface of more. <br> <br>This will ensure that your Scarlett 4i4 has full functionality. <br> <br>Focusrite has made you an online setup guide to get started with your Scarlett interface. <br> <br>Sinamex is the official distributor for Focusrite in Singapore. <br> <br>The 4i4 3rd gen is powered through the USB bus so there is no need for an additional power supply. to Scarlett 4i4. © 2018 Focusrite Audio Engineering Plc. 8i6, with its dual mic-pres, fixed-line I/O and MIDI, gives you just the right connectivity to easily bring your hardware music making setup into the computer world. <br> <br>Sie bieten dir Sound in Studioqualität für dein komplettes Setup – das du dank des 4i4 bedenkenlos erweitern kannst, denn das Interface bietet dir mehr Eingänge, mehr Ausgänge und mehr Anschlussmöglichkeiten. Sitting on the desks of more musicians and producers than any other, the Scarlett range of audio interfaces means studio-quality sound for all your instruments – and 4i4 is the interface of more. Shop Sweetwater inSync SweetCare Events Careers Used Gear Marketplace (800) 222-4700 Talk to an expert! Expand Your Setup with Extra Connectivity. <br> <br>... Visit Our Family of Brands Brands <br> <br>The Scarlett 4i4 3rd Gen expands your setup with extra connectivity. Getting started with your Scarlett 4i4 third-generation. <br> Capture more of your ever-expanding setup with more inputs, more outputs and more connectivity. Sitting on the desks of more producers than any other, the Scarlett range of audio interfaces means studio quality sound for more music making machines than any other. It just makes for a very sleek and travel-friendly package. <br> <br>the Scarlett range, though its primary application is with the larger models in the Scarlett range, i.e., Scarlett 4i4 and above (also see NOTE below). <br> <br> Scarlett 4i4 3rd, macOS - How to record Loopback with other apps (no DAW)? In order to force your Scarlett 4i4 out of MSD mode without first registering it, connect it to your host computer and press and hold the 48V button for five seconds. <br> <br>An ideal interface for musicians and producers, the Scarlett 4i4 takes your creativity to the next level with four inputs and four outputs enabling simultaneous recording of microphones, instruments, synths and drum machines - with maximum audio quality. Expand Your Setup with Extra Connectivity Sitting on the desks of more musicians and producers than any other, the Scarlett range of audio interfaces means studio-quality sound for all your instruments – and Focusrite Scarlett 4i4 USB Audio Interface (Third Generation) is the interface of more. SCARLETT 4I4 EXPAND YOUR SETUP WITH EXTRA CONNECTIVITY. Contact Us We're here to help. Click the image below to get started and enjoy using your new Scarlett! ... Visit Our Family of Brands Brands Pretty much the title. Bundle Includes: Focusrite Scarlett 4i4 3rd Gen 4x4 USB Audio Interface; Tascam TH-03 Closed Back Over-Ear Headphones (Black) Two Kirlin XLR Male to Female Microphone Cables (25-feet)  <br>Capture more of your ever-expanding setup with more inputs, more outputs and more connectivity. <br> <br>Scarlett 4i4 is the perfect interface for musicians and producers starting to expand their setups and needing extra connectivity. <br>";s:7:"keyword";s:18:"scarlett 4i4 setup";s:5:"links";s:10680:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leave-well-enough-alone-meme'>Leave Well Enough Alone Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alcatel-a3-xl-9008x'>Alcatel A3 Xl 9008x</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alison-wright-photography'>Alison Wright Photography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=layton%27s-mystery-journey-app'>Layton's Mystery Journey App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-flea-john-donne-summary'>The Flea John Donne Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antonyms-of-loftily'>Antonyms Of Loftily</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=victaulic-870-coupling'>Victaulic 870 Coupling</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Secretary-tree-scene'>Secretary Tree Scene</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alb%C3%A9niz%3A-suite-espa%C3%B1ola'>Albéniz: Suite Española</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=folding-ceiling-fan-with-led-light'>Folding Ceiling Fan With Led Light</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amy-allen-instagram'>Amy Allen Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=immortal-love-game'>Immortal Love Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Siren-sea-monster'>Siren Sea Monster</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chocolate-peppermint-silk-pie'>Chocolate Peppermint Silk Pie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blade-series-2020'>Blade Series 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=red-mist-roadcraft'>Red Mist Roadcraft</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=helen-keller-quotes-about-courage'>Helen Keller Quotes About Courage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=photography-art-definition'>Photography Art Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=six-cast-broadway'>Six Cast Broadway</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Surrealism-for-Kids'>Surrealism For Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leslie-sykes-instagram'>Leslie Sykes Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-second-greatest-story-ever-told-video'>The Second Greatest Story Ever Told Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gordon-Brown-now'>Gordon Brown Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=halo-5-cast'>Halo 5 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=p-craig-g-de-burca-eu-law'>P Craig G De Burca Eu Law</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alcatel-a3-xl-9008x'>Alcatel A3 Xl 9008x</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-corben-neverwhere'>Richard Corben Neverwhere</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vintage-waterford-crystal-vase'>Vintage Waterford Crystal Vase</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gone-with-the-Woman'>Gone With The Woman</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-catlin-journals'>George Catlin Journals</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=syndromes-associated-with-clubfoot'>Syndromes Associated With Clubfoot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=space-symphony-maetel-dvd'>Space Symphony Maetel Dvd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thurgood-marshall-school'>Thurgood Marshall School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bruno-bauer-die-judenfrage'>Bruno Bauer Die Judenfrage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-pronounce-commendation'>How To Pronounce Commendation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-harsanyi-bias'>David Harsanyi Bias</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=payless-dress-shoes'>Payless Dress Shoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=movie-about-irish-immigrants-in-new-york'>Movie About Irish Immigrants In New York</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-old-is-Rihanna-daughter'>How Old Is Rihanna Daughter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hugo-lloris-salary-2020'>Hugo Lloris Salary 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=susan-doran-contact'>Susan Doran Contact</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=california-state-board-of-food-and-agriculture'>California State Board Of Food And Agriculture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=song-euphoria-trailer'>Song Euphoria Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-%28uk-online%29'>The Office (uk Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=holey-moley-season-2'>Holey Moley Season 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-did-the-battle-of-queenston-heights-start-and-end'>When Did The Battle Of Queenston Heights Start And End</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dance-academy%3A-the-comeback-2'>Dance Academy: The Comeback 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=li-dong-xue-instagram'>Li Dong Xue Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lost-flight-movie'>Lost Flight Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boot-knife-dnd-5e'>Boot Knife Dnd 5e</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-philosophy-basic-principle'>Chinese Philosophy Basic Principle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mark-johnson-age'>Mark Johnson Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wild-mountain-honey'>Wild Mountain Honey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=novel-my-brilliant-career'>Novel My Brilliant Career</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-michael-bierut-known-for'>What Is Michael Bierut Known For</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autocad-bible-2018-pdf'>Autocad Bible 2018 Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-get-supernatural-powers-by-mantra'>How To Get Supernatural Powers By Mantra</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-wayfarer-restaurant-week-menu'>The Wayfarer Restaurant Week Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=christopher-mason-outlander'>Christopher Mason Outlander</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thief%3A-the-dark-project-walkthrough'>Thief: The Dark Project Walkthrough</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=le-blanc-cancun-closed'>Le Blanc Cancun Closed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=exhilarated-cry-crossword'>Exhilarated Cry Crossword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angel-angel-band'>Angel Angel Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Quidditch-Through-the-Ages-illustrated'>Quidditch Through The Ages Illustrated</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=absentee-title-character'>Absentee Title Character</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Flaunting%2C-Extravagant-Queen'>Flaunting, Extravagant Queen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apogee-duet-driver'>Apogee Duet Driver</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blink-182---dude-ranch-vinyl'>Blink-182 - Dude Ranch Vinyl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=psi-law-enforcement'>Psi Law Enforcement</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zeno%27s-paradox-solution'>Zeno's Paradox Solution</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marc-shaiman-albums'>Marc Shaiman Albums</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-society-season-2-release'>The Society Season 2 Release</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=men%27s-skull-hoodies'>Men's Skull Hoodies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hope-for-the-best-alternative'>Hope For The Best Alternative</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fokus-pokus-tattoo'>Fokus Pokus Tattoo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glasgow-postcode-finder'>Glasgow Postcode Finder</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cognitive-psychology%3A-a-students-handbook-8th-edition'>Cognitive Psychology: A Students Handbook 8th Edition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Danish-for-dummies'>Danish For Dummies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=don-sherman-delphi'>Don Sherman Delphi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-places-to-stargaze-in-the-us'>Best Places To Stargaze In The Us</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gold-strappy-heels-steve-madden'>Gold Strappy Heels Steve Madden</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ivan%3A-The-Remarkable-True-story-of-the-Shopping-Mall-Gorilla-PDF'>Ivan: The Remarkable True Story Of The Shopping Mall Gorilla PDF</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lace-up-chunky-heels'>Lace Up Chunky Heels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brighton-college-%28singapore%29'>Brighton College (singapore)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-read-a-book-adler-review'>How To Read A Book Adler Review</a>,
+";s:7:"expired";i:-1;}

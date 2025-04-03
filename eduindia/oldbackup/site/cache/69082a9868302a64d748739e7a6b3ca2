@@ -1,0 +1,93 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4466:"<p>face-to-face, online, print, social) and learning environments (e.g. While this is a useful guideline, it may not be sufficient to cover every blended learning configuration. At first, blended learning was defined as a mixture of offline and online learning. </p> <p>Definition of Blended Learning from our glossary of English linguistic and grammatical terms containing explanations and cross-references to other relevant English grammar terms. </p> <p>Blended Learning Defined. In a blended-learning course, for example, students might attend a class taught by a teacher in a traditional classroom setting, while also independently completing online components of the course outside of the classroom. Definition of blended-learning noun in Oxford Advanced Learner's Dictionary. Blended learning is an approach to education that combines online educational materials and opportunities for interaction online with traditional place-based classroom methods. </p> <p>Explore what you stand to gain by implementing blended learning. Definition of blended-learning noun in Oxford Advanced Learner's Dictionary. Blended learning is a combination of learning at a distance and the traditional on-campus learning (in a classroom). Blended learning definition at Dictionary.com, a free online dictionary with pronunciation, synonyms and translation. Blended learning definition at Dictionary.com, a free online dictionary with pronunciation, synonyms and translation. Blended learning definition: Blended learning is the combination of traditional, face-to-face learning methods with technology-based, eLearning methods. Meaning, pronunciation, picture, example sentences, grammar, usage notes, synonyms and more. It requires the physical presence of both teacher and student, with some elements of student control over time, place, path, or pace. </p> <p>Revised definition: Blended learning is a methodology that combines a variety of learning media (e.g. Basically, you will have a (more or less) fixed schedule where you will have to attend a part of the classes on campus. Although schools have been using computers and technology for some time, until recently they havent generally used technology to provide students with a true blend of instruction that gives them some ele… The definition of blended learning is a formal education program in which a student learns: at least in part through online learning, with some element of student control over time, place, path, and/or pace; at least in part in a supervised brick-and-mortar location away from home; Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere. Unlike full-fledged eLearning, the online part of training doesn’t replace face-to-face training with a teacher; teachers incorporate technology to enhance the learning experience and broaden understanding of certain topics. Wikipedia offers the following definition: “Blended learning is an approach to education that combines online educational materials and opportunities for interaction online with traditional place-based classroom methods. Blended learning is playing an important role in education. The phenomenon of blended learning has its roots in online learning and represents a fundamental shift in instruction that has the potential to optimize for the individual student in ways that traditional instruction never could. While students still attend "brick-and-mortar" schools with a teacher present, face-to-face classroom practices are combined with computer-mediated activitiesregarding content and delivery. Blended learning combines traditional teaching methods with technology in varying degrees. The way in which blended learning is delivered is usually dependant on circumstances, making a universal, all-encompassing definition hard to establish. Thesaurus: synonyms and related words. ing , blends v. tr. </p> <p> The first situation described is a classical learning method. Definition of Blended Learning from our glossary of English linguistic and grammatical terms containing explanations and cross-references to other relevant English grammar terms. Blended learning is an approach to learning that combines brick-and-mortar instructor-led training and online learning activities. Blended courses (also known as hybrid or mixed-mode courses) are classes where a portion of the traditional face-to-face instruction is replaced by web-based online learning. </p>";s:7:"keyword";s:27:"blended learning definition";s:5:"links";s:3884:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interrupting-chicken-pdf'>Interrupting Chicken Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=underoath-tour-dates-2020'>Underoath Tour Dates 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ultimate-showdown-%28instrumental%29'>Ultimate Showdown (instrumental)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Build-a-Levee'>Build A Levee</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buddha-purnima-timing-2020'>Buddha Purnima Timing 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sweet-rice-porridge'>Sweet Rice Porridge</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-is-the-prey-novel'>Who Is The Prey Novel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flights-to-arkansas'>Flights To Arkansas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sea-of-fire-game'>Sea Of Fire Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-kind-of-the-golden-river'>The Kind Of The Golden River</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crime-coefficient-colors'>Crime Coefficient Colors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devil%27s-advocate-full-movie'>Devil's Advocate Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=family-icon-transparent-background'>Family Icon Transparent Background</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andreas-pietschmann-height'>Andreas Pietschmann Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-liar-book-summary'>The Liar Book Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=conor-mcgregor-reebok-zig-kinetica'>Conor Mcgregor Reebok Zig Kinetica</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jungle-cubs-season-1'>Jungle Cubs Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-auburn-logo'>Old Auburn Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drew-lynch-net-worth'>Drew Lynch Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=champagne-france-to-paris'>Champagne France To Paris</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=genetics-poem-analysis'>Genetics Poem Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=you-know-in-german'>You Know In German</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=disobedience-movie-dailymotion'>Disobedience Movie Dailymotion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mission-road-ministries-reviews'>Mission Road Ministries Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miss-mary-mack-book'>Miss Mary Mack Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=for-the-love-of-life'>For The Love Of Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reddit-scifi-writing'>Reddit Scifi Writing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=norman-bridwell-cause-of-death'>Norman Bridwell Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sonnet-71-sparknotes'>Sonnet 71 Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=el-camino-movie-old-man'>El Camino Movie Old Man</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=90-day-fianc%C3%A9%3A-pillow-talk-imdb'>90 Day Fiancé: Pillow Talk Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=When-Silence-Falls'>When Silence Falls</a>,
+";s:7:"expired";i:-1;}

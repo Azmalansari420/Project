@@ -1,0 +1,87 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3008:"<br>In What's It All About?, Julian Baggini says no, there is no single meaning. Each chapter introduces one of the five major themes covered on philosophy courses: Theory of Knowledge, Moral Philosophy, Philosophy of Religion, Philosophy of Mind, and Political Philosophy. Julian Baggini (born 1968) is a British philosopher, journalist and the author of over 20 books about philosophy written for a general audience. A philosophically informed reading of the news creates a two-way process where philosophy sheds light on the news and the news, thus illuminated, sheds light on our philosophy. His doctorate was from University College London on the philosophy of personal identity, and his books have been published globally and translated into twelve languages. His recent book, What’s It All About? This is a very well written and readable book. One of the great unexplained wonders of human history is that written philosophy flowered entirely separately in China, India and Ancient Greece at more or less the same time. Julian Baggini is a philosopher, author and journalist, who was recently named on the Observer's list of Britain's top public intellectuals.  <br>Julian Baggini Philosophy: Key Themes is a beginner's guide to understanding and critiquing philosophical arguments. I still haven’t got my head around how to review books, as the interest and enjoyment of them are highly contingent. Allen & Unwin is Australia's leading independent book publisher and has been voted "Publisher of the Year" thirteen times including the inaugural award in 1992 and eleven times since 2000. <br> <br>Julian Baggini — British Author born on December 29, 1968, Julian Baggini is a British philosopher, and the author of several books about philosophy written for a general audience. The Philosophers’ Magazine is an independent quarterly, founded by Julian Baggini and Jeremy Stangroom in 1997. Instead, Baggini argues meaning can be found in a variety of ways, in this life. Julian Baggini Browse by subject Atheism Ethics Food Free Will Global Philosophy Politics & society Reason & rationality Religion Science Self & identity Truth White Cliffs We’re devoted to publishing philosophy that’s clear, enlightening, and thought-provoking. Michael Berkeley talks to philosopher Julian Baggini about the pleasures of serendipity, transience, philosophy and music. Michael Berkeley’s guest is philosopher Julian Baggini. Granta Books. Julian Baggini - 2015 - Philosophy and Social Criticism 41 (4-5):403-412. He is a patron of Humanists UK. <br> He is co-founder of The Philosophers' Magazine   and has written for numerous international newspapers and magazines. In this groundbreaking global overview of philosophy, Julian Baggini travels the world to provide a wide-ranging map of human thought. Political pluralism can be justified on the basis of an epistemological argument about what we can claim to know, one which has a normative conclusion about how strongly we ought to believe. <br>";s:7:"keyword";s:25:"Julian Baggini philosophy";s:5:"links";s:3302:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jquery-trigger-click'>Jquery Trigger Click</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=portobello-outdoor-swimming-pool'>Portobello Outdoor Swimming Pool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=victaulic-870-coupling'>Victaulic 870 Coupling</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kim-tae-pyung-pronunciation'>Kim Tae Pyung Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=living-sacrifice-bloodwork'>Living Sacrifice Bloodwork</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phil-ponce-2020'>Phil Ponce 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=del-rey-books-publicity'>Del Rey Books Publicity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nanny-mcphee-google-drive'>Nanny Mcphee Google Drive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Redline-MX-%282019%29'>Redline MX (2019)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dree-hemingway-instagram'>Dree Hemingway Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ballymurphy-massacre-inquest'>Ballymurphy Massacre Inquest</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=non-distracting-or-undistracting'>Non Distracting Or Undistracting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mike-henry-consuela'>Mike Henry Consuela</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goebbels-sportpalast-speech-transcript'>Goebbels Sportpalast Speech Transcript</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soldier-blue-trailer'>Soldier Blue Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sing-and-dance-in-your-polka-dot-pants-song-video'>Sing And Dance In Your Polka-dot Pants Song Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=do-the-work-steven-pressfield-audiobook'>Do The Work Steven Pressfield Audiobook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=short-square-nails'>Short Square Nails</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frank-sheed-theology-and-sanity'>Frank Sheed Theology And Sanity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=underwater-dogs-calendar-2020'>Underwater Dogs Calendar 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ken-burns-country-music-netflix'>Ken Burns Country Music Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tunnels-book-characters'>Tunnels Book Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=victor-borge---last-performance'>Victor Borge - Last Performance</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alexis-mateo-instagram'>Alexis Mateo Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=softschools-com-login'>Softschools Com Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jim-rohn-herbalife-quotes'>Jim Rohn Herbalife Quotes</a>,
+";s:7:"expired";i:-1;}

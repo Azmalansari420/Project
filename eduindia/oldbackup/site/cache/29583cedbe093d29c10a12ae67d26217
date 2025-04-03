@@ -1,0 +1,100 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2894:"<br>Vending machines finally made their United States debut in 1888 when the Thomas Adams Gum Company installed machines on subway platforms in New York City that vended Tutti-Frutti gum. Around the same time, Richard Carlisle, an English publisher and bookshop owner, invented a vending machine that dispensed books. One of the earliest examples which exist of vending machines can be traced all the way back to Egypt and its magnificent temples. For a few coins, they were able to dispense water to the thirsty faithful. <br> In 215 BC, Hero of Alexandria invented the first coin-operated vending machine dispensing holy water. Also called Heron, the Greek engineer and mathematician Hero is believed to have lived in the 1 st century and was active in Alexandria between 60 and 70 AD. Hero was the Da Vinci of his time who came up with ideas for all types of inventions like the pneumatic steam powered system which would open large temple door when a fire would be lit on the altar. The first recorded example of a vending device comes from the Hero of Alexandria, a Greek mathematician who invented a machine that dispensed holy water in Egyptian temples. First vending machine used at the time of Christ The first vending machine was invented by Hero (Heron) of Alexandria in the first century. It should be added that there are not any records of wind-powered machines before Hero came along. Hero of Alexandria, engineer from Antiquity, who invented an early vending machine Coin-operated machines that dispensed tobacco were being operated as early as 1615 in the taverns of England. <br> <br>Hero of Alexandria, engineer from Antiquity, who invented an early vending machine Coin-operated machines that dispensed tobacco were being operated as early as 1615 in the taverns of England. Vending machines date back to ancient times.  <br>Hero Alexandria was the brains behind this invention which was way ahead of its time then. Earliest Examples of Vending Machines. Hero’s holy water vending machines could be found in … TIL the earliest known vending machine was invented in 1st century Rome by Hero of Alexandria. These vending machines were found in London and dispensed post cards. Hero Of Alexandria And His Coin-Operated Holy Water Vending Machine Hero was the Thomas Edison of the ancient world. According to the history of vending machines “Hero of Alexandria invented the first coin-operated vending machine dispensing holy water. TIL the earliest known vending machine was invented in 1st century Rome by Hero of Alexandria. Hero of Alexandria was a mathematician, engineer, and inventor. His machine accepted a coin and then dispensed a fixed amount of holy water. Though the modern vending machine was invented in 1883 by Percival Everitt, Hero is credited for the construction of the earliest known vending machine. The machines were portable and made of brass. <br>";s:7:"keyword";s:34:"Hero of Alexandria vending machine";s:5:"links";s:4818:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=A-Written-Testimony'>A Written Testimony</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pro-life-en-espa%C3%B1ol'>Pro-life En Español</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blind-stitch-hem-by-hand'>Blind Stitch Hem By Hand</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=political-correctness%3A-the-munk-debates-book'>Political Correctness: The Munk Debates Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=javits-center-field-hospital'>Javits Center Field Hospital</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ill-wind-jazz-standard'>Ill Wind Jazz Standard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=champagne---asda'>Champagne - Asda</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-hanging-tree-%28original-song%29'>The Hanging Tree (original Song)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=georgia-mass-choir-songs-youtube'>Georgia Mass Choir Songs Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alfies-cocktail-menu'>Alfies Cocktail Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=teri-aankhen-shayari'>Teri Aankhen Shayari</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xavier-mcdaniel-net-worth'>Xavier Mcdaniel Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-neighbor-%282007%29'>The Neighbor (2007)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jorge-mendes-instagram'>Jorge Mendes Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kory-stamper-word-by-word'>Kory Stamper Word By Word</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=snow-country-shimamura'>Snow Country Shimamura</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-pastoral-chapter-1-summary'>American Pastoral Chapter 1 Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=princess-n%C4%81hi%CA%BBena%CA%BBena-school-calendar'>Princess Nāhiʻenaʻena School Calendar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=snap-selling-concept'>Snap Selling Concept</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=medical-term-for-dead-person'>Medical Term For Dead Person</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=journey-ps4-gameplay'>Journey Ps4 Gameplay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=World-War-2-flag'>World War 2 Flag</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wang-wei-china'>Wang Wei China</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atlantic-beach%2C-fl-map'>Atlantic Beach, Fl Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mistborn-espa%C3%B1ol-pdf'>Mistborn Español Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trapped-escape-room-singapore'>Trapped Escape Room Singapore</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shadow-dance-song'>Shadow Dance Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=memento-jay-kristoff-pdf'>Memento Jay Kristoff Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alcatraz-ferry-schedule'>Alcatraz Ferry Schedule</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tolkien-quotes-travel'>Tolkien Quotes Travel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Couple-captions-from-songs'>Couple Captions From Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=curtis-samuel-stats'>Curtis Samuel Stats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blink-182-california-font'>Blink-182 California Font</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=easy-tattoo-designs-to-do-yourself'>Easy Tattoo Designs To Do Yourself</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hiding-relationship-from-parents-quotes'>Hiding Relationship From Parents Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-ovitz-2020'>Michael Ovitz 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-side-imaging-fish-finder-2019'>Best Side Imaging Fish Finder 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tim-sylvia-wife'>Tim Sylvia Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stranded-pepper-pace'>Stranded Pepper Pace</a>,
+";s:7:"expired";i:-1;}

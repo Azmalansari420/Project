@@ -1,0 +1,87 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2663:"<p>J’ai lu, en partie, la Vie du philosophe Isidore. For a schematisation of the dual linkage that connected men in our circle, see the attached Stemma. </p> <p>2. He was then convinced by his teacher Isidore to shift his focus to philosophy and science, and studied under Hermias and his sons, Ammonius and Heliodorus. In his early youth he went to Alexandria, where he spent twelve years partly as a pupil of Theon, a rhetorician, and partly as a professor of rhetoric. Damascius' Life , which is dedicated to Theodora , a disciple of both Isidore and Damascius, is preserved in summary form by Photius in his Bibliotheca , [13] and in fragments in the Suda . (PDF) An Excerpt from Damascius' Life of Isidore/The Philosophic History | Eric Fallick - Academia.edu A short translation from Ancient Greek from Damascius telling the story of an ancient 'pagan' contemplative ascetic and hermit. Damascius' Life, which is dedicated to Theodora, a disciple of both Isidore and Damascius, is preserved in summary form by Photius in his Bibliotheca, [14] and in fragments in the Suda. Damascius was born in Damascus in Syria, whence he derived his name: his Syrian name is unknown. Theodora of Emesa was a member of an intellectual group of Neoplatonists in late fifth and early sixth century Alexandria, and a disciple of Isidore. Damascius applies this scale, however, to a wide range of figures belonging to pagan philo-sophical circles of the fifth century AD: they show different degrees and forms of J’ai lu, en partie, la Vie du philosophe Isidore. Isidore is known principally as the teacher of Damascius, whose testimony in his Life of Isidore presents Isidore in a very favourable light as a man and a thinker. 2.  Les Égyptiens, tout le monde le sait, sont les plus anciens des hommes que l'on connaisse, il n’est pour ainsi dire personne d’assez arriéré pour ne pas l’avoir entendu dire ou lu chez nombre d’auteurs. </p> <p>She was torn apart by the Alexandrians and her body was mocked and scattered through the whole Damascius, Vie du philosophe Isidore. Isidorus, and she flourished under the Emperor Arcadius. Damascius died in Syria sometime after 538. This work, also known as the Philosophical History , was composed between 517-526, and provides an account of the lives and times of the pagan Neoplatonic communities in Alexandria and Athens at the very end of antiquity, structured around the biography of Isidore. Les Égyptiens, tout le monde le sait, sont les plus anciens des hommes que l'on connaisse, il n’est pour ainsi dire personne d’assez arriéré pour ne pas l’avoir entendu dire ou lu chez nombre d’auteurs. </p>";s:7:"keyword";s:25:"damascius life of isidore";s:5:"links";s:3254:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-villain-korea'>The Villain Korea</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dublin-city-council-housing-phone-number'>Dublin City Council Housing Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kisho-Kurokawa%27s-Nakagin-Capsule-Tower-in-Tokyo'>Kisho Kurokawa's Nakagin Capsule Tower In Tokyo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=omkara-hit-or-flop'>Omkara Hit Or Flop</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Instructional-videos-examples'>Instructional Videos Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adria-caravan-price-list'>Adria Caravan Price List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-fantasy-meaning'>Dark Fantasy Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-houston-actor'>Jean Houston Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Westonaria-Local-Municipality'>Westonaria Local Municipality</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seth-godin-audiobook'>Seth Godin Audiobook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-discarded-image-pdf'>The Discarded Image Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=loca-people-lyrics'>Loca People Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jane-Eyre-pronunciation'>Jane Eyre Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=muji-sun-house'>Muji Sun House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aikido---youtube'>Aikido - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grand-blue-netflix'>Grand Blue Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=empresses-in-the-palace-review'>Empresses In The Palace Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=voltaire-quotes-religion'>Voltaire Quotes Religion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philadelphia-fire-dispatch'>Philadelphia Fire Dispatch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-rainey-harper'>William Rainey Harper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=project-delivery-manager-jobs'>Project Delivery Manager Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-mitten-printable-book'>The Mitten Printable Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=damascius-life-of-isidore'>Damascius Life Of Isidore</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=usage-of-then-and-therecherry-blossom-quotes-goodreads'>Usage Of Then And Therecherry Blossom Quotes Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fun-facts-and-trivia-about-alabama'>Fun Facts And Trivia About Alabama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=let%27s-be-real-podcast'>Let's Be Real Podcast</a>,
+";s:7:"expired";i:-1;}

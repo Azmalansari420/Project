@@ -1,0 +1,94 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2183:"<p>This site honors the American volunteer pilots who flew with French squadrons during the Great War, and is the final resting place for some of America’s first combat aviators and their French Officers. Second insignia created by Harold Willis for the Lafayette Escadrille Sgt. These are proudly made here in the U.S.A. WWI French Lafayette Escadrille/ Lafayette Flying Corps Badge/ Insignia | eBay It was named in honor of the Marquis de Lafayette, French hero of the American Revolutionary War. At left is the American Indian insignia that was used by the squadron as an emblem. The Park is open every day, morning and afternoon. Lafayett Escadrille lead Insignia; relief bust of an American Indian wearing a war bonnet depicted. </p> <p>Willis, was captured after an aerial battle, probably against Lt. Wilhelm Schulz of Jasta 16b, 18 August 1917. Upon the stone are inscribed the names of the dead American pilots of the Escadrille La Fayette and the Lafayette Flying Corps during the first World War 1914 / 1918. The Indian-head insignia was carried forward to become the insignia of the U.S. Army Air Service's 103rd Aero Squadron when the Lafayette Escadrille … This insignia is a great looking replica pin from the front and nobody will see the pin back. This color illustration of the famous “Indian head” insignia of the Lafayette Escadrille belonged to Lt. Charles Dolan, Jr., an American volunteer with the Lafayette Escadrille during WWI. </p> <p>The monument is composed of a central Arch of Triumph, one-half size of the Arch of Thiumph in Paris.  Display Status: This object is not on display at the National Air and Space Museum. The Escadrille had a reputation for recklessness–the acquisition of two lion cubs named “Whiskey” and “Soda” as squadron mascots added to their fame. The Lafayette Escadrille Memorial Cemetery commemorates the birthplace of American combat aviation, and serves as a symbol of the Franco-American comradeship during World War I. Later insignia doesn't have the star. </p> <p>Harold Buckley Willis shown with the original insignia of the Lafayette Escadrille (N 124) in France during World War I about March 1917. </p>";s:7:"keyword";s:29:"lafayette escadrille insignia";s:5:"links";s:4234:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=it%E2%80%99s-too-late-streets'>It’s Too Late Streets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Renaissance-art-style'>Renaissance Art Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clara-brereton-sanditon-actress'>Clara Brereton Sanditon Actress</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carville-la-hotels'>Carville La Hotels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stitch-up-meaning'>Stitch Up Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=janet-mcteer-%28%27ozark%29'>Janet Mcteer ('ozark)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=which-of-these-is-the-best-example-of-metaphor'>Which Of These Is The Best Example Of Metaphor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fist-fight-google-Drive'>Fist Fight Google Drive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aimi-kobayashi-youtube'>Aimi Kobayashi Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xu-beihong-horse-paintings'>Xu Beihong Horse Paintings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joanna-numata-wikipedia'>Joanna Numata Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=entre-visillos-english-translation'>Entre Visillos English Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=believing-is-seeing-errol-morris-pdf'>Believing Is Seeing Errol Morris Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=silence-of-the-lambs-hannibal-lecter'>Silence Of The Lambs Hannibal Lecter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=inkheart-2-cast'>Inkheart 2 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plural-of-prize'>Plural Of Prize</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=that-thing-you-do%21-dance-with-me-tonight'>That Thing You Do! Dance With Me Tonight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sam-Milby-relationship'>Sam Milby Relationship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brothers-karamazov-oxford-world%27s-classics'>Brothers Karamazov Oxford World's Classics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=knut-hamsun-short-stories'>Knut Hamsun Short Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reddit-food-news'>Reddit Food News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=captain-courageous-%281937-full-movie-online%29'>Captain Courageous (1937 Full Movie Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tamil-novels-scribd-2018'>Tamil Novels Scribd 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-best-and-most-beautiful-things'>The Best And Most Beautiful Things</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kipps-half-a-sixpence'>Kipps Half A Sixpence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chloe-movie-netflix'>Chloe Movie Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=waterford-crystal-yellow-rose'>Waterford Crystal Yellow Rose</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cold-prints-mystery-box'>Cold Prints Mystery Box</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=f-xun-tennis-live-score'>F Xun Tennis Live Score</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dragon%27s-blood-prayer'>Dragon's Blood Prayer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=giants-and-the-genii-multiplex-of-wing-and-eye'>Giants And The Genii Multiplex Of Wing And Eye</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-wall-arliss'>Robert Wall Arliss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nikki-giovanni-interesting-facts'>Nikki Giovanni Interesting Facts</a>,
+";s:7:"expired";i:-1;}

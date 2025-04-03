@@ -1,0 +1,98 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1208:"<br>Winchester House History. The Winchester Mystery House in San Jose, California, is one of the nation’s most curious landmarks.  Over the next 20 years, at a cost of approximately $5 million, the cottage was rebuilt into a 160-room mansion, covering an area of 24,000 square feet. La Malédiction Winchester (Winchester: The House That Ghosts Built) sorti en 2018.  Winchester House History In 1886 Sarah Winchester bought a 40-acre plot of land in San Jose, California, which included an eight-room cottage. <br> <br>Sarah Winchester, Opéra Fantôme (Sarah Winchester, Phantom Opera: ) sorti en 2016. <br> <br>Bande dessinée. ’’Dans l’antre de la penitence’’ scénario de Peter J.Tomasi, dessins de Ian Bertram, Glénat, 2017. Did heiress Sarah Winchester really design it to house the souls of those who'd been killed with Winchester rifles? In 1886 Sarah Winchester bought a 40-acre plot of land in San Jose, California, which included an eight-room cottage. By Maria Carter. Jan 24, 2018 From shortly after her husband died in 1881 until her own death in 1922, rifle heiress Sarah Winchester lived alone. La Maison Winchester de Marie-Charlotte Delmas et Max Cabanes, Glénat, 2004. <br>";s:7:"keyword";s:22:"sarah winchester house";s:5:"links";s:4444:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=photography-art-definition'>Photography Art Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leon-lai-yi'>Leon Lai Yi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Brandon-Frankel-wiki'>Brandon Frankel Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sons-of-issachar-anointing'>Sons Of Issachar Anointing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=everlasting-moments-movie'>Everlasting Moments Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=agnes-grey-characters'>Agnes Grey Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wanchese-native-american'>Wanchese Native American</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Prey-2017-sequel'>Prey 2017 Sequel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fair-warning-%28band%29'>Fair Warning (band)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mansarda-st-petersburg'>Mansarda St Petersburg</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=doctor-who-season-12-episode-11'>Doctor Who Season 12 Episode 11</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nancy-fox-mindhunter'>Nancy Fox Mindhunter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=he-man-figure-list'>He-man Figure List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=A-Jewish-Holiday-ABC'>A Jewish Holiday ABC</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=medical-apartheid-goodreads'>Medical Apartheid Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Elements-of-Love%3A-Ballads'>Elements Of Love: Ballads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wildest-Dreams-lyrics-meaning'>Wildest Dreams Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=into-the-labyrinth-%282019-online%29'>Into The Labyrinth (2019 Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wayne%27s-World-3'>Wayne's World 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meditation-cushion-set'>Meditation Cushion Set</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=human-genome-book-pdf'>Human Genome Book Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-cub-werewolf'>Wolf Cub Werewolf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brighton-rock-book'>Brighton Rock Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fun-facts-and-trivia-about-alabama'>Fun Facts And Trivia About Alabama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=future-continuous-tense-of-rain'>Future Continuous Tense Of Rain</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=killer-seven-netflix'>Killer Seven Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soilless-potting-mix-recipe'>Soilless Potting Mix Recipe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hopscotch-coding-lessons'>Hopscotch Coding Lessons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brokermint-vs-dotloop'>Brokermint Vs Dotloop</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alcatraz-ferry-schedule'>Alcatraz Ferry Schedule</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joseph-taylor-columbia%2C-mo'>Joseph Taylor Columbia, Mo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lance-barber-family'>Lance Barber Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madame-sousatzka-cast'>Madame Sousatzka Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=strongarm-sport-discount-code'>Strongarm Sport Discount Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-hampshire-attorney-portal'>New Hampshire Attorney Portal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mou-size-chart'>Mou Size Chart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jewel-osco-jobs-near-me'>Jewel-osco Jobs Near Me</a>,
+";s:7:"expired";i:-1;}

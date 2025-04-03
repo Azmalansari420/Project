@@ -1,0 +1,140 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3737:"<p>Once inside your container use it like a normal Fedora machine (dnf is available!). Fedora, like all other Linux systems, comes with native support for virtualization extensions. - Duration: 41:45. In the same manner as for the ARMv7 SBC images, there will be a single disk image for each of Fedora’s Minimal, Server and Workstation Editions that will cover all supported devices. </p> <p>Skip navigation Sign in. It is a very lightweight fedora image, it goes beyond not having a DE. As rpm-ostree has no search function, using a container is the expected way to do this. The process completed without issues, and I was able to reboot into Fedora Silverblue. According to the Fedora Silverblue User Guide: "Fedora Silverblue is an immutable desktop operating system. Having created the container above, you can now use it (without entering it first) to perform package searches. 3- Login to Silverblue and verify that EFI partition on drive B was “correct”, and the installation was working without issues, pin the deployment. It runs the allwinner soc from the Pine64+ board, aarch64. </p> <p>I am trying to find a way to get Fedora Silverblue onto the phone. Until we see more arm notebooks, arm silverblue does not seem as urgent. Fedora Silverblue is now listed as an option for Workstation ; minor UI tweaks ; Mac version on GitHub should be signed now (the Windows version should not, though) Updated embedded releases (latest offered release is now F29) and translations; Bug fixes: Uninstaller now … When I have tried to install Silverblue 31, dualboot with window 10, I receive issue with following text : “The object cannot be write”. By clicking on and downloading Fedora, you agree to comply with the following terms and conditions. What are Spins? By downloading Fedora software, you acknowledge that you understand all of the following: Fedora software and technical information may be subject to the U.S. The PinePhone is a recently released gnu/linux smart phone. This support is given by KVM (Kernel based Virtual Machine) currently available as a kernel module. Container on Fedora SIlverblue. Grub screen already showed the Windows 10 boot manager available there. QEMU is a complete system emulator that works together with KVM and allows you to create virtual machines with hardware and peripherals. This page is meant to serve as a single central resource for locating alternative versions of Fedora. edit: one big issue with iot edition is that it still in beta stage. </p> <p>... Let's try Fedora Silverblue — an immutable desktop OS! These Fedora downloads are either special-purpose - for testing, for specific architectures - or are more standard versions of Fedora in alternative formats such network installer format or formatted for bittorrent download. The default desktop environment of Fedora is GNOME, but if you prefer an alternative desktop environment such as KDE Plasma Desktop or Xfce, you can download a spin for your preferred desktop environment and use that to install Fedora, pre-configured for the desktop environment of … I am hope so, that I can install Silverblue … So far I have built the custom Pine64 kernel, the u-boot (u-boot-sunxi-with-spl.bin), and dtb (sun50i-a64-pinephone.dtb). But I liked the idea of an immutable desktop and resolved to try it out when I got home. </p> <p>Search. Silverblue’s installation went fine.  I've used Fedora for nearly three years (and Linux for about 22 years) and recently upgraded my machines (home and work) to Fedora 30. Fedora now includes disk images for 64 bit ARM (aarch64) Single Board Computer (SBC) devices, for example the Pine64 or Raspberry Pi 3. How can I fix it? ... plus Debian, Ubuntu and Manjaro ARM! </p>";s:7:"keyword";s:21:"fedora silverblue arm";s:5:"links";s:9928:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=metropolis-plural-oxford-dictionary'>Metropolis Plural Oxford Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=danny-mann-voice-actor'>Danny Mann Voice Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-is-wade-in-burning-sands'>Who Is Wade In Burning Sands</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=middle-earth-books-in-chronological-order'>Middle-earth Books In Chronological Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=road-to-emmaus-meaning'>Road To Emmaus Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=post-mortem-form'>Post Mortem Form</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-bullet-mask'>Black Bullet Mask</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-pynchon-cornell'>Thomas Pynchon Cornell</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=channel-8-sports'>Channel 8 Sports</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unwritten-chords-no-capo'>Unwritten Chords No Capo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ollie-Barbieri-2019'>Ollie Barbieri 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=underoath-tour-dates-2020'>Underoath Tour Dates 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=different-rural-financial-services'>Different Rural Financial Services</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=something-beautiful-is-on-the-horizon-quotes'>Something Beautiful Is On The Horizon Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=take-another-look-meaning'>Take Another Look Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Introduction-to-Poetics'>Introduction To Poetics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jarhead-3-rotten-tomatoes'>Jarhead 3 Rotten Tomatoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-platform-stiletto-heels'>Black Platform Stiletto Heels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-owen-australia-zoo'>Steve Owen Australia Zoo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-invented-the-stove'>Who Invented The Stove</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fellowship-church-plano-closing'>Fellowship Church Plano Closing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mike-williams-fantasy'>Mike Williams Fantasy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=khorne-berzerkers-meme'>Khorne Berzerkers Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=I%27ll-End-Those-Dogs'>I'll End Those Dogs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wang-anshi-wiki'>Wang Anshi Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kris-humphries-net-worth-before-kim'>Kris Humphries Net Worth Before Kim</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=juvenile-crime-statistics'>Juvenile Crime Statistics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crosby-hull-age'>Crosby Hull Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japanese-haiku-poems'>Japanese Haiku Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=century-21-united-el-dorado%2C-ar'>Century 21 United El Dorado, Ar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=periodic-table-of-videos-periodic-table'>Periodic Table Of Videos Periodic Table</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=competitive-wine-tasting-reddit'>Competitive Wine Tasting Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=c-j-cherryh-foreigner-series-order'>C J Cherryh Foreigner Series Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=johnny-5-movie'>Johnny 5 Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=savos-aren-amulet'>Savos Aren Amulet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lifetime-basketball-hoop-parts'>Lifetime Basketball Hoop Parts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=non-dairy-creamer-calories'>Non Dairy Creamer Calories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-mastermind-amazon'>The Mastermind Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=next-to-of-course-god-america-i-litcharts'>Next To Of Course God America I Litcharts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tear-soup-pdf'>Tear Soup Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=christ-church%2C-oxford-tickets'>Christ Church, Oxford Tickets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=braxton-bragg-family-tree'>Braxton Bragg Family Tree</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marauders-movie-explained'>Marauders Movie Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liberian-girl-music-video-cast'>Liberian Girl Music Video Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greenwich-high-school-tour'>Greenwich High School Tour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=be-for-beauty-nottingham'>Be For Beauty Nottingham</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donna-yaklich-son'>Donna Yaklich Son</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-gilbert-vampire'>John Gilbert Vampire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=le-corbusier-lc3'>Le Corbusier Lc3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kylie-Jenner-%26-Stormi'>Kylie Jenner & Stormi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stones-throw-records'>Stones Throw Records</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alexis-mateo-instagram'>Alexis Mateo Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-life-hbo-episodes'>Love Life Hbo Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-bible-promise-book%3A-new-international-version'>The Bible Promise Book: New International Version</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tony-gonzalez-age'>Tony Gonzalez Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=can-you-eat-bao-buns-cold'>Can You Eat Bao Buns Cold</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=malarky-game-examples'>Malarky Game Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-garvey-quotes'>Steve Garvey Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=platform-stiletto-high-heels'>Platform Stiletto High Heels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=international-meatball-day-2020'>International Meatball Day 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=metallica-t-shirt-vintage'>Metallica T-shirt Vintage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-smith-furniture'>Michael Smith Furniture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-matt-hamill-doing-now'>What Is Matt Hamill Doing Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alpha-wolf-barrel-review'>Alpha Wolf Barrel Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-did-cheyenne-and-cory-meet'>How Did Cheyenne And Cory Meet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=visakhapatnam-news-channel'>Visakhapatnam News Channel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=international-picnic-day-2021'>International Picnic Day 2021</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=detective-di-renjie-movie-2020'>Detective Di Renjie Movie 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=british-academy-film-awards'>British Academy Film Awards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aroldis-chapman-height-weight'>Aroldis Chapman Height Weight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Plus-one-English-poem-If-summary'>Plus One English Poem If Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=theo-devaney-net-worth'>Theo Devaney Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prosthetic-memory-landsberg-summary'>Prosthetic Memory Landsberg Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ivan-karamazov-everything-is-permitted'>Ivan Karamazov Everything Is Permitted</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=19th-century-literature-themes'>19th Century Literature Themes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=watcher-in-the-woods-netflix'>Watcher In The Woods Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eureeka%27s-castle-theme'>Eureeka's Castle Theme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grandfather%27s-journey-analysis'>Grandfather's Journey Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-like-beer-kavanaugh-gif'>I Like Beer Kavanaugh Gif</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,83 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4398:"<p>Background Lieutenant General James Longstreet was arguably the finest corps commander on either side during the Civil War. James Longstreet, (born January 8, 1821, Edgefield district, South Carolina, U.S.—died January 2, 1904, Gainesville, Georgia), Confederate officer during the American Civil War.A graduate of the U.S. Military Academy at West Point, New York (1842), he resigned from the U.S. Army when his native state seceded from the Union (December 1860); he was made a brigadier general in the Confederate Army. Longstreet was born January 8, 1821 in Edgefield District, South Carolina. The son of James and Mary Ann Longstreet, he spent his early years on the family's plantation in northeast Georgia. </p> <p>General James Longstreet, along with around 10,000 men from his corps in the Army of Northern Virginia, were dispatched towards Chattanooga. Longstreet was known as a superb tactician and battlefield commander who preferred a conservative defensive battle approach. His First Corps attacked and dislodged Union forces at the Devil’s Den, the Wheatfield and the Peach Orchard, on July 2. That last element in particular led me to a concurrent youthful disdain for General James Longstreet, one of Lee’s chief lieutenants throughout the war and yet a frequent dissenter from Lee’s strategies. </p> <p>He died of an apparent stroke while leading his Second Squadron (three troops) in a Saturday morning review on the parade ground. Fredericksburg, in December 1862, was for James Longstreet, newly appointed a lieutenant general, the perfect victory—indeed, the ideal model for winning Southern independence. </p> <p>Longstreet preferred to find and prepare defendable positions and let the Union forces come to him. James Longstreet Biography, Life, Interesting Facts. Feb 29, 2020 - James Longstreet (January 8, 1821 - January 2, 1904); Lieutenant General of the Confederate States Army. </p> <p>James Longstreet, one of Robert E. Lee’s most trusted generals during the Civil War, died January 2, 1904. It is far from uncritical of Longstreet, but nevertheless more or less debunks some of the post-Civil War trashing of his reputation which occurred. </p> <p>Some pictures are repins from my other boards but have different texts. He was 82. Before his death, Longstreet told one of his opponents at Gettysburg, Union General Daniel Sickles, that the battle ‘was the sorest and saddest reflection of my life for many years.’ </p> <p>On the death of his father he went with his mother to Somerville, Alabama. James Longstreet (January 8, 1821 – January 2, 1904) was one of the foremost Confederate generals  of the American Civil War  and the principal subordinate to General Robert E. Lee, who called him his "Old War Horse". General James Longstreet, was one of the “three persons of the South” whom President Andrew Johnson believed should “never receive amnesty.” President Johnson was half-right. At the academy Longstreet befriended a young man from Ohio, Ulyss… James Longstreet was born on 8th January 1821, to James and Mary Longstreet.He was born in South Carolina, in the United States, in Edgefield. 1821 - 1904. Steven Holmes writes that the relative lack of statues of Longstreet, who favored Reconstruction after the Civil War, shows that Confederate history is seen through a political lens. His military career would reach its peak when Longstreet moved the entire 1st Corps from Virginia to northern Georgia, to support CSA General Braxton Bragg's Army of … His First Corps attacked and dislodged Union forces at the Devil’s Den, the Wheatfield and the Peach Orchard, on July 2. </p> <p>This is an excellent biography of General James Longstreet, CSA. Lt. General James Longstreet, CSA. </p> <p>James Longstreet, one of Robert E. Lee’s most trusted generals during the Civil War, died January 2, 1904. 1821 - 1904. All texts by myself. James Longstreet (1821-1904) Born in Edgefield District, South Carolina, January 8, 1821, the son of a farmer, Longstreet spent his early years in Augusta, Georgia. Lieutenant General James Longstreet Commanding First Corps Army of Northern Virginia. Some pictures are repins from my other boards but have different texts.  James Longstreet was born on January 8, 1821 in southwest South Carolina. James Longstreet died in 1904, a man still vilified by former friends and comrades. </p>";s:7:"keyword";s:24:"General James Longstreet";s:5:"links";s:2726:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yataghan-sword-greedfall'>Yataghan Sword Greedfall</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=let-him-come-to-you-after-a-break-up'>Let Him Come To You After A Break Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=draw-a-ladybird-with-lydia-monks'>Draw A Ladybird With Lydia Monks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-bad-creepypastas'>Best Bad Creepypastas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caroline-bittencourt-cause-of-death'>Caroline Bittencourt Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hi-mom-drum'>Hi Mom Drum</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hikaru-genji-plan'>Hikaru Genji Plan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=waikiki-beach-news-today'>Waikiki Beach News Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-avenatti-twitter'>Michael Avenatti Twitter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chocolat-book-ending'>Chocolat Book Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Buddha-Quotes-in-tamil'>Buddha Quotes In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-was-the-capital-of-the-union'>What Was The Capital Of The Union</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-beetlejuice-pics'>Funny Beetlejuice Pics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gojira-albums-in-order'>Gojira Albums In Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-are-boon-baby-products-made'>Where Are Boon Baby Products Made</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=women-in-policing'>Women In Policing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dragonlance%3A-dragons-of-autumn-twilight-full-movie'>Dragonlance: Dragons Of Autumn Twilight Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Alexander-Herzen-quotes'>Alexander Herzen Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=laravel-framework-github'>Laravel Framework Github</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=belief-meaning-in-telugu'>Belief Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=discovery-kids-games'>Discovery Kids Games</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hard-life-game'>Hard Life Game</a>,
+";s:7:"expired";i:-1;}

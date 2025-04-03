@@ -1,0 +1,109 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2580:"<br>Water Lantern Festival is coming to light the water in Calgary. Chinese Lantern Festival of 2021 falls on Feb 26, which is the 15th day of the first lunar month. It marks the first full moon of the new lunar year, and witnessing it is one of the most essentially Chinese experiences. In China, people in northern China have to eat Yuanxiao (元宵: glutinous rice balls) while people in southern China have to eat Tangyuan (汤圆: glutinous rice balls) on Lantern Festival. <br> <br>Zigong City Boyun Culture Communication Co., Ltd: Specialize in the design, production, installation and exhibition of festival lantern over 20 years. <br> <br>It marks the first full moon of the new lunar year, and witnessing it is one of the most essentially Chinese experiences. <br> <br> <br>The first day of the first lunar month is the Chinese New Year Day.  <br> <br>The planned 2019 Vancouver Chinese Lantern Festival, which was scheduled to run from February 1 to March 31, 2019 at Hastings Park, will not proceed as planned due to difficulties related to obtaining artisan work visas. It marks the end of the Spring Festival celebration and is also the first major festival after Chinese New Year. The Chinese Lantern Festival comes at the end of Chinese New Year. <br> The Lantern Festival is a very important part of Chinese Spring Festival, and it is also the last day of the Chinese Spring Festival. Since the Chinese New Year is on January 25, 2020, the Chinese Lantern Festival of 2020 falls on February 8, … https://www.china-family-adventure.com/lantern-festival.html Chinese call the Chinese Lantern Festival as Yuan-Xiao Che, which is on the 15th day of the first lunar month in the Chinese calendar. Art Show China Inc., the Canadian division of Sichuan Tianyu Culture Communication Co. Ltd, which is the group behind the outdoor festival that made its debut in Vancouver in late 2017, … The Lantern Festival, also known in China as the Yuan Xiao Festival or Shang Yuan Festival, with a history of more than 2,000 years, falls on the 15th day of the first month of the Chinese lunar calendar. Come experience the Water Lantern Festival with your friends and family as the floating lanterns reflect messages of love, hope, and happiness upon the water. <br> <br>The Lantern Festival or the Spring Lantern Festival is a Chinese festival celebrated on the fifteenth day of the first month in the lunisolar Chinese calendar.Usually falling in February or early March on the Gregorian calendar, it marks the final day of the traditional Chinese New Year celebrations. <br>";s:7:"keyword";s:24:"chinese lantern festival";s:5:"links";s:6010:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Types-of-location-photography'>Types Of Location Photography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lord-quotes-and-sayings'>Lord Quotes And Sayings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-storyline-movies-2018'>Best Storyline Movies 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Little-Penguin-Pororo%27s-Racing-Adventure-DVD'>The Little Penguin Pororo's Racing Adventure DVD</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ruling-chiefs-of-hawaii'>Ruling Chiefs Of Hawaii</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Caring-for-Cut-Flowers'>Caring For Cut Flowers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=child-marriage-in-indonesia-2018'>Child Marriage In Indonesia 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=canaletto-restaurant-holland-america'>Canaletto Restaurant Holland America</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Live-Shit%3A-Binge-%26-Purge'>Live Shit: Binge & Purge</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Destination-Moonbase-Alpha'>Destination Moonbase Alpha</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-book-and-the-sword-%282008%29'>The Book And The Sword (2008)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chrono-trigger-music'>Chrono Trigger Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ruby-package-manager'>Ruby Package Manager</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=toff%27s-english-slang'>Toff's English Slang</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=equity-for-land-development'>Equity For Land Development</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-executioner-series'>The Executioner Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=henry-brubaker-obituary'>Henry Brubaker Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-pratt-attorney'>Peter Pratt Attorney</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=avantha-power-plant-jhabua'>Avantha Power Plant Jhabua</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=battle-of-konary'>Battle Of Konary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=riz-ahmed-religion'>Riz Ahmed Religion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-art-of-growing-up-john-marsden'>The Art Of Growing Up John Marsden</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-apartment-1996-full-movie---youtube'>The Apartment 1996 Full Movie - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cheapest-way-to-travel-to-finland'>Cheapest Way To Travel To Finland</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sorcerer-pharesm'>The Sorcerer Pharesm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-neighbor-netflix-imdb'>The Neighbor Netflix Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vijay-devarakonda-upcoming-movies'>Vijay Devarakonda Upcoming Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=taungaroa-emile-wikipedia'>Taungaroa Emile Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liberian-girl-music-video-cast'>Liberian Girl Music Video Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaiah-40%3A11-commentary'>Isaiah 40:11 Commentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=origami-diagrams-pdf'>Origami Diagrams Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fort-lauderdale-airport-coronavirus'>Fort Lauderdale Airport Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mind-perception-example'>Mind Perception Example</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=small-town-murders-movie'>Small Town Murders Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=your-time-is-limited-steve-jobs-wallpaper'>Your Time Is Limited Steve Jobs Wallpaper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=malvern-college-term-dates'>Malvern College Term Dates</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=virtual-casino-real-money'>Virtual Casino Real Money</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=packy-lee-net-worth'>Packy Lee Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=red-dust-movie'>Red Dust Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tadao-ando-wife'>Tadao Ando Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-fistful-of-paintballs'>A Fistful Of Paintballs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pierre-Bourdieu-habitus'>Pierre Bourdieu Habitus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=like-a-boss-casa-blanca'>Like A Boss Casa Blanca</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=first-history-book-in-tamil'>First History Book In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sharon-gless-husband'>Sharon Gless Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eric-harris-writings'>Eric Harris Writings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scarecrow-villain-movie'>Scarecrow Villain Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=triptych-august-1972-analysis'>Triptych August 1972 Analysis</a>,
+";s:7:"expired";i:-1;}

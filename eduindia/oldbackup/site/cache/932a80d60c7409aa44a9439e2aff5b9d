@@ -1,0 +1,81 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1759:"<br>Quadro RTX 8000 NVLink-HB-Brücke NVLink ermöglicht die Skalierung von Arbeitsspeicher und Leistung durch professionelle Programme bei Konfigurationen mit mehreren Grafikprozessoren. Mit 4.608 CUDA-Kernen verfügt die Karte über genug Rechenpower, um bis zu vier 4K-, 5K- … The TU102 graphics processor is a large chip with a die area of 754 mm² and 18,600 million transistors. PNY NVIDIA Quadro RTX 8000 48GB. The Quadro RTX 8000 is an enthusiast-class professional graphics card by NVIDIA, launched in August 2018. Die PNY Quadro RTX 8000 im Dual-Slot-Design ist mit dem TU102-Grafikchip aus der Turing-Generation bestückt, der mit 1.395 MHz taktet (Boosttakt: 1.770 MHz). At this time, the Quadro RTX 8000 is the pinnacle of PCIe workstation GPU horsepower offered by NVIDIA, suitable for high-end workstations and servers where we can find 8x Quadro RTX 8000…   <br> <br>NVIDIA QUADRO RTX 8000 The World’s First Ray Tracing GPU Enter a new frontier in professional graphics with unprecedented performance and scalability with 48 GB of high-speed GDDR6 memory and NVIDIA NVLink™. Built on the 12 nm process, and based on the TU102 graphics processor, in its TU102-875-A1 variant, the card supports DirectX 12 Ultimate. Wenn in den angegebenen Texten, insbesondere im Rahmen der Produktbeschreibungen oder der Produktinformationen von Garantie oder Herstellergarantie die Rede ist, handelt es sich nicht um von uns gewährte Garantien, sondern ausschließlich um Garantien, die von den Herstellern der jeweiligen Produkte übernommen … Rechtliche Hinweise. Die Quadro RTX 8000 verfügt über 72 RT-Cores für Echtzeit-Raytracing und 576 Tensor-Cores für KI-gestützte Workflows, was zu über 130 TFLOPS mit hoher Lernleistung führt. <br>";s:7:"keyword";s:15:"quadro rtx 8000";s:5:"links";s:2444:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaiah-43%3A19-nkjv'>Isaiah 43:19 Nkjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paradise-regained-quotes'>Paradise Regained Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=springtime-for-hitler-lyrics'>Springtime For Hitler Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mochi-in-cantonese'>Mochi In Cantonese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mudvayne---not-falling'>Mudvayne - Not Falling</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=campbell-college-belfast-fees'>Campbell College Belfast Fees</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=doom-manual-story'>Doom Manual Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peppermint-pie-with-chocolate-crust'>Peppermint Pie With Chocolate Crust</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vegetarian-bean-chili'>Vegetarian Bean Chili</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Caring-for-Cut-Flowers'>Caring For Cut Flowers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=francos-peebles-opening-times'>Francos Peebles Opening Times</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-walker-nicaragua'>William Walker Nicaragua</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wabi-sabi-tattoo'>Wabi Sabi Tattoo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Affiliate-marketing-quote'>Affiliate Marketing Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bmx-for-sale'>Bmx For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lush-clothing-tops'>Lush Clothing Tops</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=homer-customer-service-number'>Homer Customer Service Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kick-the-hornets-nest-far-cry-3'>Kick The Hornets Nest Far Cry 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charter-vs-commercial-flight-cost'>Charter Vs Commercial Flight Cost</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dwyane-wade-jersey-city-edition'>Dwyane Wade Jersey City Edition</a>,
+";s:7:"expired";i:-1;}

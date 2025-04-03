@@ -1,0 +1,94 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4386:"<br>This cuisine has a lot of fish dishes. <br> <br>The recipes in this cuisine are spicy because of … (Hot foods such as red chili peppers dry out and cool down the body, making it easier to handle the heat and dampness). <br> <br>Hunan cuisine is more versatile. Hunan style has a lot of fish dishes. Hunan dishes are even hotter and spicier than Sichuan cuisine since they have even more dried or fresh chili in dishes. To be short, Hunan style is more on the make-you-sweat, hotter side, while Sichuan is more on the tongue-numbing, spicier side (for more, research yourselves! <br> <br>The other fresh produce used range widely from pork to beef, fish, vegetables, and even tofu.. In comparison to Szechuan cuisine, there is a purer and simpler taste in Hunan cuisine. Yes, there is a difference between the two! <br> <br>Both Hunan and Szechuan cuisine makes extensive use of chiles to cleanse the palate and to cope with the humid climate. Lying further down the Yangtze river to the east of Sichuan province, Hunanese food has much in common with its bold and spicy neighbour. <br> <br>These are must-have seasonings that bring out the intense flavors the dishes are renowned for.. Preferred Protein Pork is usually the most preferred meat in Hunan cuisine, followed by beef. Szechuan. What is Hunan Chicken? But Sichuan cuisine usually leaves a longer spicy and tingling sensation in your mouth than Hunan cuisine. Which is Spiciest? These are must-have seasonings that bring out the intense flavors the dishes are renowned for.. Szechuan The capital of Sichuan Province is Chengdu, and it was recognized in 2011 by UNESCO as being a city of gastronomy for its highly sophisticated and distinguished food … Cooking Techniques. Fish. Szechuan style uses beef and rabbit meat than any other Chinese cuisine. The Szechuan cuisine comes in seven flavors, known as aromatic, salty, sour, sweet, bitter, pungent and hot. <br> <br>In this type of cuisines, the process pepper paste is used, which makes it less spicy and hotter than the Hunan. In fact, many dishes of Hunan cuisine and Sichuan cuisine are so familiar that even most Chinese people could not tell the difference at once. <br> <br>H1. <br> Szechuan and Hunan Cuisine. The other fresh produce used range widely from pork to beef, fish, vegetables, and even tofu.. Unlike Sichuan cuisine, where everything tastes like Sichuan pepper, the spicy and sour combination of Hunan dishes actually activates one’s taste buds and enhance the appetite. <br> <br>Hunan cuisine is the second popular cuisine in China, only after Sichuan cuisine. Hunan cuisine is more versatile. Thought to be even spicier than Sichuan cuisine, Hunan food balances ubiquitous chilies (preferred fresh and fiery) with sour flavors, heaps of garlic, shallots, and a peppering of smoked meats. <br> <br>Hunan cuisine is indeed more spicy than Sichuan cuisine. <br> <br>Hunan Cuisine 湘菜 Xiang cai. This makes the Hunan Province an agriculturally rich land and is why Hunan cuisine tends to have a large variety of fresh ingredients.  <br>Hunan chicken is fast fried and very spicy as it makes use of chili paste or dried peppers. Szechuan cuisine uses of a lot of nutty crunchiness with loads of salty peanuts, cashew nuts, and sesame seeds being added to the foods.  <br> <br>Hunan cuisine is the second popular cuisine in China, only after Sichuan cuisine. with White Rice. <br> <br>Both of them are well known for their spicy flavor. While Sichuan cuisine relies on peppercorns that numb your palate and temper the spiciness of the food, Hunan dishes are typically piled with … Szechuan and Hunan Cuisine Hunan Cuisine (Xiang Cuisine) Compared to Sichuan cuisine, Hunan cuisine is hotter and provides more taste. Hunan cuisine commonly employs frying, pot-roasting, braising, smoking and stewing. About Szechuan and Hunan Chicken. <br> <br>Originated in Eastern Zhou Dynasty (770 - 256 BC), Hunan cuisine, also Xiang cuisine, is another cuisine popular throughout China with the spicy taste. Hunan cuisine is referred to as ‘ganla’ meaning dry (gan) and hot (la). Cooking Methods <br> <br>The hot dishes work to cool people during the summer, while the warm dishes keep bodies warm during winter. <br> <br>About Szechuan and Hunan Chicken. Home / Menu / Szechuan and Hunan Cuisine Fast delivery within 4 miles for orders over $10. <br>";s:7:"keyword";s:25:"sichuan and hunan cuisine";s:5:"links";s:3960:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=given-the-circumstances-meaning'>Given The Circumstances Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rube-goldberg-picture-book'>Rube Goldberg Picture Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Beyond-the-Fields-We-Know'>Beyond The Fields We Know</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daybreak-login-with-steam'>Daybreak Login With Steam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaiah-43%3A19-nkjv'>Isaiah 43:19 Nkjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mother-goose-kingston'>Mother Goose Kingston</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=two-piece-prom-dresses-2020'>Two Piece Prom Dresses 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hedd-wyn-film'>Hedd Wyn Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Peko-Pekoyama-birthday'>Peko Pekoyama Birthday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dmitri-shostakovich-death'>Dmitri Shostakovich Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=one-armed-boxer'>One Armed Boxer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sound-juicer-windows'>Sound Juicer Windows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Oscar-Wilde-family'>Oscar Wilde Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sharon-carpenter-dresses'>Sharon Carpenter Dresses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=determinaci%C3%B3n-en-la-biblia'>Determinación En La Biblia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frankenweenie-1984-rotten-tomatoes'>Frankenweenie 1984 Rotten Tomatoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apt-pupil-imdb'>Apt Pupil Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madea-gif-smh'>Madea Gif Smh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=max-lucado-quotes-on-prayer'>Max Lucado Quotes On Prayer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=demario-davis-wife'>Demario Davis Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=allison-dubois-net-worth'>Allison Dubois Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=editors---violence'>Editors - Violence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Best-school-dance-songs'>Best School Dance Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zhang-ying-healer'>Zhang Ying Healer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manhattan-island-map'>Manhattan Island Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-moon-movie-1986-cast'>Blue Moon Movie 1986 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cream---Wheels-of-Fire'>Cream - Wheels Of Fire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-colleen-hoover-series'>Best Colleen Hoover Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-sweet-old-etcetera-theme'>My Sweet Old Etcetera Theme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ravel---une-barque-sur-l%27oc%C3%A9an-orchestra'>Ravel - Une Barque Sur L'océan Orchestra</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=city-of-windermere'>City Of Windermere</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frida-kahlo-exquisite-corpse'>Frida Kahlo Exquisite Corpse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Heretic-parfum-SAMPLES'>Heretic Parfum SAMPLES</a>,
+";s:7:"expired";i:-1;}

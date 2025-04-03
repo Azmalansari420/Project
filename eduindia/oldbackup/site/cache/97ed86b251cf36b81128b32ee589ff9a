@@ -1,0 +1,113 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1320:"<p>A pioneering African American poet, Wheatley was born in Senegal/Gambia around 1753.  As was the custom of … When she was about eight years old, she was kidnapped and brought to Boston. Phillis Wheatley (May 8, 1753 – December 5, 1784) was both the second published African-American poet and first published African-American woman. Phillis Wheatley was born in Africa (probably Senegal) about 1753 or 1754. Born in Africa about 1753 and sold as a slave in Boston in 1761, Phillis was a small, sick child who caught the attention of John and Susanna Wheatley. At the age of eight, she was kidnapped and brought to Boston on a slave ship. Phillis Wheatley, (born c. 1753, present-day Senegal?, West Africa—died December 5, 1784, Boston, Massachusetts, U.S.), the first black woman poet of note in the United States. She was purchased by the Wheatley family of Boston, who taught her to read and write, and encouraged her poetry when they saw her talent. Purchased as a domestic servant for Susanna, the small girl was named after the ship that brought her to Boston, the Phillis, and her master, Wheatley. </p> <p>There, in 1761, John Wheatley bought her for his wife, Susanna, as a personal servant. </p> <p>Born in Senegambia, she was sold into slavery at the age of seven and transported to North America. </p>";s:7:"keyword";s:21:"phillis wheatley born";s:5:"links";s:6566:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wise-children-screenings'>Wise Children Screenings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=desert-moon-meaning'>Desert Moon Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=she-moves-mountains-north-face'>She Moves Mountains North Face</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sophists-and-relativism'>The Sophists And Relativism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geography-iii-reviews'>Geography Iii Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ed-o%27brien-strat'>Ed O'brien Strat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pass-and-play-cribbage-app'>Pass And Play Cribbage App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=garbage-singer-died'>Garbage Singer Died</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=designer-wooden-ceiling-fans'>Designer Wooden Ceiling Fans</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=My-Hero-Academia-Volume-27-release-date'>My Hero Academia Volume 27 Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Can-a-mute-person-whistle'>Can A Mute Person Whistle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-use-lansky-puck'>How To Use Lansky Puck</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-flea-john-donne-analysis'>The Flea John Donne Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=colossians-3%3A1-3-niv'>Colossians 3:1-3 Niv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=qualia-merleau-ponty'>Qualia Merleau Ponty</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zhou-fang-court-ladies'>Zhou Fang Court Ladies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-casino-based-on-a-true-story'>Is Casino Based On A True Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tetranychus-urticae-koch'>Tetranychus Urticae Koch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tornadoes-by-gail-gibbons-read-aloud'>Tornadoes By Gail Gibbons Read Aloud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lost-flight-movie'>Lost Flight Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chicago-cab-driver'>Chicago Cab Driver</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-paradise-season-1-episode-1'>The Paradise Season 1 Episode 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pastry-chef-Memes'>Pastry Chef Memes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=season-of-storms-goodreads'>Season Of Storms Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=somewhere-i-have-never-travelled%2C-gladly-beyond-meter'>Somewhere I Have Never Travelled, Gladly Beyond Meter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=as-i-grow-older%2C-i-pay-less-attention'>As I Grow Older, I Pay Less Attention</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-winter-evening-settles-down-tone'>The Winter Evening Settles Down Tone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-destroy-america-in-3-easy-steps-wiki'>How To Destroy America In 3 Easy Steps Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Love-Your-Enemies-Arthur-Brooks-summary'>Love Your Enemies Arthur Brooks Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tim-weaver-new-book-2020'>Tim Weaver New Book 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=simon-mann-net-worth'>Simon Mann Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mayerling-ballet-dvd'>Mayerling Ballet Dvd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=king-of-the-undertow'>King Of The Undertow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=royal-chaos-diaochan'>Royal Chaos Diaochan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=neurology-cme-online'>Neurology Cme Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vienna%2C-va-to-washington-dc'>Vienna, Va To Washington Dc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bill-conway-commercial'>Bill Conway Commercial</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-happened-to-josef-mengele'>What Happened To Josef Mengele</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-prince-jeeki'>How Old Is Prince Jeeki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=katsura-hoshino-anime'>Katsura Hoshino Anime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=neo-rauch-artwork'>Neo Rauch Artwork</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oxford-reading-tree-stage-2'>Oxford Reading Tree Stage 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-chronicle-herald-obituaries'>The Chronicle Herald Obituaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tattoo-flash-clothing'>Tattoo Flash Clothing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Brand-New-Companion'>Brand New Companion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-canyon-tv-series'>Steve Canyon Tv Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=voltaire-rousseau-group-of-thinkers'>Voltaire Rousseau Group Of Thinkers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nathan-lynn-famous-birthdays'>Nathan Lynn Famous Birthdays</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=BJ%27s-on-the-Water'>BJ's On The Water</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sweeney-among-the-nightingales-genius'>Sweeney Among The Nightingales Genius</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=coffee-bean-food-menu-california'>Coffee Bean Food Menu California</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2021-basketball-recruiting'>2021 Basketball Recruiting</a>,
+";s:7:"expired";i:-1;}

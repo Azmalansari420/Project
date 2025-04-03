@@ -1,0 +1,110 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:770:"BREAKING: Two new COVID-19 fatalities were reported in Hawaii on Friday, bringing the state’s death toll from the virus to 14. KGMB | KHNL | KFVE Your Source For Breaking News. 83,735 talking about this.  Watch “This is Now” live from the HNN Digital Center weekdays on Hawaii News Now’s platforms online and on mobile. Breaking news headlines about Hawaii, linking to 1,000s of sources around the world, on NewsNow: the one-stop shop for breaking news Your daily source for top headlines and breaking news. Hawaii News Now (KGMB/KHNL) is Hawaii's source for breaking news, severe weather forecasts and traffic updates. Published November 23, 2014 at 12:45 AM Man critically wounded in shooting; suspect in custody Local news coverage, the nation and the world. ";s:7:"keyword";s:29:"hawaii news now breaking news";s:5:"links";s:6534:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shipwreck-at-the-bottom-of-the-world-chapter-1'>Shipwreck At The Bottom Of The World Chapter 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=woof-woof-woof-cafe'>Woof Woof Woof Cafe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=horrific-visions-guide-orgrimmar'>Horrific Visions Guide Orgrimmar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gardening-games-pc'>Gardening Games Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-majestic-theater'>The Majestic Theater</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Live-Shit%3A-Binge-%26-Purge'>Live Shit: Binge & Purge</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roscoe-dash-height'>Roscoe Dash Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fangirl-instagram-captions'>Fangirl Instagram Captions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-enoch-why-i-am-an-objectivist'>David Enoch Why I Am An Objectivist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=women%27s-ministry-roles-and-responsibilities'>Women's Ministry Roles And Responsibilities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=western-gun-holsters'>Western Gun Holsters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dragon-prince%27s-bride'>The Dragon Prince's Bride</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=succus-by-liquides-imaginaires'>Succus By Liquides Imaginaires</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-andorra-a-country'>Is Andorra A Country</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stephen-king-grandchildren'>Stephen King Grandchildren</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nederman-filtercart-replacement-filters'>Nederman Filtercart Replacement Filters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gooseberry-jam-recipe-Indian'>Gooseberry Jam Recipe Indian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=google-meet-microphone-is-off'>Google Meet Microphone Is Off</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crisis-text-line-volunteer-benefits'>Crisis Text Line Volunteer Benefits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fantasy-quest-ideas'>Fantasy Quest Ideas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=they-can-live-in-the-desert-but-nowhere-else-pdf'>They Can Live In The Desert But Nowhere Else Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nigerian-civil-war%3A-causes-and-effects-pdf'>Nigerian Civil War: Causes And Effects Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-jacksons%3A-an-american-dream-season-1-episode-1'>The Jacksons: An American Dream Season 1 Episode 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-Fahrenthold-contact-information'>David Fahrenthold Contact Information</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zsa-zsa-pluk-van-de-petteflet'>Zsa Zsa Pluk Van De Petteflet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-the-point-of-meditation'>What Is The Point Of Meditation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=palisades-amusement-park-historical-society'>Palisades Amusement Park Historical Society</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=theodore-sturgeon-more-than-human-pdf'>Theodore Sturgeon More Than Human Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pricing-in-healthcare'>Pricing In Healthcare</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-ashley----the-park'>Robert Ashley -- The Park</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=all-you-can-eat-buffet-orlando'>All You Can Eat Buffet Orlando</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trans-am-worldwide'>Trans Am Worldwide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=khushboo-chauhan-instagram'>Khushboo Chauhan Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=facts-about-quentin-blake'>Facts About Quentin Blake</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-top-gun-on-hulu'>Is Top Gun On Hulu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fgm-statistics-2018'>Fgm Statistics 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alcatraz-facts-and-information'>Alcatraz Facts And Information</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naperville-riverwalk-is-it-open'>Naperville Riverwalk Is It Open</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unreal-reality-of-numbers'>Unreal Reality Of Numbers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=helping-toddler-self-soothe-without-pacifier'>Helping Toddler Self-soothe Without Pacifier</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-chinese-five-spice'>Best Chinese Five Spice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ladders-To-Fire'>Ladders To Fire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manhunt%3A-unabomber-netflix-cast'>Manhunt: Unabomber Netflix Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=abandoned-detroit-mansions-for-sale-2019'>Abandoned Detroit Mansions For Sale 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Barbary-plague%3A-the-Black-Death-in-Victorian-San-Francisco'>The Barbary Plague: The Black Death In Victorian San Francisco</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kershaw-launch-4-damascus'>Kershaw Launch 4 Damascus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=campbell-college-belfast-fees'>Campbell College Belfast Fees</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=white-zombie-%281932%29'>White Zombie (1932)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interstellar-2-2019'>Interstellar 2 2019</a>,
+";s:7:"expired";i:-1;}

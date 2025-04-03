@@ -1,0 +1,125 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2777:"<p> Mirror, mirror, by the sink, tell me what you truly think. This is not some hall of mirrors at a fairground, … Autoplay next video. Are my ears a bit too small? Mirror Mirror: A Book of Reverso Poems is a children's picture book of poems written by Marilyn Singer and illustrated by Josée Masse, which is an anthology of reverso poems, which are poems that could be read forward and backward, about fairytales. The mirror claims that it speaks only the truth but we want it to delude us. Am I cool? Mirror, Mirror poem by Spike Milligan. Is my nose exactly right? Mirror, Mirror on the wall… It does not matter if I’m short or tall… If I have skinny legs or my hips are wide… It only matters who I am inside… Blue eyes, brown eyes, black or green… What makes me most beautiful cannot be seen… When you look at me, don’t judge me by my parts… The most beautiful thing about me is my heart. Perhaps too tall? Do I have an overbite? Mirror Mirror Mirror Mirror, they're always claiming 'bout thou. Is my hair too short or long? Can you say what I’ll become? Mirror Mirror Poem by Abubakar Mohammed Musa. Page A young springtender girlcombed her joyous hairYou are very ugly said the mirror.. Am I smart or rather dumb? </p> <p>They pronounce that you're unfair to them, Because you don't change anything faces thou. Am I fat or am I thin? A poem, bordering on dramatic monologue, in which a mirror speaks to us, addressing the reader in a matter-of-fact tone, reflecting the flatness of its surface and its inability to do anything other than reflect back to us what it ‘sees’. Singers's poetry is rather simplistic, but ingeniously written. Am I weak or super strong? </p> <p>Am I nerdy? Am I short? If you notice, she takes you through the different stages of life, young girl, woman and an old woman. So when we are young we see what we see. I interpret the first two lines of the second stanza as the struggle of maturity set against the lure of the shallow standards that place such a high premium on outward beauty. In summary, the mirror tells us that it has ‘no preconceptions’: it is ‘exact’, with the implication that it simply shows us what it ‘sees’. The poem is written from the perspectives of two entities: a mirror and a lake, and the piece stands for the ideas of honesty, truth, and neutrality. </p> <p>The woman … Will I lose or should I win? </p> <p>Sylvia Plath chooses a simple everyday object, ‘a mirror’ in her poem and puts perspective to it by assuming its voice and expressing things one would barely think of. A young springtender girlcombed her joyous hairYou are very ugly said the mirror.. You're not the only one that reflects, They've forgotten how water shows and gleams to what confronts it. </p>";s:7:"keyword";s:18:"mirror mirror poem";s:5:"links";s:8164:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=henrico-county-jail-phone-number'>Henrico County Jail Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zero-the-dog'>Zero The Dog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=verum-ipsum-factum-in-english'>Verum Ipsum Factum In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orla-brady-picard'>Orla Brady Picard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=enchant-python-dictionary'>Enchant Python Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Round-One-%28The-Battle%29'>Round One (The Battle)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-trek-home-theater'>Star Trek Home Theater</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ucl-application-graduate-school'>Ucl Application Graduate School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-emile-pissarro-pastel'>Paul Emile Pissarro Pastel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=witches-of-east-end-killian'>Witches Of East End Killian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=speak-french-fluently'>Speak French Fluently</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steven-weinberg-education'>Steven Weinberg Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=which-of-these-is-the-best-example-of-metaphor'>Which Of These Is The Best Example Of Metaphor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jal-bin-machhli-nritya-bin-bijli-kajra-laga-ke-bindiya-saja-ke'>Jal Bin Machhli Nritya Bin Bijli Kajra Laga Ke Bindiya Saja Ke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rorrey-Fenty-girlfriend'>Rorrey Fenty Girlfriend</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=solunar-tables-2020'>Solunar Tables 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ergo-proxy-plot'>Ergo Proxy Plot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plum-pudding-cartoon'>Plum Pudding Cartoon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=denise-dubarry-chips'>Denise Dubarry Chips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-cool-ruler-shop'>The Cool Ruler Shop</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skyrim-side-with-cicero-or-astrid'>Skyrim Side With Cicero Or Astrid</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maud-muller-analysis'>Maud Muller Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-dueling-legal-in-arizona'>Is Dueling Legal In Arizona</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nobuo-uematsu-2019'>Nobuo Uematsu 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=montgomery-county-md'>Montgomery County Md</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manosque-france-to-paris'>Manosque France To Paris</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phoenix-king-finubar'>Phoenix King Finubar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fact-or-fiction-show-where-to-watch'>Fact Or Fiction Show Where To Watch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=retire-inspired%3A-it%27s-not-an-age%2C-it%27s-a-financial-number-pdf'>Retire Inspired: It's Not An Age, It's A Financial Number Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mark-hicks-age'>Mark Hicks Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=equity-for-land-development'>Equity For Land Development</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=union-station-pittsburgh'>Union Station Pittsburgh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Clementine-vs-tangerine-nutrition'>Clementine Vs Tangerine Nutrition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-merrill-actor'>James Merrill Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=al-mckay-allstars-members'>Al Mckay Allstars Members</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=encyclopedia-of-witchcraft'>Encyclopedia Of Witchcraft</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-bradley-books-in-order'>Alan Bradley Books In Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=advantages-of-vertical-farming'>Advantages Of Vertical Farming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dominic-cooper-gemma-chan-split'>Dominic Cooper Gemma Chan Split</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=second-harvest-heartland-locations'>Second Harvest Heartland Locations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michiko-london-cap'>Michiko London Cap</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mississippi-travel-guide'>Mississippi Travel Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=appalachian-spring-instrumentation'>Appalachian Spring Instrumentation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elle%27s-coop-animals'>Elle's Coop Animals</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greenbrier-market-center-chesapeake%2C-va'>Greenbrier Market Center Chesapeake, Va</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ballinlough-Castle-Wedding'>Ballinlough Castle Wedding</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sanaa-architecture-plan'>Sanaa Architecture Plan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=norway-military-size'>Norway Military Size</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-instruments-are-used-in-ragtime-music'>What Instruments Are Used In Ragtime Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fumihiko-maki-projects'>Fumihiko Maki Projects</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=georgette-heyer-short-stories'>Georgette Heyer Short Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=juke-definition-slang'>Juke Definition Slang</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autocad-ribbon-display'>Autocad Ribbon Display</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raro-definici%C3%B3n-rae'>Raro Definición Rae</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-easy-answers%3A-short-stories-pdf'>No Easy Answers: Short Stories Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poets-of-the-fall---late-goodbye-lyrics'>Poets Of The Fall - Late Goodbye Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maltese-cross-firefighter-tattoo'>Maltese Cross Firefighter Tattoo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orion-cramer-merch'>Orion Cramer Merch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manosque-france-to-paris'>Manosque France To Paris</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carolina-north-forest'>Carolina North Forest</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=text-maze-generator'>Text Maze Generator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=she%27ll-be-comin%27-round-the-mountain-bluegrass'>She'll Be Comin' Round The Mountain Bluegrass</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=literary-devices-in-catch-22'>Literary Devices In Catch-22</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=this-is-not-fine-meme'>This Is Not Fine Meme</a>,
+";s:7:"expired";i:-1;}

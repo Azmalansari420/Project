@@ -1,0 +1,136 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3023:"<p>The Alaska Volcano Observatory (AVO) reported that seismic activity has decreased at the volcano over the past several weeks. </p> <p>Alaska’s most active volcano has erupted six times since 1996 and 21 times in the past 50 years. Pavlof Sister, along with Pavlof and Little Pavlof is a stratovolcano that formed outside of the Emmons Lake caldera; these and other volcanoes inside Emmons Lake caldera are not glaciated and thus would have formed since the area was last glaciated about 15-20,000 years ago. It has been one of the most active in the United States since 1980, with eruptions recorded in 1980, 1981, 1983, 1986–1988, 1996–1997, 2007, 2013, twice in 2014 and most recently in March 2016. </p> <p>The largest confirmed historical eruption took place in 1911 when a fissure opened on the N flank; it has erupted more than 25 times since then. Frequency histogram of Pavlof Volcano eruption duration, 1973–2016 ..... 20 29. According to the Alaska Volcano Observatory, this eruption was the most energetic since 1996. </p> <p>Astronauts aboard the International Space Station (ISS) photographed an eruption of Alaska's Pavlof Volcano on May 18, 2013. Pavlof volcano eruption on May 18, 2013. Credit: Brandon Wilson/AVO -- Alaska’s Pavlof Volcano: NASA’s View from Space The Pavlof volcano, located in the Alaska Peninsula National Wildlife Refuge has been producing steam and gas plumes since May 13. Pavlof Volcano. Graph of length of preceding repose period and eruption duration at Pavlof Volcano, Graph of Pavlof Volcano eruption duration in days versus eruption start date ..... 20 28. Pavlof Volcano is a stratovolcano of the Aleutian Range on the Alaska Peninsula. The volcano's plumes were captured by NASA satellite imagery and photographs taken by the astronauts aboard the International Space Station. </p> <p>27. In late March 2016, Pavlof volcano on the Alaskan Peninsula began erupting again for the first time since November 2014. Basaltic andesite with SiO 2 around 53% is the most common lava type. Astronauts aboard the International Space Station (ISS) photographed this striking view of Pavlof Volcano on May 18, 2013. MAY 2016 Pavlof Volcano rumblings could be prelude to eruption 2016 – MAY 13 Pavlof Volcano rumblings could be prelude to eruption. Pavlof volcano, near the end of the Alaska Peninsula 970 km SW of Anchorage, frequently produces explosive eruptions from the summit vents and occasional lava flows. The 2142-m-high volcano is almost 400 m lower than Pavlof and has a sharper-peaked summit. No eruptive activity or emissions from the summit have been observed since minor steam emissions in late February. </p> <p> The volcano reawakened this week. Pavlof volcano (Alaska, USA) activity update: color code lowered to green. Wednesday, Mar 04, 2020. – Alaska’s Pavlof Volcano, one of the Aleutian Range’s most active, erupted with a 20,000 foot high ash plume that rapidly began tracking to the northeast and into the heart of the Alaskan mainland. </p>";s:7:"keyword";s:23:"pavlof volcano eruption";s:5:"links";s:9292:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dirty-onion-belfast-music'>Dirty Onion Belfast Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kate-mulvany-imdb'>Kate Mulvany Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-celebration-gif'>The Office Celebration Gif</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chris-Lilley-Bumble'>Chris Lilley Bumble</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charlie-and-the-chocolate-factory-chapter-7'>Charlie And The Chocolate Factory Chapter 7</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=general-frederick-james-kroesen'>General Frederick James Kroesen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=history-of-pittsylvania-county%2C-va'>History Of Pittsylvania County, Va</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-cure-asphalt-faster'>How To Cure Asphalt Faster</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gordon-singer-ac-milan'>Gordon Singer Ac Milan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=damascius-life-of-isidore'>Damascius Life Of Isidore</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Anyone-But-Me'>Anyone But Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=parker-deluxe-ink-converter'>Parker Deluxe Ink Converter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kelso-pool-open-swim'>Kelso Pool Open Swim</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-tinguely-drawing-machine'>Jean Tinguely Drawing Machine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-was-the-real-john-creasy'>Who Was The Real John Creasy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blind-stitch-hem-by-hand'>Blind Stitch Hem By Hand</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gag-or-Throttle'>Gag Or Throttle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=habakkuk-3%3A19-meaning'>Habakkuk 3:19 Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pour-le-M%C3%A9rite'>Pour Le Mérite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ernest-cline-ready-player-two'>Ernest Cline Ready Player Two</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arthur-brooks-national-prayer-breakfast-speech-transcript'>Arthur Brooks National Prayer Breakfast Speech Transcript</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Ragman%27s-Son-Amazon'>The Ragman's Son Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ernest-cline-ready-player-two'>Ernest Cline Ready Player Two</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eureeka%27s-castle-theme'>Eureeka's Castle Theme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=samantha-parkington-outfits'>Samantha Parkington Outfits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jazze-pha-home'>Jazze Pha Home</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tommy-davidson-parents'>Tommy Davidson Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hands-down-idiom'>Hands Down Idiom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-father-son-and-holy-spirit-lyrics'>The Father Son And Holy Spirit Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scribd-subscription-cancel'>Scribd Subscription Cancel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-bell-walsall'>The Bell Walsall</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Blake%27s-7-streaming'>Blake's 7 Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-george-karl-doing-now'>What Is George Karl Doing Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-lax-linear-algebra'>Peter Lax Linear Algebra</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grab-food-rider-malaysia'>Grab Food Rider Malaysia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-did-tomie-depaola-fall'>How Did Tomie Depaola Fall</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-unhoneymooners-amazon'>The Unhoneymooners Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-second-greatest-story-ever-told-video'>The Second Greatest Story Ever Told Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carlight-casetta-dimensions'>Carlight Casetta Dimensions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seymour-chwast-posters'>Seymour Chwast Posters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=With-mortal-voice'>With Mortal Voice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cotton-candy-betta'>Cotton Candy Betta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fastrak-toll-roads'>Fastrak Toll Roads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=abstract-noun-of-think'>Abstract Noun Of Think</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-apartment-1996-full-movie---youtube'>The Apartment 1996 Full Movie - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=constantine-wife-boiled'>Constantine Wife Boiled</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spongebob-sponge-cano-song'>Spongebob Sponge-cano Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=squidbillies-krystal-quotes'>Squidbillies Krystal Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cape-breton-news-today'>Cape Breton News Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antonina-shevchenko-sherdog'>Antonina Shevchenko Sherdog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-did-Diane-Elizabeth-Dern-die'>How Did Diane Elizabeth Dern Die</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leonardo-dreams-of-his-flying-machine-lyrics'>Leonardo Dreams Of His Flying Machine Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jim-hutton-wiki'>Jim Hutton Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=socrates-quotes-on-youth'>Socrates Quotes On Youth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=coffin-price-uk'>Coffin Price Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Information-about-hills'>Information About Hills</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pierce-gagnon-movies-and-tv-shows'>Pierce Gagnon Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chrono-trigger-music'>Chrono Trigger Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trans-am-worldwide'>Trans Am Worldwide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poetry-status-for-whatsapp'>Poetry Status For Whatsapp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1948-in-film'>1948 In Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=triptych-august-1972-analysis'>Triptych August 1972 Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=China-Shipping-Development'>China Shipping Development</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=someone-is-calling-me-from-an-unknown-number'>Someone Is Calling Me From An Unknown Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cabaret-full-movie-watch-online-dailymotion'>Cabaret Full Movie Watch Online Dailymotion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ecclesiastes-3%3A3-meaning'>Ecclesiastes 3:3 Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=legend-of-the-blue-sea-awards'>Legend Of The Blue Sea Awards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=china-got-talent-2019'>China Got Talent 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-deluise-now'>David Deluise Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-irwin-biography'>Steve Irwin Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=demario-davis-wife'>Demario Davis Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=de-dhakka-cast'>De Dhakka Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=young-dro-wiki'>Young Dro Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lautoka%2C-fiji-cyclone'>Lautoka, Fiji Cyclone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=untamed-meaning-in-arabic'>Untamed Meaning In Arabic</a>,
+";s:7:"expired";i:-1;}

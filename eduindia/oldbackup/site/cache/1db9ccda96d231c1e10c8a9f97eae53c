@@ -1,0 +1,142 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3133:"<p>If you sing/use this song, please contact the composer and say thank you to Dave Fackrell! ILM 1 Key G major Movements/Sections Mov'ts/Sec's: 1 hymn First Pub lication. Visit composer's personal website. Few hymns have been sung in more tragic circumstances than this one on the night of April 14, 1912, on board the sinking Titanic.The great ship, at that time the greatest in the world, was on its maiden voyage to New York with a happy, expectant company of over two thousand people including many famous ones. Her hymn "Nearer, my God! </p> <p>This hymn was written to follow the pastors sermon on Genesis 28:11-19, known as the story of Jacob's ladder, or Jacob's dream. It was first set to music by Adams's sister, the composer Eliza Flower, for William Johnson Fox's collection Hymns and Anthems. Composer/arranger James Stevens explains his idea for this inspiring project! nearer, my God, to thee, nearer to thee! </p> <p>"Nearer, My God, To Thee" started life as a poem by Sarah Flower Adams, who died in 1848. Sarah Flower Adams was born in Harlow, England, on February 22, 1805. Nearly 8,000 people from 130 countries have downloaded the sheet music to BYU School of Music alum James L. Stevens' a cappella arrangement of "Nearer, My God, to Thee… The Story Behind… Nearer, My God, To Thee. The string players performed ‘Nearer, my God, to thee’, a 19th-century hymn published in Hymns and Anthems – a tome used at South Place Chapel, Finsbury, London – in 1841. </p> <p>Nearer, my God, to Thee, nearer to Thee! The Hymn, which was written by Sarah Fuller Adams (see below), is a retelling of Jacob’s Dream from Genesis 28:11–12 of the Bible. </p> <p>5 Or if, on joyful wing cleaving the sky, sun, moon, and stars forgot, upward I fly, still all my … Nearer, My God, to Thee. Her elder sister was the composer Eliza Flower. How it all works. E'en though it be a cross that raiseth me, still all my song shall be: 'Nearer, my God, to thee, nearer to thee!' She contributed thirteen hymns to his Hymns and Anthems, one of them being "Nearer, My God to Thee". Composer: Lowell Mason: 577. Score; Full Text; 1 Nearer, my God, to thee, nearer to thee! 4 Then, with my waking thoughts bright with thy praise, out of my stony griefs Bethel I'll raise; so by my woes to be nearer, my God, to thee; nearer, my God, to thee, nearer to thee! </p> <p>Reset Search. Voicing/Instrumentation: TBB, 2 part choir, Duet, Young Men Voices We also have other 40 arrangements of "Nearer, My God to Thee". Though like the wanderer, the sun gone down, darkness be over me, my rest a stone; yet in my dreams I'd be nearer, my God, to thee; nearer, my God, to thee, nearer to thee! See more from Dave Fackrell. Sarah looked after her until her death in 1846, then she herself died of the illness two years later at the age of 43. </p> <p>Nearer My God To Thee Hymn History Benjamin Flower in 1798 published an article in the Cambridge Intelligencer, attacking the attitude of Bishop Watson toward the French Revolution, and so offended the reverend gentleman that Flower was cast into prison. Sarah wrote the hymn in … </p>";s:7:"keyword";s:32:"nearer, my god, to thee composer";s:5:"links";s:9878:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Best-Tolkien-art-book'>Best Tolkien Art Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rick-gomez-loki'>Rick Gomez Loki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Spinning-Out-cancelled'>Spinning Out Cancelled</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=despicable-me-%28soundtrack%29'>Despicable Me (soundtrack)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trace-naija-top-10-2020'>Trace Naija Top 10 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mrs-piggle-wiggle-read-aloud'>Mrs Piggle Wiggle Read Aloud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cold-prints-mystery-box'>Cold Prints Mystery Box</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-dragon-herbs'>American Dragon Herbs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lautoka-weather-today'>Lautoka Weather Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Oxford-Dictionary-of-philosophy-pdf'>Oxford Dictionary Of Philosophy Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-pigman-summary-chapter-3'>The Pigman Summary Chapter 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dazai-osamu-books-english'>Dazai Osamu Books English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antique-claymore-sword-for-sale'>Antique Claymore Sword For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goyo-meaning-in-korean'>Goyo Meaning In Korean</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edutopia-write-for'>Edutopia Write For</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=are-cats-sentient'>Are Cats Sentient</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deliverance-prayer-for-the-home'>Deliverance Prayer For The Home</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=niwaka-ame-lyrics'>Niwaka Ame Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Love-Your-Enemies-Arthur-Brooks-summary'>Love Your Enemies Arthur Brooks Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marshal-animal-crossing-plush'>Marshal Animal Crossing Plush</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=romola-chapter-summary'>Romola Chapter Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jack-U-Wallpaper'>Jack U Wallpaper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noble-garden-menu'>Noble Garden Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=golden-ratio-papyrus-location'>Golden Ratio Papyrus Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=downy-bearded-meaning'>Downy Bearded Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Julian-Baggini-philosophy'>Julian Baggini Philosophy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=strawberry-music-player'>Strawberry Music Player</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devilman-lady-ryo'>Devilman Lady Ryo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Samuel-Barber-fun-facts'>Samuel Barber Fun Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kinked-urban-dictionary'>Kinked Urban Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-pratt%27s-inn-history'>Peter Pratt's Inn History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Daniel-Floyd-Extra-Credits'>Daniel Floyd Extra Credits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=certain-fury-review'>Certain Fury Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=First-self-driving-car-Tesla'>First Self-driving Car Tesla</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=When-Silence-Falls'>When Silence Falls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Opera-house-cartoon'>Opera House Cartoon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=circle-takes-the-square-meaning'>Circle Takes The Square Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rumble-fish-chapter-1-summary'>Rumble Fish Chapter 1 Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-happened-to-nolan%27s-mom-on-bloodline'>What Happened To Nolan's Mom On Bloodline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-wyatt-poetry'>Thomas Wyatt Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fred-and-Doris-Fisher'>Fred And Doris Fisher</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=um-hello-meme'>Um Hello Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-you-waiting-for'>What You Waiting For</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=metalocalypse-full-episodes'>Metalocalypse Full Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=importance-of-agricultural-finance-ppt'>Importance Of Agricultural Finance Ppt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pick-Her-Up'>Pick Her Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jbl-boombox-price'>Jbl Boombox Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=are-cats-sentient'>Are Cats Sentient</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=masters-in-cognitive-science'>Masters In Cognitive Science</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michigan-sheriff-oath'>Michigan Sheriff Oath</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anne-watanabe%2C-instagram'>Anne Watanabe, Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Morning-Sun-Pok%C3%A9mon'>Morning Sun Pokémon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greenville-weather-radar'>Greenville Weather Radar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=medium-stiletto-nail-tips'>Medium Stiletto Nail Tips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-wyatt-poems-pdf'>Thomas Wyatt Poems Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tremors-2-movie'>Tremors 2 Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=round-off-meaning'>Round Off Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Happy-Birthday-Song-in-Hindi'>Happy Birthday Song In Hindi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=st-louis-arch-documentary-movie'>St Louis Arch Documentary Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caleb-johnson-american-idol'>Caleb Johnson American Idol</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-harsanyi-bias'>David Harsanyi Bias</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-gets-the-house-in-a-divorce-with-children%3F'>Who Gets The House In A Divorce With Children?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=terry-porter-family'>Terry Porter Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=if-i-reset-my-iphone-will-i-lose-my-pictures'>If I Reset My Iphone Will I Lose My Pictures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ha-ha-pop-group'>Ha Ha Pop Group</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stargazing-jen-wang-pdf'>Stargazing Jen Wang Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lee-tockar-voices'>Lee Tockar Voices</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=streetlight-manifesto-tampa'>Streetlight Manifesto Tampa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=muji-sun-house'>Muji Sun House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=3%2F7-marines-logo'>3/7 Marines Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fake-police-officers'>Fake Police Officers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-pynchon-cornell'>Thomas Pynchon Cornell</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Who-built-Dover-Castle'>Who Built Dover Castle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=putting-father-on-birth-certificate-law'>Putting Father On Birth Certificate Law</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boethius-the-consolation-of-philosophy'>Boethius The Consolation Of Philosophy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Michael-Owen-interview'>Michael Owen Interview</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-bell-music'>Steve Bell Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tropico-5-pc'>Tropico 5 Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=by-the-light-of-my-father%27s-smile-character'>By The Light Of My Father's Smile Character</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devin-townsend-project'>Devin Townsend Project</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Present-progressive-Italian'>Present Progressive Italian</a>,
+";s:7:"expired";i:-1;}

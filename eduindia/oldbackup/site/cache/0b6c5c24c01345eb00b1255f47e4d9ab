@@ -1,0 +1,112 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3085:"<p>William Wells Brown was an African-American author, historian, and lecturer.. William Wells Brown was born a slave around 1814 near Lexington, Kentucky. 1814-1884) Brown was born to a black slave mother and a white slaveholding father. Early Life. He was born either sometime in 1814 or on March 15, 1815. William Wells Brown Biography, Life, Interesting Facts. William Wells Brown (American National Biography) Scholarship In January 1834 Brown made another, this time successful, attempt to escape, crossing the Ohio River to Cincinnati and on to Cleveland…During his years in Cleveland, Brown worked as a boatman on Lake Erie and was an active member of the local Underground Railroad, ferrying fugitives across the lake to Canada. From the Introduction to From Fugitive Slave to Free Man: The Autobiographies of William Wells Brown (by W. L. Andrews) William Wells Brown describes the Crafts' escape, The Liberator, January 12, 1849; A report on speeches made by William Wells Brown and William and Ellen Craft, 1849; Speech by Brown delivered in Croydon, England, 5 September 1849 </p> <p>He was one of seven children by his mother, Elizabeth. Brown was born on a plantation outside Lexington, KY, to a George Higgins, a white plantation owner and relative of the owner of the plantation where Brown was born, and an African slave mother. </p> <p>nbhistoricalsociety.org/Important-Figures/william-wells-brown William Wells Brown We cannot tell the evils that exist in the southern States.  His exact birth date is not known. He had poor health, no clothing and no legal protection. His father was likely a male relative of his master, Dr. John Young. Devenu militant abolitionniste, il publie en 1847 le récit de sa vie d'esclave et de sa fuite à travers le "Vieux Nord-Ouest", ces Etats libres, mais peu sûrs, qui le séparaient du Canada et d'une totale liberté. William Wells Brown fuit le Missouri à vingt ans en 1834 pour rejoindre les Grands Lacs et le Canada. </p> <p>William Wells Brown a former slave wrote: "I shall never forget a scene which took place in the city of St. Louis, while I was in slavery. But his “A Description of William Wells Brown’s Original Panoramic Views of the Scenes in the Life of an American Slave, From His Birth in Slavery to His Death or His Escape to His First Home of Freedom on British Soil” (1850) corrected the conventional, whitewashed American history by reinserting people of color and slavery. In 1816, Dr. Young took William and his family to Missouri territory and they settled on a farm along the In St. Louis, given the job of tending a young charge also called William, his name was changed to Sandford with the carelessness characteristic of slave naming. They were taken to the rooms of Austin and Savage auctioneers." </p> <p>William Wells Brown was born on November 6, 1814. Brown became part of the national network of the ‘Underground Railroad’ offering help and assistance to fugitives along the way. He was a black antislavery lecturer, a groundbreaking novelist, a playwright, and a historian. </p>";s:7:"keyword";s:19:"William Wells Brown";s:5:"links";s:6552:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghost-adventures-corpus-christi'>Ghost Adventures Corpus Christi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cailee-spaeny-net-worth'>Cailee Spaeny Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ukrainian-orthodox-church-split'>Ukrainian Orthodox Church Split</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prince-rupert-port'>Prince Rupert Port</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tony-evans-commentary-pdf'>Tony Evans Commentary Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=letter-never-sent-%282015-watch-online%29'>Letter Never Sent (2015 Watch Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eh-shepard-art-style'>Eh Shepard Art Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andrew-keegan---full-circle'>Andrew Keegan - Full Circle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=creepshow-trailer-%282019%29'>Creepshow Trailer (2019)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=effects-of-forced-marriage'>Effects Of Forced Marriage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=you-make-my-pants-want-to-get-up-and-dance-karaoke'>You Make My Pants Want To Get Up And Dance Karaoke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poems-of-the-decade-revision-guide'>Poems Of The Decade Revision Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lord-of-the-rings-tree-of-gondor'>Lord Of The Rings Tree Of Gondor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue%27s-room-games'>Blue's Room Games</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steam-password-example'>Steam Password Example</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jonathan-swift-childhood'>Jonathan Swift Childhood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=opi-natural-nail-strengthener-target'>Opi Natural Nail Strengthener Target</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ballymurphy-massacre-inquest'>Ballymurphy Massacre Inquest</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roy-anderson-twitter'>Roy Anderson Twitter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ultratech-cement-price-in-hyderabad-today'>Ultratech Cement Price In Hyderabad Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boy-gets-a-truck'>Boy Gets A Truck</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=In-the-course-of-duty'>In The Course Of Duty</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shredded-chicken-bao-buns'>Shredded Chicken Bao Buns</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=california-state-prisons-map'>California State Prisons Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=niemen-river-napoleon'>Niemen River Napoleon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=puppy-breath-smells-like-fish'>Puppy Breath Smells Like Fish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-have-agency'>To Have Agency</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intermittent-explosive-disorder-icd-10'>Intermittent Explosive Disorder Icd-10</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aeons-end%3A-the-void'>Aeons End: The Void</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donald-barthelme-awards'>Donald Barthelme Awards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eric-harris-writings'>Eric Harris Writings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-scully-dimitri'>David Scully Dimitri</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hey-Jealousy-lyrics'>Hey Jealousy Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vector-group-e-cigarette'>Vector Group E Cigarette</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=learn-german-with-stories%3A-caf%C3%A9-in-berlin'>Learn German With Stories: Café In Berlin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-event-does-mary-elizabeth-ask-charlie-to%3F'>What Event Does Mary Elizabeth Ask Charlie To?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lamentations-2-meaning'>Lamentations 2 Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=herrin-massacre-illinois-victims'>Herrin Massacre Illinois Victims</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=newry-city-population'>Newry City Population</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pine-spirit-Wu-Guanzhong'>Pine Spirit Wu Guanzhong</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ronnie-radke-and-paige'>Ronnie Radke And Paige</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nancy-neele-christie'>Nancy Neele Christie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=monique-ganderton-net-worth'>Monique Ganderton Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Drew-Struzan-Net-Worth'>Drew Struzan Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spanish-workbook-preschool'>Spanish Workbook Preschool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=independence-hall-blueprints'>Independence Hall Blueprints</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amazon-basin-map'>Amazon Basin Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-paul-ritter-married'>Is Paul Ritter Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paper-round-posters'>Paper Round Posters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreNo-reservations-neededFRIAR-TUCK%27S-OF-WHITTLESEY%2C-BJs-Plaice%2C-and-more'>+ 18moreNo Reservations NeededFRIAR TUCK'S OF WHITTLESEY, BJs Plaice, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=swift-group-merrill-lynch'>Swift Group Merrill Lynch</a>,
+";s:7:"expired";i:-1;}

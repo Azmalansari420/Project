@@ -1,0 +1,119 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4122:"<p>Scenario: An 76 year old man, day 1 post-op following a bowel resection, with hypovolaemia and dehydration Process Description Behaviour Comments Considers the patient situation Observes context and patient situation Verbalises key observations from handover and initial view of patient: 1. </p> <p></p> <p>This is one of the most serious, and sometimes life-threatening, complications of dehydration. </p> <p>Osmotic pressure. Hypovolemia or hypovolemic shock is a condition that entails decrease in the volume of blood plasma due to prolonged dehydration. </p> <p>Thirst-stimulating input: Specialized cells embedded in the vascular endothelium at the branch point of the carotid arteries (carotid sinus) respond to pressure and thus detect volume changes.While it is clear that these signals promote thirst, the pathways and mechanisms remain obscure (Mann et al., 1987). </p> <p>Hypovolemia is a condition, where the blood volume decreases, otherwise a decrease in blood plasma volume occurs.  Hypovolemia refers to a decreased volume of fluid in the vascular system with or without whole body fluid depletion. In response to hypovolemic thirst, the brain makes the person want to drink more water. Reference - American Medical Directors Association (AMDA) guideline on dehydration and fluid maintenance in the long-term care setting (AMDA 2009, reaffirmed 2012) dehydration and hypovolemia/volume depletion often used interchangeably in clinical settings to describe fluid loss, though technically different 2 Hypovolemia. The list below details some of hypovolemic causes of hypernatremia. Hypotension may exist separately or along with hypovolemia and dehydration (Figure 1). </p> <p>Hypovolemia and dehydration are not mutually exclusive nor are they always linked. Hypovolemic thirst results when there is a drop in the amount of water outside cells and in blood volume. Thirst is important for maintaining body fluid homeostasis and may arise from deficits in either intracellular or extracellular fluid volume. After a loss of blood volume, an animal will: ... process of achieving stability, or homeostasis, through physiological or behavioral change. </p> <p>Hypovolemia is often seen in case of severe dehydration or blood loss owing to trauma or surgery. Hypovolemic shock is a life-threatening condition that results when you lose more than 20 percent (one-fifth) of your body’s blood or fluid supply. Patient’s age 2. </p> <p>Hypovolemia is defined as a decrease in the blood volume resulting from loss of blood, plasma and/or plasma water, thereby causing a loss of intravascular content and resulting in a potential limitation of tissue perfusion 1). Neural signals arising from osmotic and hormonal influences on the lamina terminalis may be integrated within the brain, with afferent information relayed from intrathoracic baroreceptors via the hindbrain to generate thirst. </p> <p>Hence, sometimes, volume contraction and hypovolemia … Most cases of hypovolemia are due to limited access to regular water intake or excessive loss of fluids from the body. osmotic thirst; hypovolemic thirst ____ occurs when solutes are more concentrated on one side of the membrane than on the other. Hypovolemia should not be confused with a person becoming dehydrated – in the first case, sodium is reduced, while in dehydration one loses water excessively. Hypovolemic causes. Low blood volume shock (hypovolemic shock). Peripheral Sensors. Dehydration is the depletion of whole body fluid. Thus, it is the volume contraction’s intravascular component or blood volume loss due to haemorrhage and dehydration. Osmotic thirst results when the blood and space outside cells become too salty. Trauma is among the most frequent causes of hypovolemia, with its often profuse attendant blood loss. </p> <p>Martin Kohlmeier, in Nutrient Metabolism (Second Edition), 2015. Recent surgery 3. It occurs when low blood volume causes a drop in blood pressure and a drop in the amount of oxygen in your body. Another common cause is dehydration, which primarily entails loss of plasma rather than whole blood. </p>";s:7:"keyword";s:26:"hypovolemic thirst process";s:5:"links";s:7312:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ida-pro-vs-ghidra'>Ida Pro Vs Ghidra</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interventional-radiology-technologist-programs-online'>Interventional Radiology Technologist Programs Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=work-in-the-21st-century-3rd-edition-pdf'>Work In The 21st Century 3rd Edition Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anamaria-marinca-instagram'>Anamaria Marinca Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-taylor-professor'>Alan Taylor Professor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreBest-dinners-with-kidsVinchentso%2C-%D0%A1%D1%82%D1%83%D0%BC%D0%B0%D1%80%D0%B8%2C-and-more'>+ 18moreBest Dinners With KidsVinchentso, Стумари, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=map-of-lake-erie'>Map Of Lake Erie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=treme-rotten-tomatoes'>Treme Rotten Tomatoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=matlab-solve-cubic-equation-roots'>Matlab Solve Cubic Equation Roots</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fred-and-Doris-Fisher'>Fred And Doris Fisher</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-yearling-anime'>The Yearling Anime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Turkey-Dance-Freeze'>Turkey Dance Freeze</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vincente-minnelli-judy-garland'>Vincente Minnelli Judy Garland</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prodigy-admin-hack'>Prodigy Admin Hack</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sherb-animal-crossing-ocd'>Sherb Animal Crossing Ocd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=7th-Class-English-Notes'>7th Class English Notes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Samuel-Johnson-oats'>Samuel Johnson Oats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crinkle-mouse-snl'>Crinkle Mouse Snl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-the-name-haley-mean-in-the-bible'>What Does The Name Haley Mean In The Bible</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=instruction-manual-synonym'>Instruction Manual Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=syndrome-2004-movie'>Syndrome 2004 Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Zaha-Hadid-images'>Zaha Hadid Images</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=osorno-volcano-last-eruption'>Osorno Volcano Last Eruption</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adria-adora-caravans-for-sale'>Adria Adora Caravans For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=loser-song-2020'>Loser Song 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reading-guide-for-the-splendor-of-truth-answers'>Reading Guide For The Splendor Of Truth Answers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=el-narco%3A-the-bloody-rise-of-mexican-drug-cartels-pdf'>El Narco: The Bloody Rise Of Mexican Drug Cartels Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hit-the-road-jack-lyrics'>Hit The Road Jack Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dominic-raab-erika-rey'>Dominic Raab Erika Rey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hari-kari-meme'>Hari Kari Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clear-nail-tips'>Clear Nail Tips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=willow-grace-radke'>Willow Grace Radke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maksud-switch-bl'>Maksud Switch Bl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kenji-miyazawa-bsd'>Kenji Miyazawa Bsd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=humano-llc-phone-number'>Humano Llc Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-line-becomes-a-river-ebook'>The Line Becomes A River Ebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hang-on-Now'>Hang On Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mike-mussina-hall-of-fame-plaque'>Mike Mussina Hall Of Fame Plaque</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chester-gould-net-worth'>Chester Gould Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beautiful-bastard-series-book-2'>Beautiful Bastard Series Book 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marriage-action-plan'>Marriage Action Plan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lost-flight-movie'>Lost Flight Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=giles-watling-qatar'>Giles Watling Qatar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marcel-breuer-cesca-cane-side-chair'>Marcel Breuer Cesca Cane Side Chair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=socrates-quotes-on-youth'>Socrates Quotes On Youth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-the-christmas-pageant-on-tv'>Is The Christmas Pageant On Tv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Memoirs-of-an-Invisible-Man-filming-Locations'>Memoirs Of An Invisible Man Filming Locations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=married-at-17-stories'>Married At 17 Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tim-winton-the-turning'>Tim Winton The Turning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oklahoma-weird-facts'>Oklahoma Weird Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fast-food-quiz'>Fast Food Quiz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-does-your-garden-grow-book'>How Does Your Garden Grow Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2006-miami-heat-roster'>2006 Miami Heat Roster</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zhou-fang-court-ladies'>Zhou Fang Court Ladies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=resistance%3A-the-warsaw-ghetto-uprising-book'>Resistance: The Warsaw Ghetto Uprising Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sorry-quotes-for-friends'>Sorry Quotes For Friends</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caste-code-in-karnataka'>Caste Code In Karnataka</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=malcolm-forbes-biography'>Malcolm Forbes Biography</a>,
+";s:7:"expired";i:-1;}

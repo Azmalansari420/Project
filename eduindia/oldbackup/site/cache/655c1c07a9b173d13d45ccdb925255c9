@@ -1,0 +1,135 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2038:"<p>Russia’s Orthodox Church on Monday called on Turkey to display “prudence” in response to the stated intention by President Recep Tayyip Erdogan to convert the iconic Byzantine cathedral in Istanbul Hagia Sophia, currently a museum, into a mosque. In a statement, Russian Patriarch Kirill expressed his “deep concern” about such a prospect of any change to the status of “one of the biggest monuments of … The Church in Russia, home to the world's largest Orthodox Christian community, immediately expressed regret that the Turkish court had not taken its concerns into account when ruling on Hagia Sophia. Turkey's ancient Hagia Sophia, which has been a museum for decades, ... while Greek Orthodox leaders and Russia's Orthodox church have also criticized the potential move. (Jan Jekielek/The Epoch Times) Turkey’s President Recep Tayyip Erdogan formally converted Hagia Sophia into a mosque on July 10. Greece and Turkey are once again at odds over the fate of one of Christendom's largest and oldest churches, built under Byzantine Emperor Justinian in the 6th century, and surviving changing empires throughout history. The Church of Hagia Sophia in Istanbul was - prior to the Turkish takeover of Byzantium in 1453 - Constantinople's most famous church and center of the Orthodox Christian … Hagia Sophia, the famous church/mosque embodies Turkey's double history in both the Christian and the Muslim world.  The Church in Russia, home to the world's largest Orthodox Christian community, immediately expressed regret that the Turkish court had not taken its concerns into account when ruling on Hagia Sophia. </p> <p>Built under Byzantine Emperor Justinian, Hagia Sophia was the main seat of the Eastern Orthodox church for centuries, where emperors were crowned amid ornate marble and mosaic decorations. The leader of Russia's Orthodox Church Patriarch Kirill said on Monday he was "deeply concerned" by calls in Turkey to alter the status of the Hagia Sophia, the historic former cathedral in Istanbul. </p>";s:7:"keyword";s:25:"orthodox church in turkey";s:5:"links";s:9408:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alonso-berruguete-exhibition'>Alonso Berruguete Exhibition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oak-park-restaurants'>Oak Park Restaurants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=24-hours-in-a-day'>24 Hours In A Day</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=university-of-portsmouth'>University Of Portsmouth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-yo-son'>Michael Yo Son</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=traditional-swedish-blessing'>Traditional Swedish Blessing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hayley-cropper-red-coat'>Hayley Cropper Red Coat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raising-dion-episode-1-full-episode'>Raising Dion Episode 1 Full Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hagerstown-md-to-rockville-md'>Hagerstown Md To Rockville Md</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=four-lane-road-hopper'>Four Lane Road Hopper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Death-Note-Goodreads'>Death Note Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-the-aisle-lyrics-the-five-satins'>To The Aisle Lyrics The Five Satins</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-nativity-emerson-paramount'>Black Nativity Emerson Paramount</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dalet-Hebrew-meaning'>Dalet Hebrew Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Silk-Road-song'>Silk Road Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-places-to-eat-in-saladan-koh-lanta'>Best Places To Eat In Saladan Koh Lanta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2446-belmont-rd-nw-zillow'>2446 Belmont Rd Nw Zillow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-stirling-projects'>James Stirling Projects</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=packy-lee-net-worth'>Packy Lee Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tigger-and-pooh-and-a-musical-too-dvd-menu'>Tigger And Pooh And A Musical Too Dvd Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vampira-and-me'>Vampira And Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-history-of-the-work-of-redemption-pdf'>A History Of The Work Of Redemption Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=evaluation-placing-crossword-clue'>Evaluation Placing Crossword Clue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=outsourced-episode-1'>Outsourced Episode 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-man-from-taured-book-pdf'>The Man From Taured Book Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interstellar-2-2019'>Interstellar 2 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sunshine-sketches-of-a-little-town-character-analysis'>Sunshine Sketches Of A Little Town Character Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sonnet-43-analysis'>Sonnet 43 Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-know-what-i-like-%28in-your-wardrobe-chords%29'>I Know What I Like (in Your Wardrobe Chords)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=watch-diagnosis-murders-full-episodes'>Watch Diagnosis Murders Full Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=agnikula-kshatriya-logo'>Agnikula Kshatriya Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poems-in-honor-of-earth-day'>Poems In Honor Of Earth Day</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=someone-is-calling-me-from-an-unknown-number'>Someone Is Calling Me From An Unknown Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dip-n-dip'>Dip N Dip</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Amped-Wireless-RTA2600'>Amped Wireless RTA2600</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=solunar-tables-api'>Solunar Tables Api</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-bet-by-anton-chekhov-summary'>The Bet By Anton Chekhov Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=warriors%3A-omen-of-the-stars'>Warriors: Omen Of The Stars</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=earth-2-dc'>Earth 2 Dc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-love-again-original-singer-opm'>To Love Again Original Singer Opm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=group-of-18th-century-thinkers-that-included-voltaire-and-rousseau-crossword'>Group Of 18th-century Thinkers That Included Voltaire And Rousseau Crossword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shane-West-child'>Shane West Child</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ralph-steadman-mickey-mouse-shirt'>Ralph Steadman Mickey Mouse Shirt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-broly-figure'>Dark Broly Figure</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pippi-stockholm-museum'>Pippi Stockholm Museum</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gregory-porter---holding-on-meaning'>Gregory Porter - Holding On Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=designing-women%27-reboot-date'>Designing Women' Reboot Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-the-idiom-riding-shotgun-mean'>What Does The Idiom Riding Shotgun Mean</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-invented-pokemon'>Who Invented Pokemon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Borough-of-Colchester'>Borough Of Colchester</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-wilson-facts'>James Wilson Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alvin-roth-blog'>Alvin Roth Blog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=real-black-roses'>Real Black Roses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sitter-movie'>The Sitter Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Richard-Dawkins-debate'>Richard Dawkins Debate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raeford%2C-nc-things-to-do'>Raeford, Nc Things To Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gojira-albums-ranked'>Gojira Albums Ranked</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2020-recruiting-class-basketball'>2020 Recruiting Class Basketball</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tar-definition-smoking'>Tar Definition Smoking</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shahnameh-character-analysis'>Shahnameh Character Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=millicent-martin-spouse'>Millicent Martin Spouse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dave-barry-2020'>Dave Barry 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=campbell-college-belfast-fees'>Campbell College Belfast Fees</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-tour-packages-for-elderly'>Best Tour Packages For Elderly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jesse-bostick-net-worth'>Jesse Bostick Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-wilson-facebook'>Michael Wilson Facebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tunis-airport-coronavirus'>Tunis Airport Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robin-li-family'>Robin Li Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=song-of-deborah'>Song Of Deborah</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-mexico-tourism-map'>New Mexico Tourism Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=smart-woman-movie'>Smart Woman Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-joy-of-reading-and-writing%3A-superman-and-me-quizlet'>The Joy Of Reading And Writing: Superman And Me Quizlet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wouldn%27t-the-world-be-better-if-we-took-nonsense-more-seriously'>Wouldn't The World Be Better If We Took Nonsense More Seriously</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dean-Koontz-Midnight-movie'>Dean Koontz Midnight Movie</a>,
+";s:7:"expired";i:-1;}

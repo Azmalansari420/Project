@@ -1,0 +1,106 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2787:"<p>With Meryl Streep, Kevin Kline, Peter MacNicol, Rita Karin. </p> <p>'Sophie's Choice': The story behind that haunting scene By Jeff Labrecque Updated April 25, 2014 at 04:10 PM EDT Sophie’s Choice is the title of a 1979 novel by William Styron, about a Polish woman in a Nazi concentration camp who is forced to decide which of her two children will live and which will die. Sophie and Nathan's relationship is endangered both by Sophie's ghosts and Nathan's obsession with the Holocaust, as well as his violent temper and increasingly apparent mental illness. When Stingo visits a man who knew Sophie's father, he discovers she's been lying to him. Sophie's Choice is a 1982 American drama film directed by Alan J. Pakula, who adapted William Styron's 1979 novel of the same name. When Stingo visits a man who knew Sophie's father, he discovers she's been lying to him. </p> <p>Sophie's Story is one of three videos in the ‘Choices for Life’ series. From the novel and film of the same name, an impossibly difficult choice, especially when forced onto someone. </p> <p>It was controversial for Directed by Alan J. Pakula. </p> <p>I think William Styron may have based Sophie on someone he knew in the 1950s but Sophie and her situation are fiction, not history, per see.  The first part of the news article is quoted below: In the movie "Sophie's Choice… He learns that Sophie's father, a Polish college professor, hated Jews. November 12, 2018 | Full Review… Bob Thomas. Meryl Streep stars as Sophie, a Polish immigrant who shares a boarding house in Brooklyn with her tempestuous lover, Nathan (Kevin Kline in his feature film debut), and a young writer, Stingo (Peter MacNicol). He will be speaking at a Holocaust Remembrance ceremony today. The novel was the basis of a 1982 film of the same name. Sophie's Choice Theatrical release poster Directed byAlan J. Pakula Produced by Alan J. Pakula Keith Barish William C. Gerrity Martin Starger Screenplay byAlan J. Pakula Based onSophie's Choice by William Styron Starring Meryl Streep Kevin Kline Peter MacNicol Music byMarvin Hamlisch CinematographyNestor Almendros Edited byEvan Lottman Production company ITC Entertainment Keith Barish Productions Distributed byUniversal Pictures Associated Film Distribution Release date Decemb… Sophie’s Choice is the title of a 1979 novel by William Styron, and in 1982 Sophie’s Choice was made into a critically acclaimed film starring Meryl Streep. Sophie's Choice revolves around three characters and three story lines. In the novel, which is set during World War II, the title character must choose between the lives of her two children while imprisoned in the Nazi concentration camp Auschwitz. He learns that Sophie's father, a Polish college professor, hated Jews. </p>";s:7:"keyword";s:31:"is sophie's choice a true story";s:5:"links";s:5486:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bekhudi-meaning-in-tamil'>Bekhudi Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-red-kidney-beans-can'>Dark Red Kidney Beans Can</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-fear-shakespeare%3A-hamlet%3A-act-5'>No Fear Shakespeare: Hamlet: Act 5</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=symbian-operating-system'>Symbian Operating System</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=border-movie-review'>Border Movie Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=military-fighting-knives'>Military Fighting Knives</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eureeka%27s-castle-theme'>Eureeka's Castle Theme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scafell-pike-summit'>Scafell Pike Summit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dallin-d-oaks'>Dallin D Oaks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=industrial-design-raymond-loewy'>Industrial Design Raymond Loewy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=betts-industries-manways'>Betts Industries Manways</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=May-Calamawy-religion'>May Calamawy Religion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreFish-and-chips-takeawaysGolden-Cod%2C-Golden-Cod-Askern-%28Sutton-Road%29%2C-and-more'>+ 18moreFish And Chips TakeawaysGolden Cod, Golden Cod Askern (Sutton Road), And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poul-anderson-trader-to-the-stars'>Poul Anderson Trader To The Stars</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boysenberry-health-benefits'>Boysenberry Health Benefits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bj-mitchell-kids'>Bj Mitchell Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=educause-fall-2019'>Educause Fall 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=CHAPPiE-FINAL-SCENE'>CHAPPiE FINAL SCENE</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vietnam-war-body-count-strategy'>Vietnam War Body Count Strategy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=types-of-covenant'>Types Of Covenant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=university-of-portsmouth'>University Of Portsmouth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roasted-pumpkin-seeds'>Roasted Pumpkin Seeds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miles-franklin-2019-shortlist'>Miles Franklin 2019 Shortlist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donna-yaklich-son'>Donna Yaklich Son</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-antin-burlesque'>Steve Antin Burlesque</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=constantine-wife-boiled'>Constantine Wife Boiled</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-miss-my-crush'>I Miss My Crush</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spider-loc-game'>Spider Loc Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hannibal-Hamlin-House'>Hannibal Hamlin House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Halo%3A-Reach-stats'>Halo: Reach Stats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frog-and-toad-facebook'>Frog And Toad Facebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=despicable-me-theme-song'>Despicable Me Theme Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boogie-boy-song'>Boogie Boy Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-cook-a-tomahawk-steak-gordon-ramsay'>How To Cook A Tomahawk Steak Gordon Ramsay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=not-equal-sign'>Not Equal Sign</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lidya-jewett-Instagram'>Lidya Jewett Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=multi-tool-walmart'>Multi Tool Walmart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atticus-shaffer-2019'>Atticus Shaffer 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phoenix-king-finubar'>Phoenix King Finubar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=one-of-the-bais-gma-7'>One Of The Bais Gma 7</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-michael-bierut-known-for'>What Is Michael Bierut Known For</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=college-of-dupage-english-classes'>College Of Dupage English Classes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1967-Mickey-Mantle'>1967 Mickey Mantle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-snape-instagram'>William Snape Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jamie-zhu-wealth'>Jamie Zhu Wealth</a>,
+";s:7:"expired";i:-1;}

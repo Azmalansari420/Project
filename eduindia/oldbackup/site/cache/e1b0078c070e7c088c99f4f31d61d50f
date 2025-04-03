@@ -1,0 +1,146 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2719:"<p>Learn about Oregon's Native American culture and history through these collections and institutions. </p> <p>Began as a school to primarily train students in the field of agriculture and admitting a maximum of one-third female students, the school did not begin as one open and inviting to all. Founded in 1859, Oregon is known for its wild west past, its quirky present-day traditions, and its many natural marvels (including the world’s largest living organism). </p> <p>Western History Association, Gene Autry Public History Award, 2012. PHOTO GALLERIES. With an area of 98,381 square miles (254,810 km 2), Oregon is slightly larger than the United Kingdom.It is the ninth largest state in the United States. </p> <p></p> <p>Nike was started right here in Oregon Photo: YouTube. </p> <p>Wheel ruts from Oregon Trail wagons are still visible today. </p> <p>The official website of the Oregon Secretary of State. The origin of the name “Oregon” is uncertain. The official state nut of Oregon is the hazelnut. Click here to get out the map Welcome to the award-winning Oregon Encyclopedia. It is also the country’s leading producer of Christmas trees, with an output of more than 4.9 million trees in 2009. OREGON® dans les reseaux sociaux. </p> <p>Kids Encyclopedia Facts. In 1792, Captain Robert Gray came up the mouth of the Columbia River and staked the American claim to the Oregon territory. </p> <p>May 21, 1903. Native Americans, also known as American Indians and Indigenous Americans, are the indigenous peoples of the United States. They hoped to In 1984, a cult spread salmonella on salad bars at restaurants in an Oregon city. Oregon Pop Culture </p> <p>Other topics include water quality in Oregon’s forests, investments in protecting watershed and salmon habitat, and acres of Oregon forestland certified by third-party sustainability programs. Oregon Forest Facts includes information and statistics on forestland ownership, timber harvest, forest-based employment and wood products production. </p> <p>… </p> <p>Ken Kesey, writer of "Sometimes a Great Notion" and "One Flew Over the Cuckoo's Nest," and leader of the Merry Pranksters, grew up … 16. With tons of flavors and varieties unique to the region, it’s not uncommon to hear someone mention that they went “hunting for some shroom last weekend.” The state mushroom is the Pacific gold chanterelle, a must try for an out-of-towner with its fruity aroma and a peppery taste. One of many whimsical bears inhabiting downtown Grants Pass. </p> <p>However, according to one account, the name is believed to have been derived from the French word, ‘Ouragan,’ which is loosely translated as hurricane’ or windstorm’. </p>";s:7:"keyword";s:20:"oregon culture facts";s:5:"links";s:10664:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-mccammon-books'>Robert Mccammon Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-rouch-movies'>Jean Rouch Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=synology-ds2415%2B-manual'>Synology Ds2415+ Manual</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reef-blue-mustang'>Reef Blue Mustang</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=english-feedback-comments'>English Feedback Comments</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cotton-on-shoes'>Cotton On Shoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caste-code-in-karnataka'>Caste Code In Karnataka</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jobeth-williams-2019'>Jobeth Williams 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-machine-stops-analysis'>The Machine Stops Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreBest-coffeeKahaila-Limited%2C-The-Rolling-Donut%2C-and-more'>+ 18moreBest CoffeeKahaila Limited, The Rolling Donut, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=merrill%27s-marauders-list-of-members'>Merrill's Marauders List Of Members</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phoenix-s-by-frankfurter-brett'>Phoenix-s By Frankfurter Brett</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=owens-community-college'>Owens Community College</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-hoorelbeke-wikipedia'>Peter Hoorelbeke Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sweet-hereafter-parents-guide'>The Sweet Hereafter Parents Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=comali-director-instagram'>Comali Director Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xiao-long-bao-chinese-characters'>Xiao Long Bao Chinese Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fudge-box-recipe'>Fudge Box Recipe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=riker-lynch-age'>Riker Lynch Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=groundbreaking-meaning-in-tamil'>Groundbreaking Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=between-%28tv-series%29-season-3'>Between (tv Series) Season 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scott-braddock-parks-and-rec'>Scott Braddock Parks And Rec</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kipps-half-a-sixpence'>Kipps Half A Sixpence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaiah-chapter-6'>Isaiah Chapter 6</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lower-chesapeake-bay-marine-forecast'>Lower Chesapeake Bay Marine Forecast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=courage%3A-the-backbone-of-leadership-pdf'>Courage: The Backbone Of Leadership Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gustave-Moreau-Louvre'>Gustave Moreau Louvre</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=two-way-translator-device'>Two-way Translator Device</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sheila-jaffe-bio'>Sheila Jaffe Bio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sunoco-credit-card'>Sunoco Credit Card</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rebekah-vardy-parents'>Rebekah Vardy Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=independence%2C-missouri-lds-temple'>Independence, Missouri Lds Temple</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=helmut-newton-portraits'>Helmut Newton Portraits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-gilpin-dancer'>John Gilpin Dancer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leslie-sykes-instagram'>Leslie Sykes Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-books-against-socialism'>Best Books Against Socialism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poems-about-green-leaves'>Poems About Green Leaves</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=SPIN-magazine-contact'>SPIN Magazine Contact</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=demons%2C-dostoevsky-pdf'>Demons, Dostoevsky Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=horse-colors-chart'>Horse Colors Chart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ben-cura-movies'>Ben Cura Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tomie-dePaola-funeral'>Tomie DePaola Funeral</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-season-2-episode-18-reddit'>The Office Season 2 Episode 18 Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fred-dryer-ncis'>Fred Dryer Ncis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bucket-list-Lake-District'>Bucket List Lake District</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Margaret-Macdonald-Mackintosh'>Margaret Macdonald Mackintosh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-waters-online-newspaper'>John Waters Online Newspaper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=international-picnic-day-2019'>International Picnic Day 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-mark-steel-solution'>The Mark Steel Solution</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-passing-fancy'>No Passing Fancy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maze-movie-netflix'>Maze Movie Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=appleseed-xiii-episodes'>Appleseed Xiii Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=coffee-bean-food-menu-california'>Coffee Bean Food Menu California</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=style-name-editor'>Style Name Editor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adventure-romance-books-for-adults'>Adventure Romance Books For Adults</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=doctor-who-season-12-episode-11'>Doctor Who Season 12 Episode 11</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bioshock-infinite-switch'>Bioshock Infinite Switch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maximum-carnage-comic-set'>Maximum Carnage Comic Set</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=one-hundred-percent-entertainment'>One Hundred Percent Entertainment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nature-of-recreation-in-physical-education'>Nature Of Recreation In Physical Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oprah-winfrey-graduation-quotes'>Oprah Winfrey Graduation Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=casey-hampton-steelers'>Casey Hampton Steelers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=castle-leslie-owner'>Castle Leslie Owner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Where-can-i-watch-Madea-Boo-2-For-Free-online'>Where Can I Watch Madea Boo 2 For Free Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sparks-a-light-in-you-meaning-in-urdu'>Sparks A Light In You Meaning In Urdu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jimmy-Buffett---Son-of-a-Son-of-a-Sailor'>Jimmy Buffett - Son Of A Son Of A Sailor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Edwin-Hubble-contributions'>Edwin Hubble Contributions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-snape-instagram'>William Snape Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tim-cook%3A-the-genius-who-took-apple-to-the-next-level-review'>Tim Cook: The Genius Who Took Apple To The Next Level Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jack-of-hearts-mcu'>Jack Of Hearts Mcu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crosby-hull-age'>Crosby Hull Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fujiwara-no-sai-figure'>Fujiwara No Sai Figure</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tense-adverb-chart-pdf'>Tense Adverb Chart Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wonder-woman-strength-feats'>Wonder Woman Strength Feats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marshal-animal-crossing-plush'>Marshal Animal Crossing Plush</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bob-peak-poster'>Bob Peak Poster</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Treat-You-Better-tab'>Treat You Better Tab</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oskar-schindler-interview'>Oskar Schindler Interview</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reached-book-review'>Reached Book Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fortress-movie-1985'>Fortress Movie 1985</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stranger-on-horseback---youtube'>Stranger On Horseback - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maldon-district-council-grants'>Maldon District Council Grants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dhoom-reloaded-full-movie'>Dhoom Reloaded Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maldon-district-council-grants'>Maldon District Council Grants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-edge-breeam'>The Edge Breeam</a>,
+";s:7:"expired";i:-1;}

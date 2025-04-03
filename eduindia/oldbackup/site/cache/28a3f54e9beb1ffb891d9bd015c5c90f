@@ -1,0 +1,102 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2672:"<p>There was a real inspiration for the song, a guy Jewel fell for when she was 16. </p> <p>This song about the frustration of unrequited love was the third single released from Jewel's debut album. The first person that comes along gonna say, Hey you hurt? - Recorded by Sheb Wooley - - (aka Ben Colder) Written by Arthur Smith. </p> <p>Some person will ask a foolish question and expect a sensible reply. </p> <p>Smith produced radio and TV shows; The Arthur Smith Show was the first nationally syndicated country music show on television. </p> <p>This song is by Johnny Cash and appears on the compilation album Bootleg Vol II - From Memphis to Hollywood (2011) . </p> <p>Foolish questions, your dyin words are no. It was her debut single. You walk right into the shaft and fall down forty floors. Play intro: Well you step into an elevator and you open up the door. </p> <p>The person who would ask them, expects a sensible reply. Arthur Smith (April 1, 1921 – April 3, 2014) was an American musician, songwriter, and producer of records, as well as a radio and TV host. </p> <p>Appalachian State University Libraries Digital Collections consists of rare and historic materials and are made available online through the efforts of the Belk Library and Information Commons and the departments of Special Collections, Digital Scholarship and Initiatives, and Resource Acquisition and Management.  After moving to Charlotte, North Carolina, Smith developed and ran the first commercial recording studio in the Southeast. </p> <p>Date: 21 Jul 97 - 08:46 PM. </p> <p>Y'all have heard about Foolish Questions, and no doubt you've wondered why. FOOLISH QUESTIONS (A. Baldwin Sloane / William Lee) Bil Haley - 1949 Johnny Cash - 1965 Sandy Bradley & The Small Wonder String Band - 1982 Jackie Washington - 2000 Ken Galipeau - 2001 Also recorded by: Arthur "Guitar Boogie" Smith; Walt Brown; Woods Tea Co. </p> <p>And when you hit the bottom and you're layin there in the dirt. FOOLISH QUESTIONS. It stayed at #1 on Billboard Hot 100, staying there for around ten weeks. </p> <p>She wrote about him in her journal, developing a relationship she was "dramatically involved in on paper." Johnny Cash - Foolish Questions Lyrics. </p> <p>Now you've all heard foolish questions and no doubt you've wondered why Some person will ask a foolish question and expect a sensible reply Now you've all heard foolish questions and no doubt you've wondered why. Foolish questions get a silly answer all the time. </p> <p>Foolish Questions. </p> <p>The hit song "Foolish" is the single that made Ashanti famous. </p> <p>Did you ever bring your girl a box of candy, say, right after tea. </p>";s:7:"keyword";s:36:"who wrote the song foolish questions";s:5:"links";s:4982:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-paterson-actor'>John Paterson Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flower-painting-easy-step-by-step'>Flower Painting Easy Step By Step</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gordon-singer-ac-milan'>Gordon Singer Ac Milan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Demons-movie-2017'>Demons Movie 2017</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=define-sad-to-say'>Define Sad To Say</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shadow-dance-band'>Shadow Dance Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prince-rupert-to-vancouver'>Prince Rupert To Vancouver</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tenpenny-bit-sheet-music'>Tenpenny Bit Sheet Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skeletal-fragments-horde'>Skeletal Fragments Horde</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nicky-barnes-wife-sister'>Nicky Barnes Wife Sister</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natsume-s%C5%8Dseki-light-and-darkness'>Natsume Sōseki Light And Darkness</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miriam-toews-instagram'>Miriam Toews Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=april-33-ad-calendar'>April 33 Ad Calendar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=norway-backpacking-routes'>Norway Backpacking Routes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-twits-audiobook'>The Twits Audiobook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maggie-chen-xinyu'>Maggie Chen Xinyu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=time-and-chance-meaning'>Time And Chance Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Still-lyrics-Hillary'>Still Lyrics Hillary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Khakee-Full-Movie-Download-480p'>Khakee Full Movie Download 480p</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Carpet-burn-repair'>Carpet Burn Repair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-arthur-will'>Jean Arthur Will</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whole-foods-bao-buns'>Whole Foods Bao Buns</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=let-it-fall-netflix'>Let It Fall Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office---fun-run-full-episode'>The Office - Fun Run Full Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hideaway-odenton-reviews'>Hideaway Odenton Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=albemarle-county-police-jobs'>Albemarle County Police Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=howard-thurman%3A-mystic'>Howard Thurman: Mystic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fujian-cuisine-dishes'>Fujian Cuisine Dishes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=metaethics-is-known-as'>Metaethics Is Known As</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=badlanders-1992-wiki'>Badlanders 1992 Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=young-dro-wiki'>Young Dro Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=War-memorial-poem'>War Memorial Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=godless%3A-the-church-of-liberalism'>Godless: The Church Of Liberalism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=christopher-robin-heffalump'>Christopher Robin Heffalump</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=opposing-views-on-universal-health-care'>Opposing Views On Universal Health Care</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kartavya-chandamama-se-pyaara-mere-mama-%28sad%29'>Kartavya Chandamama Se Pyaara Mere Mama (sad)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Ledge-%282019%29'>The Ledge (2019)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=viktor-frankl%2C-meaning-of-life'>Viktor Frankl, Meaning Of Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=direct-pronouns-italian'>Direct Pronouns Italian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Easy-Cheese-Walmart'>Easy Cheese Walmart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Beyond-the-Fields-We-Know'>Beyond The Fields We Know</a>,
+";s:7:"expired";i:-1;}

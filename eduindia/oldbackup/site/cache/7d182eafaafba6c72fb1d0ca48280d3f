@@ -1,0 +1,125 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2236:"<p>I grabbed a copy of the word-rich book, Owl Moon, by Jane Yolen. Today's children's book read aloud is Owl Moon by Jane Yolen. A winter book about a child going owling for the first time with her father. Paint An Owl Moon Scene Owl Moon is a Caldecott Winner for its stunning illustrations, which set the tone for the book. Then I created a simple printable for my second grader to record his visualizations. Owl Moon: Printable Lesson Plans to Engage Young Writers By Erin Klein. The students will use what they know about visualizing/ using their 5 senses, and will incorporate what they learn about the art techniques and elements of art (colors, space, and value) to create a piece of original artwork and writing, based off the story Owl Moon. </p> <p>Yolen is one … </p> <p>Owl Moon Literacy Extensions : Visualization, Context Clues, Point of View and Descriptive Writing. </p> <p> </p> <p>It also has a craftivity to go along with book. </p> <p>This pack includes mini-lessons, morning messages, anchor charts, printables, graphic organizer guided reading and writing activities. Use blue or grey construction paper with white, brown, black, dark green and grey non-toxic tempera paint to paint a snow scene. Grades 1–2, 3–5 When Scholastic asked what book selection I'd like to have to work with my students this year, without hesitation, I asked for Owl Moon by Jane Yolen. </p> <p></p> <p>Here is a chart with three mini lesson statements and examples of how to frame your whole class discussion. Before we began, I talked to him about the word “visualize” and what it means. </p> <p>Students explore animal life by reading a story in class. This amazing bundle has everything you need to teach visualizing! Visualizing is the ability to hear (or read) a story and have a mental image of the text. In this bird characteristics lesson, students read the story Owl Moon and identify the characters, setting and themes of the book. Owl Moon: Visualizing with 5 senses from Teacherstuff on TeachersNotebook.com. Visualizing! Check out the three mini lesson statements and watch the video to get more ideas on how to teach visualizing with three specific books. Study and discuss a few illustrations in the book. </p>";s:7:"keyword";s:27:"owl moon visualizing lesson";s:5:"links";s:8024:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rand-brooks-gone-with-the-wind'>Rand Brooks Gone With The Wind</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=padmavathi-telugu-song'>Padmavathi Telugu Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=windows-10-no-sound-realtek'>Windows 10 No Sound Realtek</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=english-extension-1-sample-paper-2019'>English Extension 1 Sample Paper 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cherokee-strip-senate'>Cherokee Strip Senate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pour-le-M%C3%A9rite'>Pour Le Mérite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=catherine-cusack-lcsw'>Catherine Cusack Lcsw</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Couple-captions-from-songs'>Couple Captions From Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cornell-housing-rules'>Cornell Housing Rules</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=places-in-ikeja'>Places In Ikeja</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-was-changed-and-who-was-dead-pdf'>Who Was Changed And Who Was Dead Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=genesis-tour-tickets'>Genesis Tour Tickets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hugo-boss-johnston-lenon-suit'>Hugo Boss Johnston Lenon Suit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=texas-threads-wholesale'>Texas Threads Wholesale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-trek%3A-picard-panel'>Star Trek: Picard Panel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rabbits-children%27s-book'>Rabbits Children's Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=audition-ryu-murakami-ending'>Audition Ryu Murakami Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skyrim-laila-law-giver-mod'>Skyrim Laila Law-giver Mod</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=relationship-activity-book'>Relationship Activity Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hey%2C-al-comprehension-questions'>Hey, Al Comprehension Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=colorado-medicaid-login'>Colorado Medicaid Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hainish-Novels-%26-Stories'>Hainish Novels & Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lincolnshire-towns-map'>Lincolnshire Towns Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=attack-on-titan-birds'>Attack On Titan Birds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grimm%27s-complete-fairy-tales-amazon'>Grimm's Complete Fairy Tales Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heat-director%27s-definitive-edition-4k'>Heat Director's Definitive Edition 4k</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nexhmije-pagarusha-burri-i-saj'>Nexhmije Pagarusha Burri I Saj</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=units-of-happiness-economics'>Units Of Happiness Economics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seal-puns-names'>Seal Puns Names</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=modern-warplanes-tips'>Modern Warplanes Tips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-road-goes-ever-on-quote'>The Road Goes Ever On Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nothing-is-good-or-bad-philosophy'>Nothing Is Good Or Bad Philosophy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Trail-of-Broken-Wings'>Trail Of Broken Wings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Brain-Dead-13-Deaths'>Brain Dead 13 Deaths</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=platform-stiletto-high-heels'>Platform Stiletto High Heels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=showtime-the-kingmaker'>Showtime The Kingmaker</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=circle-theater-2019-season'>Circle Theater 2019 Season</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ben-Shapiro-sister'>Ben Shapiro Sister</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=queen-elinor-bear'>Queen Elinor Bear</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-did-the-crocodile-tell-the-monkey'>What Did The Crocodile Tell The Monkey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-vortex%3A-where-the-law-of-attraction-assembles-all-cooperative-relationships'>The Vortex: Where The Law Of Attraction Assembles All Cooperative Relationships</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kate-mestitz-tattoos'>Kate Mestitz Tattoos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=darkest-fear-game'>Darkest Fear Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-rintoul-taggart'>David Rintoul Taggart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=baroque-mouvement-litt%C3%A9raire'>Baroque Mouvement Littéraire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donkey-skin-netflix'>Donkey Skin Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fullproof-or-foolproof'>Fullproof Or Foolproof</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Truth-and-Justice'>Truth And Justice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=indoor-flying-bird-toy'>Indoor Flying Bird Toy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Difference-between-Chinese-and-Japanese-language'>Difference Between Chinese And Japanese Language</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sawback-hunting-sword'>Sawback Hunting Sword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=outlander-captain-raines'>Outlander Captain Raines</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=them-baby-please-don%27t-go'>Them Baby Please Don't Go</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whatsapp-chat-birthday-wishes-screenshots'>Whatsapp Chat Birthday Wishes Screenshots</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eh-shepard-art-style'>Eh Shepard Art Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=offspring-cast-season-7'>Offspring Cast Season 7</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julie-marie-fernandez'>Julie Marie Fernandez</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Omar-Khayyam-quote'>Omar Khayyam Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-mother%27s-castle-sparknotes'>My Mother's Castle Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trail-street-movie-youtube'>Trail Street Movie Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bill-nye-the-science-guy-song'>Bill Nye The Science Guy Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=utopia-falls-plot'>Utopia Falls Plot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chrono-trigger-ps1-ost'>Chrono Trigger Ps1 Ost</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grab-food-login'>Grab Food Login</a>,
+";s:7:"expired";i:-1;}

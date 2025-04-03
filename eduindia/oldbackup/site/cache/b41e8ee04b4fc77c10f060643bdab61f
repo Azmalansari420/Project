@@ -1,0 +1,141 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:557:"<br>Opinion Columnist.  <br> <br>The American Conservative exists to advance a Main Street conservatism. By Bret Stephens. July 26, 2019; ... Conservatives used to believe that America should always speak and sometimes act in defense of freedom-seekers everywhere.  The teaser for a recent Bret Stephens column in The New York Times accurately summarizes its contents: “If Iran won’t change its behavior we should sink its navy.”. <br> <br>Bret Stephens, a bestselling author and long-time columnist, presumably understands this better than most. <br>";s:7:"keyword";s:26:"bret stephens conservative";s:5:"links";s:10080:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=true-flies-clothing'>True Flies Clothing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-gilpin-photographer'>John Gilpin Photographer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=7th-Class-English-Notes'>7th Class English Notes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=an-allegory-with-venus-and-cupid-meaning'>An Allegory With Venus And Cupid Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hunan-to-wuhan'>Hunan To Wuhan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-enoch-why-i-am-an-objectivist'>David Enoch Why I Am An Objectivist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=master-yi-jungle-path'>Master Yi Jungle Path</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=margaret-brennan-republican'>Margaret Brennan Republican</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-is-ironside-computers-located'>Where Is Ironside Computers Located</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Who-built-Dover-Castle'>Who Built Dover Castle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cities%3A-skylines-garbage-trucks-not-picking-up-garbage'>Cities: Skylines Garbage Trucks Not Picking Up Garbage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-adulterous-woman-movie'>The Adulterous Woman Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=features-of-montanism'>Features Of Montanism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=please-play-music'>Please Play Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=horse-colors-chart'>Horse Colors Chart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Anna-Karenina-analysis'>Anna Karenina Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Emerald-Falls-band'>Emerald Falls Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stephanie-downer-pictures'>Stephanie Downer Pictures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Atelopus-varius-facts'>Atelopus Varius Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=airframe-michael-crichton-review'>Airframe Michael Crichton Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=claudine-riyoko-ikeda'>Claudine Riyoko Ikeda</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-cub-werewolf'>Wolf Cub Werewolf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=job-satisfaction-quotes'>Job Satisfaction Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=georgian-alphabet-pronunciation'>Georgian Alphabet Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ann-druyan-net-worth'>Ann Druyan Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Motley-Crue-2020'>Motley Crue 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tangerine-song-1941'>Tangerine Song 1941</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arthur-brooks-the-pursuit'>Arthur Brooks The Pursuit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=last-stop-locations'>Last Stop Locations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-galya-movies-and-tv-shows'>Chris Galya Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beneath-movie-2014'>Beneath Movie 2014</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=murray-gell-mann-net-worth'>Murray Gell-mann Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-lawyers-2019'>Best Lawyers 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ink-master-season-9-winner'>Ink Master Season 9 Winner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=librecad-dwg-support'>Librecad Dwg Support</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=friday-harbor-suites'>Friday Harbor Suites</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=golden-ratio-papyrus-location'>Golden Ratio Papyrus Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=max-bernstein-cooley'>Max Bernstein Cooley</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=quantico-marine-base-address'>Quantico Marine Base Address</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaiah-43%3A19-nkjv'>Isaiah 43:19 Nkjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=university-of-wales-trinity-saint-david-london'>University Of Wales Trinity Saint David London</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mk-ultra-movie'>Mk Ultra Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-machine-that-won-the-war-characters'>The Machine That Won The War Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-is-the-next-full-moon-in-texas-2020'>When Is The Next Full Moon In Texas 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ultratech-cement-price-in-hyderabad-today'>Ultratech Cement Price In Hyderabad Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-lovesong-of-J-Alfred-Prufrock-setting'>The Lovesong Of J Alfred Prufrock Setting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nikita-krylov-record'>Nikita Krylov Record</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-mask-2%3A-city-of-masks-%282002-full-movie-watch-online%29'>Black Mask 2: City Of Masks (2002 Full Movie Watch Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ravi-zacharias-quotes'>Ravi Zacharias Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Old-fashioned-sandwiches'>Old Fashioned Sandwiches</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scu-my-enrolment'>Scu My Enrolment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=google-drive-file-transfer'>Google Drive File Transfer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tex-chapter-7-summary'>Tex Chapter 7 Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kiara-sky-gel-polish-ombre'>Kiara Sky Gel Polish Ombre</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mashiro-and-azuki-wedding'>Mashiro And Azuki Wedding</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Busuu-lifetime-subscription'>Busuu Lifetime Subscription</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=somewhere-film-trailer'>Somewhere Film Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=challenges-in-higher-education-expansion-quality-and-inclusiveness'>Challenges In Higher Education Expansion Quality And Inclusiveness</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miles-morales-spider-man%3A-into-the-spider-verse'>Miles Morales Spider-man: Into The Spider-verse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hong-kong-airlines-flight-status'>Hong Kong Airlines Flight Status</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bioshock-infinite-switch'>Bioshock Infinite Switch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scotiabank-business-account'>Scotiabank Business Account</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=me-and-john-and-paul'>Me And John And Paul</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mountain-creek-waterpark-rides'>Mountain Creek Waterpark Rides</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ursula-le-guin-to-the-rain'>Ursula Le Guin To The Rain</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=toshiki-masuda-characters'>Toshiki Masuda Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=iruvar-full-movie'>Iruvar Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sad-short-stories-reddit'>Sad Short Stories Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-machine-stops-analysis'>The Machine Stops Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=genetics-poem-analysis'>Genetics Poem Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dwight-schultz-office'>Dwight Schultz Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spain-on-foot'>Spain On Foot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-family-history-movies'>Best Family History Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chasing-vermeer-characters'>Chasing Vermeer Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=converse-argentina-ropa'>Converse Argentina Ropa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barry-winkleman-wikipedia'>Barry Winkleman Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-RS4-Against-a-Climber'>The RS4 Against A Climber</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mekn%C3%A8s-weather-hourly'>Meknès Weather Hourly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mama-lion-Instagram'>Mama Lion Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-hanky-panky-meaning'>No Hanky-panky Meaning</a>,
+";s:7:"expired";i:-1;}

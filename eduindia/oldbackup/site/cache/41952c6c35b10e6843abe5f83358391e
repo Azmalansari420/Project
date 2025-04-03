@@ -1,0 +1,92 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2621:"<p>The Glasgow Coma Scale (GCS), designed in 1974, is a tool that has the ability to communicate the level of consciousness of patients with acute or traumatic brain injury. Marmarou A(1), Lu J, Butcher I, McHugh GS, Murray GD, Steyerberg EW, Mushkudiani NA, Choi S, Maas AI. Learn vocabulary, terms, and more with flashcards, games, and other study tools. Bhaskar S * Department of Neurosurgery, PGIMER & Dr RML Hospital, India * Corresponding author: Bhaskar S, Department of Neurosurgery, PGIMER & Dr RML Hospital, New Delhi-110001, India Published: 03 Aug, 2017 Cite this article as: Bhaskar S. Glasgow Coma Scale: Technique and Intepretation. Prognostic value of the Glasgow Coma Scale and pupil reactivity in traumatic brain injury assessed pre-hospital and on enrollment: an IMPACT analysis. Il suo utilizzo è stato proposto in principio per la valutazione degli effetti neurologici del trauma cranico, successivamente il suo utilizzo è stato esteso anche ad altri settings quali stoke unit e terapia intensiva . </p> <p>Introduction. Surgical Technique Glasgow Coma Scale: Technique and Intepretation.  It is commonly used in the context of head trauma, but it is also useful in a wide variety of other non-trauma related settings. </p> <p>Quiz by txsling Glasgow Coma Scale for fictional cases Quiz - By txsling The observations can then be clearly communicated and the trends rapidly appreciated so that any improvement or deterioration in a patient's condition can be seen. The Glasgow Coma Scale (GCS) allows healthcare professionals to consistently evaluate the consciousness level of a patient. Start studying Glasgow Coma Scale. La Glasgow Coma Scale (GCS) è la più diffusa scala di valutazione neurologica infermieristica utilizzata in caso di stato comatoso o trauma cranico. Developed by Graham Teasdale and Bryan J. Jennett, professors of neurosurgery at the University of Glasgow’s Institute of Neurological Sciences, this scale is the gold standard used for all acute medical and trauma patients. 40th anniversary of the Glasgow Coma Scale. Test your knowledge on this science quiz to see how you do and compare your score to others. The Glasgow Coma Scale (GCS), designed in 1974, is a tool that has the ability to communicate the level of consciousness of patients with acute or traumatic brain injury. Serial findings should be documented on a coma scale chart. Developed by Graham Teasdale and Bryan J. Jennett, professors of neurosurgery at the University of Glasgow's Institute of Neurological Sciences, this scale is the gold standard used for all acute medical and trauma patients. </p>";s:7:"keyword";s:23:"Glasgow Coma Scale test";s:5:"links";s:3920:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=D%26D-cleric-spells'>D&D Cleric Spells</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jason-graves-instagram'>Jason Graves Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=butter-movie-streaming'>Butter Movie Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-perez-fantastic-four'>George Perez Fantastic Four</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=it-wasn%27t-me-george-thorogood'>It Wasn't Me George Thorogood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=like-a-boss-casa-blanca'>Like A Boss Casa Blanca</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-sunset-koh-lanta'>Best Sunset Koh Lanta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Aesop-soap-Amazon'>Aesop Soap Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fob-incoterms-2019'>Fob Incoterms 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mazinger-z%3A-infinity-streaming-english'>Mazinger Z: Infinity Streaming English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=puerto-rico-hotels-and-flights'>Puerto Rico Hotels And Flights</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Evidence-of-Malice'>Evidence Of Malice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sonnet-43-analysis'>Sonnet 43 Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alone-and-forsaken-the-last-of-us'>Alone And Forsaken The Last Of Us</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Opera-house-cartoon'>Opera House Cartoon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=our-shangri-la-meaning'>Our Shangri-la Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cat-lady-%7C-game'>Cat Lady | Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gangubai-kathiawadi-age'>Gangubai Kathiawadi Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-green-crow'>The Green Crow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Clearwater-Beach-Tampa-beaches'>Clearwater Beach Tampa Beaches</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=countvectorizer-vs-tfidfvectorizer'>Countvectorizer Vs Tfidfvectorizer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-battle-of-maldon%3A-a-heroic-poem'>The Battle Of Maldon: A Heroic Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-art-in-an-age-of-revolution%3A-fu-baoshi-%281904-1965%29'>Chinese Art In An Age Of Revolution: Fu Baoshi (1904-1965)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naruto-season-4-episode-7'>Naruto Season 4 Episode 7</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Nicki-Minaj-height'>Nicki Minaj Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=enoch-adeboye-private-jet'>Enoch Adeboye Private Jet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=six-days-seven-nights-streaming'>Six Days Seven Nights Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-courtship-of-miles-standish-summary'>The Courtship Of Miles Standish Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Article-on-meditation'>Article On Meditation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goddess-beach-wedding-dresses'>Goddess Beach Wedding Dresses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Skeleton-Creek-the-Raven-passwords'>Skeleton Creek The Raven Passwords</a>,
+";s:7:"expired";i:-1;}

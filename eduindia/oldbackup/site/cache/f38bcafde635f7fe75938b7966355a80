@@ -1,0 +1,119 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5536:"Here’s how it works. Using Insert Menu Link Command. When you create a table of contents in Google Docs, it automatically generates one and adds links that jump to each section they reference when clicked, allowing for quick access to specific parts of your document. Sometimes, though, you want to provide somebody with a PDF instead of an editable document. We'll get back to you only if we require additional details or have more information to … While working in Google Docs, there may come a time when you need to link to a website. Once you completed this article you will have added a clickable link to your document that a reader will be able to click to open a link on the Internet. Coming to the main problem, how do you make phone numbers inside a Google Sheet clickable. The obvious answer would be to use the =HYPERLINK() method with the tel protocol but, unfortunately, Google Sheets do not support it. <br> <br>Adding a table of contents to your document is a useful way to show readers each topic/chapter listed inside your file. Documents created in a How to Create a Link Within a Word Document., One of the most powerful aspects of Google Docs is Google Docs Google Documents anyone who has a link to your document can access it. <br> <br>How can you make image links still clickable when a google doc has been published to the web? When you submit a report, we'll investigate it and take the appropriate action. Your document can look extremely messy if you just paste a random link in the middle of your sentences or paragraphs. With the help of this step by step tutorial, you can learn how to create a clickable Table of Contents in Google Docs. <br> <br>We're committed to dealing with such abuse according to the laws in your country of residence. No doubt, Google Docs is the … Thank you. My question is: how can we do this in Google Docs comments?  Click Apply. ... Any updates Google? How to Create a Hyperlink in Google Docs. Click the Insert link button, or right-click the selected text and click Link. In the Link section of the box that pops up, expand Bookmarks, and then select the bookmark you want from the list. <br> <br>When you submit a report, we'll investigate it and take the appropriate action. Is there a way to make phone numbers clickable in Google Docs similar to MS Word like here?. Hyperlink within a Word document Google Groups. Go to the menu Insert and click on Link. <br> <br>There in the given field which is obviously blank just key in your email ID and click “Apply”. This is great as it hides the ugliness of long urls behind a user friendly name. A Hyperlink has two parts to it: the web address that you want to link to and the “display” text that the link is hidden in. Google takes abuse of its services very seriously. Instead of having these unsightly links everywhere, why not consider using Hyperlinks? How to Make Phone Numbers Clickable in Google Sheets. Please note that this can be done in Google Sheets using =HYPERLINK("tel:1234567890", "Call Me").I am asking for Docs. How to Create a Link in Google Docs. Press the blue OK button to save your changes. A clickable Table of Content is a must if you create ebooks or plan to convert your documents to pdf file format. Using Google Docs is a great way to collaborate on and share documents. To begin with, enter your email address or name in cell A1. Google Docs now lets you edit your sharing link to provide a PDF. Highlight some text that you want to make into a link, and click the Insert Link icon in the toolbar (or press Ctrl+K). The steps in this article were performed in the Google Chrome Web browser. We'll get back to you only if we require additional details or … Select the text you want to make a hyperlink. Please note the best method for reporting problems to the Google Docs Editor Team is by opening the doc, click help and select report a problem. 4. You might need to go to Tools > Preferences and check the box for "Automatically detect links." Best of all, if you edit the original document, the PDF link automatically includes any changes you made. When you're creating a hyperlink in Google Docs, you'll be able to choose both the address and the display text. This is the simplest method to make an email address clickable. TanUv90 26,716 views How to Make a PDF Clickable. Google takes abuse of its services very seriously. Google Docs insert Bookmark Link (Jump to section of document, Clickable table of contents, FAQ Link - Duration: 2:44. Hyperlinks are website URLs linked to text in the document. <br> <br>When you add an image to the page Google Sites automatically makes the image a link to the image itself, so select (or click) the image; You will see the Image Option dialogue box appear (it contains both the link information, alignment, size and wrap options): use the upper Remove link - this removes the automatically added link to the image itself. We're committed to dealing with such abuse according to the laws in your country of residence. In my earlier example, the address would point to Gmail and my display text would be the word Gmail. <br> <br>The linked text will now be blue and underlined in standard link formatting. In markdown you can make a link clickable using a certain syntax (you have GUI options that automated that or you can follow the syntax). To hyperlink in Google Docs on a computer, you can select the text and choose the Insert Link button in the toolbar (or choose the Link option from the pop-up menu when you right-click). ";s:7:"keyword";s:43:"how to make a link clickable in google docs";s:5:"links";s:7298:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=french-foreign-legion-age-limit'>French Foreign Legion Age Limit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-course-in-miracles-pdf-drive'>A Course In Miracles Pdf Drive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tripping-daisy-albums'>Tripping Daisy Albums</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=larry-elder-brother'>Larry Elder Brother</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-carlu-art-deco'>Jean Carlu Art Deco</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ocean-of-video-songs'>Ocean Of Video Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-last-nazis-netflix'>The Last Nazis Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sentence-to-doc'>Sentence To Doc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-happened-to-karl-logan'>What Happened To Karl Logan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-yo-parents'>Michael Yo Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mind-reading-books-pdf'>Mind Reading Books Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=game-of-thrones-the-things-i-do-for-love-scene'>Game Of Thrones The Things I Do For Love Scene</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pop-up-dinosaur-book-amazon'>Pop-up Dinosaur Book Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drinks-with-female-names'>Drinks With Female Names</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rose-hill-book'>Rose Hill Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sonny-valicenti-wikipedia'>Sonny Valicenti Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary-pickford-childhood'>Mary Pickford Childhood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=matilda-who-told-lies-and-was-burned-to-death-summary'>Matilda Who Told Lies And Was Burned To Death Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tom-Clancy-font'>Tom Clancy Font</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=revit-2019-features'>Revit 2019 Features</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liz-smith-actress'>Liz Smith Actress</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trueform-trainer-review'>Trueform Trainer Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=simplifying-radical-expressions-with-fractions'>Simplifying Radical Expressions With Fractions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=basics-of-autocad'>Basics Of Autocad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=playing-hardball-meaning'>Playing Hardball Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-suede-creepers'>Black Suede Creepers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pursuit-of-god'>Pursuit Of God</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dave-season-1-trailer'>Dave Season 1 Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ray-ban-original-wayfarer-rb2140'>Ray-ban Original Wayfarer Rb2140</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-taylor-professor'>Alan Taylor Professor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trivium---shogun-lyrics'>Trivium - Shogun Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-will-columns-march-2020'>George Will Columns March 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-kid-who-ran-for-president-chapter-summary'>The Kid Who Ran For President Chapter Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-respectable-trade-series'>A Respectable Trade Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shawn-sheehy-workshops'>Shawn Sheehy Workshops</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miles-morales-spider-man%3A-into-the-spider-verse'>Miles Morales Spider-man: Into The Spider-verse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=k-electric-unit-rate-2020'>K-electric Unit Rate 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=comptine-d%27un-autre-%C3%A9t%C3%A9-piano-chords'>Comptine D'un Autre été Piano Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-wild-hearts-can%27t-be-broken-on-hulu'>Is Wild Hearts Can't Be Broken On Hulu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kashkuli-gabbeh-rug-runner'>Kashkuli Gabbeh Rug Runner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue%27s-clues-magenta%27s-visit-book'>Blue's Clues Magenta's Visit Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jill-townsend-movies-and-tv-shows'>Jill Townsend Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Carl-Brutananadilewski-meme'>Carl Brutananadilewski Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=silence-of-the-lambs-hannibal-lecter'>Silence Of The Lambs Hannibal Lecter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Someone-We-Know-paperback'>Someone We Know Paperback</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xavier-dolan-mother'>Xavier Dolan Mother</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skyrim-orla-contract'>Skyrim Orla Contract</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-nun-takes-the-veil-meaning'>A Nun Takes The Veil Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sweet-November-Brandon'>Sweet November Brandon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=worst-reviews-on-google'>Worst Reviews On Google</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kelly-hoppen-husband'>Kelly Hoppen Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cousin-brucie-today'>Cousin Brucie Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hunan-to-wuhan'>Hunan To Wuhan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=holly-hobbie-and-friends---surprise-party'>Holly Hobbie And Friends - Surprise Party</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pandora-account-billing'>Pandora Account Billing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-cub-werewolf'>Wolf Cub Werewolf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=focus-sash-pokemon-sword'>Focus Sash Pokemon Sword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=can-you-eat-bao-buns-cold'>Can You Eat Bao Buns Cold</a>,
+";s:7:"expired";i:-1;}

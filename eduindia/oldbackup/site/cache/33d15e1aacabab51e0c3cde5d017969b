@@ -1,0 +1,83 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3019:"<p>Bandsintown LIVE: net.werk Fest featuring Elephante, Sophie of SOFI TUKKER, Ducky & more! Bank of the Arts. 2:00 pm to 4:30 pm – Second Marine Aircraft Wing Band Miller Lite Beer Garden live music at South Front St and City of New Bern Craven St, free admission, open to all but must be 21 or older to enjoy the beer. </p> <p>252-626-5419. Week of 5/11: Bandsintown LIVE Schedule. Meanwhile, New Bern says they too will have fireworks on the 4th. </p> <p>Bandsintown LIVE Featuring Murph of The Wombats, Party Favor, and More. First Baptist Church Garden, Wells Fargo Middle Street & NC Education Lottery Pollock Street. NC Wine Festival at Tanglewood Park. </p> <p>September 2, 2019 @ 8:00 am - 5:00 pm « Wannabees; Simon Spalding » September 7-14 • Downtown New Bern. Jul 7. Please review the official website or check with the event organizer when planning to attend the event. </p> <p>Website. Disclaimer: Event details may change at any time. The Grahams Talk Route 66 Motorcycle Trip, New Album and Creative Process. </p> <p>New Bern, NC 28560. Hatteras Storytelling Festival. The United Way of Coastal Carolina presents the 5th annual Bacon and Brew Festival in New Bern, NC! </p> <p>To get to the Courtyard by Marriott, B&B’s in the 200 block of Pollock Street, Persimmons Restaurant, and/or Franklin’s Antique Mall during MumFest, there is limited vehicular access available to patrons from the intersection of South Front and City of New Bern Craven Streets. </p> <p> </p> <p>The pay lots are conveniently located near the festival and all proceeds support local non-profits. Wednesday, Mar 18, 2020 at 12:00pm . Carthage Buggy Festival. </p> <p>Noon to 5:00 pm – Televised Sports Celebrate Beethoven’s World on the eve of his 250th birthday! We will have live music with TWO Rocking Bands - Due East and Salt Water Gold, great beer selections, food trucks with bacon themed menus, heavenly desserts, professional wrestling with the Premier Wrestling, games and so much more! </p> <p>Must be 21+ to attend, no children or pets allowed … The event will be held at Lawson Creek Park and will only have fireworks. </p> <p>Within 60 miles of New Bern, North Carolina Change distance… City Limit (New Bern Only) 5 miles / 8 km 10 miles / 16 km 20 miles / 32 km 60 miles / 100 km 100 miles / 160 km 200 miles / 320 km Share. Onslow County Farmers Market. Announcing DREAMWORLD: An Online Charity Music Festival. </p> <p>Bandsintown LIVE: Catch Christian French, … Classical Lunch Warm up with Beethoven's "Spring" sonata and other delightful music presented by the dynamic duo of acclaimed pianist Nina Ferrigno and Boston Symphony violinist Catherine French. Bernaroo Music & Arts Festival Jul 2020 Dates Unconfirmed New Bern, NC For one weekend every summer, the streets of downtown New Bern, North Carolina, will be filled... Icon-Category-Music 317 Middle Street. Explore Trending Festivals in North Carolina. </p> <p>Carolina Chamber Music Festival. Carolina Chamber Music Festival. </p>";s:7:"keyword";s:27:"new bern, nc music festival";s:5:"links";s:2750:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=broadway-bound-rent'>Broadway Bound Rent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=han-gan-horse'>Han Gan Horse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alec-and-magnus-fanfiction'>Alec And Magnus Fanfiction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-home-filler-up-and-keep-on-truckin%27-cafe-commercial'>Old Home Filler Up And Keep On Truckin' Cafe Commercial</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brooke-stevens-facebook'>Brooke Stevens Facebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue%27s-room-games'>Blue's Room Games</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tradition-and-the-individual-talent-analysis'>Tradition And The Individual Talent Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adam-rothenberg-wife'>Adam Rothenberg Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=please-complete-in-spanish'>Please Complete In Spanish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poems-of-the-decade-revision-guide'>Poems Of The Decade Revision Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=treme-rotten-tomatoes'>Treme Rotten Tomatoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-burial-of-the-dead-analysis'>The Burial Of The Dead Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hand-climber-tree-stand'>Hand Climber Tree Stand</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=direct-pronouns-italian'>Direct Pronouns Italian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=legends-about-mid-autumn-festival'>Legends About Mid Autumn Festival</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=norman-bethune-statue'>Norman Bethune Statue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=starlink-kirite-guide'>Starlink Kirite Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-a-mondo-documentary'>What Is A Mondo Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=notations-clothing-size-chart'>Notations Clothing Size Chart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alex-etel-net-worth'>Alex Etel Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yeon-ah-lee-moon'>Yeon Ah Lee Moon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-safire-pdf'>William Safire Pdf</a>,
+";s:7:"expired";i:-1;}

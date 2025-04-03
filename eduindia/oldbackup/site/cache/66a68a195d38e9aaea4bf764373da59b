@@ -1,0 +1,119 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2886:"<p>He was one of the first intellectual of his time to have a great interest in psychology as a science. He was the Knightbridge Professor of Moral Philosophy  at the University of Cambridge  from 1883 until his death, and is best known in philosophy for his utilitarian treatise The Methods of Ethics. One of the classical utilitarians, he wrote one of the most important statements of utilitarianism in his The Methods of Ethics , which was said to be “the best book ever written on ethics”. </p> <p>Henry Sidgwick First published Tue Oct 5, 2004; substantive revision Tue Jul 9, 2019 Henry Sidgwick was one of the most influential ethical philosophers of the Victorian era, and his work continues to exert a powerful influence on Anglo-American ethical and political theory, with an increasing global impact as well. </p> <p>Henry Sidgwick was born in Yorkshire and attended Rugby before entering Trinity College, Cambridge. Sidgwick taught philosophy for many years at Cambridge, and held the chair of moral philosophy there from 1883 until 1900, the year of his death. His reputation as a philosophical writer was made by his first book, The Methods of Ethics (1874). Throughout his professional career, he worked as a professor at Trinity College and Knightbridge. Henry Sidgwick is one of the great intellectual figures of 19th century Britain. </p> <p>Henry Sidgwick (1838 - 1900) was a British philosopher and economist. Sidgwick is one of the most prominent utilitarian philosophers of the 19th century. The English philosopher and moralist Henry Sidgwick (1838-1900) was the author of The Methods of Ethics, which has been described as the "best treatise on moral theory that has ever been written." Henry Sidgwick always worked at the Trinity College of Cambridge where he taught Human Science, Moral Philosophy and Political Science. He was offered to teach at Harvad University and refused as he wasn't interested. Henry Sidgwick   was an English utilitarian  philosopher and economist. He was first and foremost a great moral philosopher, whose masterwork Methods of Ethics is still widely studied today. </p> <p>But he was many other things besides, writing on religion, economics, politics, education and literature. Henry Sidgwick was not only a utilitarian philosopher, he was also a politician and an economist. The creator of the theory of international values, which he developed in his most recognized work is Principles of political economy (1883). </p> <p>His work in economics has also had a lasting influence. Henry Sidgwick, (born May 31, 1838, Skipton, Yorkshire, Eng.—died Aug. 29, 1900, Cambridge, Cambridgeshire), English philosopher and author remembered for his forthright ethical theory based on Utilitarianism and his Methods of Ethics (1874), considered by some critics as the most significant ethical work in English in the 19th century. </p>";s:7:"keyword";s:25:"henry sidgwick philosophy";s:5:"links";s:7190:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ronaldinho-number-10'>Ronaldinho Number 10</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=okinawa-island-map'>Okinawa Island Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-pears-for-canning'>Best Pears For Canning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ms-marvel-vol-11'>Ms Marvel Vol 11</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Equilibrium-full-movie'>Equilibrium Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=koloman-moser-death'>Koloman Moser Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autobiography-books-2020'>Autobiography Books 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jordan-peterson-dragon-story'>Jordan Peterson Dragon Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zathura-book-read-aloud'>Zathura Book Read Aloud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chance-at-Heaven'>Chance At Heaven</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Philip-Larkin-work-poem'>Philip Larkin Work Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fujian-cuisine-dishes'>Fujian Cuisine Dishes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aleko-canada-location'>Aleko Canada Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lots-of-time'>Lots Of Time</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vicky-the-viking-theme-song-english'>Vicky The Viking Theme Song English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-dream-of-armageddon'>A Dream Of Armageddon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clifford-the-big-red-dog-%282020%29'>Clifford The Big Red Dog (2020)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=far-cry-primal-2-release-date'>Far Cry Primal 2 Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-was-the-real-john-creasy'>Who Was The Real John Creasy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soundcity-top-10-usa-this-week'>Soundcity Top 10 Usa This Week</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tipo-de-cambio-en-intermex'>Tipo De Cambio En Intermex</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nome-weather-radar'>Nome Weather Radar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-phoenix-tilly-bagshawe-sequel'>The Phoenix Tilly Bagshawe Sequel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mike-hammer-tv-series'>Mike Hammer Tv Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mamma-mia-characters-count-characters'>Mamma Mia Characters Count Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=howard-lee-schiff-bank-of-america'>Howard Lee Schiff Bank Of America</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=believing-is-seeing-errol-morris-pdf'>Believing Is Seeing Errol Morris Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-praise-of-shadows-sora-books'>In Praise Of Shadows Sora Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=train-lyrics-marry-me'>Train Lyrics Marry Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=desert-hearts-online'>Desert Hearts Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eversource-western-mass'>Eversource Western Mass</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spanish-workbook-preschool'>Spanish Workbook Preschool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jojo%27s-flying-side-kick'>Jojo's Flying Side Kick</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=coffin-price-uk'>Coffin Price Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=theodore-sturgeon-more-than-human-pdf'>Theodore Sturgeon More Than Human Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ulric-neisser-psychology'>Ulric Neisser Psychology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=return-to-cranford'>Return To Cranford</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=execunet-resume-review'>Execunet Resume Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=c%C3%B3smico-in-english'>Cósmico In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-bible-illustrations'>Old Bible Illustrations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-story-of-treemonisha'>The Story Of Treemonisha</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scary-facts-about-colorado'>Scary Facts About Colorado</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sleepaway-camp-iv-the-survivor-kill-count'>Sleepaway Camp Iv The Survivor Kill Count</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chevron-news-release'>Chevron News Release</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=My-Hero-Academia-Volume-27-release-date'>My Hero Academia Volume 27 Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phelloderm-other-name'>Phelloderm Other Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drawn-and-quartered-real-video'>Drawn And Quartered Real Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=I-Love-my-life'>I Love My Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=3d-pop-up-books'>3d Pop-up Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deeper-pro-plus-range'>Deeper Pro Plus Range</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=special-affairs-team-ten-vietsub'>Special Affairs Team Ten Vietsub</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sandstorm-book-summary'>Sandstorm Book Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lauren-mortimer-instagram'>Lauren Mortimer Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=villa-restaurant-wayland%2C-ma'>Villa Restaurant Wayland, Ma</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=double-wedding-definition'>Double Wedding Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charlie-and-the-chocolate-factory-chapter-7'>Charlie And The Chocolate Factory Chapter 7</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=verum-ipsum-factum-in-english'>Verum Ipsum Factum In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-lowell-biography'>Robert Lowell Biography</a>,
+";s:7:"expired";i:-1;}

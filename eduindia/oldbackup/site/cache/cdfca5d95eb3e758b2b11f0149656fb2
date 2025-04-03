@@ -1,0 +1,118 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2382:"<p>© 2018 Focusrite Audio Engineering Plc. </p> <p>Simply connect your Scarlett to your computer using the USB cable and you’ll be able to select it as the input and output device for your system (System Preferences > Sound) and as the input and output device in your recording software. Choosing and installing the DAW included with your Scarlett. In order to connect the Scarlett interface to your computer, its driver software must first be installed. </p> <p>Scarlett IOS Interfaces Octopre Software Focusrite Pro Interface Finder Support Get started Downloads Help centre Contact Support Register A Product Explore Interface finder Who we are News and Events Sign up for Focusrite emails Plug-in Collective Featuring natural sounding 3 rd Generation mic preamps, and Air, emulating our original ISA preamps, 2i2 is getting musicians the most from their mics everywhere, all the time. Scarlett’s best-selling interface – millions of musicians use 2i2 to write and record every day. Scarlett IOS Interfaces Octopre Software Focusrite Pro Interface-finder Support Get Started Downloads Help centre Contact Support Produktregistrierung Erkunden INTERFACE SUCHEN Wer wir sind Neuigkeiten und Events Sign up for Focusrite emails Plug-in Collective Getting started with your Scarlett 3rd Gen; Getting started with your Scarlett 2i2 Studio third-generation. It’s like writing in a studio. Scarlett IOS Interfaces Octopre Software Focusrite Pro Interface Finder Support Get started Downloads Help centre Contact Support Register A Product Explore Interface finder Who we are News and Events Sign up for Focusrite emails Plug-in Collective </p> <p>All Rights Reserved. THE BEST SOUNDING, EASILY Do I need Focusrite Control? Scarlett’s best-selling interface, millions of musicians use 2i2 to write and record every day. </p> <p>Installing Scarlett / Clarett USB / iTrack USB Drivers on Windows; Focusrite Control is showing 'No … Featuring natural sounding 3 rd Gen mic preamps, and Air, emulating our original ISA preamps, 2i2 is getting musicians the most from their mics everywhere, all the time. </p> <p>... Visit Our Family of Brands Brands </p> <p>It’s … </p> <p> 2i2 and Solo interfaces are class compliant on Mac computers. Once installed, launch the Focusrite Control app to configure the Scarlett’s settings and create custom monitor or headphone mixes. </p>";s:7:"keyword";s:31:"focusrite scarlett 2i2 software";s:5:"links";s:7248:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julie-cox---imdb'>Julie Cox - Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frontier-suites-juneau'>Frontier Suites Juneau</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Henry-VIII-battles'>Henry VIII Battles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=they-can-live-in-the-desert-but-nowhere-else-pdf'>They Can Live In The Desert But Nowhere Else Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shoah-Foundation-hologram'>Shoah Foundation Hologram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ink-master-season-9-winner'>Ink Master Season 9 Winner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cracking-thai-fundamentals-ebook'>Cracking Thai Fundamentals Ebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=legal-marriage-age-in-canada'>Legal Marriage Age In Canada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wild-mountain-honey'>Wild Mountain Honey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=resources-for-first-generation-graduate-students'>Resources For First-generation Graduate Students</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Round-One-%28The-Battle%29'>Round One (The Battle)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=herbert-marshall-spouse'>Herbert Marshall Spouse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=halo-effect-pmp'>Halo Effect Pmp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cynthia-blaise-net-worth'>Cynthia Blaise Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tycoon-games-unblocked-hacked'>Tycoon Games Unblocked Hacked</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-forsythia-fruit-look-like'>What Does Forsythia Fruit Look Like</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=types-of-science'>Types Of Science</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Alan-Halsall-wedding'>Alan Halsall Wedding</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grand-blue-netflix'>Grand Blue Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eragon-game-ps2'>Eragon Game Ps2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pocket-knife-amazon'>Pocket Knife Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=snack-foods-for-parties'>Snack Foods For Parties</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angela-carter-pdf'>Angela Carter Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tangerine-song-1941'>Tangerine Song 1941</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=New-Balance-shoes'>New Balance Shoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lavender-tree-care-instructions'>Lavender Tree Care Instructions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=exo-olympic-stadium'>Exo Olympic Stadium</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=china-gate-menu-terrytown'>China Gate Menu Terrytown</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Craved-in-a-sentence'>Craved In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=christopher-hamblin-harvard'>Christopher Hamblin Harvard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Vasovagal-syncope-pathophysiology'>Vasovagal Syncope Pathophysiology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-quangle-wangle%27s-hat-song'>The Quangle Wangle's Hat Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=machine-translation-vs-human-translation-pdf'>Machine Translation Vs Human Translation Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jordan-peterson-maps-of-meaning-summary'>Jordan Peterson Maps Of Meaning Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-God-Code'>The God Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=out-of-all-proportion-synonym'>Out Of All Proportion Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=morocco-tourism-board'>Morocco Tourism Board</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maltese-cross-tattoo-small'>Maltese Cross Tattoo Small</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maisie-dobbs-characters'>Maisie Dobbs Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rumble-fish-chapter-1-summary'>Rumble Fish Chapter 1 Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kagero-nikki-translation'>Kagero Nikki Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pajanimals-season-1'>Pajanimals Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ian-curtis-age-of-death'>Ian Curtis Age Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=susan-doran-contact'>Susan Doran Contact</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dc%27s-stargirl-imdb'>Dc's Stargirl Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sf9-good-guy-album'>Sf9 Good Guy Album</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=superman-and-me-discussion-questions'>Superman And Me Discussion Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=party-city-100th-birthday-decorations'>Party City 100th Birthday Decorations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=genesis-to-jesus-%E2%80%93-complete-package-for-individuals'>Genesis To Jesus – Complete Package For Individuals</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=witcher-3---best-enchantments'>Witcher 3 - Best Enchantments</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lysander-spooner-university-glaciers'>Lysander Spooner University Glaciers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=waterford-elegance-wine-glasses'>Waterford Elegance Wine Glasses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pina-pellicer---biograf%C3%ADa'>Pina Pellicer - Biografía</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jocelyn-lane-death'>Jocelyn Lane Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-was-xenia-goodwin-in-dance-academy'>How Old Was Xenia Goodwin In Dance Academy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Alchemist-movie-Paulo-Coelho-release-date'>The Alchemist Movie Paulo Coelho Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=california-online-gambling-bill'>California Online Gambling Bill</a>,
+";s:7:"expired";i:-1;}

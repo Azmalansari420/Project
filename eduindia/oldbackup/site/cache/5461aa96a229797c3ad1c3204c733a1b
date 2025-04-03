@@ -1,0 +1,110 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2220:"단어 n-그램, 문자 n-그램, 단어 내의 문자 n-그램 Scikit-learn’s CountVectorizer is used to transform a corpora of text to a vector of term / token counts. <br> <br>stop words 목록.‘english’이면 영어용 스탑 워드 사용. using vectorizer.fit_transform( " * on the list of cleaned reviews* " ) Now when we were preparing the bag of words array on train reviews we used fit_predict on the list of train reviews , now i know that fit_predict does two things , > first it fits on the data and knows the vocabulary and then it makes vectors on each review . Loading features from dicts¶. I'm trying to understand the following code from sklearn.feature_extraction.text import CountVectorizer vectorizer = CountVectorizer() corpus = ['This ... X = vectorizer.fit_transform(corpus) ... 2 Only for this example, the count "2" tells that the word "and" appears twice in this document/sentence (1, 1) 1 By using Kaggle, you agree to our use of cookies.  <br>The class DictVectorizer can be used to convert feature arrays represented as lists of standard Python dict objects to the NumPy/SciPy representation used by scikit-learn estimators.. The fit_transform method applies to feature extraction objects such as CountVectorizer and TfidfTransformer. I assume you're talking about scikit-learn, the python package. CountVectorizer는 이러한 작업을 하기 위한 다음과 같은 인수를 가질 수 있다.. stop_words: 문자열 {‘english’}, 리스트 또는 None (디폴트). When building the vocabulary ignore terms that have a document frequency strictly higher than the given threshold (corpus-specific stop words). 6.2.1. Since v0.21, if input is filename or file, the data is first read from the file and then passed to the given callable analyzer.. max_df float in range [0.0, 1.0] or int, default=1.0. We use cookies on Kaggle to deliver our services, analyze web traffic, and improve your experience on the site.  <br> <br>It also provides the capability to preprocess your text data prior to generating the vector representation making it a highly flexible feature representation module for text. analyzer: 문자열 {‘word’, ‘char’, ‘char_wb’} 또는 함수. <br>";s:7:"keyword";s:37:"countvectorizer fit_transform example";s:5:"links";s:6576:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-a-grove-character-list'>In A Grove Character List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richmond-times-dispatch-cancel-subscription'>Richmond Times-dispatch Cancel Subscription</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-dreamt-i-was-a-butterfly-zenyatta'>I Dreamt I Was A Butterfly Zenyatta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dead-2004-tour'>The Dead 2004 Tour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=silmarillion-movie-reddit'>Silmarillion Movie Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vampire%3A-the-masquerade-v5-leveling'>Vampire: The Masquerade V5 Leveling</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jonathan-Sagall-Schindler%27s-List'>Jonathan Sagall Schindler's List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dyncorp-lms-login'>Dyncorp Lms Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-greater-danger-for-most-of-us-lies-not-in-setting-our-aim-too-high-and-falling-short-essay'>The Greater Danger For Most Of Us Lies Not In Setting Our Aim Too High And Falling Short Essay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leadership-and-the-new-science-review'>Leadership And The New Science Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=winslow%2C-arizona-map'>Winslow, Arizona Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-williams-legionaries'>Thomas Williams Legionaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pixote-full-movie-english-subtitles'>Pixote Full Movie English Subtitles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=female-prisoner-scorpion%3A-complete-collection'>Female Prisoner Scorpion: Complete Collection</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=d-h-lawrence-themes'>D H Lawrence Themes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=On-Elizabeth-Bishop'>On Elizabeth Bishop</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=still-alice%27%27-on-netflix'>Still Alice'' On Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xosha-roquemore-instagram'>Xosha Roquemore Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dangerous-games-series'>Dangerous Games Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=big-sur-open'>Big Sur Open</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jerusalem-center-for-biblical-studies'>Jerusalem Center For Biblical Studies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caroline-wozniacki-harvard'>Caroline Wozniacki Harvard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grass-texture-seamless'>Grass Texture Seamless</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geoff-nicholls-drummer'>Geoff Nicholls Drummer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-impressions-keep-on-pushing-discogs'>The Impressions Keep On Pushing Discogs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-enoch-why-i-am-an-objectivist'>David Enoch Why I Am An Objectivist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carmilla-2019-watch-online'>Carmilla 2019 Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-believe-in-christianity-as-i-believe-that-the-sun-has-risen-book'>I Believe In Christianity As I Believe That The Sun Has Risen Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maximum-ride-anime'>Maximum Ride Anime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=halo-effect-pmp'>Halo Effect Pmp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1-who-was-priscus-do-you-think-his-description-is-reliable-why'>1 Who Was Priscus Do You Think His Description Is Reliable Why</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hassan-jameel-instagram'>Hassan Jameel Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raymond-khoury-author-website'>Raymond Khoury Author Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=russian-marriage-laws'>Russian Marriage Laws</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ernst-haeckel-books'>Ernst Haeckel Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-cloud-2-android'>Dark Cloud 2 Android</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Marriage-feels-like-a-business-relationship'>Marriage Feels Like A Business Relationship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=draw-a-ladybird-with-lydia-monks'>Draw A Ladybird With Lydia Monks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=birth-of-cinema-book'>Birth Of Cinema Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=being-julia-imdb'>Being Julia Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eversource-pay-bill'>Eversource Pay Bill</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-kind-of-the-golden-river'>The Kind Of The Golden River</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mrs-piggle-wiggle-books-in-order'>Mrs Piggle-wiggle Books In Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=importance-of-eating-breakfast-for-students'>Importance Of Eating Breakfast For Students</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pros-and-cons-of-biodiversity'>Pros And Cons Of Biodiversity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Coming-of-Conan-the-Cimmerian-audiobook'>The Coming Of Conan The Cimmerian Audiobook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=helen-hoang-the-heart-principle'>Helen Hoang The Heart Principle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jumanji-cast-2019'>Jumanji Cast 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bartholomew-fair-characters'>Bartholomew Fair Characters</a>,
+";s:7:"expired";i:-1;}

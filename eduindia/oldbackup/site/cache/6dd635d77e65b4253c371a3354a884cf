@@ -1,0 +1,117 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3793:"<br>React markdown editor is an important component for web writers allowing them to write contents in normal text style while displaying it in structurally valid HTML format. React Mark Configurable Markdown Components in React. Many Markdown applications allow you to use HTML tags in Markdown-formatted text. However, be careful of how and which quotes or back ticks you use. That being said, many tech giants and large-scale corporations like Facebook, Netflix, Airbnb, and Dropbox are harnessing the potential of React. It can’t cover every edge case, so if you need more information about any of these elements, refer to our reference guides for basic syntax and extended syntax. The React markdown editor component is shipped with several built-in themes such as material, bootstrap, fabric (Office 365), and high contrast. This is based on `textarea` encapsulation, so it does not depend on any modern … <br> <br>Notably, this package offers the following additional benefits: Arbitrary HTML is supported and parsed into the appropriate JSX representation without dangerouslySetInnerHTML. A simple markdown editor with preview, implemented with React.js and TypeScript. The create-react-app is an officially supported way to create React applications.. This tutorial is based off the original React tutorial but has been modified specifically for ReactJS.NET. For example, some people find it easier to use HTML tags for images. The markdown editor toolbar provides a variety of commands for editing and formatting the content. This is helpful if you prefer certain HTML tags to Markdown syntax. These are the elements outlined in John Gruber’s original design document. <br> markdown-to-jsx uses a heavily-modified fork of simple-markdown as its parsing engine and extends it in a number of ways to make your life easier. Basic Syntax. react-markdown is probably the best solution. This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. 2 things that were important to this project were rendering code properly, and adding sub-navigation to each page. This tutorial uses the create-react-app.. Configurable Markdown Components in React. August 27th, 2016 In this article I will tell you about how to create Markdown Editor with React.js and Web Storage. How To Build A Blog From Scratch With React, Markdown, GraphQL and GatsbyJS. Using HTML is also helpful when you need to change the attributes of an element, like specifying the color of text or changing the width of an image. You can format text, insert images, add headers, … Due to the high simplicity and ultra-flexibility, many developers and industry experts envisage a very promising future of ReactJS. react-native-markdown documentation, tutorials, versions, dependencies, community, alternatives and more The WYSIWYG markdown editor supports customized markdown syntax (md syntax) and maps to built-in commands. Something like this could come in handy if you’re building a home-made static blog engine, or if you’re hoping to easily include some good-looking documentation in a frontend application. This article is a tutorial explaining how to set up your Webpack configuration for rendering and displaying Markdown documents in React components. <br> <br>Adding code was easy, as we already had a component for rendering code based on react-syntax-highlighter. <br> <br>This React Component aims to provide a simple Markdown editor with syntax highlighting support. Markdown editor with custom format example; Custom markdown syntax documentation ; Markdown editor toolbar. In order to learn and test React, you should set up a React Environment on your computer. Make your own components to do custom things like to: Add line numbers and syntax highlighting to pre tags. ";s:7:"keyword";s:23:"react markdown tutorial";s:5:"links";s:7042:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-movie-couples'>Funny Movie Couples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aid-document-full-form-in-software-engineering'>Aid Document Full Form In Software Engineering</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-woman-in-cabin-10-review-new-york-times'>The Woman In Cabin 10 Review New York Times</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=entreleadership-summit-online'>Entreleadership Summit Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-Soul-songs'>David Soul Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-kind-of-the-golden-river'>The Kind Of The Golden River</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=papillon-execution-scene'>Papillon Execution Scene</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-boole-education'>George Boole Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fort-smith-regional-airport'>Fort Smith Regional Airport</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poul-kj%C3%A6rholm-stool'>Poul Kjærholm Stool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scrooged-original-script'>Scrooged Original Script</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gene-hackman-politics'>Gene Hackman Politics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=samsung-quantum-phone-price'>Samsung Quantum Phone Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heat-director%27s-definitive-edition-4k'>Heat Director's Definitive Edition 4k</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=davina-mccall-workout-youtube'>Davina Mccall Workout Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tamar-davis-on-the-voice-2016'>Tamar Davis On The Voice 2016</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=valentina-sauce-amazon'>Valentina Sauce Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=epicurean-paradox-debunked'>Epicurean Paradox Debunked</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=man-down-bear'>Man Down Bear</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Define-powerful-synonym'>Define Powerful Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ryan-anderson-stats'>Ryan Anderson Stats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=holly-mcintire-wiki'>Holly Mcintire Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-get-rid-of-mites-outside'>How To Get Rid Of Mites Outside</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=canal-street-%282018-full-movie-online%29'>Canal Street (2018 Full Movie Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=potato-salad-with-italian-dressing-and-no-mayo'>Potato Salad With Italian Dressing And No Mayo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boi-boi-boi-boi'>Boi Boi Boi Boi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=What-is-fard-in-Islam'>What Is Fard In Islam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sci-fi-Movie-DUST'>Sci-fi Movie DUST</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-victor-dick-dale'>The Victor-dick Dale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michele-riondino-daughter'>Michele Riondino Daughter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sorting-hat-quotes-about-houses'>Sorting Hat Quotes About Houses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kylie-Jenner-%26-Stormi'>Kylie Jenner & Stormi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marc-newson-products'>Marc Newson Products</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=words-from-burger'>Words From Burger</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Post-national-citizenship-definition'>Post National Citizenship Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Love-Your-Enemies-Arthur-Brooks-summary'>Love Your Enemies Arthur Brooks Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=are-you-smarter-than-a-5th-grader-winner'>Are You Smarter Than A 5th Grader Winner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emma-hiddleston-wedding'>Emma Hiddleston Wedding</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nanny-mcphee-google-drive'>Nanny Mcphee Google Drive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=libanius-oration-64'>Libanius Oration 64</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rin-tin-tin-vs-tin-tin'>Rin Tin Tin Vs Tin Tin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-good-ghouls-go-bad-full-movie-123movies'>When Good Ghouls Go Bad Full Movie 123movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i%27ll-never-love-again-chords-piano'>I'll Never Love Again Chords Piano</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=let%27s-play-webtoon-characters'>Let's Play Webtoon Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mem-fox-reading-magic'>Mem Fox Reading Magic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaiah-40%3A11-commentary'>Isaiah 40:11 Commentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=me-or-i-grammar-girl'>Me Or I Grammar Girl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=janice-meredith-paul-leicester-ford'>Janice Meredith Paul Leicester Ford</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grizzly-bear-lyrics'>Grizzly Bear Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=diego-meaning-italian'>Diego Meaning Italian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=house-by-the-railroad-essay'>House By The Railroad Essay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-gilpin-photographer'>John Gilpin Photographer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=safina-waldau-instagram'>Safina Waldau Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=broadway-bound-rent'>Broadway Bound Rent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-li-mit'>Richard Li Mit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=going-ghost-meaning'>Going Ghost Meaning</a>,
+";s:7:"expired";i:-1;}

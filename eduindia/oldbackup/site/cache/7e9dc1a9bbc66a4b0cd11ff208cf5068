@@ -1,0 +1,101 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3499:"<br>Sabre Travel Network, a Sabre Holdings company, provides access to the world's leading global distribution system (GDS). <br> <br> <br>Sabre Training launch dates: Asia Pacific: 28th September 2017. For Sabre Travel Network® products, Personal Trainer SM is a computer-based training tool that helps you expand your skills to book air, cars, hotels, tours, cruises and more. <br> <br>Introduction to Sabre Sabre Self-Paced Training Program Whether you are undertaking study at a Travel College or are a private student wanting to learn or improve your Sabre skills, this course is right for you. <br> <br>It's ideal for all travel agencies with new or experienced agents. Real-world, hands-on, online training courses on the Sabre GDS Travel Reservations Systems. The Sabre GDS is a ready-built efficient marketplace that connects suppliers, including hundreds of airlines and thousands of hotels, with more than 50,000 travel agency locations. North America: 9th … <br> Innovative Learning System. <br> <br>Gain experience while you learn. It enables you to customise your own training programs, which are available without ever having to leave your office. The travel ecosystem may not return to business as usual post Covid-19. Sabre Virtual Training is one of the many ways Sabre is responding to the realities of Covid-19. <br> <br>The ongoing pandemic has caused a significant shift in the travel industry and in our everyday lives. About Sabre Travel Network. <br> <br>Europe, the Middle East and Africa: 26th October 2017. Course Descriptions // GDS Training // SABRE. <br> <br>Eight courses plus a free-form emulator intended for additional practice and role-playing comprise this mature and highly-advanced Sabre training solution. Training content is delivered to your screen from a software system purpose-built for travel industry training. The global business terrain will ditch many old practices and only the best will survive or even become better.  Sabre is a global technology company. Our innovative technology is used by more than a billion people around the world to plan, book and get to their destination at a time and price that’s right for them. Sabre launches pilot of A.I.-powered chatbot. Designed for independent study or for adoption by the travel and tourism department, this e-learning solution is both versatile and innovative. The courses offered here were developed entirely by us and are critically different from anything offered by the Amadeus, Sabre, and Travelport companies and their subsidiaries. Latin America and the Caribbean: 12th October 2017. 中文（中国） русский (Россия) Español (España, alfabetización internacional) English (United States) 中文（香港） ภาษาไทย Português (Brasil) Deutsch (Deutschland) français (France) italiano (Italia) русский (Россия) Español (España, alfabetización internacional) English (United States) 中文（香港 <br> <br>In April 2020, Millenium took advantage of the reduced workload to undergo a major training exercise for all 56 travel managers on Sabre Red 360. <br> <br>The Sabre training curriculum consists of the online courses listed below. SOUTHLAKE, Texas – Feb 1, 2018 – Sabre Corporation (NASDAQ: SABR), the leading technology provider to the global travel industry, today launched a pilot program of an A.I.-powered chatbot that… Read more » Click or scroll down to learn more and register. Globally recognized training. <br>";s:7:"keyword";s:21:"sabre travel training";s:5:"links";s:4798:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xavier-mcdaniel-net-worth'>Xavier Mcdaniel Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-inheritance-closing'>The Inheritance Closing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nederman-filtercart-replacement-filters'>Nederman Filtercart Replacement Filters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-learn-korean-alphabet'>How To Learn Korean Alphabet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=art-science-of-storytelling'>Art Science Of Storytelling</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we-go-dancing-song'>We Go Dancing Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-tall-is-victoria-everglot'>How Tall Is Victoria Everglot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rocket-Brothers-Tulsa'>Rocket Brothers Tulsa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rebecca-lim%2C-ian-fang'>Rebecca Lim, Ian Fang</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crooked-river-characters'>Crooked River Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-wayfarer-restaurant-week-menu'>The Wayfarer Restaurant Week Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chain-stitching-machine'>Chain Stitching Machine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stendhal-festival-reviews'>Stendhal Festival Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=venus-and-aeneas'>Venus And Aeneas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=medieval-studies-minor-notre-dame'>Medieval Studies Minor Notre Dame</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adan-canto-spouses'>Adan Canto Spouses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-super-brain-course'>What Is Super Brain Course</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-burgess-canada'>Michael Burgess Canada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Life-stands-for'>Life Stands For</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Meri-Zindagi-Ek-Agneepath'>Meri Zindagi Ek Agneepath</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bai-ling---imdb'>Bai Ling - Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=double-harness-youtube'>Double Harness Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=it%27s-an-honor'>It's An Honor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gideon%27s-way-morna'>Gideon's Way Morna</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nevada-map-with-cities'>Nevada Map With Cities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-edge-on-hovey-floor-plans'>The Edge On Hovey Floor Plans</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wendell-and-wild'>Wendell And Wild</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=herringbone-stitch-design'>Herringbone Stitch Design</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=town-of-windermere-jobs'>Town Of Windermere Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zuleika-dobson-text'>Zuleika Dobson Text</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-singing-girls'>Chinese Singing Girls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sorry-angel---watch-online'>Sorry Angel - Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sherb-animal-crossing-ocd'>Sherb Animal Crossing Ocd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sword-vinyl'>The Sword Vinyl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fgm-statistics-2018'>Fgm Statistics 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carousel-bootstrap-3'>Carousel Bootstrap 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=centennial-college%3A-software'>Centennial College: Software</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=faux-distressed-wood'>Faux Distressed Wood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=used-jane-austen-books'>Used Jane Austen Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-rope%2C-and-other-plays'>The Rope, And Other Plays</a>,
+";s:7:"expired";i:-1;}

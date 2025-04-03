@@ -1,0 +1,90 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2450:"<p>69% of first-generation college students say they want to help their families, compared to 39% of students whose parents have earned a degree. First-Generation Programs supports the academic, social and professional development of first-generation college students. Many first-generation student families see college attendance as a place where a child leaves the family behind, for good or bad, whereas non-first-generation students leave their families, too, of course, but because leaving for college has become incorporated into the family mythology, part of becoming a full member of the family, separation anxiety does not hit them nearly as hard.  A first-generation college student is defined as a student whose parent(s)/legal guardian(s) have not completed a bachelor’s degree. According to University Business, approximately 30 percent of college students across the nation are first-generation students. Being a first-gen is also really exciting. A First-Generation college student is someone who was not RAISED in a home by at least one “parent” figure who attended AND GRADUATED from a FOUR year, ... and other first-gens are doing all they can to help those who come after them. Form Your Future. Being a first-generation college student is a huge opportunity to become the first person in your family to earn a college degree. 24 percent of the 30 percent happens to be first generation and low income. More than one person within a family can be a first-generation college student, too. First-Generation Student Resources for Financial Aid and Scholarships . I am not only working to graduate in four years with a degree, but I am working to gain as much as learning experiences as I am able to. </p> <p>Say your parents never went to college, you're one of three children, your older sister is in her second year at school, and you're just now filling out college applications: You're a first-generation college student, even though your sister went to college before you. </p> <p>We serve as a resource for first-generation undergraduate students and their families. This website is another that is not designed specifically for first-generation students, but instead for anyone who is unfamiliar with the process of applying for financial aid. Contacting schools, guidance counselors and current students can help. </p> <p></p> <p>First-generation college students often need guidance through the admissions process. </p>";s:7:"keyword";s:59:"how much does being a first generation college student help";s:5:"links";s:3770:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daily-rumors%3A-celtics'>Daily Rumors: Celtics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=romy-schneider-death'>Romy Schneider Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rodeo-events-near-me-2020'>Rodeo Events Near Me 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Valley-Girl-Logan-Paul'>Valley Girl Logan Paul</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reply-1994-husband'>Reply 1994 Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mother-krampus-review'>Mother Krampus Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chicago-pronunciation-meaning'>Chicago Pronunciation Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scarface-remake-2020-cast'>Scarface Remake 2020 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sir-Banister-Fletcher%27s-a-history-of-architecture-19th-edition-pdf'>Sir Banister Fletcher's A History Of Architecture 19th Edition Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mozhdah-jamalzadah-height'>Mozhdah Jamalzadah Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=electra-%28euripides-play%29'>Electra (euripides Play)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-double-cross-system-in-the-war-of-1939-to-1945-pdf'>The Double-cross System In The War Of 1939 To 1945 Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zen-studios-pinball'>Zen Studios Pinball</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaiah-40%3A1-11-meaning'>Isaiah 40:1-11 Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nabors-drilling-human-resources'>Nabors Drilling Human Resources</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hope-these-information-are-helpful'>Hope These Information Are Helpful</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=baby-bop-cartoon'>Baby Bop Cartoon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-the-point-of-meditation'>What Is The Point Of Meditation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-wars%3A-episode-iii---revenge-of-the-sith-watch-online'>Star Wars: Episode Iii - Revenge Of The Sith Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fun-food-news'>Fun Food News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heb-employee-shirts'>Heb Employee Shirts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-flea-john-donne-analysis'>The Flea John Donne Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mandy-moore-ryan-adams-marriage'>Mandy Moore Ryan Adams Marriage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=el-presidente-rotten-tomatoes'>El Presidente Rotten Tomatoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nome-weather-radar'>Nome Weather Radar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edwin-starr---war-and-peace'>Edwin Starr - War And Peace</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donald-l-miller-masters-of-the-air'>Donald L Miller Masters Of The Air</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=quantico-marine-base-address'>Quantico Marine Base Address</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Stephen-Crane-works'>Stephen Crane Works</a>,
+";s:7:"expired";i:-1;}

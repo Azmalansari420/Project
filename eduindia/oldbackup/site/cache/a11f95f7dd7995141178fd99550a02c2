@@ -1,0 +1,136 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1957:"<p>@mspopit: Obituary for Tomie dePaola at Chadwick Funeral and Cremation Service - 3 months ago @kappelt: RT @stephanimeaton: "School days, traditions, friends, family, animals, firsts, silliness, and solemnity are all hallmarks of dePaola’s wor… - 3 months ago @spoken_worldTIE: Tomie dePaola Remembered - 3 months ago Thomas Anthony "Tomie" dePaola (/ ˈ t ɒ m i d ə ˈ p aʊ l ə /; September 15, 1934 – March 30, 2020) was an American writer and illustrator who created more than 260 children's books such as Strega Nona. Read Complete Obituary View Original Notice → Tomie dePaola, creator of gently humorous picture books, dies at 85. DePaola died at the Dartmouth-Hitchcock Medical Center in Lebanon, New Hampshire, according to his literary agent, Doug Whiteman. Tomie dePaola, creator of gently humorous picture books, dies at 85 Posted on March 31, 2020 March 31, 2020 His more than 200 books included …  His more than 200 books included “Strega Nona,” about a witch’s enchanted pasta pot. He received the Children's Literature Legacy Award for his lifetime contribution to American children's literature in 2011. Tomie dePaola, beloved children's author and illustrator of 'Strega Nona,' dies at 85. Tomie dePaola, a children's author and illustrator known for his book "Strega Nona," died Monday. CONCORD, N.H. — Tomie dePaola, the prolific children's author and illustrator who delighted generations with tales of Strega Nona, the kindly and helpful old witch in Italy, died Monday at age 85. DePaola wrote or illustrated more than 270 children’s books, sold nearly 25 million copies and had his books translated into more than 20 languages. Tomie dePaola was a children's book author and illustrator whose hundreds of books included the Caldecott Honor-winning "Strega Nona." For full obituary and coverage from Legacy.com, click here. ... NBA 2K video game pauses online play during George Floyd's funeral. </p> <p></p>";s:7:"keyword";s:21:"Tomie dePaola funeral";s:5:"links";s:9460:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=falling-upward-podcast'>Falling Upward Podcast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rube-goldberg-kits'>Rube Goldberg Kits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nefertari-and-ramses'>Nefertari And Ramses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-is-the-rosetta-spacecraft-now'>Where Is The Rosetta Spacecraft Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=explain-the-process-of-removing-a-president-from-office'>Explain The Process Of Removing A President From Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=top-gun-full-movie-with-english-subtitles'>Top Gun Full Movie With English Subtitles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pool-Shark-Sublime'>Pool Shark Sublime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tanto-blade-vs-drop-point'>Tanto Blade Vs Drop Point</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-platform-ending'>The Platform Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spooksville-episode-6'>Spooksville Episode 6</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=https-learning-davidsonhotels-com-index-php'>Https Learning Davidsonhotels Com Index Php</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lafayette-escadrille-pilots'>Lafayette Escadrille Pilots</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boy-hero-band'>Boy Hero Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=silver-bells-and-cockle-shells'>Silver Bells And Cockle Shells</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=I-Just-Wanna-Rock'>I Just Wanna Rock</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ismael-bennacer-whoscored'>Ismael Bennacer Whoscored</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=waay-31-news'>Waay 31 News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=suge-meaning-urban-dictionary'>Suge Meaning Urban Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yu-shimamura-bnha'>Yu Shimamura Bnha</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alex-young----everton'>Alex Young -- Everton</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chaussure-buffalo-ann%C3%A9e-90'>Chaussure Buffalo Année 90</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-unbeatable-banzuke'>American Unbeatable Banzuke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dragonheart-2-imdb'>Dragonheart 2 Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lou-Nanne-Miracle'>Lou Nanne Miracle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glasgow%2C-ky-population'>Glasgow, Ky Population</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=panasonic-kx-prs120ew-twin-dect-phone'>Panasonic Kx-prs120ew Twin Dect Phone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=music-theatre-international'>Music Theatre International</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-encounter-3'>The Encounter 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-circus-of-dr-lao'>The Circus Of Dr Lao</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amelia-earhart%3A-the-final-flight-full-movie'>Amelia Earhart: The Final Flight Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=requiem-2006-watch-online'>Requiem 2006 Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phyllis-the-office-quotes'>Phyllis The Office Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary-winkler-obituary'>Mary Winkler Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bessie-love-reds'>Bessie Love Reds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eugene-edward-roddenberry'>Eugene Edward Roddenberry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ararat-meaning-in-english'>Ararat Meaning In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=northanger-abbey-plot'>Northanger Abbey Plot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Caravan-of-Courage-streaming'>Caravan Of Courage Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lone-Wolf-Alpha-vs-Assault'>Lone Wolf Alpha Vs Assault</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=round-brackets-examples'>Round Brackets Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-did-eddie-rickenbacker-do'>What Did Eddie Rickenbacker Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sarah%27s-choice-melon'>Sarah's Choice Melon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manual-roller-coaster-broken-back'>Manual Roller Coaster Broken Back</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wentworth-miller-house-address'>Wentworth Miller House Address</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kyle-cooke-baseball-wikipedia'>Kyle Cooke Baseball Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shotel-warrior-vs-karambit'>Shotel Warrior Vs Karambit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rare-food-shop-review'>Rare Food Shop Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bill-Nye-the-Science-Guy-memes'>Bill Nye The Science Guy Memes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-daughters-a-daughter-for-the-rest-of-your-life'>A Daughters A Daughter For The Rest Of Your Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-general-broadly-speaking'>In General Broadly Speaking</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pope-felix-iv'>Pope Felix Iv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Concord-Regional-Airport-new-terminal'>Concord Regional Airport New Terminal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shanghai-express-restaurant-menu'>Shanghai Express Restaurant Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sarah-mcleod-movies'>Sarah Mcleod Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=masao-maruyama-political-scientist'>Masao Maruyama Political Scientist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=discovery-kids-games'>Discovery Kids Games</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vera-ralston-cause-of-death'>Vera Ralston Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arunoday-singh-father'>Arunoday Singh Father</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=group-of-18th-century-thinkers-that-included-voltaire-and-rousseau-crossword'>Group Of 18th-century Thinkers That Included Voltaire And Rousseau Crossword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=return-to-cranford'>Return To Cranford</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shadowrun-technomancer-cheat-sheet'>Shadowrun Technomancer Cheat Sheet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bristol-fall-race-2020'>Bristol Fall Race 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tony-fadell-house'>Tony Fadell House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tianjin-xingang-shipyard'>Tianjin Xingang Shipyard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=importance-of-agricultural-finance-ppt'>Importance Of Agricultural Finance Ppt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=comcast-center-philadelphia'>Comcast Center Philadelphia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chariot-racing-facts'>Chariot Racing Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amy-allen-instagram'>Amy Allen Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Patty-Ryals-That-%2770s-Show'>Patty Ryals That '70s Show</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-food-in-tokyo-japan'>Chinese Food In Tokyo Japan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-tj-jagodowski-married'>Is Tj Jagodowski Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=max-holloway-twitch'>Max Holloway Twitch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=enchant-python-dictionary'>Enchant Python Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=man-descending-meaning'>Man Descending Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sick-puppy-meaning'>Sick Puppy Meaning</a>,
+";s:7:"expired";i:-1;}

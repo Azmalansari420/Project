@@ -1,0 +1,81 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2780:"<p>This commentary is fairly easy to use right away, however, sometimes it is a little dense in wordage. Title: Theological Bible Commentary By: Edited by Gail R. O'Day & David L. Petersen Format: Hardcover Number of Pages: 504 Vendor: Westminster John Knox Press Publication Date: 2009 Dimensions: 9.00 X 6.00 (inches) Weight: 1 pound 15 ounces ISBN: 0664227112 ISBN-13: 9780664227111 Stock No: WW227111 Achetez et téléchargez ebook Theological Bible Commentary (English Edition): Boutique Kindle - Criticism & Interpretation : Amazon.fr </p> <p>Then you can use these if you are writing an exegesis. Retrouvez [(Theological Bible Commentary)] [Edited by Gail R. O'Day ] published on (May, 2009) et des millions de livres en stock sur Amazon.fr. The series was designed "to develop the theological significance of the Old Testament" and "to emphasize the relevance of each book for the life of the church." </p> <p> Theological Bible Commentary Hardcover – April 28, 2009 by Gail R. O'Day (Editor), David L. Petersen (Editor) 4.6 out of 5 stars 5 ratings. The International Theological Commentary is designed as a commentary for Christian educators and pastors, setting a standard as a theological commentary with excellent scholarship and a high view of Scripture. They provide an "overview" and "history" for each book before going into the "commentary". See all formats and editions Hide other formats and editions. Price New from Used from Kindle "Please retry" $14.99 — — Hardcover "Please retry" $37.45 . Covering almost 1000 passages of Scripture, it incorporates a wealth of applications, examples, and ilustrations in formats ranging from video and audio to pictures and text. Common terms and phrases. </p> <p>One of the most valuable parts (i think) is the sources provided. It is simply organized in the same order as the books in the Bible. Achetez neuf ou d'occasion The Theology of Work Bible Commentary is the only commentary covering what every book of the Bible says about work.Approximately 2 million Christians who work, pastors, scholars and others access it free online every year. Noté /5. </p> <p>This commentary preaches as faithfully as it teaches.” —Daniel Aleshire, Executive Director, The Association of Theological Schools “This beautifully written commentary will inspire readers who seek to listen with care to what Acts has to say to the theological and ethical challenges of contemporary life.” Theological Bible Commentary Gail R. O&#39;Day, David L. Petersen Snippet view - 2009. The Brazos Theological Commentary on the Bible enlists leading theologians to read and interpret Scripture for the twenty-first century, just as the church fathers, the Reformers, and other Orthodox Christians did for their times and places. </p>";s:7:"keyword";s:28:"theological bible commentary";s:5:"links";s:2564:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cruising-1980-filming-locations'>Cruising 1980 Filming Locations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jeannie-name-meaning'>Jeannie Name Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Difference-between-arhat-and-Buddha'>Difference Between Arhat And Buddha</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naughty-marietta-i%27m-falling-in-love-with-someone'>Naughty Marietta I'm Falling In Love With Someone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Feel-joy-quotes'>Feel Joy Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=patna-pin-code'>Patna Pin Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Cheviot-walk'>The Cheviot Walk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moody-crossword-clue'>Moody Crossword Clue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dasha-fedorova-spinning-out'>Dasha Fedorova Spinning Out</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hangman-game-for-kids'>Hangman Game For Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=city-of-meridian-sewer'>City Of Meridian Sewer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=substitute-for-return-procedures'>Substitute For Return Procedures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-illustrated-books-of-all-time'>Best Illustrated Books Of All Time</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-servetus-death'>Michael Servetus Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ramona-young-leaving-legends-of-tomorrow'>Ramona Young Leaving Legends Of Tomorrow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dona-flor-and-her-two-husbands-film-review'>Dona Flor And Her Two Husbands Film Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lights-out-game-code'>Lights Out Game Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ray-bradbury-inspiration'>Ray Bradbury Inspiration</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-assassinated-pompey'>Who Assassinated Pompey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-just-poem-questions-and-answers'>In Just Poem Questions And Answers</a>,
+";s:7:"expired";i:-1;}

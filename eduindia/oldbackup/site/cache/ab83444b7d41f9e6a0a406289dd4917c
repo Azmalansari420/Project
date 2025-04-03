@@ -1,0 +1,108 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2498:"<p> </p> <p>In 2006, we demonstrated that mature somatic cells can be reprogrammed to a pluripotent state by gene transfer, generating induced pluripotent stem (iPS) cells. Professor Shinya Yamanaka is a world renowned stem cell researcher. In the 2012 Nobel announcement, the Nobel Assembly at Karolinka Institutet stated that the findings of Drs. </p> <p>We are using fruit flies and other systems to understand: 1) how hormones control insect physiology and behavior 2) how we can control insects by manipulating hormone signaling. Born in Osaka, Japan, in 1962, Yamanaka received his M.D. Since that time, there has been an enormous increase in interest regarding the application of iPS cell technologies to medical science, in … The 2012 Nobel Prize in Physiology or Medicine was awarded jointly to Sir John B. Gurdon and Shinya Yamanaka “for the discovery that mature cells can be reprogrammed to become pluripotent”. Dr. Yamanaka awarded the Breakthrough Prize. </p> <p>Hormones in Insects & Beyond. Shinya Yamanaka, who developed the technique to create iPSCs and won the Nobel prize for his efforts, say there’s another advantage with this collaboration. Dr. Shinya Yamanaka was awarded the 2012 Nobel Prize in Physiology or Medicine jointly with Sir John B. Gurdon Dr. Shinya Yamanaka Director and Professor Center for iPS Cell Research and Application (CiRA) Principal Investigator, Institute for Integrated Cell-Material Sciences (iCeMS) Dr. Shinya Yamanaka received his M.D. In a news article on Nikkei’s Asian Review he said these cells will have been screened to make sure they don’t … </p> <p>at Kobe University School of Medicine (1987) and Ph.D. at Osaka University Graduate School Division of Medicine (1993). We have previously shown that pluripotent stem cells can be induced from mouse fibroblasts by retroviral introduction of Oct3/4 (also called Pou5f1), Sox2, c … </p> <p>Dr. Shinya Yamanaka of Kyoto University shared the 2012 Nobel Prize in Physiology or Medicine with Dr. John B. Gurdon for their respective discoveries that mature, specialized cells can be reprogrammed to become immature cells capable of developing into all tissues of the body. Home; People; Publications; Gallery; Contact; Established in 2014. </p> <p>Medical Scientist, Dr. Shinya Yamanaka (2010 Kyoto Prize Laureate in Advanced Technology) recently received the inaugural Breakthrough Prize in Life Sciences along with a cash reward of US$ 3 million. </p> <p>THE YAMANAKA LAB. </p>";s:7:"keyword";s:38:"as i lay dying   shaped by fire single";s:5:"links";s:5834:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-rager-pokemon'>Chris Rager Pokemon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=killer-seven-netflix'>Killer Seven Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-thomas-age-tik-tok'>William Thomas Age Tik Tok</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=owl-moon-visualizing-lesson'>Owl Moon Visualizing Lesson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1-peter---kjv'>1 Peter - Kjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lone-wolf-guns'>Lone Wolf Guns</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-fader-logo'>The Fader Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kate-daniels-book-synopsis'>Kate Daniels Book Synopsis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-i%27m-gone-song'>When I'm Gone Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=under-the-persimmon-tree-theme'>Under The Persimmon Tree Theme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=solitaire-for-beginners'>Solitaire For Beginners</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=exo-leader-suho'>Exo Leader Suho</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xu-beihong-horse-paintings'>Xu Beihong Horse Paintings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=griffin-johnson-movies'>Griffin Johnson Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blackjack-weapon-wiki'>Blackjack Weapon Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=A-Farewell-to-Saint-Petersburg'>A Farewell To Saint Petersburg</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jerrika-karlae-height'>Jerrika Karlae Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intermediate-german-vocabulary'>Intermediate German Vocabulary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dorothea-lange-landscape'>Dorothea Lange Landscape</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fazer---white-sedan'>Fazer - White Sedan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spinal-tap-break-like-the-wind-songs'>Spinal Tap Break Like The Wind Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=traditional-swedish-blessing'>Traditional Swedish Blessing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-mexico-travel-guidelines'>New Mexico Travel Guidelines</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=minka-kelly-kids'>Minka Kelly Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=allyson-felix-usain-bolt'>Allyson Felix Usain Bolt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-use-bleach-to-clean-bathroom'>How To Use Bleach To Clean Bathroom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=assemble-systems-for-estimating'>Assemble Systems For Estimating</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-daily-bar-and-kitchen-zomato'>The Daily Bar And Kitchen Zomato</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-cromwell-religion'>Richard Cromwell Religion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sense-of-hearing-function'>Sense Of Hearing Function</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=master-of-magic-retorts'>Master Of Magic Retorts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eric-jerome-dickey-books-2019'>Eric Jerome Dickey Books 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-innocents-film-1961-streaming'>The Innocents Film 1961 Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=major-financial-crisis-in-the-world'>Major Financial Crisis In The World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hey-al-youtube'>Hey Al Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stone-island-logo'>Stone Island Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mayavan-full-movie-watch-online-tamilrockers'>Mayavan Full Movie Watch Online Tamilrockers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greg-bahnsen-lectures'>Greg Bahnsen Lectures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bible-verses-about-hibernation'>Bible Verses About Hibernation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=That-Apt-Ohm-anagram'>That Apt Ohm Anagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-fear-shakespeare%3A-hamlet%3A-act-3%2C-scene-2'>No Fear Shakespeare: Hamlet: Act 3, Scene 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=recipe-quiz-questions-and-answers'>Recipe Quiz Questions And Answers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-crown-limerick-contest-text'>The Crown Limerick Contest Text</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=What-is-a-villanelle'>What Is A Villanelle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naspa-first-forward'>Naspa First Forward</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vizsla-beagle-cross'>Vizsla Beagle Cross</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Unjustified-in-a-sentence'>Unjustified In A Sentence</a>,
+";s:7:"expired";i:-1;}

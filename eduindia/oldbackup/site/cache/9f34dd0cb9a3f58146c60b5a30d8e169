@@ -1,0 +1,131 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5052:"<p>Salvatore Quasimodo (født 20. august 1901, død 14. juni 1968) var en italiensk lyriker og litteraturkritiker.Han ble tildelt Nobelprisen i litteratur i 1959. Salvatore Quasimodo (Italian: [salvaˈtoːre kwaˈziːmodo]; August 20, 1901 – June 14, 1968) was a Sicilian novelist and poet. </p> <p>Vediamo insieme la vita, le opere e la poetica di questo grande scrittore. Salvatore Quasimodo nasce a Modica, in provincia di Ragusa. </p> <p>Salvatore Quasimodo Salvatore Quasimodo nacque in Sicilia, a Modica, in provincia di Ragusa, il 20 agosto del 1901; la sua infanzia trascorse in vari paesi e città della Sicilia, dove veniva di volta in volta trasferito il padre, capo-stazione delle Ferrovie del-lo Stato. </p> <p>Sembolizmden etkilenen şair, şiirlerinde memleketi Sicilya ve bölgenin geleneklerini işledi. Durante la Seconda Guerra mondiale Salvatore Quasimodo tradusse il Vangelo di Giovanni mosso da una esigenza di natura personale: una “ricerca” che il poeta aveva intrapreso fin dalla giovinezza con la lettura di Cartesio, Spinoza, Agostino e, appunto, dei Vangeli [1]. Salvatore Quasimodo è stato uno dei più importanti poeti italiani del Novecento, vincitore di un premio Nobel. Salvatore Quasimodo è stato uno dei più importanti poeti italiani del Novecento, vincitore di un premio Nobel. Juni 1968  in Neapel) war ein italienischer Lyriker  und Kritiker. Salvatore Quasimodo (n.20 august 1901, Modica, Sicilia - d. 14 iunie 1968, Napoli) a fost un poet și traducător italian.Considerat unul dintre cei mai notabili poeți italieni ermetici, a devenit laureat al Premiului Nobel pentru Literatură în 1959, stârnind multiple controverse, mai ales în Italia. Nato a Modica nel 1901 da Gaetano e Clotilde Ragusa, Salvatore Quasimodo - conseguito il diploma di geometra nel 1919 - lasciò la Sicilia per Roma dove visse, more uxorio, con Bice Donetti, di circa otto anni più anziana di lui. Creador de la escuela hermética, formada por poetas italianos que como no podían criticar abiertamente al fascismo, tenían que escribir utilizando simbologías y con un estilo rebuscado. Biografia Salvatore Quasimodo : Modifica bio: Cronologia: Salvatore Quasimodo nacque a Modica (Ragusa) il 20 agosto del 1901 e trascorse gli anni dell'infanzia in piccoli paesi della Sicilia orientale (Gela, Cumitini, Licata, ecc. Salvatore Quasimodo föddes 1901 på Sicilien i en liten stad i närheten av Syrakusa.Han studerade först teknik, i Palermo och i Rom, men bestämde sig sedan för att det var litteraturen som han ville ägna sig åt.Han studerade därför klassisk grekisk och latinsk litteratur vid universitetet, men kunde inte fullfölja utbildningen av ekonomiska skäl. Appunto di italiano per le scuole superiori sulla biografia, le opere e la poetica dello scrittore italiano Salvatore Quasimodo, con analisi delle sue vicende. </p> <p>Ebbe così la possibilità di conoscere la Sicilia e di averne impresso un </p> <p>Frequentò l’Istituto per geometri a Messina, dove conobbe personalità di spicco quali Elio Vittorini, Giorgio La Pira e Salvatore Pugliatti: con loro fondò, a soli sedici anni, una rivista letteraria (Nuovo Giornale Letterario). Biografia • Un meraviglioso viaggio poetico Salvatore Quasimodo nasce a Modica, in provincia di Ragusa il 20 agosto 1901 e trascorre gli anni dell'infanzia in piccoli paesi della Sicilia seguendo il padre Gaetano, capostazione delle Ferrovie dello Stato. Il suo antifascismo gli procura diversi incidenti. breve biografia di salvatore quasimodo Marzo 13, 2017 webinfo Salvatore Quasimodo nacque a Modica , in provincia di Ragusa il 20 agosto 1901 e mori a Napoli il 14 giugno 1968, dove fu ricoverato d’urgenza in ospedale in seguito ad un improvviso malore, mentre si trovava ad … Quasimodo was born in Sicily and was the son of a railroad </p> <p>Riassunto: Quasimodo nacque nel 1901 in Sicilia, a Modica (Ragusa), da padre ferroviere. Salvatore Quasimodo (d. 20 Ağustos 1901 Modica, Sicilya - ö. Salvatore Quasimodo (n.20 august 1901, Modica, Sicilia - d. 14 iunie 1968, Napoli) a fost un poet și traducător italian.Considerat unul dintre cei mai notabili poeți italieni ermetici, a devenit laureat al Premiului Nobel pentru Literatură în 1959, stârnind multiple controverse, mai ales în Italia. Salvatore Quasimodo (* 20. Biografia I primi anni e gli studi.  Salvatore Quasimodo nacque il 20 agosto 1901 da Gaetano Quasimodo (1867-1960) e Clotilde Ragusa (1877-1950) a Modica, dove il padre era stato assegnato come capostazione. Biografi. </p> <p>Vediamo insieme la vita, le opere e la poetica di questo grande scrittore. </p> <p>In 1959 he won the Nobel Prize in Literature "for his lyrical poetry, which with classical fire expresses the tragic experience of life in our own times". Desde 1940 trabajó en el periódico Il Tempo, como crítico teatral. Along with Giuseppe Ungaretti and Eugenio Montale, he is one of the foremost Italian poets of the 20th century. </p> <p>Salvatore Quasimodo, Italian poet, critic, and translator. </p>";s:7:"keyword";s:29:"salvatore quasimodo biografia";s:5:"links";s:8480:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Odd-Obsession-movies-Chicago-posters'>Odd Obsession Movies Chicago Posters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mansarda-st-petersburg'>Mansarda St Petersburg</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moldau-smetana-analysis'>Moldau Smetana Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=assassination-vacation-grailed'>Assassination Vacation Grailed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gooseberry-chutney-slow-cooker'>Gooseberry Chutney Slow Cooker</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ming-Wah-menu'>Ming Wah Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Murder-by-Mocha'>Murder By Mocha</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=facino-cane-balzac-summary'>Facino Cane Balzac Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fever-dreams-coronavirus'>Fever Dreams Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ravi-zacharias-sermons-2020'>Ravi Zacharias Sermons 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=victaulic-870-coupling'>Victaulic 870 Coupling</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-are-the-5-elements-of-defamation'>What Are The 5 Elements Of Defamation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shoot-a-video'>Shoot A Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dell-curry-kids'>Dell Curry Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=friday-harbor-suites'>Friday Harbor Suites</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-arrival-%281996-trailer%29'>The Arrival (1996 Trailer)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-and-courage-quotes'>Love And Courage Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dirty-spongebob-quotes'>Dirty Spongebob Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=A-Taste-of-Blood'>A Taste Of Blood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tom-franco-art'>Tom Franco Art</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cross-stitch-kits-for-beginners'>Cross Stitch Kits For Beginners</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jason-weaver-twitter'>Jason Weaver Twitter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-eustace-linkedin'>John Eustace Linkedin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spider-loc-game'>Spider Loc Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-family-history-movies'>Best Family History Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-american-village-alabama'>The American Village Alabama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=futura-2000-tag'>Futura 2000 Tag</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=man-kzin-wars-xv'>Man-kzin Wars Xv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pippa-taylor-height'>Pippa Taylor Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=imagination-is-everything-quote'>Imagination Is Everything Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-rain-song-poem'>A Rain Song Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-Soul-songs'>David Soul Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=abandoned-detroit-mansions-for-sale-2019'>Abandoned Detroit Mansions For Sale 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alexa-meade-interesting-facts'>Alexa Meade Interesting Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Boho-chic-style'>Boho Chic Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Loose-Pink-Diamond'>Loose Pink Diamond</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-seagram-building'>The Seagram Building</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sapporo-promo-code'>Sapporo Promo Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-daughters-a-daughter-for-the-rest-of-your-life'>A Daughters A Daughter For The Rest Of Your Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-crown-prince'>The Crown Prince</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=job-26%3A7-nkjv'>Job 26:7 Nkjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meat-delivery-manila'>Meat Delivery Manila</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=murky-waters-handsome-jack'>Murky Waters Handsome Jack</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-get-the-tabi-in-terraria'>How To Get The Tabi In Terraria</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-arrival-%281996-trailer%29'>The Arrival (1996 Trailer)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dead-end-street'>Dead End Street</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spanish-workbook-pdf'>Spanish Workbook Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wordsworth%2C-home-at-grasmere-poem'>Wordsworth, Home At Grasmere Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Handcuff-Your-Hoes'>Handcuff Your Hoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=good-audition-songs-for-junie-b-jones'>Good Audition Songs For Junie B Jones</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sunshine-of-your-love-guitar-chords'>Sunshine Of Your Love Guitar Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spirit-guide-meaning'>Spirit Guide Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Omar-Khayyam-quote'>Omar Khayyam Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lobster-bake-on-the-beach'>Lobster Bake On The Beach</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-wesley-nyc'>John Wesley Nyc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=theban-alphabet-numbers'>Theban Alphabet Numbers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=keisha-castle-hughes-parents'>Keisha Castle-hughes Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=automatic-knife-replacement-springs'>Automatic Knife Replacement Springs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=domino%27s-charity-requests'>Domino's Charity Requests</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spot-the-dog-movie'>Spot The Dog Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=non-distracting-or-undistracting'>Non Distracting Or Undistracting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jumping-game-twitch'>Jumping Game Twitch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flying-tigers-logo'>Flying Tigers Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-splash-of-red-awards'>A Splash Of Red Awards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=children%27s-authors-quiz'>Children's Authors Quiz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=salad-recipes-for-dinner'>Salad Recipes For Dinner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sword-hidden-masters-lyrics'>The Sword Hidden Masters Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-visiting-day-in-divergent'>What Is Visiting Day In Divergent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=taungaroa-emile-wikipedia'>Taungaroa Emile Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Robert-Williams-movies'>Robert Williams Movies</a>,
+";s:7:"expired";i:-1;}

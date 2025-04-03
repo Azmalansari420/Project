@@ -1,0 +1,86 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3255:"<p>Please note that we will be sold out of Alcatraz tickets many days this year. Mobile E-Ticket Check-in: Get E-tickets now. Popular Alcatraz tour dates can sell out days or weeks in advance. </p> <p>Departures are available about every half hour throughout the day beginning at 8:45am. </p> <p></p> <p>- Sustainable Easy Access Transport Please check the schedule at the Dock and Cellhouse for exact departure times. View Advisory. Tour is only suitable for ages 12 and up. Alameda Ferry Operated by San Francisco Bay Ferry. Purchase Ferry Tickets. Order Online Tickets Tickets See Availability Directions {{::location.tagLine.value.text}} Sponsored Topics. You may buy tickets online, by phone or in person. Media is invited on all three days of events. The return trips are as follows: Fall/Winter ferry schedule (November 6, 2018 - March 12, 2018): Departure time: Early Bird Tour: 8:45 AM, Day Tour: 9:10 AM, 9:30 AM, 10:00 AM, 10:30 AM, 11:00 AM, 11:30 AM, 12:00 PM, 12:30 PM, 1:05 PM, 1:35 PM, Night Tour: 3:50 PM and 4:45 PM. The box office opens at 7:30 am, though due to the limited availability, people line up early to secure tickets. Visit our News Item for more details and upcoming changes. Ferries that stop at Pier 41 is where passengers can transfer to MUNI’s F & E Historic Streetcar line, private transit service, or walk to Pier 33 Alcatraz Landing. </p> <p>Mobile E-Ticket Check-in: Get E-tickets now. The most important thing to know when planning a trip to Alcatraz is that all access to the island is through a private ferry company under contract with the National Park Service, Alcatraz Cruises LLC. Learn More: Alcatraz Behind the Scenes Tour E-Ticket Mobile Check-in. View Advisory. The ferry leaves from Pier 33 Alcatraz Landing. Opening Hours. We caught the ferry and enjoyed the sights and audio tour on Alcatraz. We had a brief stroll along the street window shopping before having to jump back in the van and head over to the Alcatraz ferry. Alcatraz & Angel Island Combo: 9:30 am: Behind the Scenes: (summer months) 4:20 pm, 4:50 pm: Behind the Scenes: (winter months) 2:10 pm, 2:40 pm: Closed dates: November 24 & December 25. Alcatraz Cruises is the official concessioner to the National Park Service, offering tickets and transportation to Alcatraz Island. </p> <p>Alcatraz tour schedule for for March 12, 2018 – November 4, 2018. The Alcatraz cruise offers trips to and from Pier 33. Alcatraz is open every day except Christmas, Thanksgiving and New Year's day. You will get schedules, fare information, and details on holiday service, terminal locations, parking and transit connections. Reviews (415) 981-7625 Website. And if you depart by the second available cruise (at 6.30 pm), the maximum duration of your Alcatraz night tour can be 2 hours and 55 minutes. Escape from Alcatraz and ferry tour, combined with a personalized guided tour of San Francisco, is the ideal Bay cruise excursion when Alcatraz tickets are sold out. This tour does not offer hotel pick-up or drop-off. Return times: Early Bird/Day Tour: 9:30 AM, 9:50 AM, … Children under the age of 12 not allowed. For additional information on schedules, prices, and to purchase tickets in advance ... Ferries are run by Alcatraz Cruises . </p>";s:7:"keyword";s:23:"alcatraz ferry schedule";s:5:"links";s:3082:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=embodied-cognition-cognitive-science'>Embodied Cognition Cognitive Science</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tops-weight-loss'>Tops Weight Loss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tang-yin-zai-yi-jie'>Tang Yin Zai Yi Jie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sebastian-stan-wife-2020'>Sebastian Stan Wife 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=many-corp-recruits-crossword'>Many Corp Recruits Crossword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noah-galvin-dear-evan-hansen-role'>Noah Galvin Dear Evan Hansen Role</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marina-tsvetaeva-poetry'>Marina Tsvetaeva Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Samuel-Honywood-age'>Samuel Honywood Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=storm-tracker-fortnite'>Storm Tracker Fortnite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Elements-of-Love%3A-Ballads'>Elements Of Love: Ballads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dean-Koontz-Midnight-movie'>Dean Koontz Midnight Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cosa-nostra-news'>Cosa Nostra News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andy-borowitz-books'>Andy Borowitz Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=on-tour-kickstarter'>On Tour Kickstarter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-weirdest-school-books'>My Weirdest School Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Science-of-Music'>Science Of Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i%27m-gonna-wait-for-a-long-time-life-is-strange-2'>I'm Gonna Wait For A Long Time Life Is Strange 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Germany-population-2019'>Germany Population 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=child-bride-%281938%29'>Child Bride (1938)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=machine-vs-human-translation-tagalog'>Machine Vs Human Translation Tagalog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=facino-cane-balzac-summary'>Facino Cane Balzac Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=salad-recipes-for-dinner'>Salad Recipes For Dinner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=choi-woo-shik-tv-shows'>Choi Woo-shik Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harper-marie-kirk'>Harper Marie Kirk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=casting-such-a-thin-shadow-lyrics'>Casting Such A Thin Shadow Lyrics</a>,
+";s:7:"expired";i:-1;}

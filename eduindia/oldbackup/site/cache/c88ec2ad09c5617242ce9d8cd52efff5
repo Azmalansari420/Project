@@ -1,0 +1,103 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5224:"<br>Adds public executions to Solitude after the initial vanilla execution event and the option to capture bandits for executions. Ahtar is a Redguard warrior in Solitude where he works as public executioner and warden of Castle Dour Dungeon.He recently let one of his prisoners escape and will task you with killing the escapee. So, I just got to Solitude for the first time (2nd playthrough, lots of mods) and entered expecting to see Roggvir's execution. Extra info ... Been following cfs11 guide but I have added other mods including Dawn of Skyrim. Now after a while I went to Solitude, expecting to see the execution of Roggvir and all the NPC's that are supposed to be there. <br> <br>Solitude is the capital city of both Haafingar Hold, and all of Skyrim.Currently ruled by Jarl Elisif the Fair, widow of the late High King Torygg, it is the headquarters of the Imperial Legion stationed in Skyrim. For The Elder Scrolls V: Skyrim on the Xbox 360, a GameFAQs message board topic titled "Can I stop the execution in Solitude? <br> <br>―Roggvir. Preventing the execution is done by causing some sort of distraction to the executors, meaning attack Aldis, the headsman, or any Solitude guard. TAKE 1: You’re an adventurer who, for any reason, is walking into Solitude for the first time. <br> <br> Hostile Solitude Guards During Roggvir's Execution » Sun May 27, 2012 2:25 pm . Is this a bug or mod related ?? Roggvir will run and the guards will start attacking you. <br> <br>In return, Ahtar will not only reward you, he will also become available as a follower.. <br> <br>This is the first time I'm visiting Solitude on this character, so I am supposed to see Roggvir's execution scene. <br> <br>Skyrim: Saving Roggvir from Execution in Solitude - YouTube It is theoretically possible to save him, if you have sufficient ability to fight all the guards. <br> <br>It is theoretically possible to save him, if you have sufficient ability to fight all the guards. The Solitude execution scene not starting when I first arrive there ... All NPC's just stand there. So doing will cause the execution staff to attack you if you are not sneaking or detected, and look for you then attack you if you are hidden. Page 1 of 2 - Solitude Roggvir Execution not playing - posted in Skyrim Technical Support: so i started a new game today, using alternate start. ". I am having a weird issue. Page 1 of 2 - Roggvir execution bug - posted in Skyrim Technical Support: Hello.  So Ive run into an odd error, The execution scene in solitude doesnt play. But for me, everyone (svari included) just stands there. "On this day...I go to Sovngarde." <br> <br>One way you can disrupt the execution is by jumping from the stairs in front of the blocking guard toward the chopping block. <br> <br>But it is pointless. Roggvir was a Nord warrior and, formerly, one of the Hold Guards of Solitude. So I just started my 3rd playthrough of Skyrim, I'm 15 hours in, level 10 and I currently have 53 mods. <br> <br>upon entering, everyones where they should be for the roggvir execution except no ones speaking, no dialogue is playing. Search that internet thingy but most suggest using console commands ... something I don't want to do. Regardless of whether or not you see it, dialogue options with NPCs will appear as if you had witnessed the execution. <br> <br>You can stop the execution, yes, but Roggvir will die no matter what. <br> <br>If you enter Solitude for the first time through the side gate, you will hear the execution taking place, but you may miss seeing it if you don't head over to the main gate in time. <br> <br>One way you can disrupt the execution is by jumping from the stairs in front of the blocking guard toward the chopping block. <br> <br>Search that internet thingy but most suggest using console commands ... something I don't want to do. Extra info ... Been following cfs11 guide but I have added other mods including Dawn of Skyrim. But it is pointless. The Great City of Solitude is COMPATIBLE Realistic Solitude Arch is COMPATIBLE TPOS2 is COMPATIBLE Solitude Exterior Add on is SEMI-COMPATIBLE (Will work, but needs a patch) Another Skyrim Solitude is NOT COMPATIBLE Towns and Villages Enhanced - Solitude is NOT-COMPATIBLE PATCHES AVAILABLE LoTD (LE, SSE) DoS Directors Cut (SSE) JK All In One (SSE) Instead, I see Roggvir and the executioner standing alone on the stage doing nothing (no guards around!) Hey all! Is this a bug or mod related ?? Roggvir will run and the guards will start attacking you. <br> <br>began in sleeping giant, did the things in whiterun, then went straight to solitude. Roggvir will run away in the distraction. INFO: The executions happen everyday, they start at 4pm, from 4pm to 6pm the prisoner will go with a jailer to the chopping block and at 6pm to 8pm the execution will start. <br> <br>Instead, all I saw was Roggvir and the executioner on stage, and one npc (one of the elves who works in the clothes shop) standing where the crowd should be. <br> <br>Normally, when you enter the town, Svari whines about her uncle and is told to leave, then the scene plays. The Solitude execution scene not starting when I first arrive there ... All NPC's just stand there. <br>";s:7:"keyword";s:25:"solitude skyrim execution";s:5:"links";s:5410:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pigs-in-Pajamas'>Pigs In Pajamas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-restaurants-coming-to-yuma%2C-az-2019'>New Restaurants Coming To Yuma, Az 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lexy-kolker-birthday'>Lexy Kolker Birthday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bible-lesson-on-gratitude-for-kids'>Bible Lesson On Gratitude For Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=faux-distressed-wood'>Faux Distressed Wood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moulin-rouge-tara-morice'>Moulin Rouge Tara Morice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-was-a-doctor-in-auschwitz-sparknotes'>I Was A Doctor In Auschwitz Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-are-the-vulnerable-groups-coronavirus'>Who Are The Vulnerable Groups Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ravel-prelude-from-le-tombeau-de-couperin-suite'>Ravel Prelude From Le Tombeau De Couperin Suite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meditation-cushion-set'>Meditation Cushion Set</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=basil-mcrae-letterkenny'>Basil Mcrae Letterkenny</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spa-getaways-los-angeles'>Spa Getaways Los Angeles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tamir-rice-biography'>Tamir Rice Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hand-climber-tree-stand'>Hand Climber Tree Stand</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=have-you-seen-me-lyrics'>Have You Seen Me Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=it-is-our-choices%2C-harry%2C-that-show-what-we-truly-are%2C-far-more-than-our-abilities-meaning'>It Is Our Choices, Harry, That Show What We Truly Are, Far More Than Our Abilities Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dead-air-fine'>Dead Air Fine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=markdown-editor-js'>Markdown Editor Js</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=together-we-are-an-ocean-quote'>Together We Are An Ocean Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=opposite-of-despair'>Opposite Of Despair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dr-Seuss%27s-ABC-1989'>Dr Seuss's ABC 1989</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-fog-novel'>The Fog Novel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=you-are-everything-i%27ve-ever-wanted-quotes'>You Are Everything I've Ever Wanted Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=le-blanc-cancun-closed'>Le Blanc Cancun Closed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=danny-brown-merch'>Danny Brown Merch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=danny-ramirez-mma'>Danny Ramirez Mma</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bekhudi-movie-box-office-collection'>Bekhudi Movie Box Office Collection</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=watch-unfriended%3A-dark-web'>Watch Unfriended: Dark Web</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Tea-Party'>The Tea Party</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clifford-the-big-red-dog-reading-game'>Clifford The Big Red Dog Reading Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-considered-a-graven-image'>What Is Considered A Graven Image</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=biggest-college-rivalries-basketball'>Biggest College Rivalries Basketball</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=overcomer-full-movie-youtube'>Overcomer Full Movie Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=witch-week-south-park'>Witch Week South Park</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=legal-marriage-age-in-canada'>Legal Marriage Age In Canada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alexandre-desplat-net-worth'>Alexandre Desplat Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=an-extraordinary-egg-activities'>An Extraordinary Egg Activities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=types-of-sunglasses'>Types Of Sunglasses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adam-rothenberg-wife'>Adam Rothenberg Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meng-haoran-poems'>Meng Haoran Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-moon-movie-1986-cast'>Blue Moon Movie 1986 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Difference-between-arhat-and-Buddha'>Difference Between Arhat And Buddha</a>,
+";s:7:"expired";i:-1;}

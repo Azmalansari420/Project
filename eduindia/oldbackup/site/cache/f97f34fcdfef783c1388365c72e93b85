@@ -1,0 +1,108 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2270:"<p>Approximately 77 of the 80 acres of Grace Farms are being retained in perpetuity as open meadows, woods, wetlands and ponds. Grace Farms is accessible by local taxi and ride sharing services, such as Uber and Lyft.  Criação de um edifício polivalente e projeto paisagístico para Grace Farms, ambiente natural de 32 hectares em New Canaan, Connecticut que a Fundação Grace Farms vem preservando como um espaço aberto de presente às pessoas a experienciarem a natureza, o encontro com as artes, a busca por justiça, fomentando a comunidade e explorando a fé. Arquitetura JaponesaDetalhesCultural ArchitectureSacred ArchitecturePrêmios De ArquiteturaArquitetura ResidencialProjeto De ArquiteturaBaralhosEdifícios Grace Farms / SANAA </p> <p>By AUTHOR Nov 16, 2015 Architectural Record. Grace FarmsFoundation, uma organização sem fins lucrativos e de caridade em New Canaan, Connecticut, apresentou uma proposta para a comissão de Planejamento e Zoneamento da cidade para a estrutura serpenteante projetada pelo SANAA, apelidada de “Rio”. Fotografia de Iwan Baan Related Posts: </p> <p>Taxis are available at the New Canaan Train Station. Source link . </p> <p>Their fluid integration of inside and outside space produces environments which are rich in … </p> <p>Grace Farms Foundation chose SANAA for this project, shortly before the Pritzker Prize announcement, because their vision of architecture is closely aligned with the purposes of Grace Farms. Imagem 13 de 42 da galeria de Grace Farms / SANAA. In early 2010, Grace Farms Foundation selected SANAA, a Tokyo-based architectural firm, to execute its vision for a vibrant place and multi-purpose building where visitors could experience nature, encounter the arts, pursue justice, foster community, and explore faith. Fotografia de Dean Kaufman OLIN’s design preserves and … Imagem 1 de 42 da galeria de Grace Farms / SANAA. </p> <p></p> <p>A ribbon of glass, steel, and wood floats through a hilly landscape, serving a nonprofit foundation dedicated to bringing people closer to art, nature, and faith. </p> <p>Grace Farms by SANAA. grace farms, the community center designed by japanese studio SANAA, has been announced as the winner of the 2014/2015 mies crown hall americas prize. </p>";s:7:"keyword";s:17:"grace farms sanaa";s:5:"links";s:5828:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-smithson-official-website'>Robert Smithson Official Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mansion-casino-restricted-countries'>Mansion Casino Restricted Countries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jefferson-davis-accomplishments'>Jefferson Davis Accomplishments</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=turning-point-brands-careers'>Turning Point Brands Careers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Michael-Ryan-Jennifer-Ehle'>Michael Ryan Jennifer Ehle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xu-beihong-horse-paintings'>Xu Beihong Horse Paintings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=limerick-for-kids'>Limerick For Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=summer-of-my-german-soldier-age-appropriate'>Summer Of My German Soldier Age Appropriate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dwight%27s-survival-food-plan-episode'>Dwight's Survival Food Plan Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=man-city-lawyers-meme'>Man City Lawyers Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaac-bonga-point-guard'>Isaac Bonga Point Guard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-of-america-band'>Best Of America Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dispute-resolution-synonym'>Dispute Resolution Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cru-meaning-in-french'>Cru Meaning In French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=white-vinegar-kills-mites'>White Vinegar Kills Mites</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-russell-lowell'>James Russell Lowell</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=riker-lynch-age'>Riker Lynch Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tennyson-songs-from-the-princess'>Tennyson Songs From The Princess</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Small-electric-Scissor-Lift-Table'>Small Electric Scissor Lift Table</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dutilleux---sonatine'>Dutilleux - Sonatine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Destination-Moonbase-Alpha'>Destination Moonbase Alpha</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arthur-c-clarke-tv-series'>Arthur C Clarke Tv Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=volunteer-with-us'>Volunteer With Us</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kwe-logistics-careers'>Kwe Logistics Careers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glitter-wholesale-china'>Glitter Wholesale China</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fractured-MMO-Gameplay'>Fractured MMO Gameplay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meyer-law-los-angeles'>Meyer Law Los Angeles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saori-hayami-naruto'>Saori Hayami Naruto</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arjun-daughter-husband-death'>Arjun Daughter Husband Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bible-verses-plr'>Bible Verses Plr</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kevin-smith-millionaire-died'>Kevin Smith Millionaire Died</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-happens-if-you-don%27t-register-a-birth'>What Happens If You Don't Register A Birth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-taking-of-tiger-mountain-full-movie-online'>The Taking Of Tiger Mountain Full Movie Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hot-hot-heat---goodnight-goodnight-lyrics'>Hot Hot Heat - Goodnight Goodnight Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cheng-yi-meaning'>Cheng Yi Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zombie-3-movie'>Zombie 3 Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michigan-sheriff-oath'>Michigan Sheriff Oath</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thyroid-isthmus-7mm'>Thyroid Isthmus 7mm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=burlesque-christmas-party-london'>Burlesque Christmas Party London</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pictionary-recovery-words'>Pictionary Recovery Words</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-holidays-lyrics'>No Holidays Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-e-stone'>George E Stone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lance-legault-a-team'>Lance Legault A Team</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grand-opening-synonym'>Grand Opening Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backyardigans-super-spy'>Backyardigans Super Spy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=imagination-company-stock'>Imagination Company Stock</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maybach-g-wagon-drake'>Maybach G Wagon Drake</a>,
+";s:7:"expired";i:-1;}

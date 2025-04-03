@@ -1,0 +1,106 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3898:"<p>The SLAM system uses the depth sensor to gather a series of views (something like 3D snapshots of its environment), with approximate position and distance. LiDAR based systems have proven to be superior compared to vision based systems due to its accuracy and robustness. For more than two decades, the issue of simultaneous localization and mapping (SLAM) has gained more attention from researchers and remains an influential topic in robotics. The high-level view: when you first start an AR app using Google ARCore, Apple ARKit or Microsoft Mixed Reality, the system doesn’t know much about the environment. To identify the most relevant solutions based on your specific criteria, get in touch. Click to download our free Industry 4.0 resources. Simultaneous Localization and Mapping (SLAM) achieves the purpose of simultaneous positioning and map construction based on self-perception. Initially the problems of localization, mapping, and SLAM are introduced from a methodological point of view. I didn't understand what you meant, yes it can explore cluttered places but navigation isn't its job. Simultaneous Localization and Mapping: Part I BY HUGH DURRANT-WHYTE AND TIM BAILEY T he simultaneous localization and mapping (SLAM) problem asks if it is possible for a mobile robot to be placed at an unknown location in an unknown envi-ronment and … Course Description: This course covers the general area of Simultaneous Localization and Mapping (SLAM). Abstract: This paper describes the simultaneous localization and mapping (SLAM) problem and the essential methods for solving the SLAM problem and summarizes key implementations and demonstrations of the method. Applications for vSLAM include augmented reality, robotics, and autonomous driving. To improve the system robustness and performance in self-localization and mapping, we develop a decentralized framework for simultaneous calibration, localization and mapping with multiple LiDARs. </p> <p>For a robot to generate a map of its surroundings, it must be able to gather data on all of its surroundings in the … </p> <p>Simultaneous localization and mapping (SLAM) is the synchronous location awareness and recording of the environment in a map of a computer, device, robot, drone or other autonomous vehicle. Abstract—Simultaneous localization and mapping with in-ﬁnite planes is attractive because of the reduced complexity with respect to both sparse point-based and dense volumetric methods. The Simultaneous Localization and Mapping Algorithm is dependent on data; gathering copious data is paramount to generating the most accurate map possible. However, the probability-based mobile robot SLAM algorithm is often used in the unknown environment. SLAM is an acronym for simultaneous localization and mapping, a technology whereby a robot or a device can create a map of its surroundings and orient itself properly within the map in real time. Simultaneous localization and mapping (SLAM): part II Abstract: This paper discusses the recursive Bayesian formulation of the simultaneous localization and mapping (SLAM) problem in which probability distributions or estimates of absolute or relative locations of landmarks and vehicle pose are obtained. If the person does not recognize landmarks, he or she will be labeled as lost. Applications for vSLAM include augmented reality, robotics, and autonomous driving. First, the person looks around to find familiar markers or signs. It lets them know their position by aligning the sensor data they collect with whatever sensor data they’ve already collected to build out a map for navigation. SLAM is a key component in self-driving vehicles and other autonomous robots enabling awareness of where they are and the best routes to where they are going. Abstract—Simultaneous Localization and Mapping (SLAM) is a fundamental task to mobile and aerial robotics. </p>";s:7:"keyword";s:37:"simultaneous localization and mapping";s:5:"links";s:5590:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=never-again-sarah-dessen-description'>Never Again Sarah Dessen Description</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=realism-in-michelangelo-david'>Realism In Michelangelo David</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-jersey-news-live'>New Jersey News Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aoi-bungaku-streaming'>Aoi Bungaku Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=veronica-roth-childhood'>Veronica Roth Childhood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=90s-lifetime-movies-based-on-true-stories'>90s Lifetime Movies Based On True Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=douglas-spencer-actor-obituary'>Douglas Spencer Actor Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shelly-laurenston-upcoming-books'>Shelly Laurenston Upcoming Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scarlett-2i2-1st-gen-vs-2nd-gen'>Scarlett 2i2 1st Gen Vs 2nd Gen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cassina-le-corbusier'>Cassina Le Corbusier</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-you-waiting-for'>What You Waiting For</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beetlejuice-characters-broadway'>Beetlejuice Characters Broadway</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=let-it-fall-netflix'>Let It Fall Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chapada-diamantina-tours'>Chapada Diamantina Tours</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tina-landau-plays'>Tina Landau Plays</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pump-underwear-sydney'>Pump Underwear Sydney</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dexter-darden-instagram'>Dexter Darden Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=radiology-meaning-in-english'>Radiology Meaning In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=national-theatre-live-april-2020'>National Theatre Live April 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aaron-chang-quotes'>Aaron Chang Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roberta-shore-bio'>Roberta Shore Bio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=methods-of-evangelism-in-the-early-church'>Methods Of Evangelism In The Early Church</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naomi-klein-feminism'>Naomi Klein Feminism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gospel-in-life-jonah'>Gospel In Life Jonah</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i%27m-a-cyborg-but-that%27s-ok-english-subtitles'>I'm A Cyborg But That's Ok English Subtitles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carlight-casetta-dimensions'>Carlight Casetta Dimensions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=athena-karkanis-movies-and-tv-shows'>Athena Karkanis Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-movies-has-carrie-henn-been-in'>What Movies Has Carrie Henn Been In</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Star-Trek-computer-voice-for-Windows'>Star Trek Computer Voice For Windows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-counter-yelp'>The Counter Yelp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cry-boy-cry-lyrics'>Cry Boy Cry Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-russia%2C-ny'>New Russia, Ny</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=klangkarussell-all-eyes-on-you'>Klangkarussell All Eyes On You</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=metaphors-we-live-by-book'>Metaphors We Live By Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Loose-ends-synonym'>Loose Ends Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=green-day---80'>Green Day - 80</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=patricia-allison-instagram'>Patricia Allison Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dark-knight-online'>The Dark Knight Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=baggy-pants-90s'>Baggy Pants 90s</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-agatha-folktale'>Old Agatha Folktale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=neville-brody-graphic-design-work'>Neville Brody Graphic Design Work</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nicole-farhi-skirts'>Nicole Farhi Skirts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-tall-is-harley-bird'>How Tall Is Harley Bird</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeff-leach-imdb'>Jeff Leach Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-bobs-burgers-on-netflix-uk'>Is Bobs Burgers On Netflix Uk</a>,
+";s:7:"expired";i:-1;}

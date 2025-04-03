@@ -1,0 +1,116 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3121:"<p>Eating a balanced diet reduces your risk for heart disease, cancer, diabetes and other health problems. The main message of the Healthy Eating Plate is to focus on diet quality. You see, knowing what you eat is just as important. In this article, we look at the top 10 benefits of a healthful diet, as well as the evidence behind them. The amount we need to eat will vary from person to person. The U.S. Department of Agriculture dietary intake recommendations include foods that fall into five categories. This means eating a wide variety of foods in the right proportions, and consuming the right amount of food and drink to achieve and maintain a healthy body weight. A healthy diet that includes insoluble fiber may also reduce the risk of developing type 2 diabetes. Lead 7 Secrets of Successful People to Living a Balanced Life Highly successful people measure themselves on seven key elements, Health, Family, … Watch out for the nature of nutrients.  </p> <p>However, we need to eat a mixture of different foods in the correct proportions to achieve a balanced diet. </p> <p>Then, you need to make a plan according to it. While these are obviously key factors in being healthy, there are many others you need to consider to have a well-balanced and healthy lifestyle. 7 Factors of a Balanced Diet. TIPS for your dancer diet:-Water is a necessary complement of the balanced dancer diet. Disclaimer High-fiber foods tend to be more filling than low-fiber foods, so you're likely to eat less and stay satisfied longer. How much you need is not the only important thing there is. Aids in achieving healthy weight. A balanced diet is for everybody At all stages and conditions of life, we need a balanced diet that can be adapted while following the same principles, for example: Children, elderly people need a little bit more protein and calcium for growth, maintenance or repairing. </p> <p>Eating healthfully also means avoiding foods with high amounts of added salt and sugar. The type of carbohydrate in the diet is more important than the amount of carbohydrate in the diet, because some sources of carbohydrate—like vegetables (other than potatoes), fruits, whole … Selecting foods from each of these groups will ensure you are eating a nutritionally complete diet. This is as simple as it gets. Eating a balanced diet is important for maintaining an optimal weight and protecting your long-term health. </p> <p>Also, you should buy a kitchen scale and use google to check the caloric value of various foods that you consume. Eating a healthy, balanced diet is an important part of maintaining good health, and can help you feel your best. This is even more important if you will be training and rehearsing hard, so remember to carry healthy small snacks with you, to avoid low and high peaks of your metabolic rhythm. A balanced diet has to be rich in these 8 proteins. A balanced diet provides all the necessary nutrients for overall health and long life. Eating a balanced diet. Fish, meat, poultry, eggs, cheese and other foods from animal sources provide all the eight essential amino acids. </p>";s:7:"keyword";s:51:"what are the 7 things you need for a balanced diet?";s:5:"links";s:6946:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=OsloMet-%E2%80%93-storbyuniversitetet'>OsloMet – Storbyuniversitetet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joe-penny-today'>Joe Penny Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jane---jefferson-starship'>Jane - Jefferson Starship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leonard-susskind-google-scholar'>Leonard Susskind Google Scholar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scott-schiff-wife'>Scott Schiff Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lore-trailer-%282020%29'>Lore Trailer (2020)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-new-year-2020-animated-gif'>Chinese New Year 2020 Animated Gif</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fumihiko-maki-works'>Fumihiko Maki Works</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-built-dracula%27s-castle'>Who Built Dracula's Castle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pina-pellicer---biograf%C3%ADa'>Pina Pellicer - Biografía</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Street-Scene-Tangiers'>Street Scene Tangiers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wars-and-Rumors-of-Wars'>Wars And Rumors Of Wars</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kaboom-percussion-cups'>Kaboom Percussion Cups</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sometimes-you-make-choices-in-life-and-sometimes-choices-make-you-meaning'>Sometimes You Make Choices In Life And Sometimes Choices Make You Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=netflix-the-crime-cast'>Netflix The Crime Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pam-mu%C3%B1oz-ryan-esperanza-rising-summary'>Pam Muñoz Ryan Esperanza Rising Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=schisma-stephen-king'>Schisma Stephen King</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bible-verses-about-hibernation'>Bible Verses About Hibernation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-man-who-shot-liberty-valance-watch-online'>The Man Who Shot Liberty Valance Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=run-away-in-chinese'>Run Away In Chinese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fantasia-barrino-back-to-me'>Fantasia Barrino Back To Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=everlost-book-2'>Everlost Book 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-perfect-host-explanation'>The Perfect Host Explanation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=divine-foreknowledge%3A-four-views-summary'>Divine Foreknowledge: Four Views Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lake-mweru-cichlids'>Lake Mweru Cichlids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=darn-that-dream-meaning'>Darn That Dream Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dictionary-of-Composers'>Dictionary Of Composers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-was-tupac-when-he-played-in-juice'>How Old Was Tupac When He Played In Juice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wattpad-app-status'>Wattpad App Status</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mozhdah-jamalzadah-height'>Mozhdah Jamalzadah Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fortress-movie-1985'>Fortress Movie 1985</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tibco-spotfire%3A-a-comprehensive-primer-building-enterprise-grade-data'>Tibco Spotfire: A Comprehensive Primer Building Enterprise Grade Data</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=victoria-alexander-wiki'>Victoria Alexander Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alexandre-desplat-net-worth'>Alexandre Desplat Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Information-about-books'>Information About Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=godless%3A-the-church-of-liberalism'>Godless: The Church Of Liberalism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=French-songs-for-Beginners'>French Songs For Beginners</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=between-us-thai-drama'>Between Us Thai Drama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saboteur-pdf-rules'>Saboteur Pdf Rules</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hydroxyzine-for-anxiety'>Hydroxyzine For Anxiety</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=John-C-Reilly'>John C Reilly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sweet-black-wine'>Sweet Black Wine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=corey-lewandowski-net-worth'>Corey Lewandowski Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=campaign-monitor-api-php'>Campaign Monitor Api Php</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Korean-War-bayonet'>Korean War Bayonet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hot-dude-meaning'>Hot Dude Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=loser-song-2020'>Loser Song 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shaun-tan-biography'>Shaun Tan Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Omnipotence-for-the-Millions'>Omnipotence For The Millions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-four-last-things-book'>The Four Last Things Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-rita-chopra'>How Old Is Rita Chopra</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-flames-cant-hold-a-candle-to-you'>Old Flames Cant Hold A Candle To You</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-headband-avatar'>The Headband Avatar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=otto-farrant-famous-birthdays'>Otto Farrant Famous Birthdays</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=House-Tristan-Tzara'>House Tristan Tzara</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,135 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4052:"<br>It came into force on 1st June 2007 and replaces a patchwork of European Directives and Regulations with a single system. The REACH etc. <br> <br>2) Regulations 2019 (SI 2019/858) May 2019; Legal; Jurisdiction: UK. (Amendment etc.) Restriction. My Lords, these regulations concern the registration, evaluation, authorisation and restriction of chemicals, otherwise known as REACH. PE/61/2019/REV/1. REACH (EC 1907/2006) aims to improve the protection of human health and the environment through the better and earlier identification of the intrinsic properties of chemical substances. Little Pro on 2015-12-30 Views: Update:2020-01-19. January 2019. Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council … (Amendment etc.) Regulations 2020-2021; Regulations 2019-2020; Regulations 2018-2019; Regulations 2017-2018; Regulations 2016-2017; Regulations 2015-2016; Regulations 2014-2015; Regulations 2013-2014; Regulations 2012-2013; Regulations 2011-2012 Commission Regulation (EU) 2019/957 amending Annex XVII to REACH Regulation as regards (3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl) silanetriol and TDFAs Regulation (EU) 2019/1148 of the European Parliament and of the Council on the marketing and use of explosives precursors, amending Regulation (EC) 1907/2006 and repealing Regulation (EU) 98/2013 Regulations concerning test … REACH. These Regulations are made in exercise of the powers conferred by the European Union (Withdrawal) Act 2018 (c. 16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(a) to (d) and (g)) arising from the withdrawal of the United Kingdom from the European Union.  About this initiative. <br> <br>The new regulations will come into effect after a three-month transition period on 1 April 2019. (Amendment etc.) This evaluation can lead to chemicals being classed as “Substances of Very High Concern (SVHC’S)” with possible inclusion in annexe XIV of the regulations. Regulation (EC) No 1907/2006 concerning the … <br> Chemicals regulation (REACH) – safety data sheets (update) In preparation ; Draft act . Planned for. (EU Exit) Regulations 2019 (SI 2019/758) and the REACH etc. Fourth quarter 2019. It also promotes alternative methods for the hazard assessment of substances in order to reduce the number of tests on animals. <br> <br>This page provides information on REACH (Registration, Evaluation, Authorisation and restriction of CHemicals.) This is done by the four processes of REACH, namely the registration, evaluation, authorisation and restriction of chemicals. REACH Annex XVII: REACH Restricted Substance List 2020. Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (Text with EEA relevance.) You will be aware of the REACH regulations, and the evaluation of chemicals regarded as possible hazards to health or the environment. In 2019 the goal of the OEKO-TEX® Association is again to reinforce consumer protection and sustainability along the value creation chain for textiles and leather; the existing guidelines for the OEKO-TEX® product portfolio have thus been amended again for the start of the year. (EU Exit) (No. REACH entered into force on 1 st June 2007 and replaced a large number of European Directives and Regulations in a single system. Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (Text with EEA relevance.)  <br>REACH Georgia; Path2College 529 Plan; Scholarships, Grants and Loans; Financial Aid Information; Regulations. <br> <br>12 September 2019 - 10 October 2019. Feedback: Closed; Upcoming; Commission adoption . <br>";s:7:"keyword";s:22:"reach regulations 2019";s:5:"links";s:9016:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=slash-les-paul'>Slash Les Paul</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Salted-meaning-in-slang'>Salted Meaning In Slang</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-lennon-mother'>John Lennon Mother</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Joe-Piscopo-radio'>Joe Piscopo Radio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plainville-public-schools'>Plainville Public Schools</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=she-dwelt-among-the-untrodden-ways-meter'>She Dwelt Among The Untrodden Ways Meter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-josie-a-girl-or-boy-name'>Is Josie A Girl Or Boy Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Joe-R-Lansdale-bibliography'>Joe R Lansdale Bibliography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Grimm%27s-Fairy-Tale-Classics-Bluebeard'>Grimm's Fairy Tale Classics Bluebeard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backend-developer-skills-2019'>Backend Developer Skills 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kitty-terminal-themes'>Kitty Terminal Themes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bani-Adam---Coldplay'>Bani Adam - Coldplay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wheel-of-fortune-audrey-flack'>Wheel Of Fortune Audrey Flack</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=click-movie-2017'>Click Movie 2017</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1000-s-hawkins-ln%2C-goddard%2C-ks-67052'>1000 S Hawkins Ln, Goddard, Ks 67052</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-law-is-good-kjv'>The Law Is Good Kjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fate-meaning-in-biology'>Fate Meaning In Biology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-rennie-mackintosh-ebay'>Charles Rennie Mackintosh Ebay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=King-Jack-parents-guide'>King Jack Parents Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-bell-walsall'>The Bell Walsall</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-long-does-a-history-phd-take'>How Long Does A History Phd Take</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cosa-nostra-news'>Cosa Nostra News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ta%27rhonda-jones-husband'>Ta'rhonda Jones Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jack-U-Wallpaper'>Jack U Wallpaper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zhang-ziyi-2019'>Zhang Ziyi 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tilda-wickham-six'>Tilda Wickham Six</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aaliyah-brother-queen-of-the-damned'>Aaliyah Brother Queen Of The Damned</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-tall-is-victoria-everglot'>How Tall Is Victoria Everglot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-to-vietnamese-currency'>Chinese To Vietnamese Currency</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-girl-with-seven-names-pdf'>The Girl With Seven Names Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-love-meaning'>No Love Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=china-gate-menu-terrytown'>China Gate Menu Terrytown</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-barth-pdf'>John Barth Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-pratt%27s-inn-history'>Peter Pratt's Inn History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prince-cream-video'>Prince Cream Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=live-like-a-cop%2C-die-like-a-man-trailer'>Live Like A Cop, Die Like A Man Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noah%27s-ark-for-kids'>Noah's Ark For Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hallie-ephron-net-worth'>Hallie Ephron Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=teddy-geiger-emma-stone'>Teddy Geiger Emma Stone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marty-mcfly-parents'>Marty Mcfly Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-underdogs-producers'>The Underdogs Producers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-climbers-full-movie'>The Climbers Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=What-Can-I-Wear-for-Halloween%3F'>What Can I Wear For Halloween?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-canonization-as-a-love-poem'>The Canonization As A Love Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geraldine-somerville-age'>Geraldine Somerville Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clorox-fuzion-reviews'>Clorox Fuzion Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-really-happened-book'>What Really Happened Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=graduated-sleigh-bells'>Graduated Sleigh Bells</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seventeen-moments-in-spring'>Seventeen Moments In Spring</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yellow-claw-remix'>Yellow Claw Remix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=family-sabbatical-meaning'>Family Sabbatical Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=use-of-got'>Use Of Got</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=passion-flower-uses'>Passion Flower Uses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phantom-4-price'>Phantom 4 Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-byrne-artist-website'>John Byrne Artist Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=high-and-tight-haircut'>High And Tight Haircut</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shipwreck-at-the-bottom-of-the-world-chapter-1'>Shipwreck At The Bottom Of The World Chapter 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=probability-in-computer-networking'>Probability In Computer Networking</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angel-rose-tattoo'>Angel Rose Tattoo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-nest-movie-2018'>The Nest Movie 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tang-wei-husband'>Tang Wei Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gehry-residence-visit'>Gehry Residence Visit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-new-year-2020-animated-gif'>Chinese New Year 2020 Animated Gif</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Clementine-vs-tangerine-nutrition'>Clementine Vs Tangerine Nutrition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brown-sugar-book-online'>Brown Sugar Book Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=X-23-movie'>X 23 Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-don%27t-have-enough-faith-to-be-an-atheist-summary'>I Don't Have Enough Faith To Be An Atheist Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=veronica-roth-childhood'>Veronica Roth Childhood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=twiggy-60s-makeup'>Twiggy 60s Makeup</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chanel-2020---shoes'>Chanel 2020 - Shoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rivers-Cuomo-Instagram'>Rivers Cuomo Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stuffed-peppers-chicken'>Stuffed Peppers Chicken</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=union-station-pittsburgh'>Union Station Pittsburgh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=travis-knight-laika'>Travis Knight Laika</a>,
+";s:7:"expired";i:-1;}

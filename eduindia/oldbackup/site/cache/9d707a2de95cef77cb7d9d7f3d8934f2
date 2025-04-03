@@ -1,0 +1,105 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2383:"<br> <br>Sonnet 71: No longer mourn for me when I am dead By William Shakespeare About this Poet While William Shakespeare’s reputation is based primarily on his plays, he became famous first as a poet. ... Sonnet 71. Sonnet 85. Sonnet 83. <br> <br>Astrophil and Stella is one of Elizabethan poetry’s finest achievements. Sonnet 86. Sonnet 84. William Shakespeare wrote "Sonnet 71" in the 1590s as part of his "Fair Youth" sonnet sequence, which details the speaker's romantic relationship with an anonymous lover. From the creators of SparkNotes, something better. Only two sonnets before, in Sonnet 72, he wrote of shame and characterized his verse as worthless: "For I am shamed by that which I bring forth, / And so should you, to love things nothing worth." Sonnet 79. Sonnet 78. Sonnet 75. <br> Sonnet 72. <br> <br>Literature Guides Poetry Guides Literary Terms Shakespeare Translations Sign In Sign Up. But here in Sonnet 74, he claims that his verse has worth because it contains images of … Who will in fairest book of Nature know How virtue may best lodged in beauty be, Let him but learn of love to read in thee, Stella, those fair lines which true goodness show. Sonnet 82. Sonnet 74. Sonnet 71 seems straightforward in its meaning, but it has attracted very different reactions and interpretations.  Sonnet 77. Whoever hath her wish, thou hast thy 'Will,' 1: And 'Will' to boot, and 'Will' in over-plus; More than enough am I that vex'd thee still, To thy sweet will making addition thus. On its own, "Sonnet 71" functions as a love poem in which the speaker urges the lover not to … Sonnet 80. <br> <br>Sonnet 73. Sonnet 76. <br> <br>Sonnet 81. Sonnet 88. Sonnets 71 - 4 are a group which anticipate the poet's death and speculate on the memory which might remain after him in the mind of his beloved. There shall he find all vices’ overthrow, Astrophil and Stella, Sonnet 71. A summary of a classic Sidney poem. <br> <br>Sonnet 87. <br> <br>Posted on March 20, 2015 by Jonathan Smith. It is appropriate that the group should be placed here, because, with 70 sonnets completed, the poet has figuratively reached the end of his alloted span of three score and ten years. <br> <br>No longer mourn for me when I am dead: 1: Than you shall hear the surly sullen bell: Give warning to the world that I am fled: From this vile world with vilest worms to dwell: <br>";s:7:"keyword";s:20:"sonnet 71 sparknotes";s:5:"links";s:5532:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lace-up-knee-boots'>Lace Up Knee Boots</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kondaveeti-raja-release-date'>Kondaveeti Raja Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=laurie-bird-grave'>Laurie Bird Grave</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=master-of-magic-retorts'>Master Of Magic Retorts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saint-anthony-tormented-by-demons'>Saint Anthony Tormented By Demons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Sunflower-questions-and-answers'>The Sunflower Questions And Answers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=obic%C3%A0-canary-wharf'>Obicà Canary Wharf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=constantinople-at-first-resembled-cities-in-the-roman-empire-because'>Constantinople At First Resembled Cities In The Roman Empire Because</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=czech-republic-tourism'>Czech Republic Tourism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-did-mandarins-do'>What Did Mandarins Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lee-sin-combos'>Lee Sin Combos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=courtyard-marriott-kahului'>Courtyard Marriott Kahului</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shape-up-meaning'>Shape Up Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alden-ehrenreich-shows'>Alden Ehrenreich Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Eternal-Atake-release-date'>Eternal Atake Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jen-taylor-%28cortana%29'>Jen Taylor (cortana)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kensho-ono-giorno'>Kensho Ono Giorno</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kishou-taniyama-and-mamoru-miyano'>Kishou Taniyama And Mamoru Miyano</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-james-barile'>Richard James Barile</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=principles-of-soil-conservation'>Principles Of Soil Conservation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-heckman-google-scholar'>James Heckman Google Scholar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-kay-inventor'>John Kay Inventor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buck-henry-quotes'>Buck Henry Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=god-slayer-book-4'>God Slayer Book 4</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meaning-of-alcatraz'>Meaning Of Alcatraz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interstella-5555-watch-online'>Interstella 5555 Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nadja-spiegelman-instagram'>Nadja Spiegelman Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=agnikula-kshatriya-in-telugu'>Agnikula Kshatriya In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=review-of-flaubert%27s-parrot'>Review Of Flaubert's Parrot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Go-Soo-wife'>Go Soo Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=french-foreign-legion-age-limit'>French Foreign Legion Age Limit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ink-master-season-11-winner'>Ink Master Season 11 Winner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pacific-fire-plant'>Pacific Fire Plant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=an-extraordinary-egg-activities'>An Extraordinary Egg Activities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beniamino-gigli-death'>Beniamino Gigli Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maggie-and-milly-and-molly-and-may-topic'>Maggie And Milly And Molly And May Topic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=someone-is-calling-me-from-an-unknown-number'>Someone Is Calling Me From An Unknown Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yamato-ramen-machine-price'>Yamato Ramen Machine Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=corey-lewandowski-net-worth'>Corey Lewandowski Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marcio-kogan-net-worth'>Marcio Kogan Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gotham-by-gaslight'>Gotham By Gaslight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whom-the-gods-would-destroy-they-first-make-mad-meaning'>Whom The Gods Would Destroy They First Make Mad Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lord-quotes-and-sayings'>Lord Quotes And Sayings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Switzerland-before-ww2'>Switzerland Before Ww2</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,117 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5533:"<br>Find the dimensions of the rectangle of maximum area that can be inscribed in a circle of radius r. Show, in fact, that that area will be 2r 2. Right Circular Cones. <br> <br>Right Circular Cone Calculator. <br> <br> <br>The problem of a right circular cylinder or cone of incompressible elastic material is of possible practical interest in the rubber industry. <br> <br>Width is equal to 6 cm. Find the surface area of a cube if the length of one side is equal to 5 cm. <br> <br>The formula for the total surface area contains the lateral surface area formula, which is:. A Cone is a three-dimensional shape with a single vertex and having a circular base. That figure is a square. It will also calculate those properties in terms of PI π. A truncated cone is the cone with the top cut off, with a cut perpendicular to the height. Enter radius of circle (r) and height (h) Radius (r) Height (h) Enter radius circle (r) and lateral (l) Radius (r) Lateral height (l) Definition. The perpendicular height of the cone is h, X denotes the centre of its base and B a point where the cone touches the sphere. <br> <br>These unique features make Virtual Nerd a viable alternative to private tutoring. This is a right circular cylinder where the top and bottom surfaces are parallel but it is commonly referred to as a "cylinder." Virtual Nerd's patent-pending tutorial system provides in-context information, hints, and links to supporting tutorials, synchronized with videos, each 3 to 7 minutes long. Use our free online app Right Circular Cone Calculator to determine all important calculations with parameters and constants. The lateral surface area of a three-dimensional shape is the area that can you see from a side-on view. Find the base radius length of a right cylinder if the surface area is $256$ square meters and the height is $18$ meters. <br> <br>Volume of a partial circular cone. Calculator Use. Volume of an elliptic cone. You can calculate frustum volume by subtracting smaller cone volume (the cut one) from the bigger base one, or use the formula: volume = (1/3) * π * depth * (r² + r * R + R²), where R is a radius of the base of a cone, and r of top surface radius Enter radius of circle (r) and height (h) Radius (r) Height (h) Enter radius circle (r) and lateral (l) Radius (r) Lateral height (l) Definition. To find the height of the triangle, we must find the slant height on that side of the triangle. <br> <br>Free Cone Volume & Radius Calculator - calculate cone volume, radius step by step This website uses cookies to ensure you get the best experience. Right Circular Cones. Surface area of a cone The surface area formula for a cone, given its diameter (or radius) and height is π x (diameter / 2) 2 + π x (diameter / 2) x √ ((diameter / 2) 2 + (height 2 )) , where (diameter / 2) is the radius of the base (d = 2 x r), so another way to write it is π … The results for a right circular cylinder rotating about its axis are already available in [I], but for a right circular cone, so far as the knowledge of the present author goes, no results are available. <br> This online calculator will calculate the various properties of a cylinder given 2 known values. Finding the lateral area, A_L, of a right circular cone. In this non-linear system, users are free to take whatever path through the material best serves their needs. <br> <br>Volume of an elliptic truncated cone… Enter radius and height and choose the number of decimal places. The surface area of the cube is 150 cm 2. Cone - a flat based three dimensional figure that consists of a flat base and a right angled axis that passes from the base to the apex. <br> <br>A can is to be constructed in the form of a right circular cylinder. <br> <br>By using this website, you agree to our Cookie Policy. Length is equal 5 cm. The opening angle is the angle at the tip, the base angle is the angle between slant line and base. Volume of a right cylinder Calculator . <br> <br>lateral area F . <br> <br>Calculations at a right circular cone. The slant height can be found through solving for the hypotenuse of a right triangle on the interior of the pyramid. <br> <br>The formula to use to find the surface area of cube is 6a 2. <br> <br>Volume of a circular truncated cone. Example #2. In geometry, cone is a solid or hollow object with a round flat base and sides that slope up to a top point. The surface area of a cone is a measure of the total area that the surface of cone occupies. Right Circular Cone Calculator. A_L … <br> <br>Find the lateral area of a silo $20$ meters tall with the base radius length of $5$ meters. Volume of a truncated circular cone not a frustum. <br> <br>Questionnaire. r = radius h = height s = slant height V = volume L = lateral surface area B = base surface area A = total surface area π = pi = 3.14159 √ = square root A right circular cone is a geometric solid formed by all lines drawn from a circular base and terminating at a common point called the vertex, which is located above the center of the circular base.A perpendicular line drawn from the vertex to the center of the base is called the height of the cone.. The slant height is the distance between tip and base edge, the lateral surface is the surface without the base. The dimensions of a rectangular prism are shown below. This cone calculator can help you calculate the volume, surface area, base & lateral surface area, radius or height & slant height of a right circular cone if you provide the required dimensions. <br>";s:7:"keyword";s:34:"right circular cone calc: find a_l";s:5:"links";s:7034:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pan-Book-of-Horror-Stories-contents'>Pan Book Of Horror Stories Contents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-restaurants-coming-to-yuma%2C-az-2019'>New Restaurants Coming To Yuma, Az 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ming-Wah-menu'>Ming Wah Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=twas-brillig%2C-and-the-slithy-toves-song'>Twas Brillig, And The Slithy Toves Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sorry-for-bothering-you'>Sorry For Bothering You</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Intruders-movie-2011'>Intruders Movie 2011</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aurora-car-2018'>Aurora Car 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=national-lifeline-phone-number'>National Lifeline Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-brother-is-a-big%2C-fat-liar-summary'>My Brother Is A Big, Fat Liar Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-butterworth-morris'>George Butterworth Morris</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=suge-%28clean-1-hour%29'>Suge (clean 1 Hour)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cross-learning-synonym'>Cross Learning Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-loch-series-2'>The Loch Series 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-arthur-photos'>Jean Arthur Photos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dirk-Nowitzki-retirement'>Dirk Nowitzki Retirement</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-to-do-if-an-unknown-number-calls-you'>What To Do If An Unknown Number Calls You</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ken-lawson-death'>Ken Lawson Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaac-bonga-point-guard'>Isaac Bonga Point Guard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=annie-costner-husband'>Annie Costner Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-version-of-the-art-of-war-for-business'>Best Version Of The Art Of War For Business</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mermaid-fish-and-chips-barnsley'>Mermaid Fish And Chips Barnsley</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pismo-do-amerika-film-online'>Pismo Do Amerika Film Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chris-Lilley-Bumble'>Chris Lilley Bumble</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=international-meatball-day-2020'>International Meatball Day 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-seagram-building'>The Seagram Building</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bind-Valorant-map'>Bind Valorant Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-cloud-2-android'>Dark Cloud 2 Android</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-asgard-in-the-milky-way'>Is Asgard In The Milky Way</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leave-for-sub-inspector'>Leave For Sub Inspector</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=etsu-basketball-news'>Etsu Basketball News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pug-pool-party'>Pug Pool Party</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-happy-hours-west-des-moines'>Best Happy Hours West Des Moines</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=switchblade-sisters-tarantino'>Switchblade Sisters Tarantino</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anthony-eden-garment'>Anthony Eden Garment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-fletcher-quotes'>Alan Fletcher Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=like-a-boss-casa-blanca'>Like A Boss Casa Blanca</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=max-lucado-bookstore'>Max Lucado Bookstore</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edc-knife-australia'>Edc Knife Australia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sorry-for-bothering-you'>Sorry For Bothering You</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nadine-cera-instagram'>Nadine Cera Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fantasia-barrino-back-to-me'>Fantasia Barrino Back To Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-the-aisle-lyrics-the-five-satins'>To The Aisle Lyrics The Five Satins</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=damage-control-navy'>Damage Control Navy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ballad-of-Songbirds-and-Snakes-characters-in-Hunger-Games'>Ballad Of Songbirds And Snakes Characters In Hunger Games</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mirror-mirror-poem'>Mirror Mirror Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elk-city-tornado-2019'>Elk City Tornado 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=word-on-fire-daily-mass-today'>Word On Fire Daily Mass Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=overthrow-of-the-hawaiian-kingdom'>Overthrow Of The Hawaiian Kingdom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Whispers-series-2020'>Whispers Series 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=facts-about-lauren-child'>Facts About Lauren Child</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bob%27s-burgers-season-9-episode-16-cast'>Bob's Burgers Season 9 Episode 16 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vehicle-cruising-solihull'>Vehicle Cruising Solihull</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=give-me-the-child-meme'>Give Me The Child Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spongebob-tumbleweed-gif'>Spongebob Tumbleweed Gif</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sexually-victimized-children'>Sexually Victimized Children</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=importance-of-eating-breakfast-for-students'>Importance Of Eating Breakfast For Students</a>,
+";s:7:"expired";i:-1;}

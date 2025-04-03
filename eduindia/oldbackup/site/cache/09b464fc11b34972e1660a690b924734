@@ -1,0 +1,87 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3220:"<p>They recommend authenticating with OAuth(using Client ID and Client Secret), however they also support authenticating with an API key. The Campaign Monitor Optin Cat WordPress Plugin lets you create gorgeous Campaign Monitor sign-up forms to your WordPress site in minutes. Depending on the environment you are developing in, you may wish to use a PHP OAuth library to get access tokens for your users. The Campaign Monitor API supports authentication using either OAuth or an API key. This module provides An wrapper for createsend-php, the library help us connect with CampaignMonitor service. Using OAuth. Campaign Monitor for WordPress allows your visitors to sign up to lists in your campaignmonitor.com account, so you can create, send and measure the impact of your email marketing campaigns.. With our plugin, you can create and customize subscribe forms from your WordPress dashboard, decide when and where to show them, and A/B test which one attracts more subscribers. Common uses of the API include: *Automatically sync subscribers between Campaign Monitor and a third party tool. Description. They recommend authenticating with OAuth(using Client ID and Client Secret), however they also support authenticating with an API key. The subscriber data is then passed into a processing queue in Campaign Monitor to be added. </p> <p>Graham ... How to import and set up a custom HTML email for Campaign Monitor - Duration: 3:32. To get Client ID and Client Secret 1. login to campaignmonitor account 2. go to Account Settings(top left)->Manage connected apps( on the right hand side. Rules actions Lists widget for textfields Install Install this module like any other Drupal modules: download it to ./sites/all/modules/ Run drush atr to download dependencies. The Campaign Monitor API allows users to interact and "sync" with their Campaign Monitor account via simple web-based methods. A PHP library for the Campaign Monitor API PHP 101 274 27 8 Updated Jun 24, 2020. woo-commerce-plugin PHP 0 0 0 0 Updated Jun 18, 2020. createsend-ruby A Ruby library for the Campaign Monitor API Ruby MIT 63 119 6 3 Updated May 29, 2020. forms-for-campaign-monitor - createsend-oauth.php This library helps you authenticate using OAuth, as described in the Campaign Monitor API documentation. Description. See why 250,000 companies worldwide love Campaign Monitor. API Documentation. Gutenberg Compatible. Campaign Monitor for WordPress allows your visitors to sign up to lists in your campaignmonitor.com account, so you can create, send and measure the impact of your email marketing campaigns.. With our plugin, you can create and customize subscribe forms from your WordPress dashboard, decide when and where to show them, and A/B test which one attracts more subscribers. The Campaign Monitor API currently supports two methods of authentication. From Australia to Zimbabwe, and everywhere in between, companies count on Campaign Monitor for email campaigns that boost the bottom line. Simply create your optin form, then add your Campaign Monitor block to your website. Uses the createsend-php library as well as the Slim PHP micro framework (but could easily be adapted for use with any PHP framework). </p> <p></p>";s:7:"keyword";s:24:"campaign monitor api php";s:5:"links";s:3296:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Driving-to-Mexico'>Driving To Mexico</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we-are-the-fallen-band'>We Are The Fallen Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paper-shredder-popular'>Paper Shredder Popular</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=son-of-abhimanyu'>Son Of Abhimanyu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-pam-beesly'>How Old Is Pam Beesly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blink-182---dude-ranch-vinyl'>Blink-182 - Dude Ranch Vinyl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=running-wild-merchandise'>Running Wild Merchandise</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flower-painting-easy-step-by-step'>Flower Painting Easy Step By Step</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eugenio-recuenco-book'>Eugenio Recuenco Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joris-ivens-lluvia'>Joris Ivens Lluvia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jennifer-rowe-author'>Jennifer Rowe Author</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=getter-robo-wiki-getter-emperor'>Getter Robo Wiki Getter Emperor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-brookes-cartoonist-times'>Peter Brookes Cartoonist Times</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dragons-blood-oil'>Dragons Blood Oil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-osgood-death'>Charles Osgood Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dervla-kirwan-children'>Dervla Kirwan Children</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gangster-warlords%3A-drug-dollars%2C-killing-fields-and-the-new-politics-of-latin-america'>Gangster Warlords: Drug Dollars, Killing Fields And The New Politics Of Latin America</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lori-singer-fame'>Lori Singer Fame</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Caravan-of-Courage-streaming'>Caravan Of Courage Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-joie-lee-married'>Is Joie Lee Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-hartman-kindness-101-courage'>Steve Hartman Kindness 101 Courage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rooms-to-rent-suffolk'>Rooms To Rent Suffolk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kierkegaard-fear-and-trembling'>Kierkegaard Fear And Trembling</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fight-the-good-fight-of-faith-kjv'>Fight The Good Fight Of Faith Kjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leicester-hemingway-cause-of-death'>Leicester Hemingway Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=choi-woo-shik-tv-shows'>Choi Woo-shik Tv Shows</a>,
+";s:7:"expired";i:-1;}

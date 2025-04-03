@@ -1,0 +1,160 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2971:"<p>A Facebook carousel post or ad is a creative way to get more content into a smaller space. If you’ve never created a Facebook Carousel Ad template, we recommend you do this via … Facebook carousel ads are an ad format that allows you to combine 3-5 ads into a single scrollable ad unit. </p> <p>Twitter is testing a new ad unit, the Promoted Tweet Carousel, which is similar to the carousel ads that have proven successful on Facebook and Instagram. </p> <p>Each product or image has its description and link that takes people to a landing page.  Carousels let you showcase up to 10 images or videos in one ad, without having the user navigate to a new page.. Carousels can appear in six different places on Facebook: the main Facebook feed, the right column, instant articles, Facebook Marketplace, the Facebook Audience Network, and Facebook Messenger. </p> <p>Overview What is a Facebook Carousel Ad? A carousel is a good option for advertisers who sell many different types of products and want to put more than 1 product in front of their audience. According to data shared by Facebook, campaigns with carousel ads resulted in 30-50% lower cost-per-conversion and 20-30% lower cost-per-click than single-image ads. The Facebook carousel ads format enables you, across both Facebook and Instagram, to show 5-10 images or video, headlines, and links or calls to action in a single ad unit. You’ve probably seen carousel ads pop up in your newsfeed but … </p> <p>Before we answer that question, we need to understand what is a carousel ad. Guide to Creating Carousel Ads on Facebook. If you want to do a lot with one ad unit, Facebook’s carousel ads are a great option. Pic Credit: advertisemint.com Note: The Carousel format supports the following ad placements: Facebook Feed, Facebook Right Column, Facebook Instant Articles, Facebook Marketplace, Instagram Stories, Instagram Feed, Audience Network Native, Banner and Interstitial, and Messenger Box. What Are Facebook Carousel Ads? By David Cohen June 3, 2016 You can feature five unique images, each with different headlines, descriptions, and URLs all within the same story. </p> <p>Try optimizing your ads and experiment with the ad card series. Another interesting fact about carousel ads is that they’re displayed strategically on Facebook. A carousel ad, or a Multi-product ad, is a type of ad which will enable businesses to showcase three products within a single ad unit, on desktop or mobile. </p> <p>The carousel format allows you to create ads on Facebook that include many images and/or videos. Facebook carousel ads include multiple images and videos (up to 10), which users can browse with a swipe-through menu. When people see your ad, they can swipe through each image/video. Are Facebook Carousel Ads worth it? Facebook carousel ads size. Publish a carousel post or ad as an organic story on your page wall and/or an ad unit; either can easily be viewed on desktop and mobile. </p>";s:7:"keyword";s:25:"carousel ad unit facebook";s:5:"links";s:12798:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-high-mountains-of-portugal-discussion'>The High Mountains Of Portugal Discussion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Grade-3-English-worksheets'>Grade 3 English Worksheets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-man-from-taured-pdf'>The Man From Taured Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mission-road-ministries-reviews'>Mission Road Ministries Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=columbine-flower-care'>Columbine Flower Care</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=map-of-lake-erie'>Map Of Lake Erie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scafell-pike-summit'>Scafell Pike Summit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=good-bye-meaning-in-telugu'>Good Bye Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we-want-you-poster-woman'>We Want You Poster Woman</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-did-pippi-the-thing-finder-do-with-the-can-she-found'>What Did Pippi The Thing-finder Do With The Can She Found</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clifford-the-small-red-puppy-book'>Clifford The Small Red Puppy Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nikita-krylov-record'>Nikita Krylov Record</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=malcolm-jamal-warner-2020'>Malcolm-jamal Warner 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greenville%2C-nc-population'>Greenville, Nc Population</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dietrich-bonhoeffer-siblings'>Dietrich Bonhoeffer Siblings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Old-fashioned-sandwiches'>Old Fashioned Sandwiches</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-explorer%27%3A-kipling'>The Explorer': Kipling</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-invincible-swordsman---2019-chinese-new-action-fantasy-kung-fu-martial-arts-full-movies-hd-%2313'>The Invincible Swordsman - 2019 Chinese New Action Fantasy Kung Fu Martial Arts Full Movies Hd #13</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Northern-Ireland-flag-image'>Northern Ireland Flag Image</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Push-dagger-California'>Push Dagger California</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Korean-War-bayonet'>Korean War Bayonet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mean-girls-broadway-tour'>Mean Girls Broadway Tour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaiah-43%3A19-nkjv'>Isaiah 43:19 Nkjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=time-travel-romance-imdb'>Time Travel Romance Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dorothy-draper-rendered-perspective-drawing'>Dorothy Draper Rendered Perspective Drawing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=excavation-book-american-dirt'>Excavation Book American Dirt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caroline-fitzgerald-rmf'>Caroline Fitzgerald Rmf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Emerald-Falls-band'>Emerald Falls Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shang-dagger-facts'>Shang Dagger Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-antin-burlesque'>Steve Antin Burlesque</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pedro-guerrero-composer'>Pedro Guerrero Composer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=swift-basecamp-plus-2020'>Swift Basecamp Plus 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mercenaries-PC-Download'>Mercenaries PC Download</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hong-kong-airlines-flight-status'>Hong Kong Airlines Flight Status</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=music-bed-customer-service-number'>Music Bed Customer Service Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=genetics-poem-analysis'>Genetics Poem Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-schulz-signed-art'>Charles Schulz Signed Art</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soul-detox-small-group-study'>Soul Detox Small Group Study</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apache-engineering-jobs'>Apache Engineering Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barrow-neurological-institute-neurosurgery'>Barrow Neurological Institute Neurosurgery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=appleseed-xiii-episodes'>Appleseed Xiii Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-meant-by-3-characters%3F'>What Is Meant By 3 Characters?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cece-halpert-2020'>Cece Halpert 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-to-eat-for-breakfast%2C-lunch-and-dinner-to-stay-healthy'>What To Eat For Breakfast, Lunch And Dinner To Stay Healthy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Van-nistelrooy-number'>Van Nistelrooy Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=100-trillion-zimbabwe-dollars'>100 Trillion Zimbabwe Dollars</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-did-jack-davis-parents-do-for-a-living'>What Did Jack Davis Parents Do For A Living</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=l%C3%A9o-laurent-father'>Léo Laurent Father</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-man-who-wouldn%27t-die-cast'>The Man Who Wouldn't Die Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=platform-pumps-sandals'>Platform Pumps Sandals</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crooked-river-characters'>Crooked River Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=earthworm-jim-3d-ps1'>Earthworm Jim 3d Ps1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julian-the-apostate-against-the-galileans-pdf'>Julian The Apostate Against The Galileans Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unaccommodating-meaning-eminem'>Unaccommodating Meaning Eminem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-to-insert-cube-root-symbol-in-Excel'>How To Insert Cube Root Symbol In Excel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=international-union-of-police-associations-west-allis-wi'>International Union Of Police Associations West Allis Wi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=map-of-lake-erie'>Map Of Lake Erie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devilman-anime-movie'>Devilman Anime Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Morning-Sun-Pok%C3%A9mon'>Morning Sun Pokémon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eaten-alive-documentary'>Eaten Alive Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shelly-laurenston-upcoming-books'>Shelly Laurenston Upcoming Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=karim-rashid-designs'>Karim Rashid Designs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1948-in-film'>1948 In Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=factories-of-death%3A-japanese-biological-warfare%2C-1932-45-and-the-american-cover-up'>Factories Of Death: Japanese Biological Warfare, 1932-45 And The American Cover-up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-hui-horses'>Michael Hui Horses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=happy-together-letterboxd'>Happy Together Letterboxd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dod-stop-loss'>Dod Stop Loss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scarface-wallpaper-palm-trees'>Scarface Wallpaper Palm Trees</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-window-movie'>The Window Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=summit-viper-steel'>Summit Viper Steel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gold-mining-stocks'>Gold Mining Stocks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-seagram-building'>The Seagram Building</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Garth-Brooks-Goodnight-Saigon'>Garth Brooks Goodnight Saigon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=southern-cross-magazine'>Southern Cross Magazine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rumble-fish-essay'>Rumble Fish Essay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-easter-1865'>Black Easter 1865</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nursery-myths-roblox'>Nursery Myths Roblox</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wasted-years-2019'>Wasted Years 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-solo-on-piano'>How To Solo On Piano</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=feng-qingyang-vs-dongfang-bubai'>Feng Qingyang Vs Dongfang Bubai</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rise-up-game-y8'>Rise Up Game Y8</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=christian-mccaffrey-college-highlights'>Christian Mccaffrey College Highlights</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=danny-mann-voice-actor'>Danny Mann Voice Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jimmy-Fallon-office'>Jimmy Fallon Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seth-godin%3A-the-tribes-we-lead-ted-talk-summary'>Seth Godin: The Tribes We Lead Ted Talk Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=floorman-jobs-in-kuwait'>Floorman Jobs In Kuwait</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liberty-wilson-rough-patch'>Liberty Wilson Rough Patch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-wild-hearts-can%27t-be-broken-on-hulu'>Is Wild Hearts Can't Be Broken On Hulu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kauai-map-attractions'>Kauai Map Attractions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-designed-the-edge-amsterdam'>Who Designed The Edge Amsterdam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=does-leslie-jones-have-siblings'>Does Leslie Jones Have Siblings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-canonization-as-a-love-poem'>The Canonization As A Love Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fatal-contact-%282006-full-movie-english%29'>Fatal Contact (2006 Full Movie English)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-rogers%2C-actor'>Paul Rogers, Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tripadvisor-restaurants-in-beijing'>Tripadvisor Restaurants In Beijing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jade-castrinos-jakob-dylan'>Jade Castrinos Jakob Dylan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=imagism-in-literature-pdf'>Imagism In Literature Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marianela-n%C3%BA%C3%B1ez-instagram'>Marianela Núñez Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shawn-pyfrom-net-worth'>Shawn Pyfrom Net Worth</a>,
+";s:7:"expired";i:-1;}

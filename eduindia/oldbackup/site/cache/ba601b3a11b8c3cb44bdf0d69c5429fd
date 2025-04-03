@@ -1,0 +1,86 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2585:"<br>This book tells the amazing story of Emmanuel's 400-mile journey on his bicycle and his campaign to help other people with disabilities. Learn vocabulary, terms, and more with flashcards, games, and other study tools. Emmanuel's Dream printable vocabulary scaffold guide pairs 10 challenge words from the story with short definitions and easy to understand pictures. Born in Ghana, West Africa, with one deformed leg, he was dismissed by most people—but not by his mother, who taught him to reach for his dreams. To learn more about Read for Success, click here. About Emmanuel’s Dream: The True Story of Emmanuel Ofosu Yeboah. People do not hesitate to label him as a disabled person. Read Emmanuel's Dream: The True Story of Emmanuel Ofosu Yeboah by Laurie Ann Thompson with your students and complete this worksheet with vocabulary, figurative language, comprehension questions, and written response activity. His father left, but his mother stayed strong. Emmanuel's Dream written by Laurie Ann Thompson; illustrated by Sean Qualls 2015 (Schwartz and Wade Books) Source: Review copy provided by the publisher Emmanuel was born with only one strong leg. Emmanuel Ofosu Yeboah’s inspiring true story—which was turned into a film, Emmanuel’s Gift, narrated by Oprah Winfrey—is nothing short of remarkable. This book is part of the Read for Success collection. Great for opening up discussion and improving writing skills! <br> <br>Emmanuel’s Dream raises many questions about disability, and they alone are more than enough for a deep discussion.  To start with, baby Emmanuel is regarded as a curse because he is missing a leg. Start studying Vocabulary for Emmanuel's Dream. <br> <br> <br>Emmanuel’s Dream: The True Story of Emmanuel Ofosu Yeboah Written by Laurie Ann Thompson, Illustrated by Sean Qualls Publisher’s Summary: Born in Ghana, West Africa, with one deformed leg, he was dismissed by most people--but not by his mother, who taught him to reach for his dreams. This Critical Thinking Interactive Read Aloud of Emmanuel's Dream: The True Story of Emmanuel Ofosu Yeboah by Laurie Ann Thompson & Sean Qualls provides the thought-provoking questions, essential to every interactive read aloud, and uses the Revised Bloom’s … <br> Though he was born with a physical disability, Emmanuel quickly proves that he is just as capable as everyone else. Use this guide to pique students' interests, put words in context, and aid reading comprehension. Emmanuel's Dream is a beautifully written and illustrated picture book biography for K-5 students. <br>";s:7:"keyword";s:27:"emmanuel's dream vocabulary";s:5:"links";s:3118:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-carry-your-heart-canvas-print'>I Carry Your Heart Canvas Print</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=After-the-Ordeal'>After The Ordeal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Touched-by-an-Anglo'>Touched By An Anglo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-was-christopher-latham-sholes-born'>Where Was Christopher Latham Sholes Born</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chen-long-and-wang-shixian'>Chen Long And Wang Shixian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adventure-romance-books-for-adults'>Adventure Romance Books For Adults</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-pronounce-what-is-your-name'>How To Pronounce What Is Your Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=savage-rifles-2019'>Savage Rifles 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stoned-and-alone'>Stoned And Alone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seal-puns-names'>Seal Puns Names</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=facts-about-alexander-calder'>Facts About Alexander Calder</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mc-teague-frank-norris'>Mc Teague Frank Norris</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=your-time-is-limited-steve-jobs-wallpaper'>Your Time Is Limited Steve Jobs Wallpaper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-rettendon-murders-film'>The Rettendon Murders Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amy-sun-instagram'>Amy Sun Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=monsterville%3A-cabinet-of-souls-where-to-watch'>Monsterville: Cabinet Of Souls Where To Watch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jessica-Walsh-logo'>Jessica Walsh Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nielsen-norman-group-ux-certification-reviews'>Nielsen Norman Group Ux Certification Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cyprichromis-leptosoma-mpulungu'>Cyprichromis Leptosoma Mpulungu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plac-europejski-4a'>Plac Europejski 4a</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moira-forbes-macpac'>Moira Forbes Macpac</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nils-udo-interview'>Nils Udo Interview</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-promise-of-joy'>The Promise Of Joy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kate-green-linkedin'>Kate Green Linkedin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-hold-a-sword'>How To Hold A Sword</a>,
+";s:7:"expired";i:-1;}

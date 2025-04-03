@@ -1,0 +1,100 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5259:"<br>Thanks to its energy-saving building design and usage of geothermal and solar energy it … Designed on the basis of innovative circular principles, EDGE buildings are ultra-durable, user-focused and aim to address two major challenges: improving global sustainability and unleashing human potential. The Edge, designed by PLP Architects, will be the new shared headquarters of Deloitte and AKD. The Edge is certifiably the cleanest and most connected large office space in the world. All told, the Edge is packed with some 28,000 sensors. EDGE Technologies owns The EDGE Olympic headquarters in Amsterdam is a state-of-the-art and smart building. <br> <br>Amsterdam, capital of the Netherlands, has more than one hundred kilometers of grachten (), about 90 islands and 1,500 bridges.The three main canals (Herengracht, Prinsengracht and Keizersgracht), dug in the 17th century during the Dutch Golden Age, form concentric belts around the city, known as the Grachtengordel.Alongside the main canals are 1550 monumental buildings.  <br>It was designed for the global financial firm and main tenant, Deloitte. Images by Ronald Tilleman, Raimond Wouda, Horizon Photoworks. “EDGE Amsterdam West will meet and exceed the highest possible requirements of a building in terms of functionality, sustainability, technology and in providing a healthy environment. Developed by OVG Real Estate and designed by PLP Architecture, 40,000 square metres The Edge office building sets new standards in terms of sustainability, smart building and building user experience. Deloitte Amsterdam HQ: ‘The Edge’ Designed by Ron Bakker, Deloitte’s ‘The Edge’ in Amsterdam is the most sustainable office building in the world.The office uses 70% less electricity than your typical office and produces more energy than it consumes.It also makes use of a special kind of LED lighting that actively transmits data and monitors the environment. The project is one of the most innovative and energy-efficient commercial buildings in the world. About the Edge, it is a 40,000-meter squares office building in the Zuidas business district in Amsterdam completed in 2014. The Edge is located in ZuidAs, Amsterdam and is currently considered the greenest building in the world, according to the BREEAM green building certification scheme. <br> <br>Winning the highest ­sustainability score ever awarded: 98.4 percent, by British rating agency BREEAM, The Edge is, according to their parameters, the ­greenest office building in the world!  <br> <br>It will meet the highest sustainability standards and is a key development in this area of Amsterdam. PLP Architecture was commissioned to design The Edge, Deloitte’s new offices in Zuidas, Amsterdam’s business centre. The building has been given the highest ­sustainability score ever awarded: 98.4%. The ambition of the project was two-fold: to consolidate Deloitte’s employees, previously spread around multiple buildings throughout the city, within a single environment; and to create a ‘smart building’, intended as a catalyst for Deloitte’s transition into the digital age. Project Description. Completed in 2015 in Amsterdam, The Netherlands. It might not have been chosen as the most beautiful building in the world but the Dutch know what’s what when it comes to innovation and sustainability. The purpose of building the Edge was gathering Deloitte’s employees collaborating in one place instead of separating in the city. In 2009 PLP was invited to design The Edge, Deloitte’s new offices in Zuidas, Amsterdam’s business centre. “We think we can be the Uber of buildings,” says Coen van Oostrom, chief executive officer of OVG Real Estate, the building’s developer. The building’s orientation is based on the sun’s movement throughout the day, with the intention of generating maximum energy savings. It is located in the Zuidas area of Amsterdam … PLP Architecture was commissioned to design The Edge, Deloitte’s new offices in Zuidas, Amsterdam’s business centre. <br> The ambition of the project was two-fold: to consolidate Deloitte’s employees, previously spread around multiple buildings throughout the city, within a single environment; and to create a ‘smart building’, intended as a catalyst for Deloitte’s transition into the digital age. PLP Architecture designed The Edge for OVG Real Estate, and Deloitte is the building’s lead tenant. In order to understand what it takes to achieve this status, you should take a look at some of the features found inside of The Edge. This is the foremost environmental assessment method and rating system for buildings, and The Edge in Amsterdam is the second largest building to ever receive this very prestigious designation. The transformation of the 70’s office building is designed by de Architekten Cie. and features a massive new glass dome. The Edge by PLP Architecture is the 40,000 square metre Amsterdam headquarters of consulting firm Deloitte, elected the greenest office building in the world. Built in 2014 by OVG Real Estate, in close partnership with building’s principle occupier Deloitte and notary and law firm AKD; and designed by London-based PLP Architects, The Edge takes smartness … <br>";s:7:"keyword";s:31:"who designed the edge amsterdam";s:5:"links";s:5084:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tommy-williams-shawshank'>Tommy Williams Shawshank</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=una-new-york'>Una New York</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=an-extraordinary-egg-activities'>An Extraordinary Egg Activities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scarpetta-london-menu'>Scarpetta London Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeff-leach-imdb'>Jeff Leach Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jai-Simha-Telugu-Full-Movie-Download'>Jai Simha Telugu Full Movie Download</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jimmy-chisholm-take-the-high-road'>Jimmy Chisholm Take The High Road</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=horrific-visions-guide-orgrimmar'>Horrific Visions Guide Orgrimmar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hot-millions-%281968-full-movie%29'>Hot Millions (1968 Full Movie)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreOrganic-food-storesThe-Sweet-Potato%2C-Karma-Co-Op-Food-Store%2C-and-more'>+ 18moreOrganic Food StoresThe Sweet Potato, Karma Co-Op Food Store, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blink-182-tour-1999'>Blink-182 Tour 1999</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-does-jack-treat-the-others'>How Does Jack Treat The Others</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-project-pat-doing-now'>What Is Project Pat Doing Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cotton-malone-series-in-order'>Cotton Malone Series In Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=101-cooking-for-two'>101 Cooking For Two</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-wick-boss-429'>John Wick Boss 429</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-malouf-awards'>David Malouf Awards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=exofficio-boxers-costco'>Exofficio Boxers Costco</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=methods-of-evangelism-in-the-early-church'>Methods Of Evangelism In The Early Church</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Edwin-Hubble-contributions'>Edwin Hubble Contributions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Delta-Line-company'>Delta Line Company</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ms-marvel-vol-2-1'>Ms Marvel Vol 2 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chopin---nocturne-op-55-no-2-sheet-music'>Chopin - Nocturne Op 55 No 2 Sheet Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jane-stuart-artist'>Jane Stuart Artist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-art-of-being-happy-book'>The Art Of Being Happy Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tamaki-suoh-voice-actor'>Tamaki Suoh Voice Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=numbers-game-urban-dictionary'>Numbers Game Urban Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-dirt-sparknotes'>American Dirt Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prince-rupert-to-vancouver'>Prince Rupert To Vancouver</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blood-night-full-movie-watch-online'>Blood Night Full Movie Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chance-at-Heaven'>Chance At Heaven</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Flint-town-Reddit'>Flint Town Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=century-21-united-el-dorado%2C-ar'>Century 21 United El Dorado, Ar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=humoresque-violin-sheet-music-pdf'>Humoresque Violin Sheet Music Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Eversource-Director-salary'>Eversource Director Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interventional-cardiology-salary'>Interventional Cardiology Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1-who-was-priscus-do-you-think-his-description-is-reliable-why'>1 Who Was Priscus Do You Think His Description Is Reliable Why</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lone-wolf-hand-climber%2Fsaddle-combo'>Lone Wolf Hand Climber/saddle Combo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stiletto-nails-tips'>Stiletto Nails Tips</a>,
+";s:7:"expired";i:-1;}

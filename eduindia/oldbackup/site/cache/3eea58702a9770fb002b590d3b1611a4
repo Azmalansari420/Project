@@ -1,0 +1,90 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4462:"<p>While nearly as many women hold undergraduate degrees as men overall, they make up only about 30 percent of all STEM degree holders. Women in STEM are impassioned and inspired, but there are too few of them in these fields. 8 Facts about Women in STEM Fields 1. Women in STEM: Facts and Myths By Roberta Attanasio, Forever Leaders Editor Women’s level of participation in STEM ( science, technology, engineering and mathematics) fields varies—it is highest in psychology, where women account for 70% or more of the graduates at each degree level. It’s a good time to be a woman who works in science, technology, engineering or mathematics. (15) Women Fellows of the Royal Academy of Engineering: 2% in 2006 and 4% in 2014. By Roberta Attanasio, Forever Leaders Editor. In fact, one study led by researchers at University College London found that women constitute less than 30 percent of scientists globally, and that this number can vary widely in different regions. </p> <p>Only 3% of ICT graduates worldwide are women. Some of the largest discoveries in STEM today were made by women ( Marie Curie & radioactivity, we’re looking at you! </p> <p>Asians were the only minority group with significant numbers working in STEM, holding 17% of the jobs between both men and women. Tweet. Data from education bodies UCAS and HESA shows women make up 35% of STEM students in higher education in the UK, for example. This Women’s History Month, the Energy Department is working to fix that by highlighting the work of women who’ve made a difference in science, technology, engineering and math (STEM) fields throughout history. Women and men engineering and technology students express similar levels of intent to work in engineering & technology, but 66.2% of the men and 47.4% of the women 2011 graduates of eng/tech programmes went on to work in engineering and technology. Component ID: #ti183433443. Countless inspiring women have made historic contributions to science. In fact, career opportunities are on the rise for women in STEM, according to a … Women make up a disproportionately low share of degree holders in all STEM fields, particularly engineering. Only 3% of ICT graduates worldwide are women. The women-in-STEM advocates could, for starters, focus their efforts on those would-be STEM stars. Many people find it a challenge to name a woman in STEM besides Marie Curie. In these areas, East Asia, the Pacific, South Asia and West Asia had the most uneven balance, with 20 percent of researchers being women in each of those sub-regions. It’s Women’s History Month, and we want to share with you five women who have changed the course of history with their contributions to science, technology, engineering, and mathematics. Women in STEM: Facts and Myths. 19 February 2020. Among employed 25- to 34-year-olds with a bachelor's degree in a science, technology, engineering, or mathematics (STEM) field, % w/ STEM & non-STEM occupations, by sex, race/ethnicity, & U.S. nativity & citizenship status: 2015 Share. We are great supporters of the STEM movement here at Getting Smart and are always encouraging of girls hoping to break out of those stereotypes and dive into fields that have not been historically filled by women. In light of Maryam Mirzakhani becoming the first female Fields Medal winner this month, we wanted to share seven facts about women’s participation in the science, technology, engineering, and math fields.. There’s work to do…Although women make up 48 percent of the U.S. workforce, they comprise only 24 percent of the STEM workforce.. In light of Maryam Mirzakhani becoming the first female Fields Medal winner this month, we wanted to share seven facts about women’s participation in the science, technology, engineering, and math fields.. There’s work to do…Although women make up 48 percent of the U.S. workforce, they comprise only 24 percent of the STEM workforce.. Women with STEM jobs also earned 40 percent more than men with non-STEM jobs. Here are the stories of Alice Ball, Grace Hopper, Tu Youyou and others you should know. The gender gaps are particularly high in some of the fastest-growing and highest-paid jobs of … Women with STEM jobs also earned 40 percent more than men with non-STEM jobs. Gender inequality, out-dated stereotypes and limited promotion of STEM (science, technology, engineering and maths) education for girls are just some of the factors at play. </p>";s:7:"keyword";s:19:"women in stem facts";s:5:"links";s:3530:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-doctrine-of-the-knowledge-of-god-pdf'>The Doctrine Of The Knowledge Of God Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=susan-farmer-obituary'>Susan Farmer Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=killing-floor-gameplay'>Killing Floor Gameplay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=install-ray-python'>Install Ray Python</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=100-trillion-zimbabwe-dollars'>100 Trillion Zimbabwe Dollars</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sarah-j-maas-bibliography'>Sarah J Maas Bibliography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hush-summer-sale-2019'>Hush Summer Sale 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-enoch-why-i-am-an-objectivist'>David Enoch Why I Am An Objectivist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rachel-joy-scott-journal-pdf'>Rachel Joy Scott Journal Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saturday-fiction-dvd'>Saturday Fiction Dvd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-cub-werewolf'>Wolf Cub Werewolf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bungalow-for-rent'>Bungalow For Rent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-is-scott-joplin-buried'>Where Is Scott Joplin Buried</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fare-la-scarpetta-in-inglese'>Fare La Scarpetta In Inglese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=uTorrent-apk-uptodown'>UTorrent Apk Uptodown</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-the-wake-per-petterson'>In The Wake Per Petterson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=broderie-dress-daisy'>Broderie Dress Daisy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aaron-eckhart-house'>Aaron Eckhart House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=photo-loop-app-android'>Photo Loop App Android</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=10th-duke-of-rutland'>10th Duke Of Rutland</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orthodox-easter-memes'>Orthodox Easter Memes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2-hour-drive-from-los-angeles'>2 Hour Drive From Los Angeles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beach-of-the-war-gods-%281973%29-full-movie'>Beach Of The War Gods (1973) Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=st-kilda-island'>St Kilda Island</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oni-ninjago-sets'>Oni Ninjago Sets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=full-throttle-saloon-2018'>Full Throttle Saloon 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=books-like-mage-errant'>Books Like Mage Errant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=christopher-bixby-how-did-he-die'>Christopher Bixby How Did He Die</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dirty-dozen'>The Dirty Dozen</a>,
+";s:7:"expired";i:-1;}

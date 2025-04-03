@@ -1,0 +1,117 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2977:"<p>Activating the Greek keyboard in Mac (OS X and higher) 1.  Click the Input Sources tab. </p> <p>From the Apple Menu (top left corner of the screen ) pull down System Preferences > Language & Text (International in earlier versions). 2. 3. Type the letter you need according to the chart at the bottom of this page—this chart works for both Windows and Mac. Keyboard stickers with two languages: your own and G reek (eλληνική).Stickers are designed to match "Greek" layout on Mac and Windows. This unique Greek keyboard cover is ultra-thin and form-fitting, creating a responsive tactile feel that does not affect typing ability or speed. Important: on the stickers there will be exactly these two language layouts selected from "Original language" and "Additional language" fields, even if product title says otherwise. Greek Keyboard is a product developed by Murat Inan.This site is not directly affiliated with Murat Inan.All trademarks, registered trademarks, product names and company names or logos mentioned herein are the property of their respective owners. </p> <p>Koine Greek is a free Greek keyboard developed by Char Matejovsky, using Keyman keyboard mapping software.Designed to give scholars of Hellenistic Greek quick, intuitive access to the extended Greek character set, Koine Greek runs on Windows-based PCs and works with Unicode fonts that have the full range of Greek and extended (polytonic) Greek characters. The help on inserting Greek letters and special symbols is also available in Help menu. Activate the keyboard on your Windows or Mac machine by following the instructions below. The accent should be on top of that...and it won't move. Documentation (.pdf) alone (for the original version of the keyboard (which had a different name), but the info is the same for both) The files <Greek KoineRD.keylayout> and <PolytonicGreekRD.keylayout> are Mac OS X 10.2+ Unicode keyboard layout files for polytonic Greek (classical and koine). Typing Greek letters with Keyboard Shortcuts To insert Greek letter type Ctrl+G ( Command G on Mac OS ) and then type Latin letter mentioned in the table below. Maybe you're not doing it right. </p> <p>This is the first time I've heard of accents moving. → Conversion Modern Greek > Latin alphabet → Transliterated Greek keyboard to type a text with the latin script → Ancient Greek keyboard → Modern Greek language: dictionary, pronunciation, grammar → Greek-English translation → online test to learn to recognize the Greek letters → Multilingual keyboard: index 1. For diacriticals and other characters, consult the ‘Greek … Instantly convert your Mac keyboard into a Greek language keyboard – without having to add a custom external keyboard, use keyboard stickers, or memorizing keys! You can set this layout both on Mac and Windows.. 2. On the Greek keyboard type the key on the right of the L (that's the semicolon ;) you won't see anything then type the vowel you want. </p>";s:7:"keyword";s:18:"greek keyboard mac";s:5:"links";s:6862:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=digitone-vs-digitakt-reddit'>Digitone Vs Digitakt Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=runaway-the-label-sale'>Runaway The Label Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oedipus-definition-psychology'>Oedipus Definition Psychology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Battle-of-North-Point'>Battle Of North Point</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=al-hayba-season-1-episode-1'>Al Hayba Season 1 Episode 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tar-definition-smoking'>Tar Definition Smoking</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=write-for-the-millions'>Write For The Millions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=department-of-social-services-jobs-nc'>Department Of Social Services Jobs Nc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=damascus-map-bible'>Damascus Map Bible</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noble-garden-menu'>Noble Garden Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=watch-legends-of-the-hidden-temple-season-1'>Watch Legends Of The Hidden Temple Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jami-gertz-net-worth-2020'>Jami Gertz Net Worth 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Say-It-With-Candy'>Say It With Candy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=herbert-marshall-spouse'>Herbert Marshall Spouse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Michael-Owen-wiki'>Michael Owen Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-books-on-the-doctrine-of-god'>Best Books On The Doctrine Of God</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=danny-brown-merch'>Danny Brown Merch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=escape-first-3-vr'>Escape First 3 Vr</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dragon-boat-festival-for-kids'>Dragon Boat Festival For Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unanticipated-meaning-in-telugu'>Unanticipated Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=smart-woman-movie'>Smart Woman Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=key-witness-book'>Key Witness Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amy-winehouse-family'>Amy Winehouse Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=young-male-is-called'>Young Male Is Called</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=smart-women-finish-rich%2C-expanded-and-updated'>Smart Women Finish Rich, Expanded And Updated</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gideon%27s-way-morna'>Gideon's Way Morna</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hope-for-the-best-alternative'>Hope For The Best Alternative</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=louisiana-travels-and-events'>Louisiana Travels And Events</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hydroxyzine-dosage-for-panic-attacks'>Hydroxyzine Dosage For Panic Attacks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Child-marriage-charity'>Child Marriage Charity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=night-huntress-read-online'>Night Huntress Read Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kwe-logistics-careers'>Kwe Logistics Careers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dennis-johnson-lsu-meatball'>Dennis Johnson Lsu Meatball</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tennyson-songs-from-the-princess'>Tennyson Songs From The Princess</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jive-talkin-tribute-band-members'>Jive Talkin Tribute Band Members</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=overly-dedicated-definition'>Overly Dedicated Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rappers-with-oscars'>Rappers With Oscars</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=li-qingzhao-quotes'>Li Qingzhao Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frogs-and-toads-movie'>Frogs And Toads Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maya-hayuk-street-art'>Maya Hayuk Street Art</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dolittle-Rotten-Tomatoes'>Dolittle Rotten Tomatoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-james-barile'>Richard James Barile</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-taylor-professor'>Alan Taylor Professor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seymour-chwast-posters'>Seymour Chwast Posters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=upanishads-quotes-on-death'>Upanishads Quotes On Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emerald-solitaire-game'>Emerald Solitaire Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=valencia-fc-players'>Valencia Fc Players</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glimpses-of-unfamiliar-japan-pdf'>Glimpses Of Unfamiliar Japan Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=larry-elder-brother'>Larry Elder Brother</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elle-mclemore-height'>Elle Mclemore Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Total-Power-Vince-Flynn'>Total Power Vince Flynn</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-asgard-in-the-milky-way'>Is Asgard In The Milky Way</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-badel-obituary'>Alan Badel Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leicester-hemingway-new-atlantis'>Leicester Hemingway New Atlantis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Zhang-xinyu-Instagram'>Zhang Xinyu Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=section-detail-autocad'>Section Detail Autocad</a>,
+";s:7:"expired";i:-1;}

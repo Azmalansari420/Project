@@ -1,0 +1,116 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4662:"<p>ONLINE LESSONS. 40 min. </p> <p>Book Now. BEST LEARNED EARLY ... Hopscotch, LittleBits and Dash. Scratch Coding. Tuesday. From time to time, we will contact you about Hopscotch. </p> <p>Educators can join ScratchEd community to share and gain coding lessons, activities, and knowledge about using the platform. And we're going to learn about it today with two women who have revolutionized how kids and, let's be honest, adults, too, are learning how to code. Hopscotch Product Information and Reviews: Tablet based coding lessons and games Code.org is a great site that is set up more as a curriculum with lesson plans. You and your students deserve a coding product that respects your creativity, intelligence, and privacy. Hopscotch: Coding for kids, a visual programming language Whether you or your child wants to learn programming or you just want to work on problem solving and critical thinking skills, Hopscotch is a definite must download; especially being it is free. Learning to code? Code.org has really exploded the last few years with all of the political and celebrity push it has received.  Hopscotch Crossy Road Coding. </p> <p>11. gethopscotch.com. Hopscotch 2 means better learning You may have read my previous posts on Hopscotch, the iPad app that teachers kids to code. </p> <p>Book Now. I really like the videos and great explanations before the coding. Free. Students will understand that coding requires giving a computer explicit directions 2. 40 min. Make Your Own Game Thing 1 Coding For Kids Hopscotch Learn To Code Lesson Plans Ipads About Me Blog Learning. Coding is all the rage in elementary schools right now, and it’s not hard to see why! CodingZen is a coding for kids academy based in New Delhi that offers coding classes and workshops for kids. Explore real coding in bite-sized pieces with Hopscotch. ... Coding is a fundamental skill that children need to learn so they can lead this movement. Our Services. </p> <p>Your personal information will only be used to provide and administer your classroom account. </p> <p>This is an important app doing an important job for the world. Hop Scotch Coding provides a simple, interactive introduction to unplugged, block-style coding that is perfect for Kindergarten through third graders as they learn the basics of programming. Age: 8+ (Grades 3-8) Platform: iPad/iPhones. Hopscotch’s kids coding app’s mission is to democratise Computer Science education, and we are all for it. There are plenty of paid coding apps, websites, and books for kids to learn to code. Most other "learn to code" apps just make you complete boring levels with 4 "move" blocks, but in hopscotch you have the freedom to create anything, which is amazing.” — BuildASnowman, Hopscotcher “This taught me sooooo much about basics of coding. Wednesday. In just a second, you'll meet Samantha John and Jocelyn Leavitt, the co-finders of Hopscotch, an app that allows users to code and design games, arts, and animations on their mobile devices. In the digital age, there are even more ways to learn coding for kids, free. You can express your personality by turning your drawings into animations. </p> <p>Free. “Hopscotch is the best way to express your imagination! 40 min. Recommended Age: 6+ Code Emoji Creative? </p> <p>In Hopscotch, we draw with a block called “Draw a Trail” that sets the color and width of the Most other "learn to code" apps just make you complete boring levels with 4 "move" blocks, but in hopscotch you have the freedom to create anything, which is amazing.” — BuildASnowman, Hopscotcher “This taught me sooooo much about basics of coding. Book Now. “Hopscotch is the best way to express your imagination! It uses a visual coder like many of the other sites listed. ‎Learn to code and make your own games with Hopscotch. By Melissa Ford. You've come to the right place! Hopscotch Geo Dash. You'll experiment and learn by creating interactive 3D graphics and inventing new musical instrument </p> <p>**Downloaded over 12 million times** **30 million games created** “Hopscotch is the best way to express your imagination! Monday. This evening I’ve been playing with the free iPad app “Hopscotch,” which I’m planning to use for a four part / two week introductory unit on coding on the iPad with my 4th and 5th grade STEM students. October 19, 2017 Updated October 18, 2017 ©Mint Images/500px ... Hopscotch: Another drag-and-drop coding app that’s great for the classroom. In fact, coding experience can open up many opportunities and make your child more marketable when they start applying for awards, scholarships, and even jobs! </p>";s:7:"keyword";s:24:"hopscotch coding lessons";s:5:"links";s:6742:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-doctrine-of-the-knowledge-of-god-pdf'>The Doctrine Of The Knowledge Of God Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=holly-black-new-book'>Holly Black New Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lavender-tree-care-instructions'>Lavender Tree Care Instructions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dan-barker-animator'>Dan Barker Animator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=airframe-michael-crichton-review'>Airframe Michael Crichton Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liang-jie-age'>Liang Jie Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vietnam-war-body-count-strategy'>Vietnam War Body Count Strategy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=for-esm%C3%A9-with-love-and-squalor-theme'>For Esmé With Love And Squalor Theme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frida-kahlo-exquisite-corpse'>Frida Kahlo Exquisite Corpse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=comics-books-online'>Comics Books Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue%27s-clues-magenta%27s-visit-book'>Blue's Clues Magenta's Visit Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angus-cloud-movies'>Angus Cloud Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beatrice-patton-waters'>Beatrice Patton Waters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lauren-allen-Instagram'>Lauren Allen Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=traffic-jam-chords-james-taylor'>Traffic Jam Chords James Taylor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chloe-movie-netflix'>Chloe Movie Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-perfect-romance-filming-location'>My Perfect Romance Filming Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=romy-schneider-death'>Romy Schneider Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-don-t-have-enough-faith-to-be-an-atheist-chapters'>I Don T Have Enough Faith To Be An Atheist Chapters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=X-of-Swords'>X Of Swords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tunnel-netflix-2019'>Tunnel Netflix 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phases-of-matter-worksheet-pdf'>Phases Of Matter Worksheet Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goodreads-high-fantasy'>Goodreads High Fantasy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unit-731-photos'>Unit 731 Photos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cardiff-tourist-map'>Cardiff Tourist Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lil-duke-rapper'>Lil Duke Rapper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-court-of-frost-and-starlight-pdf-weebly'>A Court Of Frost And Starlight Pdf Weebly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-twelve-dancing-princesses-book'>The Twelve Dancing Princesses Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=baby-bop-cartoon'>Baby Bop Cartoon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=federal-law-synonym'>Federal Law Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dirty-love---trailer'>Dirty Love - Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nyu-summer-vocal-program'>Nyu Summer Vocal Program</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=open-theism-churches'>Open Theism Churches</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pro-life-en-espa%C3%B1ol'>Pro-life En Español</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-dirt-sparknotes'>American Dirt Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philosophy-of-mythology'>Philosophy Of Mythology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=newport-news-shipbuilding-news'>Newport News Shipbuilding News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-paparazzi'>What Is Paparazzi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=office-space-milton-stapler'>Office Space Milton Stapler</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Acronym-for-PEACE'>Acronym For PEACE</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-rebel-the-threat'>The Rebel The Threat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=triple-dog-dare-cast'>Triple Dog Dare Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-price-hollywood'>What Price Hollywood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1000-s-hawkins-ln%2C-goddard%2C-ks-67052'>1000 S Hawkins Ln, Goddard, Ks 67052</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dance-academy-zach-and-grace'>Dance Academy Zach And Grace</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Lucky-Wheel'>The Lucky Wheel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=laura-childs-audiobooks'>Laura Childs Audiobooks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dan-bakkedahl-the-office'>Dan Bakkedahl The Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=channel-5-news-des-moines'>Channel 5 News Des Moines</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jesse-james-2019'>Jesse James 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wendy-clear-meaning'>Wendy Clear Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-Ferry-Aeneid'>David Ferry Aeneid</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-nightingale-dan-forrest'>The Nightingale Dan Forrest</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=24x7-cafe-in-mumbai'>24x7 Cafe In Mumbai</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=if-you%27re-too-shy-the-1975-lyrics'>If You're Too Shy The 1975 Lyrics</a>,
+";s:7:"expired";i:-1;}

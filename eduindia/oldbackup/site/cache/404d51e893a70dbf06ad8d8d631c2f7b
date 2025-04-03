@@ -1,0 +1,146 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2910:"<br>Educa Language School was established in 2003 in Saint Petersburg as a school specialized in teaching Russian language and culture to foreigners, and is now proudly one of the leading language centers in Russia.  <br>Scholarship to learn Russian in Russia in 2020; Test your Russian online; Study Process. Russian 50+ 2-week Russian course: St. Petersburg + Petrozavodsk; Summer Immersion. The instructors belong to Lomonosov Moscow State University, number One university in Russia. Learn Russian For Free Online Russian Language School. The educational service is intended for individuals with limited time available for study and seeking professional and personal enrichment. <br> <br>Welcome to Educacentre, Russian language school in Saint-Petersburg. <br> <br>Russian Summer Courses; Summer Russian Language Camp for teenagers (for groups) Scholarship. The school educates its students in the Russian language based on lesson plans of elementary-level Russian schools. <br> Russian Language ONLINE Summer School ... Institute of Russian Language and Culture of Lomonosov Moscow State University is one of the oldest Russian schools for foreigners in Russia. Suite. 1924 Marglyn Dr, Matthews, NC, 28105; info@russianschoolofcharlotte.com 6420 Rea Rd. Our school was established in 1989 and over the last 20 years we have built a reputation for providing high quality russian language courses in Saint Petersburg. To find out more about Online Russian courses, please check here . Indeed, online Russian courses provide a strong foundation to build upon in the future. Whether you start with a course just to see if you like it or you’re already serious about learning the language, online courses will provide you with the skills and knowledge you need to become fluent in Russian. <br> <br>The school offers Online Courses available for students of any level, country, age and occupation.  <br> <br>Welcome to / Bienvenido a Online Russian Language School Learn Russian language with free online lessons / Aprende ruso gratis con lecciones gratuitas. We founded the Russian language school in 2003 with the participation of the National Pushkin Museum, the largest literary museum of Russia. The Russian Language School (RLS) was founded by Russian native highly educated and experienced teachers, and is for people who want modern, effective instruction in Russian language and culture. Your teacher will create classes according to your level, goals and needs. <br> <br>We have been working for 65 years. A1-115, Charlotte, NC, 28277; For English: (704) 651-5869; For Russian: (980) 585-6880 We are delighted in your interest in our Russian language school and hope that this web site will help you find all the information you may need to make the right choice of Russian language courses in Russia. вторник, 22 октября 2019 г. Как это сказать по-русски? <br>";s:7:"keyword";s:30:"russian language school online";s:5:"links";s:10596:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-kratt-movies-and-tv-shows'>Chris Kratt Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=she-knows-soaps'>She Knows Soaps</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=8-oz-cream-cheese-recipe'>8 Oz Cream Cheese Recipe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devilman-grimoire-anime'>Devilman Grimoire Anime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japanese-alphabet-translation'>Japanese Alphabet Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghost-story-games-reddit'>Ghost Story Games Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-long-con-short-story'>The Long Con Short Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chloe-movie-netflix'>Chloe Movie Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zhou-fang-court-ladies'>Zhou Fang Court Ladies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glo-extracts-verification'>Glo Extracts Verification</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=you-are-everything-i%27ve-ever-wanted-quotes'>You Are Everything I've Ever Wanted Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=six-days-seven-nights-streaming'>Six Days Seven Nights Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rocketman-now-tv'>Rocketman Now Tv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Out-of-Practice'>Out Of Practice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=one-meal-a-day'>One Meal A Day</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=y%27lan-noel-height'>Y'lan Noel Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=college-of-dupage-english-classes'>College Of Dupage English Classes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=diamond-casino-online'>Diamond Casino Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=avery-robinson-instagram'>Avery Robinson Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-know-what-i-like-%28in-your-wardrobe-chords%29'>I Know What I Like (in Your Wardrobe Chords)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=primetime-emmy-award-for-outstanding-lead-actor-in-a-limited-series-or-movie'>Primetime Emmy Award For Outstanding Lead Actor In A Limited Series Or Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=snapchat-captions-for-insta'>Snapchat Captions For Insta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wale---the-mixtape-about-nothing'>Wale - The Mixtape About Nothing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=healthy-recipes-baking'>Healthy Recipes Baking</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Michael-Owen-wiki'>Michael Owen Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carolina-north-forest'>Carolina North Forest</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=auden-love-poems'>Auden Love Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=focus-ireland-stories'>Focus Ireland Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=petunia-atkinsiana-uses'>Petunia Atkinsiana Uses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=duolingo-swedish-podcast'>Duolingo Swedish Podcast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emerald-falls-plant'>Emerald Falls Plant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-lantern-festival'>Chinese Lantern Festival</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=valentina-sauce-amazon'>Valentina Sauce Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eugene-edward-roddenberry'>Eugene Edward Roddenberry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-stone-director'>George Stone Director</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=courage-to-be-yourself-quotes'>Courage To Be Yourself Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=six-cast-broadway'>Six Cast Broadway</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Free-Matilda-Movies'>Free Matilda Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=susan-mikula-art'>Susan Mikula Art</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zero-waste-grocery-store-near-me'>Zero Waste Grocery Store Near Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=axon-reflex-erythema'>Axon Reflex Erythema</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shibuya-shopping-map'>Shibuya Shopping Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daniel-plan-classes'>Daniel Plan Classes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=halsey-and-yungblud-split'>Halsey And Yungblud Split</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-yo-parents'>Michael Yo Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andrew-mckaige-seattle'>Andrew Mckaige Seattle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=butch-cassidy-cholila-argentina'>Butch Cassidy Cholila Argentina</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tolkien-quotes-travel'>Tolkien Quotes Travel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brand-new-setlist'>Brand New Setlist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=I-wish-I-were-a-butterfly'>I Wish I Were A Butterfly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=genesis-tour-tickets'>Genesis Tour Tickets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=douglas-edwards-last-broadcast'>Douglas Edwards Last Broadcast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hitchhike-movie-2013'>Hitchhike Movie 2013</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andrew-vachss-2019'>Andrew Vachss 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=battle-of-karbala-sunni-view'>Battle Of Karbala Sunni View</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=section-detail-autocad'>Section Detail Autocad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drop-zone-home'>Drop Zone Home</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=riz-ahmed-religion'>Riz Ahmed Religion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=j-patrick-lewis-fun-facts'>J Patrick Lewis Fun Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noah-ringer-today'>Noah Ringer Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=one-heart-to-win'>One Heart To Win</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-architecture-pdf'>Chinese Architecture Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-davies-%28supertramp%29'>Richard Davies (supertramp)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emerald-falls-plant-care'>Emerald Falls Plant Care</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-died-in-bungou-stray-dogs'>Who Died In Bungou Stray Dogs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=always-do-your-best-don-miguel-ruiz'>Always Do Your Best Don Miguel Ruiz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=converse-argentina-ropa'>Converse Argentina Ropa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Edwin-Hubble-contributions'>Edwin Hubble Contributions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-majestic-theater'>The Majestic Theater</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gloria-hatrick-mclean-height'>Gloria Hatrick Mclean Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-downes-halo-tv-series'>Steve Downes Halo Tv Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=irving-fisher-biography'>Irving Fisher Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-long-dark'>The Long Dark</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emerald-falls-plant-care'>Emerald Falls Plant Care</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=merrick-backcountry-treats'>Merrick Backcountry Treats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aircraft-structures-for-engineering-students-6th-edition'>Aircraft Structures For Engineering Students 6th Edition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=al-michaels-cosmetic-surgery'>Al Michaels Cosmetic Surgery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carolyn-lawrence-husband'>Carolyn Lawrence Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-other-side-of-heaven-2%3A-fire-of-faith-full-movie'>The Other Side Of Heaven 2: Fire Of Faith Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wr%3A-mysteries-of-the-organism-streaming'>Wr: Mysteries Of The Organism Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-mark-steel-solution'>The Mark Steel Solution</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-woman-movie-explained'>The Woman Movie Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brothers-karamazov-oxford-world%27s-classics'>Brothers Karamazov Oxford World's Classics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Another-Birth-Forough-Farrokhzad'>Another Birth Forough Farrokhzad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-friend-at-hand-whiskey-price'>The Friend At Hand Whiskey Price</a>,
+";s:7:"expired";i:-1;}

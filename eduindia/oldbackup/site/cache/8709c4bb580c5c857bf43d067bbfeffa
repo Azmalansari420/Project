@@ -1,0 +1,93 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2486:"<p>the Kinsey Reports, a pair of books on sexuality by Alfred Kinsey. PBS affiliates across the country today will begin airing a five-minute version of the new documentary SEVEN directed by Loose Change creator Dylan Avery about the explosive findings of the recently completed University of Alaska Fairbanks study on the destruction of World Trade Center Building 7.. This documentary shows how "The Kinsey Reports" have been used to change the laws concerning sex crimes in America, resulting in the minimal sentences so often given to rapists and pedophiles. It describes the life of Alfred Charles Kinsey (played by Liam Neeson), a pioneer in the area of sexology.His 1948 publication, Sexual Behavior in the Human Male (the first of the Kinsey Reports) was one of the first recorded works that tried to scientifically address and investigate sexual behavior in humans. </p> <p>Has anybody here seen the Youtube documentary The Kinsey Syndrome? With Liam Neeson in the film’s starring role, we will doubtless soon be hearing that Kinsey was also a sexual Oskar Schindler, selflessly risking life and reputation to save us from evil Victorian forces. Kinsey is a 2004 American biographical drama film written and directed by Bill Condon. What did you think of the documentary? I already knew about the questionable and non-scientific data from articles and other documentaries.  With Liam Neeson, Laura Linney, Chris O'Donnell, Peter Sarsgaard. Kinsey (surname) Alfred Kinsey. Did you learn anything new from it? Kinsey’s admirers already regularly compare him to Darwin and Einstein. PBS - American Experience - Kinsey - DVD (2005) for $17.99 from OLDIES.com Documentaries - Order by Phone 1-800-336-4627 A new PBS documentary on Kinsey also premiered this month. It’s about the incredible influence the Kinsey Institute’s research has had on American cultural attitudes about sex and pornography. Directed by Bill Condon. 11), a PBS documentary … Kinsey may refer to: . Suddenly, Americans are rediscovering Alfred Kinsey, the Indiana University sex researcher who is the subject of a movie and now "Kinsey" (9 p.m. Monday, WTTW-Ch. A look at the life of Alfred Kinsey, a pioneer in the area of human sexuality research, whose 1948 publication "Sexual Behavior in the Human Male" was one of the first … Further explained is how the Kinsey data laid the foundation for sex education -- training teachers, psychologists and even Catholic priests in human sexuality. </p>";s:7:"keyword";s:22:"kinsey pbs documentary";s:5:"links";s:3994:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-%28uk-online%29'>The Office (uk Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Electro-Lux-Imbroglio'>Electro Lux Imbroglio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=China-net-worth'>China Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=de-rerum-natura-latin-pdf'>De Rerum Natura Latin Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=niki-de-saint-phalle-archives'>Niki De Saint Phalle Archives</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=great-gatsby-book-release-date'>Great Gatsby Book Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=henry-mancini-movies'>Henry Mancini Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kotlc-memes-clean'>Kotlc Memes Clean</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soilless-potting-mix-recipe'>Soilless Potting Mix Recipe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=War-memorial-poem'>War Memorial Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=discuss-on-his-blindness-as-a-sonnet'>Discuss On His Blindness As A Sonnet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=valencia-fc-players'>Valencia Fc Players</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=outlook-2016-keeps-disconnecting'>Outlook 2016 Keeps Disconnecting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=your-words-are-spirit-and-life%2C-o-lord'>Your Words Are Spirit And Life, O Lord</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-story-pirates-present%3A-quest-for-the-crystal-crown'>The Story Pirates Present: Quest For The Crystal Crown</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Miami-Beach-news'>Miami Beach News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ravi-zacharias-sermons-2020'>Ravi Zacharias Sermons 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=endless-praise-lyrics-and-chords'>Endless Praise Lyrics And Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leave-well-enough-alone-meme'>Leave Well Enough Alone Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hold-up-wait-a-minute-song'>Hold Up Wait A Minute Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dating-speedwell-bikes'>Dating Speedwell Bikes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ginny-weasley-boggart-fanfiction'>Ginny Weasley Boggart Fanfiction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jack-ketchum-the-box-pdf'>Jack Ketchum The Box Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Quotes-For-loyal-husband'>Quotes For Loyal Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chen-kun-son'>Chen Kun Son</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-pronounce-kamaole'>How To Pronounce Kamaole</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gigaset-c430a-voip'>Gigaset C430a Voip</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeannie-gaffigan-brain-tumor'>Jeannie Gaffigan Brain Tumor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liverpool-england-weather'>Liverpool England Weather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=popular-board-games'>Popular Board Games</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stirrings-dirty-martini'>Stirrings Dirty Martini</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fireside-grill-takeout-menu'>Fireside Grill Takeout Menu</a>,
+";s:7:"expired";i:-1;}

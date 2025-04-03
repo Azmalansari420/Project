@@ -1,0 +1,140 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4249:"<p>Lorsque ces technologies sont combinées dans le modèle AJAX, les applications Web sont capables … Although X in Ajax stands for XML, JSON is used more than XML nowadays because of its many advantages such as being lighter and a part of JavaScript. Both JSON and XML are used for packaging information in the Ajax model. The JSON.parse() function is included in all major browsers and in the latest ECMAScript (JavaScript) standard. Basically when I POST my AJAX the PHP returns JSON but the AJAX shows Undefined instead of the value: JS: ... javascript php jquery ajax json. asked Oct 3 '13 at 9:10. Utilisation pratique en AJAX avec XMLHttpRequest et jQuery XMLHttpRequestest l'interface de base pour effectuer un appel AJAX avec JavaScript. In this tutorial you will learn what Ajax is and how to implement it in JavaScript. Ajax is just a means of loading data from the server and selectively updating parts of a web page without reloading the whole page. In more real world situation, the server would generate this JSON file on-demand based on information in its database, but currently we are only interested in the part that is in the browser. Steven Marks Steven Marks. In order to make this example simple, I've created a JSON file on the server and we will ask the server for that file. Through my blog, I will discuss about sending JSON objects with ajax request using JQuery. The following helper function allows sending an Ajax request via GET method - an equivalent to jQuery's $.get (). Using AJAX and JSON in JavaScript. Initialize data object with the textbox values. AJAX. What is Ajax? { sujet : $("#sujet").val(), // Nous supposons que ce formulaire existe dans le DOM. We have number of functions in jQuery to kick-off an ajax request. ... We call the open function to start the request, The first argument is the HTTP request method, which can be get, post, put, patch or delete. In common language you can you can load data into a website without refreshing it. Send Ajax GET and POST requests Load data asynchronously from the server using GET or POST HTTP requests. How to load JavaScript at runtime with jQuery; jQuery loop over JSON string - $.each example; How to call Javscript after AJAX update, Wicket; Detect if browser supports javascript or ajax in W; Spring MVC - find location using IP Address (jQuer jQuery Ajax. The numbers in the table below specifies the first browser version that fully supports the JSON.parse() function: As of jQuery 1.5, all of jQuery's Ajax methods return a superset of the XMLHTTPRequest object. On this post I will demonstrate how to use this function. This is where something called AJAX becomes useful. Set data type (xml, json, script, text, html) and decode returned data. Ajax stands for Asynchronous Javascript And Xml. 656 1 1 gold badge 5 5 silver badges 16 16 bronze badges. It takes various parameters url, type, data, dataType, beforeSend etc. Imaginons l'envoi d'un email en AJAX avec la fonction$.post(). AJAX stands for Asynchronous JavaScript and XML, which sounds complicated. </p> <p>This string contains the adress to which to send the request. Assign this.responseText in response. Il convient bien entendu d'interroger la bonne urlavec la méthode GET ou POST appropriée et de développer côté serveur le script fournissant une réponse au format JSON. Pages fetched with POST are never cached, so the cache and ifModified options in jQuery.ajaxSetup() have no effect on these requests. </p> <p>$.post( 'send_mail.php', // Le fichier cible côté serveur. AJAX (Asynchronous JavaScript + XML) n'est pas une technologie en soi, mais un terme désignant une « nouvelle » approche utilisant un ensemble de technologies existantes, dont : HTML ou XHTML, les feuilles de styles CSS, JavaScript, le modèle objet de document (DOM), XML, XSLT, et l'objet XMLHttpRequest. The jqXHR Object. </p> <p>That would work, but it would get annoying if the message we wanted to post got more complicated, since we’d have to have HTML inside our JavaScript. var courses = {}; Set Content-type to 'application/json' and handle server response with onreadystatechange property. I have a method in MVC that I post to it and I need to return some data back to process. </p>";s:7:"keyword";s:25:"javascript ajax post json";s:5:"links";s:9816:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lautoka-weather-today'>Lautoka Weather Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spring-assisted-knife-replacement-spring'>Spring Assisted Knife Replacement Spring</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=healthcare-arena-definition'>Healthcare Arena Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=currer-bell-meaning'>Currer Bell Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeff-altman-career'>Jeff Altman Career</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mous-return-address'>Mous Return Address</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emerald-solitaire-game'>Emerald Solitaire Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Who-built-Dover-Castle'>Who Built Dover Castle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-hoorelbeke-wikipedia'>Peter Hoorelbeke Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pig-feed-cost-calculator'>Pig Feed Cost Calculator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cabaret-full-movie-watch-online-dailymotion'>Cabaret Full Movie Watch Online Dailymotion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ruth-porat-family'>Ruth Porat Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=secret-babies-books-read-online'>Secret Babies Books Read Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nicholas-blair-dark-shadows'>Nicholas Blair Dark Shadows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-wyatt-poetry'>Thomas Wyatt Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tilly-bagshawe-and-sidney-sheldon'>Tilly Bagshawe And Sidney Sheldon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sci-fi-Movie-DUST'>Sci-fi Movie DUST</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=italian-mafia-tattoos'>Italian Mafia Tattoos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cousin-phillis-plot-summary'>Cousin Phillis Plot Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=birthday-status-video'>Birthday Status Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-make-a-bullet-point-on-chromebook'>How To Make A Bullet Point On Chromebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=felix-jaehn-age'>Felix Jaehn Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jimmy-corrigan-characters'>Jimmy Corrigan Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=first-year-college-student-scholarships'>First Year College Student Scholarships</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Diego-Boneta-Scream-Queens'>Diego Boneta Scream Queens</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=third-cold-war'>Third Cold War</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rent-the-runway-unlimited'>Rent The Runway Unlimited</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=null-a-vogt'>Null A Vogt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Charles-Finney-Biography'>Charles Finney Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lee-bowman-envirolink'>Lee Bowman Envirolink</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=henry-brubaker-obituary'>Henry Brubaker Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=symbian-operating-system'>Symbian Operating System</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boss-2013-400mb'>Boss 2013 400mb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zackscottgames-mario-odyssey-2'>Zackscottgames Mario Odyssey 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=baltimore-weather-hourly-forecast'>Baltimore Weather Hourly Forecast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=america---the-complete-greatest-hits'>America - The Complete Greatest Hits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Homeboy-Industries-New-York'>Homeboy Industries New York</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=legend-person-meaning'>Legend Person Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Studies-in-phenomenology'>Studies In Phenomenology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maniac-magee-youtube'>Maniac Magee Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=louis-pronunciation-spanish'>Louis Pronunciation Spanish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rupture-full-movie'>Rupture Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=persian-straight-sword'>Persian Straight Sword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=enid-baby-name'>Enid Baby Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=romans-estate-agents-tilehurst'>Romans Estate Agents Tilehurst</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Doolittle-album-cover'>Doolittle Album Cover</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-will-come-to-you-poets-of-the-fall-lyrics'>Love Will Come To You Poets Of The Fall Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lotus-birth-spiritual-meaning'>Lotus Birth Spiritual Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=average-temperature-in-anchorage%2C-alaska'>Average Temperature In Anchorage, Alaska</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-wilson-art'>Robert Wilson Art</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=live-a-live-characters'>Live A Live Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nobel-prize-in-economics'>Nobel Prize In Economics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-is-gus-a-nickname-for-constantine'>Why Is Gus A Nickname For Constantine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Joe-R-Lansdale-bibliography'>Joe R Lansdale Bibliography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roy-phillips-boardwalk-empire'>Roy Phillips Boardwalk Empire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pet-battles-whispers'>Pet Battles Whispers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lone-wolf-assault-weight'>Lone Wolf Assault Weight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grand-blue-season-2'>Grand Blue Season 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=watercolor-landscape-tutorial'>Watercolor Landscape Tutorial</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-a-third-cousin'>What Is A Third Cousin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daisuke-namikawa-characters'>Daisuke Namikawa Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Affiliate-marketing-quote'>Affiliate Marketing Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Heretic-parfum-SAMPLES'>Heretic Parfum SAMPLES</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=german-stories-with-english-translation-pdf'>German Stories With English Translation Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barbara-bain-net-worth'>Barbara Bain Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Michael-Ontkean-height'>Michael Ontkean Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angela-richter-dell'>Angela Richter Dell</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=house-by-the-railroad-essay'>House By The Railroad Essay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adjective-of-pity'>Adjective Of Pity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shadowlands-beta-release-date-reddit'>Shadowlands Beta Release Date Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Best-NOFX-songs'>Best NOFX Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=John-Kay-%26-Steppenwolf'>John Kay & Steppenwolf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=avinash-kaushik-linkedin'>Avinash Kaushik Linkedin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-patriarchs-of-jerusalem'>List Of Patriarchs Of Jerusalem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=independence-hall-blueprints'>Independence Hall Blueprints</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=this-boy%27s-life-chinook'>This Boy's Life Chinook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Millionaires-in-Canada'>Millionaires In Canada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carl-perkins-guitar-style'>Carl Perkins Guitar Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=40-year-old-virgin---trailer'>40-year Old Virgin - Trailer</a>,
+";s:7:"expired";i:-1;}

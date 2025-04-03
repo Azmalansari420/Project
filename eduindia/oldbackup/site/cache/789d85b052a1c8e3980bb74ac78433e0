@@ -1,0 +1,130 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1421:"<p>This educational game is now abandonware and is set in a pre-school / toddler, reading / writing and licensed title. </p> <p>The Clifford The Big Red Dog Games category was created in 11.05.2018 and from there we added more than 5 games for boys and girls that are interested in playing free online games, including Petting Clifford, Clifford Maze, Sort My Tiles Clifford. In 2000, Scholastic, Inc. publishes Clifford the Big Red Dog: Reading on Windows. </p> <p>Sign In To PBS KIDS. Description of Clifford the Big Red Dog: Reading Windows. Students identify sounds in this interactive sound match game. </p> <p>Listen and learn! Apps; Shop; Parents; TV Times; Settings; Games; Videos; Activities </p> <p>Description Clifford the Big Red Dog: Reading is a point-and-click educational game based on the main character from the children's book series written by Norman Bridwell.Clifford really is big, having grown from a tiny puppy to over 25 feet tall because of the love of his owner, Emily Elizabeth. </p> <p>Sign In To PBS KIDS. Description of Clifford the Big Red Dog: Thinking Adventures Windows.  </p> <p>This adventure and educational game is now abandonware and is set in an arcade, math / logic, pre-school / toddler and licensed title. Apps; Shop; Parents; TV Times; Settings; Home; Games; Videos; Activities In 2000, Scholastic, Inc. publishes Clifford the Big Red Dog: Thinking Adventures on Windows. </p>";s:7:"keyword";s:37:"clifford the big red dog reading game";s:5:"links";s:8724:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shonen-knife---twist-barbie'>Shonen Knife - Twist Barbie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alliteration-in-the-bells'>Alliteration In The Bells</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-tennessee-credit-union'>The Tennessee Credit Union</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-dose-of-happiness-meaning'>My Dose Of Happiness Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=round-brackets-examples'>Round Brackets Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-pimp-a-butterfly-pulitzer'>To Pimp A Butterfly Pulitzer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=View-of-the-Village'>View Of The Village</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=batman-and-wonder-woman-meme'>Batman And Wonder Woman Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=panic-disorder-body-symptoms'>Panic Disorder Body Symptoms</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raw-deal%3A-a-question-of-consent-wiki'>Raw Deal: A Question Of Consent Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-delacroix-mean-in-the-lottery'>What Does Delacroix Mean In The Lottery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=olivier-messiaen-biography'>Olivier Messiaen Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lord-darzi-report-2008'>Lord Darzi Report 2008</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Francis-Dolarhyde-death'>Francis Dolarhyde Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ethical-dilemma-meaning'>Ethical Dilemma Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dawn-of-Liberty'>Dawn Of Liberty</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fernand-braudel-on-history-pdf'>Fernand Braudel On History Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=casablanca-trailer-2019'>Casablanca Trailer 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emerson-smartset-alarm-clock'>Emerson Smartset Alarm Clock</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-evans-portland-live-stream'>Robert Evans Portland Live Stream</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=imagination-lyrics-foster-meaning'>Imagination Lyrics Foster Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-brian-selznick-married'>Is Brian Selznick Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=preludes-critical-analysis'>Preludes Critical Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autocad-bible-2018-pdf'>Autocad Bible 2018 Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sapporo-beer-review'>Sapporo Beer Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Salted-meaning-in-slang'>Salted Meaning In Slang</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aldi-turkey-mince'>Aldi Turkey Mince</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kroonstad-to-bloemfontein'>Kroonstad To Bloemfontein</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-much-does-being-a-first-generation-college-student-help'>How Much Does Being A First Generation College Student Help</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unknown-caller-app'>Unknown Caller App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pop-in-cellular-shades'>Pop-in Cellular Shades</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=suavecito-firme-hold-32-oz'>Suavecito Firme Hold 32 Oz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youtube-song-of-yesterday'>Youtube Song Of Yesterday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-mathis-attorney'>James Mathis Attorney</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=found-book-summary'>Found Book Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philosopher-donald-davidson'>Philosopher Donald Davidson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Currituck-Sound-sharks'>Currituck Sound Sharks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wingamm-oasi-540-price'>Wingamm Oasi 540 Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jim-Belushi-2019'>Jim Belushi 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=galileo-galilei-aportes'>Galileo Galilei Aportes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hunger-pdf-roxane'>Hunger Pdf Roxane</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cruise-ship-tv-show-2019'>Cruise Ship Tv Show 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=josie-song-lyrics'>Josie Song Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=non-dairy-creamer-calories'>Non Dairy Creamer Calories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=copycat-pokemon-smogon'>Copycat Pokemon Smogon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Keith-Rogers-Kathryn-Stockett'>Keith Rogers Kathryn Stockett</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-pedro-guerrero-related-to-vladimir-guerrero'>Is Pedro Guerrero Related To Vladimir Guerrero</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nathan-lynn-famous-birthdays'>Nathan Lynn Famous Birthdays</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=night-huntress-read-online'>Night Huntress Read Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=karen-robards-books-in-order'>Karen Robards Books In Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Marcel-Breuer-Philosophy'>Marcel Breuer Philosophy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chapada-diamantina-tours'>Chapada Diamantina Tours</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Kings-of-Frog-Island'>The Kings Of Frog Island</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=quantico-marine-base-address'>Quantico Marine Base Address</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-law-is-good-kjv'>The Law Is Good Kjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wringer-chapter-40-summary'>Wringer Chapter 40 Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japanese-kapolei-restaurants'>Japanese Kapolei Restaurants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Black-Ties-and-Lullabies'>Black Ties And Lullabies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hikaru-no-go%3A-journey-to-the-north-star-cup-english-sub'>Hikaru No Go: Journey To The North Star Cup English Sub</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mortimer-robert-munsch-read-online'>Mortimer Robert Munsch Read Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=voltaire-rousseau-group-of-thinkers'>Voltaire Rousseau Group Of Thinkers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bailey-sok-instagram'>Bailey Sok Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-zootopia-on-disney%2B-plus'>Is Zootopia On Disney+ Plus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=religion-and-intelligence'>Religion And Intelligence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mike-zeck-marvel'>Mike Zeck Marvel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-culture-of-education%2C-bruner-pdf'>The Culture Of Education, Bruner Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sweet-birch-growth-rate'>Sweet Birch Growth Rate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=does-a-kangaroo-have-a-mother%2C-too-amazon'>Does A Kangaroo Have A Mother, Too Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Paying-for-It'>Paying For It</a>,
+";s:7:"expired";i:-1;}

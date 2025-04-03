@@ -1,0 +1,68 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1470:"<p>An affiliate of Memphis rap pioneers Three 6 Mafia, Project Pat (born Patrick Houston) grew up on the north side of the city, a hard-luck area cratered by poverty where crime is casual and violence is frequent. You know the biss - w/DJ Paul [DJ Paul & Juicy J] 6. This is the world outlined lyrically by Pat on his independently released second album, Murderers & Robbers. The Ayo The Producer and Keyzbaby-produced track samples and interpolates “Chickenhead,” the early 2000s track by Memphis rapper Project Pat with features from La Chat and Three 6 Mafia. Choices - w/Lord Infamous [DJ Paul & Juicy J] 7. Project Pat's acapellas: project_pat_-_ballers_(acapella).mp3; project_pat_-_dont_call_me_no_mo_(acapella).mp3; project_pat_-_googly_moogly_(clean_acapella).mp3 Represent it - w/Norega, Tear da Club Up Thugs [DJ Paul & Juicy J] 3. Project Pat's mixtape release, What Cha Starin At? </p> <p>Project Pat - Ghetty Green Hypnotize Minds September 14, 1999 1. Ballers - w/Gangsta Boo [DJ Paul & … features appearances by Lil Jon, Pimp C, as well as members of Project Pat's fellow Memphis family in the Three 6 Mafia. </p> <p>Produced by longtime cohorts DJ Paul and Juicy J of Three 6 Mafia, What Cha Starin At? Niggas got me fucked up [DJ Paul & Juicy J] 5.  </p> <p>finds the Memphis mainstay spitting more gritty tales of down South gangsterism over 28 syrup-thick cuts. North Memphis [DJ Paul & Juicy J] 2. Out there [DJ Paul & Juicy J] 4. </p> <p></p>";s:7:"keyword";s:21:"project pat - samples";s:5:"links";s:830:"<a href="https://eduindiafoundation.org/site/viewtopic.php?page=brook-hollow-library">Brook Hollow Library</a>,
+<a href="https://eduindiafoundation.org/site/viewtopic.php?page=i%27m-a-cyborg-but-that%27s-ok-english-subtitles">I'm A Cyborg But That's Ok English Subtitles</a>,
+<a href="https://eduindiafoundation.org/site/viewtopic.php?page=balin-and-dwalin">Balin And Dwalin</a>,
+<a href="https://eduindiafoundation.org/site/viewtopic.php?page=Jerry-Garcia-Band">Jerry Garcia Band</a>,
+<a href="https://eduindiafoundation.org/site/viewtopic.php?page=the-edge-breeam">The Edge Breeam</a>,
+<a href="https://eduindiafoundation.org/site/viewtopic.php?page=aashiq-%282001-720p%29">Aashiq (2001 720p)</a>,
+<a href="https://eduindiafoundation.org/site/viewtopic.php?page=exiled-edna-st-vincent-millay">Exiled Edna St Vincent Millay</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,85 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2761:"<p>Walden Two is a novel by B. F. Skinner that was first published in 1948. Walden Two Summary & Study Guide includes detailed chapter summaries and analysis, quotes, character descriptions, themes, and more. </p> <p>Frazier points out that the baby is the couple's first child. Walden Two contains no plot, clumsy writing, and characters that serve as nothing more than mouthpieces for B.F. Skinner, our author. In its time, it could have been considered science fiction, since science-based methods for altering people's behavior did not yet exist. Walden Two is a utopian science fiction novel by B. F. Skinner, published in 1948.  Summary Life at Walden Two A professor of psychology named Burris is approached by a former student named Rogers and his friend Steve Jamnik. Published in 1948. </p> <p>Such methods  are now known as applied behavior analysis. Summary Read a Plot Overview of the entire book or a chapter by chapter Summary and Analysis. His goal is to discover everything he can about human nature; he thinks he can do this best when he doesn't have to deal with normal worldly concerns, like material goods and human society. They encourage Burris to reach out to his former classmate, Frazier, who founded an experimental community named Walden Two. </p> <p>Chapter 16. Learn exactly what happened in this chapter, scene, or section of Walden Two and what it means. Walden Two is a utopian novel written by behavioral psychologist B. F. Skinner, first published in 1948.In its time, it could have been considered science fiction, since science-based methods for altering people's behavior did not yet exist. </p> <p>If there … [1] [2] Such methods are now known as applied behavior analysis. In science fiction: Utopias and dystopias. From an early age, members of Walden Two are conditioned to be productive and happy members of society. As Walden progresses, we shall see the spiritual riches that he "mined" from living at Walden Pond. Thoreau was born into a family of humble means, his father a pencil-maker. This one-page guide includes a plot summary and brief analysis of Walden Two by B. F. Skinner. Welcome to the LitCharts study guide on Henry David Thoreau's Walden. Skinner’s Walden Two (1948), rewards and punishments are employed to condition the members of a small communal society. Perfect for acing essays, tests, and quizzes, as well as for writing lesson plans. Walden Two is a utopian novel  written by behavioral  psychologist B. F. Skinner, first published in 1948. A summary of Part X (Section3) in B.F. Skinner's Walden Two. Analysis In considering this chapter, the first thing the reader should note is the similarity between the image of the narrator at the beginning of the chapter and that at the end. </p>";s:7:"keyword";s:18:"walden two summary";s:5:"links";s:3058:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-traviata-translation'>La Traviata Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-bet-by-anton-chekhov-summary'>The Bet By Anton Chekhov Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raymond-burr-wheelchair'>Raymond Burr Wheelchair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Turkey-Dance-Freeze'>Turkey Dance Freeze</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=de-dhakka-cast'>De Dhakka Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=warhammer-40-000-space-wolf-metacritic'>Warhammer 40 000 Space Wolf Metacritic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wagner-group-gmbh'>Wagner Group Gmbh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=susan-hayward-death'>Susan Hayward Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=racy-mr-and-mrs-questions'>Racy Mr And Mrs Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Clifford%27s-Happy-Easter'>Clifford's Happy Easter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ford-county-warrants'>Ford County Warrants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plainville-public-schools'>Plainville Public Schools</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sorcerer%27s-apprentice-composer'>Sorcerer's Apprentice Composer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=there-is-only-one-good-knowledge-and-one-evil-ignorance-book'>There Is Only One Good Knowledge And One Evil Ignorance Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Presidential-Medal-of-Freedom-with-Distinction'>Presidential Medal Of Freedom With Distinction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Lemon-Orchard'>The Lemon Orchard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Donegal-County-Council'>Donegal County Council</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-arrival-%281996-trailer%29'>The Arrival (1996 Trailer)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=airbnb-asheville%2C-nc'>Airbnb Asheville, Nc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=god%27s-word-will-not-return-void-kjv'>God's Word Will Not Return Void Kjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=laura-childs-audiobooks'>Laura Childs Audiobooks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paradise-canyon-fishing-report'>Paradise Canyon Fishing Report</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-act-together'>To Act Together</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-visiting-day-in-divergent'>What Is Visiting Day In Divergent</a>,
+";s:7:"expired";i:-1;}

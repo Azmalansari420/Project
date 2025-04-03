@@ -1,0 +1,91 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2653:"<p>12 The relevance of any urinary tract abnormality is the key factor in whether a UTI should be treated as complicated or uncomplicated. PubMed. To describe clinical f  </p> <p>67,68 In add ition, assessing depres sion symptoms in older adult s vi a s elf-report measures can be more difﬁcul t t han in younger cohor ts due to Transcript. 1 The increasing microbial resistance, and the known association between microbial resistance and antibiotic use in society is an urgent rationale to reduce inappropriate use of antibiotics in UTI. Trichophytobezoar duodenal obstruction in New World camelids. Juxtapapillary duodenal diverticula early and late clinical and therapeutical implications. PubMed. Sullivan, Eileen K; Callan, Robert J; Holt, Timothy N; Van Metre, David C. 2005-01-01. double cup young jeezy juicy j download club pole position vice city mapa shift out of werewolf form skyrim best book on cdi find index of javascript array </p> <p>The source for medical equations, algorithms, scores, and guidelines. Uncomplicated lower urinary tract infections (UTI) are usually treated with antibiotics. Introduction. This condition is a common and urgent surgical illness with protean manifestations, generous overlap with other clinical syndromes, and significant morbidity, which increases with diagnostic delay (see Clinical Presentation). 153 This instrument was generated to improve limitations of the STAI (eg, weak structure, capacity to distinct anxiety symptoms from depression). ness of the patient answering a questionnaire. Appendicitis is defined as an inflammation of the inner lining of the vermiform appendix that spreads to its other parts. The 2018 European Association of Urology (EAU) guidelines define uncomplicated UTI as acute, sporadic, or recurrent cystitis limited to nonpregnant, premenopausal women with no relevant anatomical or functional abnormalities in the urinary tract. However, there is little evidence for alternative therapeutic options. Scribd es el sitio social de lectura y editoriales más grande del mundo. The STICSA is a self-report questionnaire designed to assess somatic and cognitive symptoms of anxiety. 1 P r i vat i z i n g M i l i ta r y FA M ILY H o u s i n g A History of the U.S. Armys Residential Communities Initiative, 19952010 Prepared for the Office of the Assistant Secretary of the Army, A History of the U.S. Armys Residential Communities Initiative Installations, Energy & Environment by Matthew C. Godfrey and Paul Sadin with Dawn Vogel, Joshua Pollarine, and Nicolai Kryloff UTI is the most common indication for antibiotic treatment among institutionalized older adults. </p>";s:7:"keyword";s:56:"sticsa questionnaire scoringtreatment of complicated uti";s:5:"links";s:3804:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noa-tishby-the-island'>Noa Tishby The Island</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=night-windows-the-weakerthans'>Night Windows The Weakerthans</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-make-a-link-clickable-in-google-docs'>How To Make A Link Clickable In Google Docs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=major-financial-crisis-in-the-world'>Major Financial Crisis In The World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Donegal-County-Council'>Donegal County Council</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grand-prix-pontiac'>Grand Prix Pontiac</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shrek-meme-face-edited'>Shrek Meme Face Edited</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=special-affairs-team-ten-vietsub'>Special Affairs Team Ten Vietsub</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chopra-global-website'>Chopra Global Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-musical-box-set'>The Musical Box Set</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poets-of-the-fall---carnival-of-rust-lyrics-meaning'>Poets Of The Fall - Carnival Of Rust Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=allen-saunders-actor'>Allen Saunders Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kat-coiro-height'>Kat Coiro Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wagner-group-gmbh'>Wagner Group Gmbh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-moon-beer-sainsbury%27s'>Blue Moon Beer Sainsbury's</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meridian-bank-malvern-pa'>Meridian Bank Malvern Pa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what%27s-after-gen-z'>What's After Gen Z</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gregory-porter---holding-on-meaning'>Gregory Porter - Holding On Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Delta-Line-company'>Delta Line Company</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=olivia-burnette-dexter'>Olivia Burnette Dexter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geoff-keighley-half-life-alyx-interview'>Geoff Keighley Half Life Alyx Interview</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=christmas-alphabet-a-z'>Christmas Alphabet A-z</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vernon%2C-tx-municipal-court-phone-number'>Vernon, Tx Municipal Court Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-rush-in-a-sentence'>No Rush In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blood-thirst-meaning'>Blood Thirst Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=things-to-do-in-cape-verde---santa-maria'>Things To Do In Cape Verde - Santa Maria</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=you-know-in-german'>You Know In German</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jennifer-finney-boylan'>Jennifer Finney Boylan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-bible-illustrations'>Old Bible Illustrations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hide-rainbow-kitten-surprise-meaning'>Hide Rainbow Kitten Surprise Meaning</a>,
+";s:7:"expired";i:-1;}

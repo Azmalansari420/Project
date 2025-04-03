@@ -1,0 +1,147 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2697:"<p>With the Rising Sun: Kami Unbound expansion, these mythological gods can take part in the battle like never before. </p> <p>The Kami Unbound expansion can be added to your base Rising Sun core box and brings the Kami from the spiritual realm to the physical by introducing amazing, high-quality miniatures of spirits once only worshipped in the game. The main problem with KAMI UNBOUND: In the game without this expansion there is a trade-off you have to considder as a player when sending shinto to worship. This is because you lose force on the table if you choose to use the recruit-mandate to summon shinto and let them worship the kami.  The kami unbound expansion can be added to players’ base rising Sun core box and brings the kami from the spiritual realm to the physical by introducing amazing, high-quality miniatures of spirits once only worshipped in the game. Description from the publisher: Kami Unbound is a new ruleset which makes the presence of the Kami even more potent and vital in Rising Sun! Kami Unbound is a new ruleset which makes the presence of the Kami even more potent and vital in Rising Sun! The kami will be able to aid the clans who worship them the most and can influence the provinces they are placed in. Rising Sun: Kami Unbound <p>Not satisfied with simply receiving the worship of the Clans of Japan, the Kami have returned to Earth to exercise their influence on the war itself. Normally, the influence of the Kami is restricted to the bonuses each of them grant during the Kami turn, granted to the Clan who has the most Shinto worshiping them. Find helpful customer reviews and review ratings for Rising Sun: Kami Unbound at Amazon.com. Kami Unbound introduces a whole new ruleset for your games of Rising Sun, as well as seven highly detailed miniatures for each of the Kamis in the game, plus Kami … The Kami have returned to Japan to take part in the battle! </p> <p>Normally, the influence of the Kami is restricted to the bonuses each of them grant during the Kami turn, granted to the Clan who has the most Shinto worshiping them. </p> <p>The Kami will be able to aid the Clans who worship them the most and can influence the Provinces they are placed in. </p> <p>Description from the publisher: Kami Unbound is a new ruleset which makes the presence of the Kami even more potent and vital in Rising Sun! </p> <p>Normally, the influence of the Kami is restricted to the bonuses each of them grant during the Kami turn, granted to the Clan who has the most Shinto worshiping them. With Kami Unbound, the Kami will get their own figure, which starts the game in a specific Province. Read honest and unbiased product reviews from our users. </p>";s:7:"keyword";s:24:"rising sun: kami unbound";s:5:"links";s:10840:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nashua-new-hampshire-county'>Nashua New Hampshire County</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ben-shapiro-book-2020'>Ben Shapiro Book 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vicky-the-viking-book'>Vicky The Viking Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jack%2C-joseph-and-morton-mandel-school-of-applied-social-sciences'>Jack, Joseph And Morton Mandel School Of Applied Social Sciences</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roustabout-jobs-in-texas'>Roustabout Jobs In Texas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=technology-in-schools-statistics'>Technology In Schools Statistics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trans-am-worldwide'>Trans Am Worldwide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aid-document-full-form-in-software-engineering'>Aid Document Full Form In Software Engineering</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=janet-mcteer-%28%27ozark%29'>Janet Mcteer ('ozark)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=teuku-rafly-pasya'>Teuku Rafly Pasya</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-studying-hours-read-online'>The Studying Hours Read Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=huang-rong-2017'>Huang Rong 2017</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=u-mounting-brackets'>U Mounting Brackets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-improve-chinese-vocabulary'>How To Improve Chinese Vocabulary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=msc-quantum-physics'>Msc Quantum Physics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rebel-a-legend-novel-ending'>Rebel A Legend Novel Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=agnes-grey-characters'>Agnes Grey Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=World-Without-Men'>World Without Men</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orr-meaning-immigration'>Orr Meaning Immigration</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-does-the-cosmological-argument-prove-the-existence-of-god'>How Does The Cosmological Argument Prove The Existence Of God</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-brood-nola'>The Brood Nola</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercedes-kilmer-car-accident'>Mercedes Kilmer Car Accident</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prayer-for-candidate'>Prayer For Candidate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maigret-the-redhead'>Maigret The Redhead</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Colin-Huang-Zheng'>Colin Huang Zheng</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-figlia-che-piange-prezi'>La Figlia Che Piange Prezi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=advanced-japanese-phrases'>Advanced Japanese Phrases</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tang-soo-do'>Tang Soo Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-are-we-going-lyrics-2018'>Where Are We Going Lyrics 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-lawrence-block'>How Old Is Lawrence Block</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=never-again-sarah-dessen-description'>Never Again Sarah Dessen Description</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kana-kanta-meaning-in-japanese'>Kana Kanta Meaning In Japanese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-liesel-keep-after-the-bombing'>What Does Liesel Keep After The Bombing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-cub-werewolf'>Wolf Cub Werewolf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nick-stahl-found'>Nick Stahl Found</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eric-bloom-height'>Eric Bloom Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wacky-Wednesday-characters'>Wacky Wednesday Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=murder%2C-she-baked%3A-a-chocolate-chip-cookie-mystery-full-movie'>Murder, She Baked: A Chocolate Chip Cookie Mystery Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moldflow-software-cost'>Moldflow Software Cost</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=juneau%2C-alaska-homes-for-sale'>Juneau, Alaska Homes For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eugene-onegin-pushkin'>Eugene Onegin Pushkin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=imagination-company-stock'>Imagination Company Stock</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=irma-grese-film'>Irma Grese Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-are-vintage-recipes-so-gross'>Why Are Vintage Recipes So Gross</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-nelson-daybed'>George Nelson Daybed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=casey-hampton-steelers'>Casey Hampton Steelers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-asgard-in-the-milky-way'>Is Asgard In The Milky Way</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=laurel-holloman-paintings'>Laurel Holloman Paintings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=identity-theory-philosophy'>Identity Theory Philosophy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gay-American-History'>Gay American History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=3-musketeers-synonym'>3 Musketeers Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skyrim-brynjolf-console-code'>Skyrim Brynjolf Console Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sonal-chauhan-movies'>Sonal Chauhan Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-valchromat'>What Is Valchromat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blink-182---dude-ranch-vinyl'>Blink-182 - Dude Ranch Vinyl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2008-mustang-bullitt-hp'>2008 Mustang Bullitt Hp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-makes-lone-wolf-barrels'>Who Makes Lone Wolf Barrels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vector-group-e-cigarette'>Vector Group E Cigarette</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-target-memes'>Funny Target Memes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ymca-employee-login'>Ymca Employee Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=son-in-chinese'>Son In Chinese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-stone-director'>George Stone Director</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=birmingham-city-new-stadium'>Birmingham City New Stadium</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=famous-writers-of-urdu-literature'>Famous Writers Of Urdu Literature</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=syndromes-associated-with-clubfoot'>Syndromes Associated With Clubfoot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-cut-weight-for-boxing'>How To Cut Weight For Boxing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=two-way-translator-device-offline'>Two-way Translator Device Offline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blackheart-man-full-album'>Blackheart Man Full Album</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=surrealism-meaning-in-art'>Surrealism Meaning In Art</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=filhaal-movie-release-date'>Filhaal Movie Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plac-europejski-4a'>Plac Europejski 4a</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-flea-john-donne-summary'>The Flea John Donne Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Nan-Woods-now'>Nan Woods Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=around-the-world-in-80-days-worksheet-answers'>Around The World In 80 Days Worksheet Answers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=floating-point-number-representation'>Floating Point Number Representation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nature-of-recreation-in-physical-education'>Nature Of Recreation In Physical Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lonewolf-game-hacked'>Lonewolf Game Hacked</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rube-goldberg-with-household-items'>Rube Goldberg With Household Items</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=li-bai-family'>Li Bai Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nederman-fume-extractor-manual'>Nederman Fume Extractor Manual</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tavi-gevinson-ira-glass'>Tavi Gevinson Ira Glass</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philippe-starck-designs-and-dates'>Philippe Starck Designs And Dates</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chinese-Film-Detective-Dee'>Chinese Film Detective Dee</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greek-basketball-championship'>Greek Basketball Championship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frankenstein-introduction-pdf'>Frankenstein Introduction Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eric-carle-artist-research'>Eric Carle Artist Research</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,92 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2461:"<p>CHRISTMAS CAROL SERVICE. C/O. Hebron Gospel Hall 32a Banbury Rd, Bicester, OX26 2HJ. I … Welcome to the Viewforth Gospel Hall website. Due to the current coronavirus outbreak … Latest News. </p> <p>We have a Brethren chapel ('Gospel Hall') round the corner, although I don't know where they sit on the Brethren spectrum, and they do the odd leaflet drop and distribute leaflets in the street sometimes. Mr Ronald Simon. We are pleased to announce our forthcoming Christmas Carol Service. You can learn more about us from this website. Recent News. </p> <p>I'm always struck by their slightly formal courtesy; they are never patronising, never pressurising. </p> <p>More Info; Directions; Sundays @ 10.30am, 12.45pm, 6.30pm Thursdays @ 7.30pm Call: 07849 882702 info @hebrongospelhall.org Latest Uploads. </p> <p>We are a group of Christians who worship according to what we believe are Biblical principles. 19/03/2020 **ALL MEETINGS HAVE BEEN CANCELLED UNTIL FURTHER NOTICE** Due to the COVID-19 (Coronavirus) pandemic, all meetings at Marine Hall have been cancelled until further notice. Evangelists like Alexander Marshall and Donald Ross did much work in spreading the gospel, and starting assemblies. </p> <p>Gospel Hall / Brethren Assemblies in Malaysia in a larger map. The Gospel Hall Brethren movement seems to have spread out from the work in Scotland after the great Revival of 1859. </p> <p>04/10/2019. </p> <p>Gospel Hall Brethren connection. The Gospel Hall Brethren movement seems to have spread out from the work in Scotland after the great Revival of 1859. The building is not yet fully completed but with the help of the Lord and the generous contribution of brethren locally and abroad, the work is expected to be completed by the end of 2020. </p> <p>Located in Melbourne’s South East, Dandenong Gospel Hall was established in 1954 when brethren were led of the Lord to commence a work in Melbourne’s growing ‘second city’. Should you wish to send a donation towards the completion, kindly forward to: Calivigny Gospel Hall Building Fund. Welcome. Welcome to the Malaysian Brethren Assemblies Website Please click on the following links to get to the web page of the assembly you are interested in visiting: </p> <p>Gospel Hall Brethren Connection. Evangelists like Alexander Marshall and Donald Ross did much work in spreading the gospel, and starting assemblies. The building on the present site was completed in 1961.  </p>";s:7:"keyword";s:20:"gospel hall brethren";s:5:"links";s:3908:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arthur-rackham-artist'>Arthur Rackham Artist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Loose-Pink-Diamond'>Loose Pink Diamond</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-doozers-characters'>The Doozers Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=notre-dame-du-haut-interior'>Notre Dame Du Haut Interior</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natrang-ubha-lyrics'>Natrang Ubha Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=falling-up---crashings'>Falling Up - Crashings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-holidays-lyrics'>No Holidays Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brook-kerr-son'>Brook Kerr Son</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-texas-laws-age-of-marriage'>New Texas Laws Age Of Marriage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=non-noxious-meaning-in-malayalam'>Non Noxious Meaning In Malayalam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flcl-season-1'>Flcl Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=runnymede-gym-opening-times'>Runnymede Gym Opening Times</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=german-stories-with-english-translation-pdf'>German Stories With English Translation Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cowboy-junkies---misguided-angel'>Cowboy Junkies - Misguided Angel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ken-duken-wife'>Ken Duken Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oliver-robins-movies'>Oliver Robins Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=birthright-israel-reviews'>Birthright Israel Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dust-effect-png'>Dust Effect Png</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-eckhart-tolle-still-alive'>Is Eckhart Tolle Still Alive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Paul-Merton-in-China'>Paul Merton In China</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dorian-and-manon-kingdom-of-ash'>Dorian And Manon Kingdom Of Ash</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greyson-chance---yours'>Greyson Chance - Yours</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=el-narco%3A-the-bloody-rise-of-mexican-drug-cartels-pdf'>El Narco: The Bloody Rise Of Mexican Drug Cartels Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gold-coast-things-to-do'>Gold Coast Things To Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-taylor-zehnder'>Alan Taylor Zehnder</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=speech-of-praise-synonym'>Speech Of Praise Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-pratt%27s-inn-history'>Peter Pratt's Inn History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=karmarama-social-media'>Karmarama Social Media</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-importance-of-being-earnest-the-truth-is-rarely-pure-and-never-simple'>The Importance Of Being Earnest The Truth Is Rarely Pure And Never Simple</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saba-new-orleans'>Saba New Orleans</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-flash-of-the-lightning-full-episode'>A Flash Of The Lightning Full Episode</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,106 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1508:"<p> text("OpenSCAD"); Note. CADAPLUS 10,765 views. You can get the list under the "help" menu. - Duration: 0:58. The text function accepts several arguments among which are: size (the approximate font height) font, the font name internal to OpenScad. 0:58. text("OpenSCAD"); Note. How to Align text and objects automatically in Autocad with APLUS plug-in. To match the capabilities of halign and valign in text (), you can also request to be centred, above or below a specific coordinate value on a particular axis. </p> <p>To allow specification of particular Unicode characters you can specify them in a string with the following escape codes; \x03 - single hex character (only allowed values are 01h - 7fh) \u0123 - unicode char with 4 hexadecimal digits (note: Lowercase) \U012345 - unicode char with 6 hexadecimal digits (note: Uppercase) Example. The align () operator is more general than the center= argument supported by some geometric primitives, and can also replace most uses of the halign= and valign= arguments of text (). halign and valign; spacing, for spacing out letters (probably a good idea when using a filament printer) Simple example to create a text: To allow specification of particular Unicode characters you can specify them in a string with the following escape codes; \x03 - single hex character (only allowed values are 01h - 7fh) \u0123 - unicode char with 4 hexadecimal digits (note: Lowercase) \U012345 - unicode char with 6 hexadecimal digits (note: Uppercase) Example. </p>";s:7:"keyword";s:20:"openscad text valign";s:5:"links";s:5512:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=canning-orange-juice'>Canning Orange Juice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=landry-shamet-ethnic-background'>Landry Shamet Ethnic Background</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-French-Time-magazine'>David French Time Magazine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alison-wright-photography'>Alison Wright Photography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cruise-ship-tv-show-2019'>Cruise Ship Tv Show 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=au-bout-de-in-french'>Au Bout De In French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=secrets-maroma-beach-riviera-cancun'>Secrets Maroma Beach Riviera Cancun</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jesus-gives-keys-to-peter'>Jesus Gives Keys To Peter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-history-press-location'>The History Press Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=advantageous-movie-trailer'>Advantageous Movie Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tunis-airport-coronavirus'>Tunis Airport Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-trek-convention-2020-dates'>Star Trek Convention 2020 Dates</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kitty-hawk%2C-north-carolina-wright-brothers'>Kitty Hawk, North Carolina Wright Brothers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Noah-clothing-Sale'>Noah Clothing Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=realism-in-michelangelo-david'>Realism In Michelangelo David</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=preacher-lawson-netflix'>Preacher Lawson Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drew-struzan-dvd'>Drew Struzan Dvd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ballymurphy-massacre-inquest'>Ballymurphy Massacre Inquest</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=famous-ghats-in-varanasi'>Famous Ghats In Varanasi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blithe-spirit-script'>Blithe Spirit Script</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dearborn-michigan-arab-festival'>Dearborn Michigan Arab Festival</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=giovanni-pokemon-go-may-2020'>Giovanni Pokemon Go May 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dimitri-and-rose-in-bloodlines'>Dimitri And Rose In Bloodlines</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=garth-brooks-youtube'>Garth Brooks Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-harsanyi-bias'>David Harsanyi Bias</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greenville%2C-nc-population'>Greenville, Nc Population</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bear-compound-bow-for-sale'>Bear Compound Bow For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=snake-eye-knife-440'>Snake Eye Knife 440</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=irish-themed-films'>Irish Themed Films</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lightning-wallpaper-live'>Lightning Wallpaper Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jason-isbell-net-worth'>Jason Isbell Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-russia%2C-ny'>New Russia, Ny</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=15837-crenshaw-blvd'>15837 Crenshaw Blvd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julie-marie-carp'>Julie Marie Carp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-Dastmalchian-Dune'>David Dastmalchian Dune</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crimson-weapon-ragnarok'>Crimson Weapon Ragnarok</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heli-forklift-price'>Heli Forklift Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chalo-chalein----ritviz-lyrics-meaning'>Chalo Chalein -- Ritviz Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=406-joo-chiat-place-the-yards'>406 Joo Chiat Place The Yards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philbert-powwow-highway'>Philbert Powwow Highway</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-post---movie-online'>The Post - Movie Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greyson-chance---yours'>Greyson Chance - Yours</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sixer-meaning-slang'>Sixer Meaning Slang</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kaden-martin-espn'>Kaden Martin Espn</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=massimo-lusardi-restaurants'>Massimo Lusardi Restaurants</a>,
+";s:7:"expired";i:-1;}

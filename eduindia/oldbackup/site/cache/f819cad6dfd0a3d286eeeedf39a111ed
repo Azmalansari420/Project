@@ -1,0 +1,119 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2413:"<br>Everyday low prices and free delivery on eligible orders. <br> <br>The Drunken Botanist: The Plants That Create the World's Great Drinks (Inglés) Pasta dura – 19 marzo 2013 por Amy Stewart (Autor) 4.7 de 5 estrellas 1,130 calificaciones. <br> <br>The Drunken Botanist uncovers the surprising botanical history and fascinating science and chemistry of over 150 plants, flowers, trees, and fruits (and even a few fungi). Buy The Drunken Botanist- The Plants That Create The World's Great Drinks by Amy Stewart (ISBN: 9781604694765) from Amazon's Book Store. Some of the most extraordinary and obscure plants have been fermented and distilled, and they each represent a unique cultural contribution to global drinking traditions and our history. It's a well-balanced mixture of history, horticulture, and even … <br> <br>The Drunken Botanist is a strange brew—part Ripley's Believe It or Not, part compendium on the order of Schott's Original Miscellany and part botanical garden tour, albeit with a curated cocktail party at the end…What Stewart's book lacks in narrative spine…it makes up in easygoing charm, sly wit and an eye for the telling anecdote… See all formats and editions Hide other formats and editions.  <br>The Drunken Botanist NPR coverage of The Drunken Botanist: The Plants That Create the World's Great Drinks by Amy Stewart. News, author interviews, critics' picks and more. Her new book is The Drunken Botanist: The Plants That Create the World's Great Drinks. <br> <br>Buy The Drunken Botanist: The Plants That Create the World's Great Drinks Unabridged by Stewart, Amy, Marlo, Coleen (ISBN: 9781622311392) from Amazon's Book Store. <br> <br>Ver todos los 5 formatos y ediciones Ocultar otros formatos y ediciones. Everyday low prices and free delivery on eligible orders. The Drunken Botanist: The Plants that Create the World's Great Drinks by Amy Stewart “The Drunken Botanist" is a wonderful reference on plants associated with the world's favorite drinks. Visit AmyStewart.com to find out more. <br>  is the award-winning author of six books on the perils and pleasures of the natural world, including four New York Times bestsellers, The Drunken Botanist, Wicked Bugs, Wicked Plants and Flower Confidential. The Drunken Botanist: The Plants That Create the World's Great Drinks Hardcover – March 19 2013 by Amy Stewart (Author) 4.7 out of 5 stars 1,139 ratings. <br>";s:7:"keyword";s:69:"the drunken botanist: the plants that create the world's great drinks";s:5:"links";s:7242:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drop-zone-home'>Drop Zone Home</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wise-and-Benevolent-Women'>Wise And Benevolent Women</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=betty-field-measurements'>Betty Field Measurements</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clopin-trouillefou-musical'>Clopin Trouillefou Musical</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arvid-carlsson-nobel-prize'>Arvid Carlsson Nobel Prize</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Byron-Pitts-net-worth'>Byron Pitts Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=domino%27s-charity-requests'>Domino's Charity Requests</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-sunset-koh-lanta'>Best Sunset Koh Lanta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jesus-story-full-movie'>Jesus Story Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=har-gobind-khorana'>Har Gobind Khorana</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Costco-Plan-B'>Costco Plan B</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-maloney-obituary-may-21-2020'>Michael Maloney Obituary May 21 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-there-going-to-be-a-replicas-2'>Is There Going To Be A Replicas 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ocad-university-tuition'>Ocad University Tuition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Edamame-in-a-can'>Edamame In A Can</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=king-of-the-undertow'>King Of The Undertow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-praise-of-shadows-sora-books'>In Praise Of Shadows Sora Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amy-pietz---imdb'>Amy Pietz - Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vernost-%282019-english-subtitles%29'>Vernost (2019 English Subtitles)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=doctor-who%3A-the-harvest'>Doctor Who: The Harvest</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dalgona-coffee-quotes-for-instagram'>Dalgona Coffee Quotes For Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sci-fi-Movie-DUST'>Sci-fi Movie DUST</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drawn-and-quartered-real-video'>Drawn And Quartered Real Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jai-Simha-Telugu-Full-Movie-Download'>Jai Simha Telugu Full Movie Download</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=google-alarm-set'>Google Alarm Set</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=april-33-ad-calendar'>April 33 Ad Calendar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nyima-funk-wikipedia'>Nyima Funk Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=italy-human-geography'>Italy Human Geography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-places-to-stargaze-in-the-us'>Best Places To Stargaze In The Us</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=olivia-sui-csi'>Olivia Sui Csi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julie-marie-fernandez'>Julie Marie Fernandez</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=danville%2C-va-gis-parcel-viewer'>Danville, Va Gis Parcel Viewer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=italian-restaurants-in-westerville'>Italian Restaurants In Westerville</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=requiem-movie-2016'>Requiem Movie 2016</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=omid-abtahi-height'>Omid Abtahi Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary-martin-anne-stringfield'>Mary Martin Anne Stringfield</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=memory-lane-betekenis'>Memory Lane Betekenis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chandra-mtg-art'>Chandra Mtg Art</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=strategic-leadership-theory'>Strategic Leadership Theory</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gooseberry-chutney-slow-cooker'>Gooseberry Chutney Slow Cooker</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nikesh-patel-net-worth'>Nikesh Patel Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=regretting-you-review'>Regretting You Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-art-of-healing-pdf'>The Art Of Healing Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=johnathan-motley-g-league-stats'>Johnathan Motley G League Stats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Stephen-Crane-works'>Stephen Crane Works</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hawaii-honeymoon-bungalows'>Hawaii Honeymoon Bungalows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dr-eggman-voice-actor'>Dr Eggman Voice Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roll-of-thunder%2C-hear-my-cry-chapter-4'>Roll Of Thunder, Hear My Cry Chapter 4</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=herringbone-stitch-design'>Herringbone Stitch Design</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shu-ting-meeting-in-the-old-path-english-translation'>Shu Ting Meeting In The Old Path English Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=superman-and-me-metaphor'>Superman And Me Metaphor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-swamp%3A-the-everglades%2C-florida%2C-and-the-politics-of-paradise-pdf'>The Swamp: The Everglades, Florida, And The Politics Of Paradise Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Happy-Birthday-Song-in-Hindi'>Happy Birthday Song In Hindi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roger-bacon-high-school-athletics'>Roger Bacon High School Athletics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Late-Roman-Empire-map'>Late Roman Empire Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dictionary-of-Composers'>Dictionary Of Composers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-snoopy-pictures'>Funny Snoopy Pictures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mind-reading-books-pdf'>Mind Reading Books Pdf</a>,
+";s:7:"expired";i:-1;}

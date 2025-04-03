@@ -1,0 +1,156 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3039:"<br>Through the stories of mothers and babies around the world, we look at how poverty affects childbirth, childhood - and everything beyond. In Sierra Leone, one in eight mothers die in childbirth. <br> <br>Babies, if there was any question or doubt, is a new Netflix series about tiny, adorable, freshly born humans.Those babies and their doughy little cheeks are from many corners of the world… A new documentary looks at babies around the world in their first year.  <br>Release year: 2020 As babies make sense of a brand-new world, breakthrough research details how they are already equipped to … A new Netflix documentary series follows 15 babies during their first year of life to discover the processes behind each developmental step. Directed by award-winning filmmaker Thomas Balm`es, from an original idea by producer Alain Chabat, Babies simultaneously follows four babies around the world - from birth to first steps. Attachment avoidance and the cultural fit hypothesis Sociocultural Theory Vygotsky claimed that infants are born with elementary mental functions (attention, sensation, perception and memory) and they are transformed into higher mental functions by the culture they are raised in. After watching the movie “Babies” filmed by Thomas Balmer, it led me to gain a great insight on the four disparate geographically settings and cultures and how these differences had significantly influence the development of the four babies. <br> Babies The Lives of Babies Around the World Based on observations from Babies, a 2010 documentary film by French director Thomas Balmes Mores Mores Venn Diagram Values Namibia Mom gently hits baby as punishment for bothering another baby Boys are allowed to play with the baby's <br> <br>Babies learn by observing the world, trying to detect patterns and predict what comes next. They are Ponijao in Opuwa, Namibia, Bayarjargal (Bayar) in Bayanchandmani, Mongolia, Mari in Tokyo, Japan and… The new documentary film Babies tracks the entire first year in the lives of four babies around the world, from birth to first steps. New documentary series explores the life of babies Katy Morton Monday, February 17, 2020 . But this can be difficult if their environment is chaotic, or if people around them behave unpredictably. ...More Start Your Free Trial  According to the World Health Organization, 99% of women who die during pregnancy and childbirth are in the developing world. “Babies,” a documentary by Thomas Balmès, chronicles the first year in the lives of four far-flung infants. A documentary look at one year in the life of four babies from around the world, from Mongolia to Namibia to San Francisco to Tokyo. Director Thomas Balmes spent nearly two years traveling the globe to capture the early lives of Bayarjargal from Mongolia, Ponijao from Namibia, Mari from Japan and Hattie from the United States. Scientists venture into the ways that walking changes a baby's world and unveil findings on neonatal reflexes, skeletal development and talking. <br>";s:7:"keyword";s:35:"babies around the world documentary";s:5:"links";s:12034:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=weave-together-synonym'>Weave Together Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=delia-owens-bio'>Delia Owens Bio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mediterranean-cuisine-meaning'>Mediterranean Cuisine Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Maharani-Sita-Devi-of-Kapurthala-style'>Maharani Sita Devi Of Kapurthala Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-rope%2C-and-other-plays'>The Rope, And Other Plays</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=susan-kare-work'>Susan Kare Work</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brand-new-setlist'>Brand New Setlist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=genesis-1%3A2-hebrew'>Genesis 1:2 Hebrew</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-studying-hours-read-online'>The Studying Hours Read Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Affiliate-marketing-quote'>Affiliate Marketing Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xosha-roquemore-instagram'>Xosha Roquemore Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=palisades-park-clerk'>Palisades Park Clerk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2nd-tank-battalion'>2nd Tank Battalion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-laodicean-summary'>A Laodicean Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rare-food-shop-review'>Rare Food Shop Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=top-dog-menu'>Top Dog Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=burlesque-2-cast'>Burlesque 2 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=accusative-case-german-pronouns'>Accusative Case German Pronouns</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-gaider-books'>David Gaider Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=georgian-alphabet-pronunciation'>Georgian Alphabet Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-promises-in-the-bible-pdf'>List Of Promises In The Bible Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chesterfield-county-information'>Chesterfield County Information</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-atherton-wife'>William Atherton Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-killed-teddy-bear-%281965%29'>Who Killed Teddy Bear (1965)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caged-bird-drawing-easy'>Caged Bird Drawing Easy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-did-jacqueline-kennedy-onassis-die'>How Did Jacqueline Kennedy Onassis Die</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=feminism-in-renaissance-england'>Feminism In Renaissance England</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lone-wolf-assault-weight'>Lone Wolf Assault Weight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-victims%27-game-netflix-review'>The Victims' Game Netflix Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thought-provoking-questions-about-religion'>Thought Provoking Questions About Religion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=handbook-of-catholic-apologetics-pdf'>Handbook Of Catholic Apologetics Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=passage-to-read'>Passage To Read</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beyond-westworld-streaming'>Beyond Westworld Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercy-health-rockford'>Mercy Health Rockford</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=let-the-sky-fall-pdf'>Let The Sky Fall Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rip-hunter-actor'>Rip Hunter Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sebastian-stan-net-worth-2020'>Sebastian Stan Net Worth 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=waiting-by-kevin-henkes-activities'>Waiting By Kevin Henkes Activities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antonio-conte-world-cup-1994'>Antonio Conte World Cup 1994</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-story-of-treemonisha'>The Story Of Treemonisha</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jenny-Archer%2C-Author'>Jenny Archer, Author</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-friend-at-hand-whiskey-price'>The Friend At Hand Whiskey Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=har-gobind-khorana'>Har Gobind Khorana</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whatsapp-chat-birthday-wishes-screenshots'>Whatsapp Chat Birthday Wishes Screenshots</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=national-theatre-live-april-2020'>National Theatre Live April 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nashua-new-hampshire-county'>Nashua New Hampshire County</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ocean-Pearl-menu'>Ocean Pearl Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alliteration-in-the-bells'>Alliteration In The Bells</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boxer-rebellion-effects'>Boxer Rebellion Effects</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=four-seasons-oahu-reviews'>Four Seasons Oahu Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lord-of-the-rings-tree-of-gondor'>Lord Of The Rings Tree Of Gondor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gallant-sweet-insomnia-tour'>Gallant Sweet Insomnia Tour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=short-stories-of-gratitude-and-thanksgiving'>Short Stories Of Gratitude And Thanksgiving</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=claudio-reyna-height'>Claudio Reyna Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-shiffrin-contribution-to-psychology'>Richard Shiffrin Contribution To Psychology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=douglas-fowley-cause-of-death'>Douglas Fowley Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=l%C3%A9o-laurent-father'>Léo Laurent Father</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atonement-%28novel%29-movie'>Atonement (novel) Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=f-xun-tennis-live-score'>F Xun Tennis Live Score</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=summer-of-my-german-soldier-study-guide-questions-and-answers'>Summer Of My German Soldier Study Guide Questions And Answers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=salom%C3%A9-telenovela-online'>Salomé Telenovela Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-did-boystory-debut'>When Did Boystory Debut</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=was-donna-yaklich-abused'>Was Donna Yaklich Abused</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=humano-llc-phone-number'>Humano Llc Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japanese-word-for-chinese'>Japanese Word For Chinese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Prehensile-tail-definition-Biology'>Prehensile Tail Definition Biology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nihon-shoki-and-kojiki'>Nihon Shoki And Kojiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=genesis-live---youtube'>Genesis Live - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mirror-mirror-on-the-wall%2C-who-is-the-fairest'>Mirror Mirror On The Wall, Who Is The Fairest</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=table-knife-vs-butter-knife'>Table Knife Vs Butter Knife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-ladd-jr-net-worth'>Alan Ladd Jr Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edc-belt-company'>Edc Belt Company</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=attitude-is-everything%3A-change-your-attitude-pdf'>Attitude Is Everything: Change Your Attitude Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-door-poems'>Best Door Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=french-classical-violinist-ginette'>French Classical Violinist Ginette</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=action-cars-and-trucks'>Action Cars And Trucks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-philosophy-basic-principle'>Chinese Philosophy Basic Principle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-shepard-artist'>Richard Shepard Artist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soul-winning-scriptures'>Soul Winning Scriptures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jesse-bostick-net-worth'>Jesse Bostick Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i%27m-going-on-an-adventure-coronavirus'>I'm Going On An Adventure Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-man-said-to-the-universe-naturalism'>A Man Said To The Universe Naturalism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=designing-women%27-reboot-date'>Designing Women' Reboot Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=billion-dollar-brian'>Billion Dollar Brian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=impossible-love-poems'>Impossible Love Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seventeen-moments-in-spring'>Seventeen Moments In Spring</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natasha-denona-metropolis-rearranged'>Natasha Denona Metropolis Rearranged</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=playback-full-movie'>Playback Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phoenix-s-by-frankfurter-brett'>Phoenix-s By Frankfurter Brett</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daniel-shapiro-agnes-gund'>Daniel Shapiro Agnes Gund</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=perl-split-on-whitespace'>Perl Split On Whitespace</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bbno%24---lalala'>Bbno$ - Lalala</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orbital-2-vinyl'>Orbital 2 Vinyl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robinson-crusoe-%281997%29'>Robinson Crusoe (1997)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Carson-McCullers-quotes'>Carson McCullers Quotes</a>,
+";s:7:"expired";i:-1;}

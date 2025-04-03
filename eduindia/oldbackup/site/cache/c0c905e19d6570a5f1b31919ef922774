@@ -1,0 +1,157 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5467:"<br>All MS-DOS-compatible executable files set this value to 0x5A4D, which represents the ASCII characters MZ. The original 16-bit version of this file format is referred to as the DOS MZ Executable.. <br> <br> <br>I've tried OllyDbg, it looks really great, but it can't 16 bit. 16-bit .exe file format, a successor to the DOS MZ executable format. 16-Bit New Executable files are used in 16-bit OS/2 and Windows, and use “NE” in ASCII. It supports disassembly of Pentium III, AMD K7 Athlon, and Cyrix M2 as well, and the ability to handle the following executable formats: MZ, NE, PE, LE, LX, DOS, SYS, NLM, arch, ELF, a.out, coff32, PharLap, and rdoff. The file can be identified by the ASCII string "MZ" or the hexadecimal 4D 5A at the beginning of the file (the "magic number"). The DOS MZ executable format is the executable file format used for .EXE files in DOS. Supports both 32 & 64-bit files. <br> <br>16ビット DOS MZ executable 元々の DOS 実行ファイルフォーマットである。ファイルの先頭にはASCIIコードで "MZ" の文字があり、これで識別できる。 16ビット New Executable マルチタスクのMS-DOS 4.0で導入され、16 ビットの OS/2 と Windows で使われた。 EXE Format. The New Executable (abbreviated NE or NewEXE) is a 16-bit.exe file format, a successor to the DOS MZ executable format. Offset (hex) Meaning . The DOS MZ executable format is the executable file format used for . A NE is also called a segmented executable. This is a multiplatform binary viewer with "a built-in editor for binary, hexadecimal and disassembler modes". Introduction This is the home page of (yet another) open source machine code decompiler project. The MZ DOS executable file is newer than the COM executable format and differs from it. Welcome to the Decompiler home page! OS/2’s 36-bit Linear Executable is identified by the use of “LX” and is only compatible with OS/2 2.0 and higher. Pros: Fully free & open source. This is primarily so that programs intended for Windows 3.11 or OS/2 could display a message along the lines of "this program is intended to execute under Windows" and then the stub terminates. Open any Win32 binary executable in a hex editor, and note what you see: The first 2 letters are always the letters "MZ", the initials of Mark Zbikowski, who created the first linker for DOS. <br> <br>When a 16-bit or 32-bit Windows executable is run by Windows, execution starts at either the NE or the PE, and ignores the MZ code known as DOS stub. It is a more likely 64-bit version of ollydbg and is a dynamic type debugger. <br> <br>Note: all multi-byte values are stored LSB first. 00-01: 0x4d, 0x5a. "MZ" are the initials of Mark Zbikowski, one of the developers of MS-DOS.. <br> <br>As for the history, yes someone at Microsoft invented the exe format (the old DOS MZ exe format) and he (or someone else at Microsoft) wrote a loader for it and a linker, which is the thing that traditionally turns the output of a compiler ("object files") into executable files. See also the entry in Ralf Brown's Interrupt List. Many other fields are important to MS-DOS operating systems, but for Windows … <br> <br>"MZ" are the initials of Mark Zbikowski, one of leading developers of MS-DOS.. The DOS MZ executable format is the executable file format used for .EXE files in DOS.. "MZ" are the initials of Mark Zbikowski, one of the developers of MS-DOS. This is the "magic number" of an EXE file. These formats can be identified by the letters "MZ" at the beginning of the file in ASCII. Used in Windows 1.0–3.x, multitasking MS-DOS 4.0, OS/2 1.x, and the OS/2 subset of Windows NT up to version 5.0 . x64dgb is a brand new debugger in the sector. The file can be identified by the ASCII string "MZ" (hexadecimal: 4D 5A) at the beginning of the file (the "magic number"). There are no docs, no source, and no information about the author. <br> <br>MZ EXE files 28 Mar 2015. .exe.exe is a common filename extension denoting an executable file (the main execution point of a computer program) for Microsoft Windows. The MZ DOS executable file is newer than the COM executable format and differs from it. <br> <br>It is open-source debugger for executable files developed by Mr. eXodia for both x86 & x64 processor types. <br> <br>The file can be identified by the ASCII string "MZ" (hexadecimal: 4D 5A) at the beginning of the file (the "magic number"). この形式は、ファイルの先頭にあるASCII文字列「MZ」（16進数 ：4D 5A）（「 マジックナンバー」）で識別できる。 「MZ」は、MS-DOSの主要な開発者の1人であるMark Zbikowskiの頭文字である 。 Converter from DOS-exe (MZ format) files to ROM-able (*.rom format), suitable for loading to absolute addresses. The modern PE file format includes a NE/MZ format executable as a "DOS Stub" at the front. I guess it's time for me to learn how to decompile stuff, since it seems the only way to restore file format. <br> File formats There are several file formats which may be used by a file with a extension: DOS ;16-bit DOS MZ executable:The original DOS executable file format. I have some crucial data written decades ago by an ancient 16bit DOS application. <br> <br>DOS MZ実行可能形式は、DOSのEXEファイルに使用される実行可能形式 ファイルである。. MS-DOS headers are sometimes referred to as MZ headers for this reason. Just the 16 bit exe. <br>";s:7:"keyword";s:17:"DOS MZ executable";s:5:"links";s:12344:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Michael-Ryan-Jennifer-Ehle'>Michael Ryan Jennifer Ehle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=you-can%27t-be-any-poorer-than-dead-pdf'>You Can't Be Any Poorer Than Dead Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hold-up-wait-a-minute-song'>Hold Up Wait A Minute Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=courage%3A-the-backbone-of-leadership-pdf'>Courage: The Backbone Of Leadership Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chinese-Army-General'>Chinese Army General</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=birth-of-cinema-book'>Birth Of Cinema Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=headless-horseman-costume-with-pumpkin-head'>Headless Horseman Costume With Pumpkin Head</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-ballet-theatre-instagram'>American Ballet Theatre Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=albemarle-county-property-tax-phone-number'>Albemarle County Property Tax Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Nathaniel-Hawthorne-family'>Nathaniel Hawthorne Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=first-generation-scholarship'>First Generation Scholarship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=read-invisible-cities'>Read Invisible Cities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mirko-voice-actor-japanese'>Mirko Voice Actor Japanese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-win-an-undue-influence-case'>How To Win An Undue Influence Case</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=numbers-game-urban-dictionary'>Numbers Game Urban Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-and-courage-quotes'>Love And Courage Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Scientific-Facts-in-the-Bible'>Scientific Facts In The Bible</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nick-park-characters'>Nick Park Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sebastian-Potion-9'>Sebastian Potion 9</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lilly-reich-curtains'>Lilly Reich Curtains</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dhoom-2-movie'>Dhoom 2 Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amy-allen-a-team'>Amy Allen A Team</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=faux-distressed-wood'>Faux Distressed Wood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=canandaigua-national-bank-greece-ny'>Canandaigua National Bank Greece Ny</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-best-and-most-beautiful-things'>The Best And Most Beautiful Things</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=warner-queer-theory'>Warner Queer Theory</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=light-food-restaurants'>Light Food Restaurants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-pastoral-quotes'>American Pastoral Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lew-ayres-spouse'>Lew Ayres Spouse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-object-of-my-affection-123movies'>The Object Of My Affection 123movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Meri-Zindagi-Ek-Agneepath'>Meri Zindagi Ek Agneepath</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chesapeake-energy-arena-box-office'>Chesapeake Energy Arena Box Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=albert-king---born-under-the-bad-sign'>Albert King - Born Under The Bad Sign</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-pronounce-taker'>How To Pronounce Taker</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=herodotus-egypt-pyramids'>Herodotus Egypt Pyramids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=serbian-horse-breeds'>Serbian Horse Breeds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buffalo-chaussure-homme'>Buffalo Chaussure Homme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-terry-movies'>Paul Terry Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=A-Written-Testimony'>A Written Testimony</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Define-powerful-synonym'>Define Powerful Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=What-nationality-was-the-Sundance-Kid'>What Nationality Was The Sundance Kid</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jason-salda%C3%B1a-movies-and-tv-shows'>Jason Saldaña Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=short-poem-for-earth-day'>Short Poem For Earth Day</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dave-barry-year-in-review-2015'>Dave Barry Year In Review 2015</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cape-breton-obituaries-1957'>Cape Breton Obituaries 1957</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreBreakfasts-with-kidsPalmieri%27s%2C-Willow-Tree-Caf%C3%A9-and-Harrow-Hill-Golf-Club%2C-and-more'>+ 18moreBreakfasts With KidsPalmieri's, Willow Tree Café And Harrow Hill Golf Club, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sons-of-issachar-ministries'>Sons Of Issachar Ministries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Eight-Katherine-Neville-movie'>The Eight Katherine Neville Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-bones-lyrics'>Funny Bones Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=windermere-kirkland-northeast'>Windermere Kirkland Northeast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=far-cry-primal-2-release-date'>Far Cry Primal 2 Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kim-walker-brain-tumor'>Kim Walker Brain Tumor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aikido---youtube'>Aikido - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dayton-industrial-supply'>Dayton Industrial Supply</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lafayette-escadrille-pilots'>Lafayette Escadrille Pilots</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=birthright-trip-dates'>Birthright Trip Dates</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fordham-high-school-for-the-arts'>Fordham High School For The Arts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=identity-theory-philosophy'>Identity Theory Philosophy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=properties-to-rent'>Properties To Rent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=powerful-prayer-in-urgent-need'>Powerful Prayer In Urgent Need</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=netflix-vampires-cast'>Netflix Vampires Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alien-game-online'>Alien Game Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andy-borowitz-books'>Andy Borowitz Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skyrim-side-with-cicero-or-astrid'>Skyrim Side With Cicero Or Astrid</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-loch-series-2'>The Loch Series 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mother-name-incorrect-in-birth-certificate'>Mother Name Incorrect In Birth Certificate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=f-xun-tennis-live-score'>F Xun Tennis Live Score</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sara-aaronson-mankiewicz'>Sara Aaronson Mankiewicz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-villa-ballroom'>The Villa Ballroom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-room%3A-old-sins---curiosity-room-globe-puzzle'>The Room: Old Sins - Curiosity Room Globe Puzzle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kagero-nikki-translation'>Kagero Nikki Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-wiesner-illustrations'>David Wiesner Illustrations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Delta-Line-company'>Delta Line Company</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-girl-in-the-train-agatha-christie'>The Girl In The Train Agatha Christie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=die-walk%C3%BCre-du-bist-der-lenz-genre'>Die Walküre Du Bist Der Lenz Genre</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bbc-talk-italian-book'>Bbc Talk Italian Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vray-for-revit'>Vray For Revit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jungle-book-pop-up-book'>Jungle Book Pop-up Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-other-side-of-heaven-2%3A-fire-of-faith-full-movie'>The Other Side Of Heaven 2: Fire Of Faith Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noah%27s-ark-for-kids'>Noah's Ark For Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Killer-takes-all'>Killer Takes All</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gross-swedish-food'>Gross Swedish Food</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nils-udo-interview'>Nils Udo Interview</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-jacksons%3A-an-american-dream-season-1-episode-1'>The Jacksons: An American Dream Season 1 Episode 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Randall-boggs-meme'>Randall Boggs Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intimate-relations-%281996-full-movie-online%29'>Intimate Relations (1996 Full Movie Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hypermill-training-manual'>Hypermill Training Manual</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-enrique-murciano-married'>Is Enrique Murciano Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-dunand-art-deco'>Jean Dunand Art Deco</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=platform-pumps-sandals'>Platform Pumps Sandals</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Electric-Wizard---funeralopolis'>Electric Wizard - Funeralopolis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=next-to-of-course-god-america-i-litcharts'>Next To Of Course God America I Litcharts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clockwork-princess%2C-chapter-19'>Clockwork Princess, Chapter 19</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jungle-book-pop-up-book'>Jungle Book Pop-up Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autocad-doesnt-group'>Autocad Doesnt Group</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=landry-shamet-ethnic-background'>Landry Shamet Ethnic Background</a>,
+";s:7:"expired";i:-1;}

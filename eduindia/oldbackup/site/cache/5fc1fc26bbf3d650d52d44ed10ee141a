@@ -1,0 +1,152 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3804:"200.9K 335 . A basic page with a Bootstrap carousel might look like in this example.Let's have a look at its code. Les marqueurs ronds seront mis en forme par la classe .carousel-indicators. The "Indicators" part: The indicators are the little dots at the bottom of each slide (which indicates how many slides there are in the carousel, and which slide the user is currently viewing). <br> <br>Bootstrap’s carousel class exposes two events for hooking into carousel functionality.  A carousel is a good component for showcasing products, portfolio items, testimonials, and other items on your website. A slideshow component for cycling through elements—images or slides of text—like a carousel. The slides of a Bootstrap 4 carousel change automatically. Events. <br> <br>Ask Question Asked 3 years, 7 months ago. 260 3.3.0. How do I define the carousel size in Bootstrap 3.3.6. <br> <br>264 3.3.0. <br> <br>Bootstrap 3 est distribué avec un petit carrousel prêt à être déployé sur des sites web. Bootstrap includes a handy plugin and component for cycling through slider images like a carousel. <br> <br>Pour définir un carrousel avec Bootstrap, il suffit d’ajouter une classe .carousel à un conteneur générique. <br> <br>I´ve searched so long on the internet but nothing helped me. Carrousel:.carousel Carrousel:.slide. I am working on a custom Bootstrap 3 carousel, with vertical, unidirectional, slide tranitions. <br> <br>Bootstrap's JS is dependent on jQuery and PopperJS, so we should not forget to include it too 3.  <br>Both events have the following additional properties: direction: The direction in which the carousel is sliding (either "left" or "right"). Found 349 Featured Snippets matching "carousel": 198.0K 57 . Returns to the caller before the next item has been shown (i.e. Bootstrap 3 Carousel. In the following tutorial, we’ll show you exactly how you can add a carousel to your Bootstrap 3 website. <br> <br>Edit and preview HTML code with this online HTML viewer. Let's go through the code right now: 1. we include Bootstrap's stylesheet and also Bootstrap minified JavaScript library, in our case both from MaxCDN 2. .carousel('next') Cycles to the next item. Adds slides to the carousel.carousel-item: Specifies the content of each slide.carousel-control-prev: Adds a left (previous) button to the carousel, which allows the user to go back between the slides.carousel-control-next: Adds a right (next) button to the carousel, which allows the user to go forward between the slides.carousel-control-prev-icon Bootstrap 4 Carousel. News Carousel We will place the carousel to a Bootstrap .container. It works with a … <br> <br>Or should I define my own one? On ajoutera ensuite également une classe .slide pour donner un effet de transition de type slide entre nos différentes diapositives. Animated Vertical Bootstrap Carousel on Mouse scroll and Swipe. The carousel also known as slideshow or image slider is some of the best way of showcasing the huge amount of contents within a small space on the web pages. Bootstrap Snippets, Bootstrap 3 Thumbnail Carousel, TutorialsPoint Plugins, Bootstrap Plugins, Snippets, Free W3Schools Bootstrap Plugins before the slid.bs.carousel event occurs)..carousel('dispose') Destroys an element’s carousel. Sliders can be a great way to feature important content on your website. A Bootstrap 4 carousel is a slideshow component that will allow you to display slides of images and text within the component. <br> <br>Here it is in its current state: var carouselDuration = function() { $.fn.carousel.Constructor.TRAN Do anyone know which css section I have to alter? <br> <br>Bootstrap Responsive Embed; Bootstrap Tooltips ; Add scrolling images or text to your website with the Bootstrap carousel component. <br>";s:7:"keyword";s:20:"carousel bootstrap 3";s:5:"links";s:11568:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=diana-muldaur-2019'>Diana Muldaur 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tripadvisor-restaurants-in-beijing'>Tripadvisor Restaurants In Beijing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mother-name-incorrect-in-birth-certificate'>Mother Name Incorrect In Birth Certificate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-happened-to-nolan%27s-mom-on-bloodline'>What Happened To Nolan's Mom On Bloodline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lake-mweru-cichlids'>Lake Mweru Cichlids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mrs-fletcher-cameron-boyce'>Mrs Fletcher Cameron Boyce</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greek-basketball-championship'>Greek Basketball Championship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-ocean%3A-first-departure-best-characters'>Star Ocean: First Departure Best Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-western-shore-fs19'>The Western Shore Fs19</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dawn-octavia-butler'>Dawn Octavia Butler</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gimli-quotes-about-galadriel'>Gimli Quotes About Galadriel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-pears-for-canning'>Best Pears For Canning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bernadette-caulfield-married'>Bernadette Caulfield Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ms-marvel-vol-2-2'>Ms Marvel Vol 2 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Belgravia-family-tree'>Belgravia Family Tree</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-black-echo-amazon'>The Black Echo Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philadelphia-fire-dispatch'>Philadelphia Fire Dispatch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miriam-toews-book-tour'>Miriam Toews Book Tour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Twitch-Prime-September-2019'>Twitch Prime September 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=legends-of-tomorrow-new-episode'>Legends Of Tomorrow New Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=homes-for-sale-in-englewood%2C-co-80111'>Homes For Sale In Englewood, Co 80111</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dean-Koontz-Midnight-movie'>Dean Koontz Midnight Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-pronounce-taker'>How To Pronounce Taker</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lord-forgive-me-for-what-i-must-yabba-dabba-do'>Lord Forgive Me For What I Must Yabba Dabba Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=healthy-college-study-snacks'>Healthy College Study Snacks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pixote-full-movie-english-subtitles'>Pixote Full Movie English Subtitles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reykjavik-to-akureyri'>Reykjavik To Akureyri</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=norway-military-size'>Norway Military Size</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jayr-tinaco-movies'>Jayr Tinaco Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jacob-davich-tv-shows'>Jacob Davich Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amos-diggory-mrs-diggory'>Amos Diggory Mrs Diggory</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frugal-meals-reddit'>Frugal Meals Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-culture-of-education%2C-bruner-pdf'>The Culture Of Education, Bruner Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vampire%3A-the-masquerade---bloodlines-2-collectors-edition'>Vampire: The Masquerade - Bloodlines 2 Collectors Edition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daniel-schorr-vice-cream'>Daniel Schorr Vice Cream</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=forrest-goodluck-ethnicity'>Forrest Goodluck Ethnicity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grow-from-life%27s-yeses-nos-and-waits-daily-inspirational-gift-messages-elizabeth-george'>Grow From Life's Yeses Nos And Waits Daily Inspirational Gift Messages Elizabeth George</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lee-sin-combos'>Lee Sin Combos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hi-mom-i-love-you-in-spanish'>Hi Mom I Love You In Spanish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=complete-beatrix-potter-collection-dvd'>Complete Beatrix Potter Collection Dvd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=messenger-of-truth-mennonite'>Messenger Of Truth Mennonite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=muscle-spasms-in-back'>Muscle Spasms In Back</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sichuan-and-hunan-cuisine'>Sichuan And Hunan Cuisine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hey-porter-lyrics'>Hey Porter Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atticus-shaffer-2019'>Atticus Shaffer 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=france-time-called'>France Time Called</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dreaming-of-multiple-dead-bodies-islam'>Dreaming Of Multiple Dead Bodies Islam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sanaa-architecture-plan'>Sanaa Architecture Plan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=forbes-china-list-2019'>Forbes China List 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-malouf-awards'>David Malouf Awards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-match-3-games-for-pc'>Best Match 3 Games For Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atomic-structure-pdf'>Atomic Structure Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=imagination-lyrics-foster-meaning'>Imagination Lyrics Foster Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Starship-Troopers-3%3A-Marauder'>Starship Troopers 3: Marauder</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arkham-origins-map'>Arkham Origins Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ray-Bolger-age'>Ray Bolger Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=masahiro-sakurai-kirby'>Masahiro Sakurai Kirby</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=enquiring-minds-want-to-know'>Enquiring Minds Want To Know</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bolognese-with-bacon'>Bolognese With Bacon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mario-day-2020'>Mario Day 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lindbergh-school-palisades-park%2C-nj'>Lindbergh School Palisades Park, Nj</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hout-bay-accommodation'>Hout Bay Accommodation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=You-Need-a-Friend'>You Need A Friend</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2001-Maniacs-youtube'>2001 Maniacs Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=susan-farmer-obituary'>Susan Farmer Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=can-your-heart-explode-from-drugs'>Can Your Heart Explode From Drugs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=learn-about-in-a-sentence'>Learn About In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=county-antrim-map'>County Antrim Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=child%27s-play-danielle-steel-release-date'>Child's Play Danielle Steel Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Aesop-soap-Amazon'>Aesop Soap Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=downtown-silver-spring-map'>Downtown Silver Spring Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rob-wilson-vidiq'>Rob Wilson Vidiq</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=samyuktha-tamil-novels-scribd'>Samyuktha Tamil Novels Scribd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=el-narco%3A-the-bloody-rise-of-mexican-drug-cartels-pdf'>El Narco: The Bloody Rise Of Mexican Drug Cartels Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aion-jung-wikipedia'>Aion Jung Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-smith-linkedin'>George Smith Linkedin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=guam-capital-crossword'>Guam Capital Crossword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-harlow-mission-valley'>The Harlow Mission Valley</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fereydun-robert-%22fred%22-armisen'>Fereydun Robert "fred" Armisen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brant-and-helms-amazon'>Brant And Helms Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=melian-dialogue-simplified'>Melian Dialogue Simplified</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=invisible-sister-full-movie-youtube'>Invisible Sister Full Movie Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=north-american-model-of-wildlife-conservation-problems'>North American Model Of Wildlife Conservation Problems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jasper-morrison-2020'>Jasper Morrison 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Revit-architecture-logo'>Revit Architecture Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mother-krampus-review'>Mother Krampus Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-wynn-musician'>Steve Wynn Musician</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-burrow-inside'>The Burrow Inside</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bettylou-the-drifters'>Bettylou The Drifters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zoey-tur-kobe'>Zoey Tur Kobe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Swinging-Safari-parents-Guide'>Swinging Safari Parents Guide</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,114 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2351:"<br>The exhibition has been closed for over three years now, and its doors remain closed as disagreement over the nationalities of the victims becomes an increasingly political issue. Because it’s one of the most important places in Europe’s history. Closed for the visitors: • the Austrian exhibition in Block 17 Block 14 of the Auschwitz-Birkenau Memorial and Museum in Oswiecim, Poland was opened in 1961 as a Soviet tribute to the victims of the Nazi concentration camp. I was wondering if anyone knew why exactly? <br> <br>But have you ever wondered how much you really know about Auschwitz? Auschwitz photos – a testimony of immense suffering Watching Auschwitz photos, we often leave our comfort zone. Study tour groups may visit Block 2 and 3 of the former Auschwitz I camp and wooden hospital barracks (B-80 and B-210) at the Auschwitz II-Birkenau camp. In the Auschwitz pictures, we can see inhumane conditions of the camp and sad moments from prisoners’ everyday life. Thanks to the research department at the museum we were able to go into the actual block … Block 10. Why should we all get to know at least some of the facts about Auschwitz? In the neighborhood Auschwitz-Birkenau - Alte Judenrampe Auschwitz II-Birkenau Panoramas Panorama of Auschwitz I - a bird's eye view Panorama of Auschwitz I - a bird's eye view Panorama of Auschwitz I The first Jewish women in Auschwitz were lodged in Block Ten in the men's camp. <br> <br>Block 11 at Auschwitz I Block 11 with bars on windows and upper windows bricked up Pictured above is the prison building in Auschwitz I, known as Block 11, located inside a … <br> Most buildings were open, but block 10, the medical extermination block, was closed. Why are they so moving?  I went to Auschwitz over winter break. Block 2 and 3 are ones of so-called "reserve blocks" of the Museum <br> <br>That’s the reason why Auschwitz Tours are so popular and why people from all around the world are coming to Poland to see this state. <br> <br>Today, I read this here: “Block 10 in Auschwitz I, which is currently closed to the public, is where Dr Josef Mengele – or Dr Death – carried out sadistic human experiments.” There was a hospital at Auschwitz-Birkenau, but apparently it wasn’t good enough for Dr. Death who traveled to the main camp to do his sadistic experiments. ";s:7:"keyword";s:35:"why is block 10 closed at auschwitz";s:5:"links";s:6690:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pompeii-los-altos-menu'>Pompeii Los Altos Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=knut-hamsun-short-stories'>Knut Hamsun Short Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intermediate-german-vocabulary'>Intermediate German Vocabulary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Grocery-list-for-husband'>Grocery List For Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2-hour-drive-from-los-angeles'>2 Hour Drive From Los Angeles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Emerald-Falls-band'>Emerald Falls Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=143-story-treehouse-release-date'>143 Story Treehouse Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=define-uncover-synonym'>Define Uncover Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=erwin-piscator-projections'>Erwin Piscator Projections</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=believing-is-seeing-errol-morris-pdf'>Believing Is Seeing Errol Morris Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carmilla-2019-watch-online'>Carmilla 2019 Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=titanic-netflix-canada'>Titanic Netflix Canada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=volunteer-with-us'>Volunteer With Us</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-did-euclid-live'>Where Did Euclid Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manila-airport-open'>Manila Airport Open</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marius-wang-actor'>Marius Wang Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaiah-40%3A1-11-meaning'>Isaiah 40:1-11 Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lighting-stores-minneapolis'>Lighting Stores Minneapolis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=much-more-%28%27the-fantasticks-karaoke%29'>Much More ('the Fantasticks Karaoke)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=digitone-vs-digitakt-reddit'>Digitone Vs Digitakt Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nine-queens-online'>Nine Queens Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-lloyd-cruz-movies-and-tv-shows'>John Lloyd Cruz Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=English-Speaking-videos'>English Speaking Videos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Linocut-for-Artists-and-Designers'>Linocut For Artists And Designers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grizzly-bear-lyrics'>Grizzly Bear Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=muddy-waters-capital'>Muddy Waters Capital</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-do-skinwalkers-do'>What Do Skinwalkers Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=giles-watling-qatar'>Giles Watling Qatar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ultimate-showdown-%28instrumental%29'>Ultimate Showdown (instrumental)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-upstart-book'>The Upstart Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crossfire-tucker-carlson'>Crossfire Tucker Carlson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sos-agatha-christie'>Sos Agatha Christie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-contender-winners'>The Contender Winners</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=make-a-wish-foundation-articles'>Make A Wish Foundation Articles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1-who-was-priscus-do-you-think-his-description-is-reliable-why'>1 Who Was Priscus Do You Think His Description Is Reliable Why</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harvey-barnes-transfermarkt'>Harvey Barnes Transfermarkt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bruno-campos-princess-and-the-frog'>Bruno Campos Princess And The Frog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gomorrah-season-5-imdb'>Gomorrah Season 5 Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=was-douglas-adams-vegetarian'>Was Douglas Adams Vegetarian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-doneger-instagram'>Michael Doneger Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mustang-Horse-Art'>Mustang Horse Art</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oklahoma-coronavirus-cases-by-county'>Oklahoma Coronavirus Cases By County</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=casting-such-a-thin-shadow-lyrics'>Casting Such A Thin Shadow Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bus-174-documentary'>Bus 174 Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dawn-of-Liberty'>Dawn Of Liberty</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-don%27t-like-salad-but-i-want-to-eat-it'>I Don't Like Salad But I Want To Eat It</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-is-liz-claman-now'>Where Is Liz Claman Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=basildon-population-2019'>Basildon Population 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=for-esm%C3%A9-with-love-and-squalor-theme'>For Esmé With Love And Squalor Theme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=helicopter-meaning-tik-tok'>Helicopter Meaning Tik Tok</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-searcher-tana-french'>The Searcher Tana French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hailemariam-desalegn-pronunciation'>Hailemariam Desalegn Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=southern-airways-bwi'>Southern Airways Bwi</a>,
+";s:7:"expired";i:-1;}

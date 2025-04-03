@@ -1,0 +1,155 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2464:"<p>is hosted by GMA Regional TV Cebu’s pool of anchors and correspondents. One Mindanao (GMA Davao, GMA Northern Mindanao and GMA General Santos) One Western Visayas (GMA Iloilo and GMA Bacolod) Online (officially branded as GMA News and Public Affairs Digital and GMA Online Exclusives) Stand For Truth (YouTube, airs weeknights on GMA News TV) Adulting … Airing weekdays at 8 am beginning Monday, April 20, via GMA Regional TV’s Central and Eastern Visayas channels, GMA Regional TV Live! will be hosted by GMA Regional TV Cebu’s pool of anchors and correspondents. </p> <p>Get the latest breaking news and stories in the Philippines and around the world from GMA News Online. GMA Regional TV Live! </p> <p>Web Exclusive. Airing weekdays at 8:00 a.m. via GMA Regional TV’s Central and Eastern Visayas channels, GMA Regional TV Live! GMA 7 Shows. … </p> <p>Brings. </p> <p>Updated when : Jul 14, 2020 06:00 am. GMA News TV Shows. Kapuso Stars Joined in the Celebration of Tobacco Festival 2019 in Candon City. Hosted by Nikko Sereno and Cecille Quibod-Castro, it premiered on April 20, 2020 on the network's morning line up. GMA Regional TV Adds Color to Pistay Dayat. GMA Regional TV: GMA Davao Regional Lenten Special – Siete Palabras 2020. One Western Visayas: Close Contact sang Nurse nga Nagpositibo, Gin-Quarantine It premiered on GMA Davao  (Channel 5), GMA Northern Mindanao (Channel 35) and GMA General Santos  (Channel 8) on 1 June 2020 and is simulcast over TV-4 Dipolog, TV-3 Pagadian, TV-11 Iligan, TV-12 Bukidnon, TV-5 Ozamiz, TV-26 Butuan, TV-10 Surigao, TV-2 Tandag, TV-9 Zamboanga, TV-12 Cotabato, and TV-12 Jolo.  </p> <p>Latest. Reporting from Luzon, Visayas, and Mindanao: GMA Regional TV Gears up for Eleksyon 2019 with Live Coverage on Air and Online. SECTION NAVBAR. News TV Live; REPLAY: Dobol B Sa News TV Livestream | July 14, 2020. GMA Regional TV Inks … Biyaheng DO30 (GMA Davao, GMA Northern Mindanao and GMA General Santos) GMA Regional TV Live! The show is the first and only unified morning show in Mindanao. is a 2020 Philippine television  news broadcasting program broadcast by GMA Cebu. The latest morning show boasts of segments that highlight positive features and stories of people, specifically that of Kapusong Bisdak or Cebuanos. </p> <p>Reporters. Get ready for a fresh start” with GMA Regional TV Live! Video. GMA Regional TV Live! REPLAY: Dobol B Sa News TV Livestream | July 14, 2020. Sections. </p>";s:7:"keyword";s:21:"GMA Regional TV Live!";s:5:"links";s:11652:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chicago-l-train-schedule'>Chicago L Train Schedule</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tex-chapter-7-summary'>Tex Chapter 7 Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=centennial-co-weather'>Centennial Co Weather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-upstart-book'>The Upstart Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-babysitters-club'>The Babysitters Club</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=let%27s-be-real-used-in-a-sentence'>Let's Be Real Used In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anuradha-paudwal-aaj-phir-tum-pe'>Anuradha Paudwal Aaj Phir Tum Pe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Little-Penguin-Pororo%27s-Racing-Adventure-DVD'>The Little Penguin Pororo's Racing Adventure DVD</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sea-dog-blueberry-beer'>Sea Dog Blueberry Beer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paradise-canyon-fishing-report'>Paradise Canyon Fishing Report</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=altered-states-louis-theroux'>Altered States Louis Theroux</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=names-that-mean-kind-and-loving'>Names That Mean Kind And Loving</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=city-of-san-jos%C3%A9-job-descriptions'>City Of San José Job Descriptions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Axion-Esti'>The Axion Esti</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aim-high-and-miss-michelangelo'>Aim High And Miss Michelangelo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nanalan-pickle-episode'>Nanalan Pickle Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alison-app-for-pc'>Alison App For Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Prayer-for-drama'>Prayer For Drama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=embodied-learning-examples'>Embodied Learning Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=definition-to-word-finder'>Definition To Word Finder</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=super-hero-tycoon-roblox'>Super Hero Tycoon Roblox</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Home-Front-Kristin-Hannah'>Home Front Kristin Hannah</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=notations-clothing-size-chart'>Notations Clothing Size Chart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jim-Paxson-Net-Worth'>Jim Paxson Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rome-festivals-2020'>Rome Festivals 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=st-elmo%27s-fire-phenomenon'>St Elmo's Fire Phenomenon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=last-call-menu'>Last Call Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=el-chicano-in-english'>El Chicano In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=junie-b-jones-the-musical'>Junie B Jones The Musical</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lift-supports-depot'>Lift Supports Depot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=knopf-new-york'>Knopf New York</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=johnny-galecki-kaley-cuoco'>Johnny Galecki Kaley Cuoco</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=samsung-quantum-phone-price'>Samsung Quantum Phone Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chen-Duxiu-Call-to-Youth'>Chen Duxiu Call To Youth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alexandra-lenas-birthday'>Alexandra Lenas Birthday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chrono-trigger-music'>Chrono Trigger Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fried-scorpion-near-me'>Fried Scorpion Near Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=time-raiders-watch-online'>Time Raiders Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=average-number-of-days-on-mechanical-ventilation'>Average Number Of Days On Mechanical Ventilation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-spin-mean-sexually'>What Does Spin Mean Sexually</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-hugh-crain-actor'>Old Hugh Crain Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clockwork-princess-goodreads'>Clockwork Princess Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bamboo-beach-koh-lanta'>Bamboo Beach Koh Lanta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fernando-lujan-age'>Fernando Lujan Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=great-gatsby-book-release-date'>Great Gatsby Book Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ann-e-todd-child-actress'>Ann E Todd Child Actress</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Albemarle-County-jobs'>Albemarle County Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Doolittle-album-cover'>Doolittle Album Cover</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=disable-cached-exchange-mode-gpo'>Disable Cached Exchange Mode Gpo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alcatraz-facts-and-information'>Alcatraz Facts And Information</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dmitry-utkin-artist'>Dmitry Utkin Artist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=instant-city-archigram'>Instant City Archigram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=iphone-cases-6s'>Iphone Cases 6s</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=friday-harbor-airport-fsx'>Friday Harbor Airport Fsx</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=letterbomb-lyrics-meaning'>Letterbomb Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raleigh-bicycles-south-africa-contact-number'>Raleigh Bicycles South Africa Contact Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-galway-net-worth'>James Galway Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=korea-neo-confucianism'>Korea Neo Confucianism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wuthering-heights-meaning'>Wuthering Heights Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reddit-instagram%3F-%3A-photography'>Reddit Instagram? : Photography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=linger-denver-vegan'>Linger Denver Vegan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amelia-bedelia-goes-camping-online'>Amelia Bedelia Goes Camping Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seven-days-a-week%28scooby-doo%29'>Seven Days A Week(scooby Doo)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alcatel-a3-xl-argos'>Alcatel A3 Xl Argos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paula-scher-famous-works'>Paula Scher Famous Works</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-pronounce-what-is-your-name'>How To Pronounce What Is Your Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stephen-king-grandchildren'>Stephen King Grandchildren</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zathura-book-read-aloud'>Zathura Book Read Aloud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japanese-mapo-tofu-mix'>Japanese Mapo Tofu Mix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Build-a-Levee'>Build A Levee</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ken-blackman-relationship-coach'>Ken Blackman Relationship Coach</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=diagnosis-murder%3A-without-warning'>Diagnosis Murder: Without Warning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=introducing-christian-doctrine-pdf'>Introducing Christian Doctrine Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=red-sea-aquarium'>Red Sea Aquarium</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1439-odenton-road'>1439 Odenton Road</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mark-bazeley-wife'>Mark Bazeley Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-storm-read-aloud'>The Storm Read Aloud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hero-of-Alexandria-vending-machine'>Hero Of Alexandria Vending Machine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=khon2-news-traffic'>Khon2 News Traffic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=assassin-roblox-wiki'>Assassin Roblox Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreWomen%27s-clothing-storesLaura%2C-Reitmans%2C-and-more'>+ 18moreWomen's Clothing StoresLaura, Reitmans, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=objection-handling-techniques'>Objection Handling Techniques</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Black-History-love'>Black History Love</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hannah-beachler-work'>Hannah Beachler Work</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=albemarle-county-police-jobs'>Albemarle County Police Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gag-or-Throttle'>Gag Or Throttle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Grace-Byers-sister'>Grace Byers Sister</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rin-tin-tin-cause-of-death'>Rin Tin Tin Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=5-star-buffet-near-me'>5 Star Buffet Near Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=songs-from-1955-to-1965'>Songs From 1955 To 1965</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paying-someone-to-hurt-someone'>Paying Someone To Hurt Someone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gordon-korman-framed-answers'>Gordon Korman Framed Answers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hilton-als-homecoming'>Hilton Als Homecoming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spontaneous-combustion-human-cases'>Spontaneous Combustion Human Cases</a>,
+";s:7:"expired";i:-1;}

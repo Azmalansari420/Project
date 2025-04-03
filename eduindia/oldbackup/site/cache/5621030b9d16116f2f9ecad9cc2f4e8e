@@ -1,0 +1,84 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3178:"<p>6 week program for rising junior girls, internship with a research lab concluded with a lab repot and a short presentation This program gives you access to lectures workshops field trips and the opportunity to be mentored by professionals. Please note, out of an abundance of caution regarding COVID-19, this program will be offered remotely for summer 2020. Nyu Summer Vocal Intensive May 22, 2019 Classical voice intensive nyu steinhardt vocal performance summer intensives vocal performance summer intensives classical voice intensive nyu steinhardt Jim .henderson/Wikimedia Commons. From jazz to music technology, dance to vocal performance, The NYU Steinhardt School of Culture, Education, and Human Development offers students a chance to participate in its varied and exciting music and performing arts courses and workshops. As a participant, you are expected to complete all assigned coursework, take all examinations, attend class regularly, and submit all required work by the end of the program. In the summer, pre-college students (almost, but not exclusively, rising seniors) attend a four-week program where they take 28 studio hours at CAP 21 (courses include ballet, jazz, tap, acting, vocal technique, and vocal performance -- dance classes are also leveled according to ability); and two courses from NYU faculty, including one called "Theatre in New York." Scholarships available. </p> <p>Watch Queue Queue  ... Summer Programs 212 998 5438 mpap.summer@nyu.edu. We've extended several application deadlines for our summer programs which will all be held remotely this year. ... NYU Summer Virtual Music Theatre Workshop. In response to COVID-19 and in alignment with our obligation to safeguard public health, NYU will be conducting summer 2020 High School programs remotely. In response to COVID-19 and in alignment with our obligation to safeguard public health, all NYU Summer 2020 programs and courses being offered will be conducted remotely. The Summer Institute of Music Production Technology (pronounced "SIMP-T") is designed for rising high school juniors and seniors. Start your application today! The NYU Percussion summer programs are dedicated to bringing the finest and most unique seminars to participants from around the world. Consider registering for our virtual Pre-College Certificate Program! </p> <p>The Vocal Performance Program offers a two-week intensive in which students explore and engage in classical vocal performance from multiple perspectives. Looking for a virtual summer program? For example, the vocal performance program is a three-week workshop for high … </p> <p>Girls' STEM Summer Program. </p> <p>521 personnes étaient ici. YOUTUBE MEDIA. </p> <p>With NYU Precollege, rising juniors and seniors can apply to take college-level courses for credit and experience life as an NYU student. This video is unavailable. </p> <p>See below for updated program information, including reduced pricing. </p> <p>... Vocal Performance Summer Intensives. Students from all over the world come to experience this rigorous foundation-building course which approximates a full term of our NYU Tisch School of the Arts program. </p>";s:7:"keyword";s:24:"nyu summer vocal program";s:5:"links";s:2862:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Job-suffering-quotes'>Job Suffering Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=qualia-merleau-ponty'>Qualia Merleau Ponty</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bat-21-real-story'>Bat 21 Real Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moves-like-jagger-hq'>Moves Like Jagger Hq</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=columbine-high-school-scott-christy'>Columbine High School Scott Christy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tricycle-landing-gear'>Tricycle Landing Gear</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=missy-piggle-wiggle-and-the-whatever-cure'>Missy Piggle-wiggle And The Whatever Cure</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clorox-fuzion-reviews'>Clorox Fuzion Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=40k-executioner-tank'>40k Executioner Tank</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-brook-artaud'>Peter Brook Artaud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-loved-you-%28poem%29'>I Loved You (poem)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Aurora-Colorado-Houses'>Aurora Colorado Houses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-metaphysical-poets'>The Metaphysical Poets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saamer-usmani-run'>Saamer Usmani Run</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elie-metchnikoff-discovery'>Elie Metchnikoff Discovery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wayne-rooney-house-tour'>Wayne Rooney House Tour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-burrow-harry-potter-movie'>The Burrow Harry Potter Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jump-in-japanese'>Jump In Japanese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-price-hollywood'>What Price Hollywood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreNo-reservations-neededSmarts%2C-Deep-Blue-Woburn-Sands%2C-and-more'>+ 18moreNo Reservations NeededSmarts, Deep Blue Woburn Sands, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hannah-dodkins-wikipedia'>Hannah Dodkins Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heat-director%27s-definitive-edition-4k'>Heat Director's Definitive Edition 4k</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seth-godin-advice'>Seth Godin Advice</a>,
+";s:7:"expired";i:-1;}

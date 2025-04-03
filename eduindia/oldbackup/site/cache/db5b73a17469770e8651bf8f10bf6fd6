@@ -1,0 +1,161 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2612:"<p>Cognitive Science – Embodied Cognition | Master/Ph.D. J.I.D. Cognitive Science - Embodied Cognition Master. Joshua Ian Davis. 5/16, S. 185) (PDF) Lakoff argues that all cognition is based on knowledge that comes from the body and that other domains are mapped onto our embodied knowledge using a combination of conceptual metaphor, image schema </p> <p>mental representations, and components of the. The theory states that intelligent behaviour emerges from the … Embodied cognitive science is an alternative theory to cognition in which it minimizes appeals to computational theory of mindin favor of greater emphasis on how an organism's body determines how and what it thinks. Embodied cognition, the idea that the mind is not only connected to the body but that the body influences the mind, is one of the more counter-intuitive ideas in cognitive science. </p> <p>These inputs follow certain rules of syntax, from which the processing unit finds semantic meaning. Sebastian Schneegans, Gregor Schöner, in Handbook of Cognitive Science, 2008. Embodied cognitive science encompasses a loose-knit family of research programs in the cognitive sciences that often share a commitment to critiquing and even replacing traditional approaches to cognition and cognitive processing. This position actually houses a number of distinct claims, some of which are more controversial than others. WIREs Cognitive Science Embodied cognition. Embodied, environmentally embedded approaches have a lot to offer cognitive science. Dieser forschungsorientierte Masterstudiengang eröffnet neue Perspektiven der vertieften Auseinandersetzung mit … </p> <p>Thus, an appropriate output is produce… It is increasingly clear that, in a wide variety of cases, the individual brain should not be the sole locus of cognitive scientific interest. The emerging viewpoint of embodied cognition holds that cognitive processes are deeply rooted in the body’s interactions with the world. Application. 1 The fact that some sensorimotor correlates to some formal concepts from physics or mathematics can be demonstrated (e.g., Glenberg, 2015) does not demonstrate that sensorimotor … In this article we propose a critical, reflexive, link between Embodied Cognition framework and Sciences of Education, trough a critical analysis of the theory of structural cognitive modifiability of Reuven Feuerstein. Under the two keywords of interdisciplinarity and internationality, young scientists are given the opportunity to develop promising concepts and technologies and to test them in a state-of-the-art research environment. </p>";s:7:"keyword";s:36:"embodied cognition cognitive science";s:5:"links";s:12758:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sumner-redstone-2019'>Sumner Redstone 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jabberwocky-talky-talky-song'>Jabberwocky Talky Talky Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ivory-for-knife-handles'>Ivory For Knife Handles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=handbook-of-catholic-apologetics-pdf'>Handbook Of Catholic Apologetics Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Life-failure-quotes'>Life Failure Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hailemariam-desalegn-pronunciation'>Hailemariam Desalegn Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mind-reading-definition-Psychology'>Mind Reading Definition Psychology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=high-and-tight-haircut'>High And Tight Haircut</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bonifacio-ang-unang-pangulo-google-drive'>Bonifacio Ang Unang Pangulo Google Drive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=china-gate-restaurant-mumbai'>China Gate Restaurant Mumbai</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stick-fight-the-game-hacked'>Stick Fight The Game Hacked</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Maharani-Sita-Devi-of-Kapurthala-style'>Maharani Sita Devi Of Kapurthala Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mont-blanc-starwalker-fragrantica'>Mont Blanc Starwalker Fragrantica</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-mills-jml'>John Mills Jml</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antique-claymore-sword-for-sale'>Antique Claymore Sword For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=judas-definition-spanish'>Judas Definition Spanish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Comedy-drama-examples'>Comedy Drama Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rick-owens-ramones'>Rick Owens Ramones</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreLate-night-diningDe-Post%2C-Pizza-Pasta-e-Basta%21%2C-and-more'>+ 18moreLate-night DiningDe Post, Pizza Pasta E Basta!, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=show-luo-make-up-artist'>Show Luo Make Up Artist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prize-winning-short-stories'>Prize-winning Short Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=posse-cast-2018'>Posse Cast 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dragon-boat-festival-for-kids'>Dragon Boat Festival For Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=which-clorox-bleach-disinfects'>Which Clorox Bleach Disinfects</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=still-synonym-adverb'>Still Synonym Adverb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ford-county%2C-ks-jail-inmate-roster'>Ford County, Ks Jail Inmate Roster</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wifredo-lam-art-style'>Wifredo Lam Art Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dangerous-game-series'>Dangerous Game Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=taylor-lacher-cause-of-death'>Taylor Lacher Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-kratt-movies-and-tv-shows'>Chris Kratt Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-formby-statue'>George Formby Statue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chrono-trigger-music'>Chrono Trigger Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devil%27s-advocate-full-movie'>Devil's Advocate Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tomi-adeyemi-parents'>Tomi Adeyemi Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gareth-edwards-2020'>Gareth Edwards 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=facts-about-tedd-arnold'>Facts About Tedd Arnold</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=on-the-link-below-you-can-find'>On The Link Below You Can Find</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=perfect-sense-film'>Perfect Sense Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=exiled-edna-st-vincent-millay'>Exiled Edna St Vincent Millay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-History-of-Middle-earth-12-volume-set'>The History Of Middle-earth 12 Volume Set</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bastian-kick-sisto'>Bastian Kick Sisto</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greek-basketball-championship'>Greek Basketball Championship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=types-of-science'>Types Of Science</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=William-Cowper-poems'>William Cowper Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-Bailey-Vogue'>David Bailey Vogue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=language-transfer-german'>Language Transfer German</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=derren-brown-tv-shows'>Derren Brown Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghost-jason-reynolds-characters'>Ghost Jason Reynolds Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=abstract-for-nanotechnology-in-mechanical-engineering'>Abstract For Nanotechnology In Mechanical Engineering</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=humanitarian-theory-of-punishment'>Humanitarian Theory Of Punishment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=samurai-rebellion-cast'>Samurai Rebellion Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=foreigner-in-japanese'>Foreigner In Japanese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-tower-of-the-swallow-pdf'>The Tower Of The Swallow Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=don%27t-drink-the-water-woody-allen'>Don't Drink The Water Woody Allen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glen-keane-instagram'>Glen Keane Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=8-Miles-and-Runnin%27'>8 Miles And Runnin'</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tricycle-landing-gear'>Tricycle Landing Gear</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dream-youtube-face-reveal'>Dream Youtube Face Reveal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-a-grove-book'>In A Grove Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alejo-carpentier%3A-the-kingdom-of-this-world'>Alejo Carpentier: The Kingdom Of This World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-fun-run-script'>The Office Fun Run Script</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Heinrich-Heine-poems'>Heinrich Heine Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=while-your-lips-are-still-red-movie'>While Your Lips Are Still Red Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lagos%2C-nigeria-economy'>Lagos, Nigeria Economy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=making-it-work-podcast'>Making It Work Podcast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=broadcast-film-critics-association-members'>Broadcast Film Critics Association Members</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natsuo-kirino-real-world-pdf'>Natsuo Kirino Real World Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-Soul-songs'>David Soul Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Alex-Ross-Silver-Surfer'>Alex Ross Silver Surfer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nickelodeon-studios-theme-park'>Nickelodeon Studios Theme Park</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jason-graves-pastor'>Jason Graves Pastor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meditation-cushion-set'>Meditation Cushion Set</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amber-scott-instagram-hook'>Amber Scott Instagram Hook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=entering-heaven-alive'>Entering Heaven Alive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=welding-fume-extractor-%2B-diy'>Welding Fume Extractor + Diy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cassie-randolph-instagram-stories'>Cassie Randolph Instagram Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-night-sweats'>The Night Sweats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-nights%3A-metal-batmen'>Dark Nights: Metal Batmen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=welch%27s-fruit-snacks-strawberry'>Welch's Fruit Snacks Strawberry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noah-nelson-247'>Noah Nelson 247</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autodesk-m%26e-collection'>Autodesk M&e Collection</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joan-weldon-today'>Joan Weldon Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=django-cms-wiki'>Django Cms Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-doctrine-of-the-knowledge-of-god-pdf'>The Doctrine Of The Knowledge Of God Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=conjoined-twins-abby-and-brittany'>Conjoined Twins Abby And Brittany</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=puppy-breath-smells-like-fish'>Puppy Breath Smells Like Fish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-garden-residences-site-plan'>The Garden Residences Site Plan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Equals-math-symbols'>Equals Math Symbols</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gangsta-boo-run-the-jewels-4'>Gangsta Boo Run The Jewels 4</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-long-were-tony-curtis-and-janet-leigh-married%3F'>How Long Were Tony Curtis And Janet Leigh Married?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dororo-netflix-philippines'>Dororo Netflix Philippines</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blink-182-the-mark%2C-tom%2C-and-travis-show-%28the-enema-strikes-back%21%29-songs'>Blink-182 The Mark, Tom, And Travis Show (the Enema Strikes Back!) Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-al-hunt-retired'>Is Al Hunt Retired</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=najma-akhtar---five-rivers'>Najma Akhtar - Five Rivers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-pastoral-chapter-1-summary'>American Pastoral Chapter 1 Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Vampire-Academy-netflix'>Vampire Academy Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moonlight-syndrome-translation'>Moonlight Syndrome Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liu-qiangdong-wife'>Liu Qiangdong Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hi-5-season-1'>Hi-5 Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alexandra-lenas-birthday'>Alexandra Lenas Birthday</a>,
+";s:7:"expired";i:-1;}

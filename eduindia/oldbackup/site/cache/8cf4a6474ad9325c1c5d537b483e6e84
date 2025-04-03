@@ -1,0 +1,103 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1393:"Cities around Minnesota are passing local requirements to wear masks while indoors to limit the spread of the virus that causes COVID-19. Home; All Sections Search StarTribune. Read More Manage Account eEdition Support Subscribe Log Out Subscribe Recently Visited. Log In Welcome, User. Afternoon Star Tribune Local Twin Cities (Minneapolis/St. Home; All Sections Search StarTribune. High Schools.  — David Joles - Star Tribune Paul) Weather Video Forecast. Afternoon Star Tribune Local Twin Cities (Minneapolis/St. Log In Welcome, User. Home; All Sections Search StarTribune. Star Tribune prep reporters David La Vaque and James Paulsen are bringing all you Minnesota high school sports enthusiasts another way to stay connected to the action. Star Tribune All-Metro Sports Awards roll out June 15-19; By Star Tribune 06/15/2020, 3:30pm CDT ; Without a banquet this month, the show goes on with daily reveals of 10 top honors for performances in the 2019-20 season. Afternoon Star Tribune Local Twin Cities (Minneapolis/St. Jack Nowlin returned to the Star-Tribune in 2007 after eight years covering Michigan State University athletics. Paul) Weather Video Forecast. Log In Welcome, User. Sports Editor. Manage Account eEdition Support Subscribe Log Out Subscribe Recently Visited. Paul) Weather Video Forecast. Manage Account eEdition Support Subscribe Log Out Subscribe Recently Visited. ";s:7:"keyword";s:24:"star tribune prep sports";s:5:"links";s:5170:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=big-windup-dub-cast'>Big Windup Dub Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hair-up-instrumental'>Hair Up Instrumental</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Arthur-C-Clarke-predictions'>Arthur C Clarke Predictions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pasta-salad-ideas'>Pasta Salad Ideas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elle%27s-coop-animals'>Elle's Coop Animals</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gregory-itzin-star-trek'>Gregory Itzin Star Trek</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=legend-the-graphic-novel-epub'>Legend The Graphic Novel Epub</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wagner-group-gmbh'>Wagner Group Gmbh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julian-date-today-2019'>Julian Date Today 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Burned-%2F-One-Night-at-Mercy'>Burned / One Night At Mercy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fire-of-unknown-origin-album-cover-artist'>Fire Of Unknown Origin Album Cover Artist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lao-alphabet-pdf'>Lao Alphabet Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alec-richard-shifrin'>Alec Richard Shifrin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=karl-lagerfeld-sale'>Karl Lagerfeld Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plural-of-moose-moosen'>Plural Of Moose Moosen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Glasgow-Coma-Scale-test'>Glasgow Coma Scale Test</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=palisades-amusement-park-historical-society'>Palisades Amusement Park Historical Society</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=draw-future-tense'>Draw Future Tense</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ryan-newman-condition-surgery'>Ryan Newman Condition Surgery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rowan-witt-net-worth'>Rowan Witt Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Young-and-the-Restless-today'>Young And The Restless Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=247-sports-women%27s-basketball-recruiting'>247 Sports Women's Basketball Recruiting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=confessions-augustine-pdf'>Confessions Augustine Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barnacle-bill-film'>Barnacle Bill Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-did-jesus-resurrect'>When Did Jesus Resurrect</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=underlying-emotions-of-anger'>Underlying Emotions Of Anger</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=khopesh-of-the-kharidian'>Khopesh Of The Kharidian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=triple-canopy-israel'>Triple Canopy Israel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pro-life-en-espa%C3%B1ol'>Pro-life En Español</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hammondsport%2C-ny-upcoming-events'>Hammondsport, Ny Upcoming Events</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harry-potter-quotes-about-work'>Harry Potter Quotes About Work</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phil-ponce-2020'>Phil Ponce 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jorge-mendes-instagram'>Jorge Mendes Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dreams-worth-more-than-nightmares'>Dreams Worth More Than Nightmares</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ivan-karamazov-everything-is-permitted'>Ivan Karamazov Everything Is Permitted</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donald-rumsfeld-2020'>Donald Rumsfeld 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bugging-you-meaning'>Bugging You Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mookie-Betts-contract'>Mookie Betts Contract</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=transamerica-address-iowa'>Transamerica Address Iowa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andaz-scottsdale-saarinen'>Andaz Scottsdale Saarinen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-matt-hamill-doing-now'>What Is Matt Hamill Doing Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ireland-flight-cost'>Ireland Flight Cost</a>,
+";s:7:"expired";i:-1;}

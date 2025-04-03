@@ -1,0 +1,84 @@
+<?php
+///////======  WEB-ADMIN AJAX TO PHP FILE =========////////
+
+	session_start();
+    $session_admin  =  @$_SESSION['session_branch'];
+	include_once("../../lib/all_files.php");
+	
+
+  
+//Get District
+if(isset($get_state_id) and !empty($get_state_id)){
+	$where = array('s_id'=>$get_state_id);
+	$fetch_details = $con->all_fetch('district',$where);
+	if(is_array($fetch_details) || is_object($fetch_details)){
+		$sub_cat_list = "<option value=''>Select District</option>";
+		foreach($fetch_details as $fd){
+			$sub_cat_list .= "<option value='$fd->id'>$fd->name</option>";			
+		}
+		echo $sub_cat_list;
+	}else{
+		echo 0;
+	}
+}
+
+//Get City
+if(isset($get_dis_id) and !empty($get_dis_id)){
+	$where = array('d_id'=>$get_dis_id);
+	$fetch_details = $con->all_fetch('city',$where);
+	if(is_array($fetch_details) || is_object($fetch_details)){
+		$sub_cat_list = "<option value=''>Select City</option>";
+		foreach($fetch_details as $fd){
+			$sub_cat_list .= "<option value='$fd->id'>$fd->name</option>";			
+		}
+		echo $sub_cat_list;
+	}else{
+		echo 0;
+	}
+}
+
+  
+  
+//Institutes Course Category   
+if(isset($ins_id) and !empty($ins_id)){
+	$where = array('ins_id'=>$ins_id);
+	$fetch_details = $con->all_fetch('institutes_courses',$where);
+	if(is_array($fetch_details) || is_object($fetch_details)){
+		$sub_cat_list = "<option value=''>Institutes Course Category</option>";
+		foreach($fetch_details as $fd){
+			$sub_cat_list .= "<option value='$fd->id'>$fd->name</option>";			
+		}
+		echo $sub_cat_list;
+	}else{
+		echo 0;
+	}
+}
+
+
+//Institutes Course Category   
+if(isset($f_course) and !empty($f_course)){
+	$where = array('ins_cat_id'=>$f_course);
+	$fetch_details = $con->all_fetch('course',$where);
+	if(is_array($fetch_details) || is_object($fetch_details)){
+		$sub_cat_list = "<option value=''>Select Course</option>";
+		foreach($fetch_details as $fd){
+			$sub_cat_list .= "<option value='$fd->id'>$fd->name</option>";			
+		}
+		echo $sub_cat_list;
+	}else{
+		echo 0;
+	}
+}
+
+
+
+
+
+
+
+
+ 
+
+
+
+?>

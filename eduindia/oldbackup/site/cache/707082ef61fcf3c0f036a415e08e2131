@@ -1,0 +1,98 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3366:"<br>List of 50 US States – 2 letter us state codes / abbreviations / ANSI / USCG / USPS codes. The Abbrev2StName function would call a cell location containing the state abbreviation and the result is the State name in a different cell location. United States postal abbreviations for states, military, commonwealths, and territories. In order to determine two-letter abbreviations from full state names (i.e., Los Angeles to LA), you can use a simple formula using VLOOKUP. When preparing the mailing address, people often use the two-letter abbreviations for the province or territories in Canada. The traditional abbreviations for U.S. states and territories, widely used in mailing addresses prior to the introduction of two-letter U.S. postal abbreviations, are still commonly used for other purposes (such as legal citation), and are still recognized (though discouraged) by the Postal Service. State Size: The area of the state, both total (land + water) and land only. How this formula works. State Capital: The capital city of the state. AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY . This can be done easily by using inbuilt functions of Excel. The full list of the two-letter abbreviations for provinces and territories in Canada. I wish to create a custom function (i.e. Thanks, this reply is very helpful however I need to re-state my request. There are 10 provinces and 3 territories in Canada. Number of Counties: The number of counties for each state.  Many times, we need to write abbreviations of names, places, and things. Abbrev2StName) which can be accessed from any Excel worksheet. State Abbreviation; ALABAMA: AL: ALASKA: AK: ARIZONA : AZ: ARKANSAS: AR: CALIFORNIA : CA: COLORADO Time Zone: List the time zone(s) of each state. <br> <br>Share this post and enter to win 1 on 1 consulting worth $2000! State Abbreviation: The two-letter abbreviation for each state. State Abbreviations: State Abbreviations List. For example: Download list of U.S. state abbreviations in Excel, CSV and PDF free of cost U.S. is divided into 50 states. This formula relies on a table with columns for both the full state name and the 2-letter abbreviation. Some states extends to more than one time zone. This is a list of U.S. states (and the one federal district, Washington, D.C.) and territories showing their time zones.. Where "states" is the named range G5:H55. Most of the United States uses Daylight Saving Time (DST) in the summer.In the list, it will say if the state does not use DST.. <br> <br>As you know, there are 50 states in the United States of America. State Abbreviations for the US States and more. For example, AB stands for Alberta and BC stands for British Columbia … 1. States are further divided into more than 3000 counties and 41 independent state . List of State Abbreviations (Download CSV, JSON) A Brief History on State Abbreviations and Postal Codes If you are like most people, the chances are good that nowadays, you hardly ever write an address on an envelope and put it in the mail. For simplicity, the table has been named "states". <br> <br> <br> <br>Title: TWO LETTER STATE ABBREVIATIONS Author: CSI Created Date: 3/3/2003 4:27:04 PM Because we are using VLOOKUP, the full name must be in the first column. <br>";s:7:"keyword";s:33:"List of state abbreviations Excel";s:5:"links";s:4800:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whats-the-difference-between-jelly-and-jam-joke'>Whats The Difference Between Jelly And Jam Joke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dreamer-superhero-powers'>Dreamer Superhero Powers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mark-steel-lectures-youtube'>Mark Steel Lectures Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angela-richter-dell'>Angela Richter Dell</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cold-steel-training-knives-uk'>Cold Steel Training Knives Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tides-foundation-ceothieves-guild-%28skyrim%29'>Tides Foundation Ceothieves Guild (skyrim)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amazing-facts-about-maths-pdf'>Amazing Facts About Maths Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-smiling-proud-wanderer-%282018-cast%29'>New Smiling Proud Wanderer (2018 Cast)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=turning-point-brands-careers'>Turning Point Brands Careers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=uwe-blab-today'>Uwe Blab Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donald-sylvester-sound'>Donald Sylvester Sound</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ryan-anderson-stats'>Ryan Anderson Stats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andrew-taylor-insurance'>Andrew Taylor Insurance</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-death%2C-book-45'>In Death, Book 45</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-pastoral-chapter-1-summary'>American Pastoral Chapter 1 Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-wide-mouthed-frog---youtube'>The Wide-mouthed Frog - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lalonne-martinez-age'>Lalonne Martinez Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pandoc-markdown-to-html'>Pandoc Markdown To Html</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-second-bakery-attack-quotes'>The Second Bakery Attack Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vax-blade-4'>Vax Blade 4</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brother-ben-x-%28dallas%29'>Brother Ben X (dallas)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D1%81%D0%BE%D0%BB%D0%BE%D0%B2%D1%8C%D0%B5%D0%B2-%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84'>владимир соловьев философ</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-art-of-fiction-david-lodge'>The Art Of Fiction David Lodge</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ashigaru---parkour'>Ashigaru - Parkour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jax-league-of-legends'>Jax League Of Legends</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=legends-of-the-hidden-temple-1993'>Legends Of The Hidden Temple 1993</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=katie-kimmel-dog-vase'>Katie Kimmel Dog Vase</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=11-inch-switchblade'>11 Inch Switchblade</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skyrim-orla-contract'>Skyrim Orla Contract</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-girl-in-the-train-agatha-christie'>The Girl In The Train Agatha Christie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nenjil-thunivirundhal-trailer'>Nenjil Thunivirundhal Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=owens-community-college'>Owens Community College</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beowulf-story-pdf'>Beowulf Story Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cheapest-way-to-travel-to-finland'>Cheapest Way To Travel To Finland</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Young-Bess-book'>Young Bess Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-southern-california-water-districts'>List Of Southern California Water Districts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeff-broin-net-worth'>Jeff Broin Net Worth</a>,
+";s:7:"expired";i:-1;}

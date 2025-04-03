@@ -1,0 +1,86 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3728:"<p>Located on Lize Road in southwest Beijing, Leeza SOHO tower anchors the new Fengtai business district - a growing financial and transport hub between the … </p> <p></p> <p>Floors stacked like pancakes stop communication between levels. Nov 20, 2019 - Zaha Hadid Architects completes Leeza SOHO tower with world's tallest atrium </p> <p>Leeza Soho is one of over 30 projects under development by ZHA at the time of its founder Zaha Hadid's death earlier this year. </p> <p>Amidst Beijing, China’s latest Fengtai business district, stands the Leeza Soho – the world’s tallest atrium. Spanning 45-storeys high, the twisting atrium was designed by the late founder of Zaha Hadid Architects, before her death in 2016. </p> <p>Located on Lize Road in southwest Beijing, Leeza SOHO tower anchors the new Fengtai business district - a growing financial and transport hub between the city centre and the recently opened Beijing Daxing International Airport to the south. Leeza SOHO tower design details The Leeza SOHO tower is 207m tall from the base, which features a transit hub with access to a new subway tunnel. Empty lobbies blank out street life, and elevators silence and isolate individuals. “Reinforced concrete has sculptural qualities; it was therefore the ideal choice to realize curvilinear form of the tower,” Satoshi Ohashi, project director of Zaha Hadid Architects, tells Construction+. Leeza Soho is one of over 30 projects under development by ZHA. Once the 46-story structure of the Leeza SOHO skyscraper — Zaha Hadid Architects' fourth project collaboration with SOHO China — reaches its final height of 207 meters in September of this year, it will be home to the world's tallest atrium — an impressive central space of 190 meters high wrapped by two undulating volumes. The 45-storey Leeza Soho skyscraper, designed by the late Zaha Hadid in Beijing, China, contains the world’s tallest atrium twisting through its centre. Structure: Bollinger + Grohmann (Competition), CABR, BIAD The Leeza SOHO tower is located in the Fengtai business district of Chinese capital and features 45 stories of new office and business space. Located on Lize Road in southwest Beijing, Leeza SOHO tower anchors the new Fengtai business district – a growing financial and transport hub between the city centre and the recently opened Beijing Daxing International Airport to the south. Galaxy SOHO (simplified Chinese: 银河SOHO; traditional Chinese: 銀河SOHO; pinyin: Yínhé SOHO) is an urban complex building located in Beijing, China.Built between 2008 and 2014, it is the first of two buildings designed by Iraqi-British architect Zaha Hadid located in Beijing, along with Wangjing SOHO.. Located on Lize Road in southwest Beijing, Leeza SOHO tower, The 45-story development, anchors the new Fengtai business district – a growing financial and transport hub between the city centre and the recently opened Beijing Daxing International Airport to the south. Beijing’s Leeza Soho … ‘leeza SOHO tower’, designed by zaha hadid architects (ZHA), has opened in china with the world’s tallest atrium. Commercial high-rises may pack cities with people, but most towers are largely antisocial. "The atrium’s ‘twist’ allows natural light and views of the city from the centre of all floors of Leeza Soho. Iraqi-British architect Zaha Hadid (1950–2016) left an indelible mark on the architectural landscape. The building is split into two separate sections on either side of the tunnel.  The Leeza SOHO features a huge 190 metres (623 ft) tall twisting atrium at its centre, which when completed will be the tallest in the world, a title currently held by the Burj Al Arab hotel in Dubai. </p>";s:7:"keyword";s:20:"leeza soho structure";s:5:"links";s:3110:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=waterford-elegance-wine-glasses'>Waterford Elegance Wine Glasses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phellem-phellogen-phelloderm'>Phellem Phellogen Phelloderm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hikari-oe%3A-music'>Hikari Oe: Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=secret%2C-book%2C-and-scone-society-series'>Secret, Book, And Scone Society Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=injury-reserve---floss'>Injury Reserve - Floss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Modern-history-images'>Modern History Images</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Millennium-Bridge-Harry-Potter'>Millennium Bridge Harry Potter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=queen-of-sweden-rose-seeds'>Queen Of Sweden Rose Seeds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sarah-mcleod-movies'>Sarah Mcleod Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=catholic-bible-verses-about-heaven'>Catholic Bible Verses About Heaven</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fgm-statistics-2018'>Fgm Statistics 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Konami-Shooting-Collection'>Konami Shooting Collection</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-first%2C-my-last%2C-my-everything-lyrics'>My First, My Last, My Everything Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=erb%27s-palsy-exercises-for-infants-pdf'>Erb's Palsy Exercises For Infants Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sapporo-beer-review'>Sapporo Beer Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-mexico-tourism-map'>New Mexico Tourism Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jump-in-japanese'>Jump In Japanese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dead-mount-death-play---raw'>Dead Mount Death Play - Raw</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=never-again-sarah-dessen-description'>Never Again Sarah Dessen Description</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-rager-pokemon'>Chris Rager Pokemon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hoover-meaning-in-telugu'>Hoover Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beck---die-waiting'>Beck - Die Waiting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devil%27s-canyon-cpu'>Devil's Canyon Cpu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Code-of-Confucianism'>Code Of Confucianism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vali%2C-son-of-loki'>Vali, Son Of Loki</a>,
+";s:7:"expired";i:-1;}

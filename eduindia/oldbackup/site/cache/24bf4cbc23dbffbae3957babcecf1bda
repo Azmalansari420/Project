@@ -1,0 +1,93 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1247:"<p>Beans on toast gets a facelift with this easy-to-make and healthy recipe. </p> <p>Stir in the tomatoes and flat-leaf parsley, then season with sea salt and black pepper. All the latest breakfast recipe ideas for both new and experienced cooks with food and drink inspiration for brunch, from House &amp; Garden. https://www.bonappetit.com/recipes/slideshow/brunch-recipe-ideas  From traditional fry-ups to pancakes and muffins, slow down this weekend with our delicious brunch recipes. Pancakes, waffles, eggs and a Bloody Mary? Imagine waking up each day to a full spread featuring your favorite brunch recipes—including mimosas. The word is a portmanteau of breakfast and lunch. by Hattie Ellis. Recipe spinner. Brunch might just be the best mealtime ever. Brunch originated in England in the late 1800s, served in a buffet style manner, and became popular in the United States in the 1930s. Here are 30+ delicious recipes to try. This is a list of brunch foods and dishes.Brunch is a combination of breakfast and lunch eaten usually during the late morning but it can extend to as late as 3 pm. https://www.goodhousekeeping.com/food-recipes/g4201/best-bru… In a mixing bowl, stir together the flour, baking powder and dried oregano. </p>";s:7:"keyword";s:15:"Brunch ideas UK";s:5:"links";s:3954:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=redacted-bo2-2020'>Redacted Bo2 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cooper-dodson-ahs'>Cooper Dodson Ahs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orthodox-church-in-turkey'>Orthodox Church In Turkey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=force-your-way-orchestrion-roll'>Force Your Way Orchestrion Roll</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=norman-bridwell-awards'>Norman Bridwell Awards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dip-amazon'>The Dip Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chichu-art-museum-tickets'>Chichu Art Museum Tickets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kim-tae-pyung-father'>Kim Tae Pyung Father</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=portsmouth-to-london-miles'>Portsmouth To London Miles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-missing-ones'>The Missing Ones</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rollercoaster-Tycoon-Roblox'>Rollercoaster Tycoon Roblox</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=write-for-the-millions'>Write For The Millions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dragon-prince%27s-bride'>The Dragon Prince's Bride</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-road-goes-ever-on-quote'>The Road Goes Ever On Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raw-deal%3A-a-question-of-consent-wiki'>Raw Deal: A Question Of Consent Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-pronounce-prolix'>How To Pronounce Prolix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lord-darzi-report-2008'>Lord Darzi Report 2008</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joshua-oppenheimer-partner'>Joshua Oppenheimer Partner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lone-wolf-assault-weight'>Lone Wolf Assault Weight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=g%C3%B6rlitz%2C-germany-map'>Görlitz, Germany Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=discography-after-the-fire'>Discography After The Fire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meditation-cushion-set'>Meditation Cushion Set</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-town-youtube-channel'>Love Town Youtube Channel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-court-of-mist-and-fury-wikipedia'>A Court Of Mist And Fury Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edward-mcknight-kauffer-biography'>Edward Mcknight Kauffer Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madame-sousatzka-cast'>Madame Sousatzka Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=take-away-calories'>Take Away Calories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goosebumps-season-1-episode-4-cast'>Goosebumps Season 1 Episode 4 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charlie-brooker-books'>Charlie Brooker Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pete-becker-net-worth'>Pete Becker Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sl-clinical-and-medical-oncology-impact-factor'>Sl Clinical And Medical Oncology Impact Factor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=romans-15%3A13-meaning'>Romans 15:13 Meaning</a>,
+";s:7:"expired";i:-1;}

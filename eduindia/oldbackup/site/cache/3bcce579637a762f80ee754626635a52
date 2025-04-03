@@ -1,0 +1,81 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4907:"<p>A number of tools and resources are available to help schools identify food items that meet Smart Snacks criteria. Publication date: July 2018… See the resources below for information about the Smart Snacks requirement, helpful tools, and ways to encourage children to make healthier snack choices that give them the nutrition they need to grow and learn. Florida Competitive Food Rule 5P-2.002 USDA Smart Snacks in School Beverage Guidelines categogryLM. HB616, Act 330 passed in May 2018 requires food and beverages sold by public elementary or secondary schools to adhere to Federal Guidelines set by USDA. </p> <p>It is a helpful resource for anyone managing school vending machines, fundraisers, or snack bars to better understand the Smart Snacks standards. Use measuring cups and spoons to help. Smart Snack Guidelines for Foods and Beverages . Reviewed August 2018. *Results from this calculator have been determined by the U.S. Department of Agriculture to be accurate in assessing product compliance with the Federal requirements for Smart Snacks in Schools provided the information is not misrepresented when entered into the Calculator. Summary of Smart Snacks Nutrition Standards Connecticut State Department of Education Revised January 2019 Page 2 of 18 nutrient-rich foods that are naturally higher in fat (such as reduced-fat cheese, seafood, nuts, seeds, Then … ... caffeinated beverages meeting the Smart Snack standards are allowed. The Smart Snacks guidelines apply to food and beverages sold in vending machines, school stores, a la carte cafeteria lines, and any other on-campus venues where food is sold to students. </p> <p>Coordinate school fundraisers, Manage a school store or snack bar, ... To qualify as a Smart Snack, a snack or entrée must first meet the general Answer a series of questions to see if your product meets the USDA's Smart Snacks in School nutrition standards*. Indiana's Smart Snacks in Schools Fundraiser Exemption Rule; SP 23-2014 (v3) Questions and Answers Related to "Smart Snacks" Interim Rule-Revised; SP 35-2014 Grain Entrees Related to the Smart Snacks in School Standards; SP 36-2014 Smart Snacks Nutrition Standards and Exempt Fundraisers </p> <p>Help make the healthy choice the easy choice for kids at school. Is your snack a smart snack? The Smart Snack standards are minimum standards, a school or district can choose to implement stricter standards if they so choose. Snacks sent to the school for the purpose of sharing with other students must come from the approved snack list. </p> <p>Educate school staff and students about healthy choices through posters, school news articles and the school announcements. </p> <p>The Smart Snacks in School standards stipulate that all snack foods sold in school must be “whole grain rich,” meaning they contain 50% whole grains or have whole grains as the first ingredient, or have as the first ingredient a fruit, a vegetable, a dairy product or a protein-rich food. </p> <p>Do not eat out of a family size bag or box. Negotiate with fundraising, snack and vending companies to increase the number and variety of food and beverage choices available that meet Smart Snacks Standards. Smart Snacks When you choose to snack, think of it as a way to fit in more veggies, fruits, whole grains, and healthy fats. Florida Guidance. Take the guess work out of your day! These foods can fill you up and give you an energy boost. A Guide to Smart Snacks in School. Find out. </p> <p>TIPS • Watch your portions. special celebrations, for example, Halloween, Winter Holiday, Valentine’s Day, or year-end parties . This publication, A Guide to Smart Snacks in School, was updated for School Year 2019–2020. </p> <p>K-5 Smart Snack Guidelines In an effort to meet Federal Government Regulations concerning student wellness, the Raymore Peculiar School District has made changes to the guidelines that govern snacks at school. * USDA Smart Snack Guidelines will be followed except for 4 times a year where latitude is given for . Food; </p> <p>Negotiate with fundraising, snack and vending companies to increase the number and variety of food and beverage choices available that meet Smart Snacks Standards. </p> <p>Educate school staff and students about healthy choices through posters, school news articles and the school announcements. Tags. </p> <p>Smart Snacks in School –Nutrition Standards for All Foods Sold in School Interim Final Rule. ... on when and where foods that meet the guidelines can be sold. </p> <p>... With a few simple answers, you can determine whether your beverage, snack, side or entrée item meets the USDA Smart Snacks in School guidelines. Compliant Foods MUST Meet One of … The result was even stricter standards. These items are called “competitive foods” because they can … Susan Thompson, MS, RDN, LDN, is a nutrition consultant in North Carolina.  </p>";s:7:"keyword";s:27:"smart snack guidelines 2018";s:5:"links";s:2384:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-mundell-family'>Robert Mundell Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Henning-Mankell-Italian-Shoes'>Henning Mankell Italian Shoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=casper-pillow-%3A-target'>Casper Pillow : Target</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-explorer%27%3A-kipling'>The Explorer': Kipling</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mk-ultra-movie'>Mk Ultra Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harry-gregson-williams-website'>Harry Gregson-williams Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=diane-hendricks-yacht'>Diane Hendricks Yacht</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ff14-tales-from'>Ff14 Tales From</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ephesians-2%3A8-esv'>Ephesians 2:8 Esv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=John-Ottman-editing'>John Ottman Editing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sara-Paretsky-wiki'>Sara Paretsky Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-pierre-rampal-mozart'>Jean-pierre Rampal Mozart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-are-the-knights-of-malta'>Who Are The Knights Of Malta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-loree-mcbride'>How Old Is Loree Mcbride</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naperville-weather-hourly'>Naperville Weather Hourly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Solar-Film'>The Solar Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stargazer-fish-cooking'>Stargazer Fish Cooking</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-storyteller%27s-secret-nyt-review'>The Storyteller's Secret Nyt Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eckhart-tolle-wealth'>Eckhart Tolle Wealth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ballinlough-Castle-Wedding'>Ballinlough Castle Wedding</a>,
+";s:7:"expired";i:-1;}

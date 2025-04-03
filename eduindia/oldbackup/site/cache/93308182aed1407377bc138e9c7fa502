@@ -1,0 +1,114 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3071:"<br>This visually tells you that with a sample size of 75, it’s highly unlikely (less than a 5% chance) that the findability rate would ever exceed 15%. A difference between treatments which is very unlikely to be due to chance – ‘a statistically significant difference’ – may have little or no practical importance. <br> <br>This statistical significance calculator can help you determine the value of the comparative error, difference & the significance for any given sample size and percentage response. We call that degree of confidence our confidence level, which demonstrates how sure we are that our data was not skewed by random chance.  Given that this is a pretty low percentage, in most cases, researchers conclude that the difference observed is not due to chance and call it statistically significant. The level of statistical significance is often expressed as a p-value between 0 and 1. A statistically significant finding means that the differences observed in a study are likely real and not simply due to chance. Below the tool you can learn more about the formula used. If it is unlikely enough that the difference in outcomes occurred by chance alone, the difference is pronounced "statistically significant." When significant differences are missed¶ The problem can run the other way. 22. And ‘statistically significant differences’ are not necessarily ‘significant’ in the everyday sense of the word. A result of an experiment is said to have statistical significance, or be statistically significant, if it is likely not caused by chance for a given statistical significance level. Mathematical probabilities like p-values range from 0 (no chance) to 1 (absolute certainty). We really want to know how large some mean difference, correlation or other effect is. This difference is statistically significant at p < .10. By convention, journals and statisticians say something is statistically significant if the p-value is less than .05. <br> <br>For example, a correlation of 0.1 in a sample of N = 1,000 has p &approx; 0.0015. Unfortunately, not enough data was published in the paper to allow a direct calculation. The smaller the p-value, the stronger the evidence that you should reject the null hypothesis. <br> In fact, taking a closer look at the data, it appears there’s no statistically significant difference between the effect of older brothers and older sisters. Statistical significance is the likelihood that the difference in conversion rates between a given variation and the baseline is not due to random chance. <br> <br>However, that's not what statistical significance tells us. A statistically significant result would be one where, after rigorous testing, you reach a certain degree of confidence in the results. You can also see that the findability rate for website A is unlikely to ever exceed 15% (the upper boundary is at 12%). <br> <br>A p-value less than 0.05 (typically ≤ 0.05) is statistically significant. <br> <br> <br>This is highly statistically significant: the population correlation <br>";s:7:"keyword";s:25:"jean pierre rampal mozart";s:5:"links";s:6576:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-am-spartacus'>I Am Spartacus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=max-lucado-quotes-on-prayer'>Max Lucado Quotes On Prayer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spin-selling-questions-for-life-insurance'>Spin Selling Questions For Life Insurance</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-play-ragtime-piano'>How To Play Ragtime Piano</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=keith-lehrer-drummer'>Keith Lehrer Drummer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Plus-one-English-poem-If-summary'>Plus One English Poem If Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-be-an-italian'>How To Be An Italian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mirror-mirror-armie-hammer'>Mirror Mirror Armie Hammer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mustang-Horse-Art'>Mustang Horse Art</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hell%27s-heroes-festival-2020'>Hell's Heroes Festival 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=costco-books-february-2020'>Costco Books February 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Homeboy-Industries-New-York'>Homeboy Industries New York</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Aesop-soap-Amazon'>Aesop Soap Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=university-of-southern-cross-library'>University Of Southern Cross Library</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=table-knife-vs-butter-knife'>Table Knife Vs Butter Knife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=will-payne-oxford'>Will Payne Oxford</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pig-feed-cost-calculator'>Pig Feed Cost Calculator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kris-humphries-net-worth-before-kim'>Kris Humphries Net Worth Before Kim</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-contours---first-i-look-at-the-purse'>The Contours - First I Look At The Purse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hattie-self-reported-grades'>Hattie Self-reported Grades</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Family-Guy-Creepypasta'>Family Guy Creepypasta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andrea-moore-nz'>Andrea Moore Nz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Can-a-mute-person-whistle'>Can A Mute Person Whistle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-many-children-did-Anne-Boleyn-have'>How Many Children Did Anne Boleyn Have</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shadar-kai-5e-monster'>Shadar-kai 5e Monster</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pilgrim%27s-progress-part-2'>Pilgrim's Progress Part 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Harold-Godwinson-brother'>Harold Godwinson Brother</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-long-ago-was-AD-33'>How Long Ago Was AD 33</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Blue-Hawaii-Full-Movie'>Blue Hawaii Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gerges-de-la-tour'>Gerges De La Tour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-do-choices-affect-our-identity'>How Do Choices Affect Our Identity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=knopf-new-york'>Knopf New York</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Alcohol-quotes-in-Malayalam'>Alcohol Quotes In Malayalam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Axion-Esti'>The Axion Esti</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul%27s-passion-and-prayer-for-souls'>Paul's Passion And Prayer For Souls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alex-etel-net-worth'>Alex Etel Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sweet-briar-college-enrollment-2019'>Sweet Briar College Enrollment 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=so-so-crossword-clue'>So-so Crossword Clue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maksud-switch-bl'>Maksud Switch Bl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=our-daily-bread-board-of-directors'>Our Daily Bread Board Of Directors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sore-throat-causes'>Sore Throat Causes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-shiffrin-contribution-to-psychology'>Richard Shiffrin Contribution To Psychology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rage-game-online'>Rage Game Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary-russell-movie'>Mary Russell Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-crown-limerick-contest-text'>The Crown Limerick Contest Text</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=modern-chinese-love-poetry'>Modern Chinese Love Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tmnt-1987-episodes'>Tmnt 1987 Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geek-love-play'>Geek Love Play</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=montaza-palace-history'>Montaza Palace History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glenn-greenwald-net-worth'>Glenn Greenwald Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=second-harvest-heartland-locations'>Second Harvest Heartland Locations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blood-and-the-moon-yeats-analysis'>Blood And The Moon Yeats Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arcamax-comics-pickles'>Arcamax Comics Pickles</a>,
+";s:7:"expired";i:-1;}

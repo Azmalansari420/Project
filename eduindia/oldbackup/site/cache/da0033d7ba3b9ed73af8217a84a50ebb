@@ -1,0 +1,144 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3908:"<br>To set your Form as anyone with the link can view you need to do this at the folder level. Like when we click on Link to Presentation 2017 it will internally call the link given by google drive. Under "Share with people and groups," enter the email address you want to share with. Google Drive is great—you can access your files from anywhere, on pretty much any device, and sync them between your computers. On your computer, go to drive.google.com. Share with specific people Select the file you want to share. Sharing Permissions Should Allow View Access Under "Share with people and groups," enter the email address you want to share with. At the top right, click Get shareable link. Share with specific people Select the file you want to share. Then click on "Share...Step 2: On the window that comes up, click "Get shareable link". Understand Google's Permission Model. When you create a document, it is by default Private, meaning only you are able to see it. The link will be copied to the clipboard. To view the file, others can click on the link. Hi there, You can share a file on your by either inviting a specific email ID to access the file or by sending the link to them (using the shareable link option). How to Share Google Drive Link Sharing a file or a folder via Google Drive is easy. If you have a file that someone needs, it’s as easy as a few clicks (or taps) to shoot them a download link. Comments Sharing with a link. Thanks for you reply.  This is the most secure setting, and is highly recommended for all but the most transparent organizations. Google's free cloud storage platform, Google Drive, is a great collaboration tool, but you have to know how to share files and folders to make it fulfill its potential. Google Drive has a sharing feature which allows you to share a individual photo, video, file or folder with other people in the world. Click Share or Share . <br> <br>Copy and paste the link in an email or any place you want to share it. – MRavindran Jun 16 '17 at 17:19 Anything in a folder takes on the sharing permissions of the folder. Is there any way to map useful name to link. This can be especially helpful for files that would be too large to send as an email attachment, like music or video files.You can also share a file by posting the link to a public webpage. To generate a shareable link, follow step 1 and then select Link sharing from the menu. You can easily share a file with a larger group of people by providing a link to any file in your Google Drive. To allow others to access your file using the link, tap 'Turn On' or tap 'link icon' located under 'Who has Access'. Next to "Anyone with the link," click the Down arrow . You can share a file by sending a link by email. Click Share . Click Share or Share . But there’s also another great feature: sharing. Step 3: Make sure the dropdown is set to one of the "Anyone with the link can view" or "Anyone on the internet can find and view" options, then click "Copy link". Video: Turn On and Off Link Sharing in Google Drive on LG L70 If you have problems with any of the steps in this article, please ask a question for more help, or post in the comments section below. Create a folder in Google Drive. By clicking on the Share menu on the top right of a document, you can control who has access to your document (see the section about Sharing Folders below for …  Open Google Drive folder on your Windows 10 computer or Mac, right-click on … A link is basically a URL or web address for any file you want to share. With link sharing defaulted to “off,” a new file will remain private to the owner until the owner specifically chooses to the share the file, or moves the file into a shared Google Drive folder. Click the folder you want to share. 2. Step 1: Go to Google Drive and right click the file that you want to share. 1. Choose whether people can edit or view. <br>";s:7:"keyword";s:25:"google drive link sharing";s:5:"links";s:10422:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=learn-to-speak-urdu-in-30-days'>Learn To Speak Urdu In 30 Days</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=floating-point-number-representation'>Floating Point Number Representation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wake-of-the-red-witch-trailer'>Wake Of The Red Witch Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-reason-of-church-government-summary'>The Reason Of Church Government Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-smiling-proud-wanderer-%282018-cast%29'>New Smiling Proud Wanderer (2018 Cast)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=watch-masterpiece-anime'>Watch Masterpiece Anime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=underoath-they%27re-only-chasing-safety'>Underoath They're Only Chasing Safety</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hout-bay-accommodation'>Hout Bay Accommodation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heb-employee-shirts'>Heb Employee Shirts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Joe-Piscopo-radio'>Joe Piscopo Radio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghosts-of-the-shadow-market-forever-fallen'>Ghosts Of The Shadow Market Forever Fallen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=colorado-medicaid-login'>Colorado Medicaid Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=henry-brubaker-obituary'>Henry Brubaker Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jennifer-rowe-facebook'>Jennifer Rowe Facebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sheboygan-pizza-delivery'>Sheboygan Pizza Delivery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tsakos-energy-navigation-subsidiaries'>Tsakos Energy Navigation Subsidiaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-improve-chinese-vocabulary'>How To Improve Chinese Vocabulary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jonathan-stamp-organist'>Jonathan Stamp Organist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mad-sin-unbreakable'>Mad Sin Unbreakable</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=landry-shamet-career-high'>Landry Shamet Career High</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=silver-hill-hospital-celebrities'>Silver Hill Hospital Celebrities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=systema-martial-arts-near-me'>Systema Martial Arts Near Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=god%3A-the-most-unpleasant-character-in-all-fiction-pdf'>God: The Most Unpleasant Character In All Fiction Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dallas-hart-and-ariel-mortman'>Dallas Hart And Ariel Mortman</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tetris-party-rom'>Tetris Party Rom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-draw-in-word-2020'>How To Draw In Word 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drinks-with-female-names'>Drinks With Female Names</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Modern-World-History-in-Telugu-PDF'>Modern World History In Telugu PDF</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stranger-on-horseback---youtube'>Stranger On Horseback - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=claire-song-lyrics'>Claire Song Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isabelle-phillips-instagram'>Isabelle Phillips Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kamui-gaiden-anime'>Kamui Gaiden Anime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=denis-matsuev-concert-schedule-2019'>Denis Matsuev Concert Schedule 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=toddler-bible-stories'>Toddler Bible Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=What-causes-a-thunderstorm'>What Causes A Thunderstorm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-big-snow-1947'>The Big Snow 1947</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-top-gun-on-hulu'>Is Top Gun On Hulu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=largest-gold-mine-in-canada'>Largest Gold Mine In Canada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jennifer-robson-interview'>Jennifer Robson Interview</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-wyatt-poems-pdf'>Thomas Wyatt Poems Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=weezer-beverly-hills-album'>Weezer Beverly Hills Album</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghamand-kar-marathi-lyrics'>Ghamand Kar Marathi Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kilim-vs-rug'>Kilim Vs Rug</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=witcher-map-interactive'>Witcher Map Interactive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crooked-river-characters'>Crooked River Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hush-summer-sale-2019'>Hush Summer Sale 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=outsourced-episode-1'>Outsourced Episode 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kick-the-hornets-nest-far-cry-3'>Kick The Hornets Nest Far Cry 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buddha-purnima-timing-2020'>Buddha Purnima Timing 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=revit-2019-features'>Revit 2019 Features</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zero-the-dog'>Zero The Dog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spoken-english-course'>Spoken English Course</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plumb-god-help-me'>Plumb God Help Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jurassic-world-evolution-flying-dinosaurs'>Jurassic World Evolution Flying Dinosaurs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=content-pronunciation-in-us-english'>Content Pronunciation In Us English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=falling-for-innocence-ep-5-eng-sub-facebook'>Falling For Innocence Ep 5 Eng Sub Facebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intermezzo-drug-reviews'>Intermezzo Drug Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-southern-california-water-districts'>List Of Southern California Water Districts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brant-and-helms-amazon'>Brant And Helms Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edogawa-ranpo-books'>Edogawa Ranpo Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rooney-band-2019'>Rooney Band 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Manila%2C-Open-City'>Manila, Open City</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-tinguely-drawing-machine'>Jean Tinguely Drawing Machine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=college-fair-registry'>College Fair Registry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=margaret-brennan-republican'>Margaret Brennan Republican</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=knowledge-full-movie'>Knowledge Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Khote-Sikkay-Film'>Khote Sikkay Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hotel-transylvania-keep-your-hands-out-of-my-wife'>Hotel Transylvania Keep Your Hands Out Of My Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robin-mcleavy-wu-assassins'>Robin Mcleavy Wu Assassins</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=this-is-not-fine-meme'>This Is Not Fine Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cloris-leachman-2020'>Cloris Leachman 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=senate-rules-committee-ap-gov'>Senate Rules Committee Ap Gov</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=two-way-translator-device'>Two-way Translator Device</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-hunter-times'>Alan Hunter Times</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-eight-cast-chinese-drama'>The Eight Cast Chinese Drama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nicholas-blair-dark-shadows'>Nicholas Blair Dark Shadows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=short-cuts-book'>Short Cuts Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kylie-Jenner-%26-Stormi'>Kylie Jenner & Stormi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Slim-pickens-phrase'>Slim Pickens Phrase</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-court-of-frost-and-starlight'>A Court Of Frost And Starlight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=recipe-quiz-questions-and-answers'>Recipe Quiz Questions And Answers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bea-name-meaning'>Bea Name Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=In-the-course-of-duty'>In The Course Of Duty</a>,
+";s:7:"expired";i:-1;}

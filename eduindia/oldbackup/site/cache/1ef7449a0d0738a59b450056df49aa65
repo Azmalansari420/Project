@@ -1,0 +1,81 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2861:"<br>Cesare Lombroso is known today as the father of modern criminology. <br> The Italian school of criminology contends that biological factors may contribute to crime and deviance. Cesare Lombroso was among the first to research and develop the Theory of Biological Deviance which states that some people are genetically predisposed to criminal behavior. Criminological Theory Lombroso, Cesare: The Criminal Man Contributors: Chiara Beccalossi Editors: Francis T. Cullen & Pamela Wilcox Book Title: Encyclopedia of Criminological Theory Chapter Title: "Lombroso, Cesare: The Criminal Man" Pub. Lombroso researched crime among individuals who had committed crimes.  But his most important work, and certainly the … Lombroso's theory of the atavistic offender dominated criminological discussions in Europe, North and South America, and parts of Asia from the 1880s into the early twentieth century. In the mid-1800s, he studied cadavers and looked for physiological reasons for criminal behavior. Cesare Lombroso is known as the “Father of Criminology” or the “Father of Modern Criminology;” also the “founder of criminal anthropology.” Cesare Lombroso took a positivist approach to the study of crime and criminology. <br> <br>One famous positive criminologist was Cesare Lombroso.  <br>Cesare Lombroso is known today as the father of modern criminology. Cesare Lombroso: Theory of Crime, Criminal Man, and Atavism. December 10, 2019 By Margit. [1] <br> <br>He studied the remains of executed individuals who had been convicted of crimes. Cesare Lombroso is well known to historians and current criminologists alike, but he is often recognized for little more than contributing the notion of the “born criminal” to criminological theory. But critics attacked his theory even during his lifetime, and by the time he died, criminologists outside Italy had moved on to other explanations of crime2. Cesare Lombroso’s theory did not go unchallenged, for instance many criminologist in France rejected the overall concept behind Biological Theory of Crime. He is most known for his founding of the positive school and his theories associating physical appearances and how that could associate with crime. He believed that criminals were a product of earlier genetic forms. He is most known for his founding of the positive school and his theories associating physical appearances and how that could associate with crime. He was an Italian doctor who did research and wrote on a variety of topics, for example mental diseases, scientific ways to study corpses, and brain pathology. Filed Under: Criminology Crash Course. Cesare Lombroso was born in 1835 in Verona in Italy. One of the biggest critics of Cesare Lombroso was a prison medical doctor named Charles Goring. Yet his ideas were complex and changed significantly over his lifetime. <br>";s:7:"keyword";s:34:"cesare lombroso theory criminology";s:5:"links";s:2552:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kobe-Doin%27-Work'>Kobe Doin' Work</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skyrim-brynjolf-console-code'>Skyrim Brynjolf Console Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=short-version-of-happy-birthday'>Short Version Of Happy Birthday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=starlink-kirite-guide'>Starlink Kirite Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mychart-mercy-one'>Mychart Mercy One</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=romance-is-a-bonus-book-episodes'>Romance Is A Bonus Book Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lou-Nanne-Miracle'>Lou Nanne Miracle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=characteristics-of-a-bildungsroman-novel'>Characteristics Of A Bildungsroman Novel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=belief-meaning-in-telugu'>Belief Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=British-conversation-examples'>British Conversation Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hide-rainbow-kitten-surprise-meaning'>Hide Rainbow Kitten Surprise Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mirror-mirror-poem'>Mirror Mirror Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boston-celtics-minutes-per-game'>Boston Celtics Minutes Per Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=twist-bioscience-careers'>Twist Bioscience Careers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=darren-criss-mother'>Darren Criss Mother</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=me-or-i-grammar-girl'>Me Or I Grammar Girl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-happened-to-nolan%27s-mom-on-bloodline'>What Happened To Nolan's Mom On Bloodline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drill-chuck-adapter'>Drill Chuck Adapter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hoover-meaning-in-telugu'>Hoover Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-scarry%27s-best-learning-songs-video-ever'>Richard Scarry's Best Learning Songs Video Ever</a>,
+";s:7:"expired";i:-1;}

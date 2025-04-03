@@ -1,0 +1,112 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2753:"<br>Join both our Admissions Office and current Geneseo students for a live chat!  SUNY Geneseo is an above-average public college located in Geneseo, New York.  <br>In the classroom and on the playing field, we are the talent magnet. The safety and well-being of students, faculty, and staff is of the highest priority at SUNY Geneseo. You and your family are invited to join one or more chat sessions to interact with current students and our Admissions team. SUNY Geneseo, Geneseo, New York. Every chat is an opportunity to ask all the questions you have, and we're here to help you every step of the way! We have been monitoring the situation regarding COVID-19 and how our efforts can protect our students and community. 30K likes. The mission of the Duplicating Center is providing the SUNY Geneseo campus community with high quality, low cost printing services--including graphic design, b/w and color copying and printing, poster printing, and finishing services, such as stapling, booklet making, cutting and folding. <br> <br>Founded in 1871, SUNY Geneseo is a premier public liberal arts college with 50 undergraduate degree programs, 25 interdisciplinary minors, and graduate programs in accounting and education. A premier public liberal arts college dedicated to developing socially responsible citizens with skills and values for a productive life. 1 college circle • geneseo, ny 14454 • (585) 245-5000 Sat, 05/23 | Men's Track & Field NCAA Championships at St. John Fisher College (Cancelled) Sat, 05/23 | Women's Track & Field NCAA Division III Outdoor Track & Field Championships (Cancelled) If you can imagine it, you can compete in it at SUNY. We offer athletic opportunities at all levels of competition, ranging from intramurals and club sports to nationally-ranked NCAA, NJCAA, NAIA or USCAA sports teams. We will be offering smaller campus visits for the summer months. <br> <br>Located in Upstate New York, it's a short drive from Rochester and Buffalo. Admissions is somewhat competitive as the SUNY Geneseo acceptance rate is 65%. NY-ALERT is designed to notify you in situations where your personal safety may be at risk (see examples below). There is a campus-wide culture of respect and concern... 7/15 11:30am <br> <br>Athletics. It is a mid-size institution with an enrollment of 5,375 undergraduate students. <br> Geneseo is committed to creating a safe environment for faculty, staff and students. Subscription to NY-ALERT is free and, while highly encouraged, completely voluntary. Popular majors include Psychology, Biology, and Communications. To sign up, please utilize the calendar in the bottom right hand corner. Starting July 6, Geneseo will offer personalized, single-family, open-air tours of campus. <br>";s:7:"keyword";s:22:"suny geneseo athletics";s:5:"links";s:6452:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Russia-net-worth'>Russia Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-season-4-episode-11-full-episode'>The Office Season 4 Episode 11 Full Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=allegiant-flights-to-florida'>Allegiant Flights To Florida</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harper-college-weekend-classes'>Harper College Weekend Classes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-moon-movie-cast'>Blue Moon Movie Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rats-of-tobruk-quotes'>Rats Of Tobruk Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dearest-Mary-Jane'>Dearest Mary Jane</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nicholas-blair-dark-shadows'>Nicholas Blair Dark Shadows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chesapeake-bay-realtor%27s'>Chesapeake Bay Realtor's</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aaron-stanford-%28pyro%29'>Aaron Stanford (pyro)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-glitch-app'>Best Glitch App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aunt-bea-didn%27t-like-andy'>Aunt Bea Didn't Like Andy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spring-is-here-poem'>Spring Is Here Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bugged-meaning-in-tamil'>Bugged Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=War-of-the-Marvels'>War Of The Marvels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-barrera-obituary'>David Barrera Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gianfranco-ferre-perfume-price'>Gianfranco Ferre Perfume Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaiah-55-8-9-meaning'>Isaiah 55 8-9 Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-novel-cure%3A-an-a-z-of-literary-remedies-pdf'>The Novel Cure: An A-z Of Literary Remedies Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-and-final-offer-contract-negotiation'>Best And Final Offer Contract Negotiation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-addams-cartoons-book'>Charles Addams Cartoons Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=audio-mixer-pc'>Audio Mixer Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=matilda-broadway-cast---2015'>Matilda Broadway Cast - 2015</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-killed-teddy-bear-%281965%29'>Who Killed Teddy Bear (1965)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=astronomical-clocks-in-the-world'>Astronomical Clocks In The World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=discography-after-the-fire'>Discography After The Fire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-kratt-movies-and-tv-shows'>Chris Kratt Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lisa-gardner-hide-summary'>Lisa Gardner Hide Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=constellis-security-officer-pay'>Constellis Security Officer Pay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=du-fu-%3A-a-life-in-poetry'>Du Fu : A Life In Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aldi-turkey-mince'>Aldi Turkey Mince</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=living-sacrifice-object-lesson'>Living Sacrifice Object Lesson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ethics-of-imagination'>Ethics Of Imagination</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pam-mu%C3%B1oz-ryan-esperanza-rising-summary'>Pam Muñoz Ryan Esperanza Rising Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=loughgall-ambush-bodies'>Loughgall Ambush Bodies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Homeboy-Industries-New-York'>Homeboy Industries New York</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jerusalem-center-for-biblical-studies'>Jerusalem Center For Biblical Studies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dr-greenberg-woodbury'>Dr Greenberg Woodbury</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-wyler-jr-death'>William Wyler Jr Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=LEGO-Batman-sale'>LEGO Batman Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-gallas-number'>William Gallas Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hogwarts-to-welcome-you-home-fanfiction'>Hogwarts To Welcome You Home Fanfiction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=better-life-synonym'>Better Life Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=taylor-crichton-wedding'>Taylor Crichton Wedding</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dinesh-paliwal-board-of-directors'>Dinesh Paliwal Board Of Directors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=panasonic-kx-prs120ew-twin-dect-phone'>Panasonic Kx-prs120ew Twin Dect Phone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carnival-corporation-cruise-lines'>Carnival Corporation Cruise Lines</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maternal-secrets-lifetime-recap'>Maternal Secrets Lifetime Recap</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=obsidian-cape-melvor'>Obsidian Cape Melvor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unseen-app-for-android'>Unseen App For Android</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andrew-mckaige-seattle'>Andrew Mckaige Seattle</a>,
+";s:7:"expired";i:-1;}

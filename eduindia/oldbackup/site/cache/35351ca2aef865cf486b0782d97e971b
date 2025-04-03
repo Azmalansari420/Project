@@ -1,0 +1,135 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3082:"<p>BBC History: Wordsworth profile. The first poem ‘upon Westminster bridge’ by William Wordsworth is about his love of London as he looks out from Westminster bridge in the early morning. Composed Upon Westminster Bridge William Wordsworth. William Wordsworth wrote the sonnet Composed upon Westminster Bridge, September 3, 1802. • In the 1964 Doctor Who  serial The Dalek Invasion of Earth, the Daleks are seen moving across it in the 22nd Century. His description about the beauty of nature is wonderful. Rather, it describes a city-perhaps one of the few big cities in the world at that time –London. Upon Westminster bridge by William Wordsworth. In the finale of the 24th James Bond film Spectre, Blofeld's helicopter crashes into Westminster Bridge… In "Composed Upon Westminster Bridge," the poet is crossing Westminster Bridge into London during the very early morning. The sonnet “Upon Westminster Bridge” composed by Williams Wordsworth is just one of the gems of his creations. Slideshow of Wordsworth's Upon Westminster Bridge. </p> <p>While William Wordsworth was taken with the glory of nature, that does not mean to say that he was unaware of the beauty offered in other places as well. Performance poet Luke Wright reads Daffodils. In 1790 he visited Revolutionary France and supported the Republican movement. It was first published in the collection Poems, in Two Volumes  in 1807. Upon Westminster bridge by William Wordsworth. Composed upon Westminster Bridge, September 3, 1802 is William Wordsworth's sonnet to the capital city of London, written before the full effects of the industrial revolution had reached the metropolis.. Wordsworth and his sister Dorothy were on their way to … Composed upon Westminster Bridge is one of the most anthologized poems of Wordsworth. The Poet - Wordsworth • Williams Wordsworth was born in Cockermouth in Cumberland in 1780. </p> <p>Composed upon Westminster Bridge, September 3, 1802 By William Wordsworth About this Poet William Wordsworth was one of the founders of English Romanticism and one its most central figures and important intellects.  In this case, he is inspired by the view he saw from Westminster Bridge on the morning of 31 st July 1802, although he didn’t write the poem until September of the same year. In fact, the more correct title of the sonnet is ‘Composed on Westminster Bridge, September 3 rd , 1802’. The sonnet “Upon Westminster Bridge” composed by Williams Wordsworth is just one of the gems of his creations. The poem is written in the form of a sonnet, which is appropriate given the poems main theme of his love for London. “Earth has not anything to show more fair.” This line expresses his views deeply about the nature. The Literature Network: Life and works. Westminster Bridge is the start and finish point for the Bridges Handicap Race, a traditional London running race. The starting line itself gives ample evidence for his mastery over the language. His poem Composed upon Westminster Bridge, September 3, 1802 is a celebration of this city. </p>";s:7:"keyword";s:29:"westminster bridge wordsworth";s:5:"links";s:9410:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=melbourne-cup-2020'>Melbourne Cup 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-infernal-devices-dream-cast'>The Infernal Devices Dream Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anna-biller-robert-greene'>Anna Biller Robert Greene</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phenomenal-woman-prezi'>Phenomenal Woman Prezi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=A-Jewish-Holiday-ABC'>A Jewish Holiday ABC</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-does-the-cosmological-argument-prove-the-existence-of-god'>How Does The Cosmological Argument Prove The Existence Of God</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaiah-55-8-9-meaning'>Isaiah 55 8-9 Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=quantico-marine-base-address'>Quantico Marine Base Address</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=make-a-wish-foundation-articles'>Make A Wish Foundation Articles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=50-below-zero-animated'>50 Below Zero Animated</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blade-marvel-cast'>Blade Marvel Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=death-note-%28all-in-one-amazon%29'>Death Note (all-in One Amazon)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=assurant-renters-insurance'>Assurant Renters Insurance</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=does-john-rayburn-get-caught-for-killing-danny'>Does John Rayburn Get Caught For Killing Danny</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seeking-him-2019'>Seeking Him 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hugh-maclennan-halifax-explosion'>Hugh Maclennan Halifax Explosion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=online-gangster-games'>Online Gangster Games</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-commedia-umana-balzac'>La Commedia Umana Balzac</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cop-town-movie'>Cop Town Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-canyon-tv-series'>Steve Canyon Tv Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=franklin%27s-thanksgiving-full-episode'>Franklin's Thanksgiving Full Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Types-of-location-photography'>Types Of Location Photography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oscar-movie-imdb'>Oscar Movie Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thin-sausage---crossword-clue'>Thin Sausage - Crossword Clue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boss-asks-how-they-can-improve'>Boss Asks How They Can Improve</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=around-the-world-in-eighty-days-pdf'>Around The World In Eighty Days Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=valkyria-chronicles-composer'>Valkyria Chronicles Composer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=layton%27s-mystery-journey-%E2%84%A2-katrielle-and-the-millionaires%27-conspiracy---deluxe-edition'>Layton's Mystery Journey ™ Katrielle And The Millionaires' Conspiracy - Deluxe Edition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gold-mining-stocks'>Gold Mining Stocks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cheap-mens-shoes-online-australia'>Cheap Mens Shoes Online Australia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=loca-people-lyrics'>Loca People Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=teething-puppy-breath'>Teething Puppy Breath</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prodigal-summer-reviews'>Prodigal Summer Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dip-n-dip'>Dip N Dip</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Barbados-population-density'>Barbados Population Density</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-pynchon-cornell'>Thomas Pynchon Cornell</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-link-20-hearts-glitch'>Wolf Link 20 Hearts Glitch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=church-of-england-daily-prayer-pdf'>Church Of England Daily Prayer Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=witcher-3---best-enchantments'>Witcher 3 - Best Enchantments</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-hold-a-sword'>How To Hold A Sword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sticsa-questionnaire-scoringtreatment-of-complicated-uti'>Sticsa Questionnaire Scoringtreatment Of Complicated Uti</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Ploughman%27s-Lunch'>The Ploughman's Lunch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shotel-warrior-vs-karambit'>Shotel Warrior Vs Karambit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dominic-raab-erika-rey'>Dominic Raab Erika Rey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lush-clothing-tops'>Lush Clothing Tops</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Titanic-2---The-Return-of-Jack-%282020%29'>Titanic 2 - The Return Of Jack (2020)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gloria-dei-church-huntingdon-valley'>Gloria Dei Church Huntingdon Valley</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1-john-bible-study-tim-keller'>1 John Bible Study Tim Keller</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gulistan-saadi-in-farsi'>Gulistan Saadi In Farsi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=until-forever-wiki'>Until Forever Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-casagrandes-creepypasta'>The Casagrandes Creepypasta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=werewolf-of-fever-swamp-cast'>Werewolf Of Fever Swamp Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Never-marry-a-cowboy'>Never Marry A Cowboy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dave-ramsey-live-stream-today'>Dave Ramsey Live Stream Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ashley-williams-singer-2020'>Ashley Williams Singer 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-invented-the-stove'>Who Invented The Stove</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pop-up-book-collections'>Pop-up Book Collections</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Teacher-in-America'>Teacher In America</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emma-goldman-deported'>Emma Goldman Deported</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-brown-ft-rick-ross-new-flame-mp3'>Chris Brown Ft Rick Ross New Flame Mp3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kim-tae-pyung-father'>Kim Tae Pyung Father</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=words-from-burger'>Words From Burger</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mtv-base-africa-top-20-2020'>Mtv Base Africa Top 20 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cece-halpert-2020'>Cece Halpert 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Union-Club'>The Union Club</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Man-Down-%28Censored%29'>Man Down (Censored)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-chronicle-herald-obituaries'>The Chronicle Herald Obituaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=murphy-brown-actress'>Murphy Brown Actress</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Diva-Spices-It-Up'>The Diva Spices It Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-landscape-painting-book'>Chinese Landscape Painting Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=danny-brown-merch'>Danny Brown Merch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=astro-movie-2019'>Astro Movie 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hotel-milo-santa-barbara-reviews'>Hotel Milo Santa Barbara Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=theodore-sturgeon-more-than-human-pdf'>Theodore Sturgeon More Than Human Pdf</a>,
+";s:7:"expired";i:-1;}

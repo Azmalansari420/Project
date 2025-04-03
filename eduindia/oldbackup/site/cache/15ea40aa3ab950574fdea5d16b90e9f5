@@ -1,0 +1,100 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2581:"<p>Each October, community activities, events, sharing and showcasing the Mi’kmaw history takes place across Nova Scotia. Watch Queue Queue Reflections of the Past. </p> <p>“I’m not scared, I'm getting tired of it,” said Bernard. Mi’kmaq History Month – 2000. </p> <p>Reflections of the Past. Download poster (pdf) Mi’kmaq History Month – 1999. De très nombreux exemples de phrases traduites contenant "Mi'kmaq history month" – Dictionnaire français-anglais et moteur de recherche de traductions françaises. The Native and Acadian militia killed the … </p> <p>Some pieces come from geology, which tells us about the environment in the past. </p> <p>Sign in. </p> <p>But Bernard says asserting those rights is still a fight. Dreams for the Future! Dreams for the Future! Mi'kmaq months of the year. </p> <p>Other pieces come from archaeology, which tells us about where and how our ancestors lived. </p> <p>Last summer, Bernard and three others began fishing for an income. </p> <p>Dreams for the Future! Saved by Roseanne Freese. </p> <p>How do the Mi'kmaq in Atlantic Canada observe the winter season? Mi'kmaq Months of the Year. 8. </p> <p>Reflections of the Past. World War I Mi’kmaw Veterans With 2018 being the 100th year anniversary of World War I, it seemed fitting that we honour our Mi’kmaw soldiers or sma’knisk. Everyone is encouraged and welcome to participate in Mi’kmaq History Month events. Realities of the Present. The fort was under the command of Captain Handfield. The Supreme Court of Canada in 1999 held the Crown granted the Mi’kmaq nation the rights to hunt and fish when it signed the Peace and Friendship Treaties in 1760. </p> <p>Realities of the Present. </p> <p>Download poster (pdf) Mi’kmaq History Month – 1998. People also love these ideas.  Sign in to like videos, comment, and subscribe. </p> <p>Mi’kmaw history and culture is like a puzzle that has many different pieces. Two months later, on November 27, 1749, 300 Miꞌkmaq, Maliseet, and Acadians attacked Fort Vieux Logis, recently established by the British in the Acadian community of Grand Pre. Mi’kmaq History Month is celebrating its 20-year anniversary in 2013 and we invite everyone to join us in the celebration of our culture and heritage. Native Canadian Native American Indians Native Americans Aboriginal Language Indigenous Education Inuit People The Settlers Nativity Crafts My Family History. </p> <p>More than 200 Mi’kmaw from Atlantic Canada enlisted to serve, and at least 89 … Continue reading → Realities of the Present. </p>";s:7:"keyword";s:14:"Mi kmaq months";s:5:"links";s:4528:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shayne-topp-courtney-miller'>Shayne Topp Courtney Miller</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carla-bruni-daughter'>Carla Bruni Daughter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nathan-chen---youtube'>Nathan Chen - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stephen-burns-workhorse'>Stephen Burns Workhorse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thirst-trap-mask'>Thirst Trap Mask</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cardiff-tourist-map'>Cardiff Tourist Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pippin-revival-cast'>Pippin Revival Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=germany-a-winter%27s-tale-imdb'>Germany A Winter's Tale Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tornado-warning-Miami'>Tornado Warning Miami</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=le-corbusier-lc3'>Le Corbusier Lc3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-pratt-attorney'>Peter Pratt Attorney</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=key-witness-book'>Key Witness Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we-found-love-lyrics'>We Found Love Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bruce-gordon-yale'>Bruce Gordon Yale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miep-gies-movies'>Miep Gies Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Brain-Stew-meaning'>Brain Stew Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-nativity-emerson-paramount'>Black Nativity Emerson Paramount</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=open-theism-churches'>Open Theism Churches</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nashville-book-events'>Nashville Book Events</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=synonyms-for-malevolent'>Synonyms For Malevolent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=danny-mann-voice-actor'>Danny Mann Voice Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-dreamt-i-was-a-butterfly-zenyatta'>I Dreamt I Was A Butterfly Zenyatta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jackson-usa-soloist'>Jackson Usa Soloist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nancy-oliver-appstate'>Nancy Oliver Appstate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=m67-grenade-price'>M67 Grenade Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=siege-meaning-in-tamil'>Siege Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tamil-nadu-police-promotion-list'>Tamil Nadu Police Promotion List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philbert-powwow-highway'>Philbert Powwow Highway</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=properties-to-rent'>Properties To Rent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fix-bayonets-miniatures'>Fix Bayonets Miniatures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chichu-art-museum-tickets'>Chichu Art Museum Tickets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=throne-chair-amazon'>Throne Chair Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1967-Mickey-Mantle'>1967 Mickey Mantle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=swing-away-song'>Swing Away Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pacific-edge-nzx'>Pacific Edge Nzx</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jim-humble-age'>Jim Humble Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=6-team-round-robin-tournament'>6 Team Round Robin Tournament</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Easy-Cheese-Walmart'>Easy Cheese Walmart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oak-park-restaurants'>Oak Park Restaurants</a>,
+";s:7:"expired";i:-1;}

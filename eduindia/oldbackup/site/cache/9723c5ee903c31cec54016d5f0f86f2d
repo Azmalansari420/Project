@@ -1,0 +1,87 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2678:"<p>Essentially, your overall impression of a person ("He is nice!") The halo effect refers to the tendency to: Promote from within. Move people into project management because they have had their project management training. halo effect: The halo effect is a form of cognitive bias which causes one part to make the whole seem more attractive or desirable. </p> <p>Move people into new technical fields because they are good in their current technical field. Halo effect is the tendency for positive impressions of a person, company, brand or product in one area to positively influence one's opinion or feelings in other areas. The concept was first developed by psychologist Edward Thorndike in 1920. </p> <p>The definition of the “Halo-Effect” is as follows: Generalization from the perception of one outstanding personality trait to an overly favorable evaluation of the whole personality (Merriam-Webster). The halo effect is an important concept to understand because it can create errors in analysis and decision-making. This concept can be applied to people, products, brands and companies. A simplified example of the halo effect is when an individual noticing that the person in the photograph is attractive, well groomed, and properly attired, assumes, using a mental heuristic, that the person in the photograph is a good person based upon the ru The halo effect is a psychology term that describes giving positive attributes to a person based on a first impression, whether or not they deserve those positive attributes. It is a type of cognitive bias and is the opposite of the horn effect.  </p> <p>According to PMI, a PM is not necessarily required to have technical background, technical knowhow or technical expertise to manage project and it will be treated as a halo effect. </p> <p>... Use PMP Mock Exam to Prepare for PMP … The halo effect is an unconscious bias (tendency) to attribute good qualities to a person or group based on the good impression made by some other quality(ies) not necessarily related. The halo effect and the corporate pyramid By Xavier Miras in Human Resource Management , Project Management In project management, the wrong perception to rate a team member high or low in all the knowledge areas, based in a brilliant performance in some specific area is called the “halo effect”. impacts your evaluations of that person's specific traits ("He is also smart! The halo effect is a type of cognitive bias in which our overall impression of a person influences how we feel and think about their character. "). Further he must be expert in project management skills and adopt PMI’s project management standards (PMP). </p>";s:7:"keyword";s:15:"halo effect pmp";s:5:"links";s:3172:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Say-It-With-Candy'>Say It With Candy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-quiz'>The Office Quiz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flute-and-piano-duet'>Flute And Piano Duet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miriam-margolyes-harry-potter-role'>Miriam Margolyes Harry Potter Role</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-counter-delivery'>The Counter Delivery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gregory-itzin-star-trek'>Gregory Itzin Star Trek</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=getaway-boston-blog'>Getaway Boston Blog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stranger-on-horseback---youtube'>Stranger On Horseback - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=karl-fallout-2'>Karl Fallout 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=judy-woodruff-tremors'>Judy Woodruff Tremors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue%27s-room-holiday-wishes-part-2'>Blue's Room Holiday Wishes Part 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=persian-straight-sword'>Persian Straight Sword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-quangle-wangle%27s-hat-song'>The Quangle Wangle's Hat Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-did-Thaddeus-Troi-Riker-die'>How Did Thaddeus Troi-Riker Die</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=homecoming-lyrics-hey-monday'>Homecoming Lyrics Hey Monday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=terra-nova%3A-legend-of-the-runes'>Terra Nova: Legend Of The Runes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peak-shoes-price'>Peak Shoes Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rita-williams-garcia-education'>Rita Williams-garcia Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Richard-Prince-Instagram'>Richard Prince Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-stone-angel-genre'>The Stone Angel Genre</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Glasgow-england-postal-code'>Glasgow England Postal Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=laura-kightlinger-jack-black'>Laura Kightlinger Jack Black</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-rain-song-poem'>A Rain Song Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spokane-arena-seating-chart'>Spokane Arena Seating Chart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bang-bang-YNW-Melly'>Bang Bang YNW Melly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=definition-to-word-finder'>Definition To Word Finder</a>,
+";s:7:"expired";i:-1;}

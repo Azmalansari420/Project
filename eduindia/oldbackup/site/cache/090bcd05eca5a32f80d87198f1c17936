@@ -1,0 +1,102 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2385:"single-cycle waveforms, filter envelopes, LFOs) then you'll probably find the Digitone to be fairly similar, with the major change being the initial source of the sound is coming from a straight-forward 4-operator FM synth instead of a sample. Overall this makes the Digitakt a little more versatile as a … If Digitone had 8 tracks / 16 voices I’d likely not look for anything more, but buying 2 of them sounds silly hence the idea of getting Digitakt as a companion that excels in something else and has different sound. It shows that there is much more to it than just a limited version of Digitone. Digitakt has 8 MIDI LFOs total (one per track) while Digitone has 4 MIDI LFOs total (also one per track). Digitakt has 4-note polyphony per MIDI track, while Digitone has 8-note polyphony per MIDI track.  <br> <br>Everyone lists the higher number of midi channels (8 channels on the DT vs 4 on the DN) and the higher polyphony (8 voice on the DT vs 4 on the DN) as the main advantages. Digitakt and Digitone don’t have song modes so you would need to find a way to sequence songs out of them externally or just get comfortable with pattern chaining/juggling. Elektron Gear. <br> <br>Never tried Digitone, but having a blast with Reface DX (as an addition to Octatrack). Whenever I look into this subject, the consensus seems to be that the Digitakt is better than the Digitone for sequencing external MIDI gear. Digitone vs Digitakt. r/Elektron: For users of Elektron Machinedrum, Monomachine, Octatrack, Analog Four, Digitakt and/or Digitone machines. <br> <br>The keyboard is super nice. Looper is a joy to use and really helps when you just want to bash the keyboard and prototype tunes, not thinking about pattern length (and then record notes to Octatrack when satisfied). And I can always re-sample Digitone to the Digitakt when I run out of FM voices / tracks. mattleaf. If you're familiar with designing your own sounds on the Digitakt (e.g.  <br>June 10, 2018, 7:33am #1. hey fam, im in a spot where im thinking about selling my dtone, but im considering trades for DT (i’ve never owned one) just wondering which box people think is the better groove box? <br> <br>Otherwise they are pretty much the same. Model:cycles vs Digitone - for everyone that are wondering if model:cycles is only a stripdown version of Digitone, I highly recommend watching this video. <br>";s:7:"keyword";s:27:"digitone vs digitakt reddit";s:5:"links";s:5406:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chain-stitching-machine'>Chain Stitching Machine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-american-agent-kindle'>The American Agent Kindle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tera-jadoo-chal-gaya-%28from-%22tera-jadoo-chal-gayaa%22%29'>Tera Jadoo Chal Gaya (from "tera Jadoo Chal Gayaa")</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-mother%27s-castle-sparknotes'>My Mother's Castle Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=benefits-of-doing-the-right-thing'>Benefits Of Doing The Right Thing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=susan-mikula-art'>Susan Mikula Art</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-are-the-constitutional-duties-of-the-president'>What Are The Constitutional Duties Of The President</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-wars%3A-squadrons-wiki'>Star Wars: Squadrons Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yo-kai-ramen-vending-machine'>Yo-kai Ramen Vending Machine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=significado-de-cambio'>Significado De Cambio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wake-of-the-red-witch-trailer'>Wake Of The Red Witch Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=colorado-medicaid-login'>Colorado Medicaid Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tuna-fish-recipe'>Tuna Fish Recipe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=39-clues-superspecial'>39 Clues Superspecial</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Manfred-Mann-Earth-Band-Demons-and-Dragons'>Manfred Mann Earth Band Demons And Dragons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Amped-Wireless-RTA2600'>Amped Wireless RTA2600</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=help-will-always-be-given-at-hogwarts-to-those-who-ask-for-it-chamber-of-secrets'>Help Will Always Be Given At Hogwarts To Those Who Ask For It Chamber Of Secrets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stiles-stilinski-detective'>Stiles Stilinski Detective</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-continental-club-events'>The Continental Club Events</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=taylor-crichton-height'>Taylor Crichton Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chanel-2020---shoes'>Chanel 2020 - Shoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cuba-Gooding-Jr-OJ-Simpson'>Cuba Gooding Jr OJ Simpson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chicken-sunday-ebook'>Chicken Sunday Ebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-graves-boston'>The Graves Boston</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hallmark-Mystery-series'>Hallmark Mystery Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antonym-for-triple'>Antonym For Triple</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-happens-if-you-don%27t-register-a-birth'>What Happens If You Don't Register A Birth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bhool-bhulaiyaa-full-movie-watch-online-youtube'>Bhool Bhulaiyaa Full Movie Watch Online Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Vikings-season-6'>The Vikings Season 6</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whoever-you-are-mem-fox-ebook'>Whoever You Are Mem Fox Ebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ovid-meaning-latin'>Ovid Meaning Latin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marcio-kogan-net-worth'>Marcio Kogan Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bob%27s-burgers-season-9-episode-16-cast'>Bob's Burgers Season 9 Episode 16 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fred-dryer-height'>Fred Dryer Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-pastoral-quotes'>American Pastoral Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tom-papa-you%27re-doing-great-imdb'>Tom Papa You're Doing Great Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=that-green-gentleman-meaning'>That Green Gentleman Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Long-Lost-%282019%29-full-movie-Download'>Long Lost (2019) Full Movie Download</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joshua-dionisio-and-barbie-forteza-movie'>Joshua Dionisio And Barbie Forteza Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=butch-cassidy-cholila-argentina'>Butch Cassidy Cholila Argentina</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue%27s-room-games'>Blue's Room Games</a>,
+";s:7:"expired";i:-1;}

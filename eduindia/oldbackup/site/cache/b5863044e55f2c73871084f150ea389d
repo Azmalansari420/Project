@@ -1,0 +1,117 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3051:"<p>The Dark Angels are considered amongst the most powerful and secretive of the Loyalist Space Marine Chapters.They were the I st Legion of the original 20 Space Marine Legions to be created during the First Founding of the 30 th Millennium.. The Dark Angels and the Star Phantoms deny that they’re related. With the notable exception of one successor chapter, all the I Legion’s descendants share an obsession with hunting the Fallen. While in the Veiled Region, they came upon a small Dark Angels fleet. </p> <p> The Black Templars inadvertently made contact with the Fallen Angels, the hunted Traitors of the Dark Angels Chapter. The 1st Company of every Space Marine Chapter represents the apex amongst a warrior elite, and none are held in higher regard than the Deathwing of the Dark Angels. Company Badge of the Dark Angels 1st Company, the Deathwing. After the battle, Russ stormed into the halls of the headquarters to find El'Jonson and vent his frustrations. A Heavenfall Blade is one of a quintumvirate of legendary Power Swords wielded by the highest-ranking members of the Inner Circle of the Dark Angels Space Marine Chapter. </p> <p>The Dark Angels homeworld coming apart during the final confrontation between Primarch Lion El'Jonson and the Arch-Betrayer Luther. The Dark Angels have the honour of being the first Space Marine Legion created by The Emperor of Mankind.Their first known engagement - and indeed the first combat engagement of the Legiones Astartes - was combating the Palace Coup at the end of the Unification Wars. </p> <p>The Dark Angel attack went forward with few casualties and Russ could only watch from the grounds as Lion El'Jonson killed the rebel leader high on the walls of the fortress. They don’t even want to be questioned about it. </p> <p>Lion El'Jonson and a loyal Calibanite Dark Angels Battle-Brother. </p> <p>Yet the Dark Angels have always been the nominal leaders of the Unforgiven chapters. The Deathwing is the elite 1 st Company of the Dark Angels Space Marine Chapter.The Dark Angels 1 st Company is entirely made up of Veterans and broken into distinct units: Terminator Squads, specialists and Deathwing Knights.All are elites, and all are outfitted in Terminator Armour, a luxury few Chapters can match. Belial is the current Grand Master of the Dark Angels Chapter of Space Marines' elite 1st Company, known as the Deathwing. Jonson, wracked with grief over the inability of his Dark Angels to reach Terra in time to prevent the fall of the Emperor during the Siege of Terra at the end of the Horus Heresy, returned to Caliban to reinforce his Dark Angels and recover from the shock of the Heresy. </p> <p>In the early days of the Great Crusade, the Dark Angels became the test and standard by which all future Legions would be … After the end of the Horus Heresy during the Battle of Terra, Lion El'Jonson and the Dark Angels fleet finally returned to Caliban, but once the I Legion's vessels made orbit they were immediately fired upon by Caliban's orbital defence system. </p>";s:7:"keyword";s:19:"dark angels 1d4chan";s:5:"links";s:6996:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clementine-questions-and-answers'>Clementine Questions And Answers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-meillon-grave'>John Meillon Grave</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jeremy-Irons-voice'>Jeremy Irons Voice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=teacher-appreciation-quotes-from-students'>Teacher Appreciation Quotes From Students</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cutting-It-Fine'>Cutting It Fine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ismael-bennacer-whoscored'>Ismael Bennacer Whoscored</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=china-owns-the-who'>China Owns The Who</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zatoichi-meets-yojimbo-full-movie-online'>Zatoichi Meets Yojimbo Full Movie Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-tinguely-drawing-machine'>Jean Tinguely Drawing Machine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deeper-pro-plus-range'>Deeper Pro Plus Range</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=3-am-challenges-to-do-with-friends'>3 Am Challenges To Do With Friends</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naspa-first-forward'>Naspa First Forward</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Marathon-of-Desires'>The Marathon Of Desires</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cops-vs-thugs'>Cops Vs Thugs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-flyers-dress-code'>American Flyers Dress Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghostbusters-remastered-pc'>Ghostbusters Remastered Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Download-music%2C-movies%2C-games%2C-software-The-Pirate'>Download Music, Movies, Games, Software The Pirate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-movies-has-carrie-henn-been-in'>What Movies Has Carrie Henn Been In</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sliver-of-cheese'>Sliver Of Cheese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bulletproof-monk-trailer'>Bulletproof Monk Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Into-the-Arms-of-Strangers-book'>Into The Arms Of Strangers Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-is-liz-claman-now'>Where Is Liz Claman Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jesse-Casper-Brown'>Jesse Casper Brown</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kotlc-memes-sokeefe'>Kotlc Memes Sokeefe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saul-bass-font-generator'>Saul Bass Font Generator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hamish-donaldson-glass'>Hamish Donaldson Glass</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kona-blue-mustang-2012'>Kona Blue Mustang 2012</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=abstract-for-nanotechnology-in-mechanical-engineering'>Abstract For Nanotechnology In Mechanical Engineering</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shape-up-meaning'>Shape Up Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=space-force-release-date'>Space Force Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youngest-couple-in-the-world-today'>Youngest Couple In The World Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-is-liz-claman-now'>Where Is Liz Claman Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=them-baby-please-don%27t-go'>Them Baby Please Don't Go</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tamil-nadu-police-promotion-list'>Tamil Nadu Police Promotion List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lights-on-netflix'>Lights On Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naoto-fukasawa-umbrella'>Naoto Fukasawa Umbrella</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ouija-planchette-for-sale'>Ouija Planchette For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Innkeepers-ending'>The Innkeepers Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-audience-broadway'>The Audience Broadway</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=coming-of-age-movies-2016'>Coming-of-age Movies 2016</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Last-Joy'>The Last Joy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=transamerica-address-iowa'>Transamerica Address Iowa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marauders-movie-explained'>Marauders Movie Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=authentic-filipino-recipes'>Authentic Filipino Recipes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gonville-and-caius'>Gonville And Caius</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=books-about-the-mary-celeste'>Books About The Mary Celeste</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary-j-blige-new-movie-2020'>Mary J Blige New Movie 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meyer-law-los-angeles'>Meyer Law Los Angeles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goebbels-sportpalast-speech-transcript'>Goebbels Sportpalast Speech Transcript</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sei-shonagon-on-men'>Sei Shonagon On Men</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stephen-bonnet-outlander'>Stephen Bonnet Outlander</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-happens-in-chapter-8-in-flush'>What Happens In Chapter 8 In Flush</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wildest-Dreams-lyrics-meaning'>Wildest Dreams Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meek-mill---wins-and-losses'>Meek Mill - Wins And Losses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rolling-vengeance-dvd'>Rolling Vengeance Dvd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Soon-You%E2%80%99ll-Understand'>Soon You’ll Understand</a>,
+";s:7:"expired";i:-1;}

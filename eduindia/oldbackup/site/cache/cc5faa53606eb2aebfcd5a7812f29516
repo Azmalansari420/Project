@@ -1,0 +1,111 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4895:"<br>Updated for Tax Year 2019. The IRS is fully aware that some US taxpayers living overseas have failed to file U.S. federal tax returns or Reports of Foreign Bank and Financial Accounts (FBARs) on time for various reasons. OVERVIEW.  If you file your tax return on time but do not pay the taxes owed, the IRS will assess a penalty of 0.5% of your unpaid taxes, not to exceed a total of 25% of the taxes owed. Please try again later. If you file late and owe $500, your late payment penalty will be at least $210. <br> <br>US Citizen Living Abroad Tax Return. If you plan to file your tax return late, the IRS is usually fine with that. Past the three-year mark, you won’t be able to collect your refund—but you still won’t be subject to a penalty. Is it too late to file taxes for a $1,200 stimulus check now?  <br>If you missed the tax due date, you can still file. Try our quick and easy application to figure your 2016, 2017, 2018, or 2019 tax refund or the amount that you owe. UPDATE: The Treasury recently announced tax changes and updates in response to COVID-19. In fact, some of them have recently become aware of their tax filing requirements and would like to comply with the law. For such occasions, the IRS has forms for late filing taxpayers. Procrastinator alert: your taxes are due! <br> <br>The penalty is 5% of your unpaid taxes for each month your tax return is late, up to five months. If you are late in filing the tax return then you can file it under the late return tax scheme by the end of the same assessment year. The same rule applies to a right to claim tax credits such as the Earned Income Credit. This feature is not available right now. You risk losing your refund if you don't file your return. What the New December 2019 Tax Law Changes Mean for You . Learn more about filing a tax extension, late payment and late filing penalties, and what to do if you can't pay your taxes. What do you do if you can't meet the IRS filing deadline? <br> Here's how to file your back tax returns in five simple steps. The Moneyist I did NOT file my taxes in 2018 or 2019. <br> <br>You can file your taxes late without tax penalties, and even collect your refund for up to 3 years after your tax-filing deadline. Not Paying Taxes … Use this step-by-step guide on how you can file late taxes for the 2018 tax year. By law, the IRS may assess penalties to taxpayers for both failing to file a tax return and for failing to pay taxes they owe by the deadline. If both the late filing and late payment penalties apply, the maximum amount charged for the two penalties is 5% per month. If you do not file and pay your taxes on time, you will be charged interest and a late payment penalty. Sometimes there are circumstances that happen beyond your control that cause you to file late taxes. Note that these are minimum penalties and you could pay more. It happens from time to time, and the government is aware that sometimes taxpayers have legitimate reasons that force them to file late taxes. To file your back tax returns, you will need the W-2s or 1099 forms you received for those tax years to report your income. For taxpayers due a refund, there is no penalty for filing a late return. If, for example, you file your taxes late and owe $100, your late payment penalty will be at least $100. If you are nowhere near ready as the scary deadline approaches, you may file an extension with the IRS that gives you up to six more months to file your taxes. The IRS can charge up to 5 percent a month if you owe tax but don't file a return. Claim a Refund. Self Assessment tax returns - deadlines, who must send a tax return, penalties, corrections, paying your tax bill and returns for someone who has died <br> <br>Start Your Late Tax Return Now. If you are due a refund for withholding or estimated taxes, you must file your return to claim it within 3 years of the return due date. Published: May 18, 2020 at 12:27 p.m. <br> <br>Step 1: Gather your tax documents. File your past due return and pay now to limit interest charges and late payment penalties. Late Tax Filing Done Right® File Late Taxes For 2007-2018 or a 2019 tax return In 10 Mins! Filing Your Taxes Late. Here are eight important points about penalties for filing or paying late. April 15 is the annual deadline for most people to file their federal income tax return and pay any taxes they owe. Just request a tax extension by filing Form 4868 to get more time. So, why even file taxes on time if you’re eligible for a refund? Easily ﻿Prepa﻿re Your Late Tax Returns﻿ Online In 10 Minutes Maximum Refund Guaranteed File Past Years Taxes For All Years 2015, 2014, 2013, 2012 all the way back to 2004 It's never too late to file your taxes. A new law signed in late 2019 includes many changes that may affect your 2019 tax return, due to the Internal Revenue Service (IRS) by April 15. ET <br>";s:7:"keyword";s:22:"how to file late taxes";s:5:"links";s:6374:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Carson-McCullers-quotes'>Carson McCullers Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dmitry-utkin-artist'>Dmitry Utkin Artist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kukri-hong-kong'>Kukri Hong Kong</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reebok-zig-kinetica-review'>Reebok Zig Kinetica Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bug-books-for-preschool'>Bug Books For Preschool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-untamed-drama'>The Untamed Drama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=claudia-lyrics-the-view'>Claudia Lyrics The View</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=luise-rainer-1937'>Luise Rainer 1937</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hercule-poirot%3A-the-complete-short-stories-pdf'>Hercule Poirot: The Complete Short Stories Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reviews-tandoori-international'>Reviews Tandoori International</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Faith-of-the-Fallen'>Faith Of The Fallen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-do-you-draw-the-line'>Where Do You Draw The Line</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-lion-king-jeremy-irons-character'>The Lion King Jeremy Irons Character</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mother-goose-kingston'>Mother Goose Kingston</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=digging-in-the-dirt-lotro'>Digging In The Dirt Lotro</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shahnameh-character-analysis'>Shahnameh Character Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harshad-chopda-instagram'>Harshad Chopda Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-auburn-logo'>Old Auburn Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-williams-spreaker-the-peoples-club'>Thomas Williams Spreaker The Peoples Club</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Natrang-movie-budget'>Natrang Movie Budget</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tessa-dare-beauty-and-the-blacksmith'>Tessa Dare Beauty And The Blacksmith</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Barbie-and-Her-Sisters-in-A-Pony-Tale'>Barbie And Her Sisters In A Pony Tale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jedi-academy-mods-skins'>Jedi Academy Mods Skins</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=radiology-meaning-in-english'>Radiology Meaning In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hugo-lloris-salary-2020'>Hugo Lloris Salary 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hiawassee-upcoming-events'>Hiawassee Upcoming Events</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dora-dance-show'>Dora Dance Show</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=long-island-children%27s-museum-donation-request'>Long Island Children's Museum Donation Request</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sandra-boynton-thanksgiving'>Sandra Boynton Thanksgiving</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lori-saunders-death'>Lori Saunders Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=general-frederick-james-kroesen'>General Frederick James Kroesen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=at-the-drive-in---vaya'>At The Drive-in - Vaya</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Patricia-Polacco-author-study'>Patricia Polacco Author Study</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mr-brainwash-artworks'>Mr Brainwash Artworks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sophistry-in-advertising'>Sophistry In Advertising</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Freddie-Highmore-instagram'>Freddie Highmore Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jason-salda%C3%B1a-movies-and-tv-shows'>Jason Saldaña Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=exiled-edna-st-vincent-millay'>Exiled Edna St Vincent Millay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hippolyte-taine-race%2C-milieu%2C-moment'>Hippolyte Taine Race, Milieu, Moment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i%27m-a-cyborg-but-that%27s-ok-english-subtitles'>I'm A Cyborg But That's Ok English Subtitles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unseen-meaning-in-malay'>Unseen Meaning In Malay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=street-magic-meme'>Street Magic Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lucille-little-richard-lyrics-meaning'>Lucille Little Richard Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deradicalization-meaning-in-telugu'>Deradicalization Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=texas-threads-wholesale'>Texas Threads Wholesale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=people-like-seth-godin'>People Like Seth Godin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=iolani-palace-flag'>Iolani Palace Flag</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=asia%27h-epperson-bobby-brown-story'>Asia'h Epperson Bobby Brown Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dhammapada%3A-verses-and-stories'>Dhammapada: Verses And Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Doolittle-album-cover'>Doolittle Album Cover</a>,
+";s:7:"expired";i:-1;}

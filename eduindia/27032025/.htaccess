@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ http://localhost/eduindia/27032025/$1 [R,L]

@@ -1,0 +1,129 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2609:"<br>Austen was born on December 16, 1775, at Steventon Rectory in Hampshire, the seventh child of a country clergyman and his wife, George and Cassandra Austen. In her lifetime she completed six novels, including Northanger Abbey, Sense and Sensibility, Pride and Prejudice, Mansfield Park, Emma, and Persuasion.Four of them were published before her death. ... On July 18th, 1817, Jane Austen died in Winchester and with her, she took the conclusions of her unfinished works.  <br>Jane Austen began writing at the age of 12 and did not stop until ill health forced it upon her, shortly before her death, at the age of 41. In between there were seemingly fallow years – in Bath – and even barren ones – in Southampton – but this did not …  By May 1817 she was so ill that she and Cassandra, to be near Jane’s physician, rented rooms in Winchester. Her closest friend was her only sister, Cassandra, almost three years her senior. Jane Austen (1775-1817), one of England’s foremost novelists, was never publicly acknowledged as a writer during her lifetime. She is buried in Winchester Cathedral. Jane Austen is typically described as having excellent health until the age of 40 and the onset of a mysterious and fatal illness, initially identified by Sir Zachary Cope in 1964 as Addison’s disease. One of those is Addison’s disease, identified by Sir Zachary Cope in 1964 as the culprit, is an uncommon illness that occurs when one’s body does not produce enough of certain hormones. This coming weekend, we will remember the death of Jane Austen, who died 18 July 1817, but whose influence we all celebrate. She soon became caught up in reading Jane Austen's letters written during the late 1700s and early 1800s, when something jumped out -- a comment from Austen towards the end of her life. There are many possible “causes” of her death at the age of 41. Much of Austen’s medical biography is murky, and how she died remains an enduring mystery. As one of only two girls, Jane was very attached to her sister throughout her life. Jane Austen, (born December 16, 1775, Steventon, Hampshire, England—died July 18, 1817, Winchester, Hampshire), English writer who first gave the novel its distinctly modern character through her treatment of ordinary people in everyday life. Now at age 27, she and the entire Austen family moved to the town of Bath for the Austen parent's retirement life. She was 41 years old. THE MYSTERIOUS DEATH OF MISS JANE AUSTEN. <br> https://www.thescottishsun.co.uk/news/1300078/when-did-jane-aust… Education and Influences | Show Details ↓ … <br>";s:7:"keyword";s:28:"what age did jane austen die";s:5:"links";s:8498:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Vampire-Academy-netflix'>Vampire Academy Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drew-lynch-height'>Drew Lynch Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Famous-Chinese-celebrities-2019'>Famous Chinese Celebrities 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=do-androids-dream-of-electric-sheep-graphic-novel-pdf'>Do Androids Dream Of Electric Sheep Graphic Novel Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vincent-gallo---imdb'>Vincent Gallo - Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bob-barker-2019'>Bob Barker 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Vega-last-name-origin'>Vega Last Name Origin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Anna-Karenina-analysis'>Anna Karenina Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=texas-humor-tracking'>Texas Humor Tracking</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-bell-walsall'>The Bell Walsall</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dracarys-meme-generator'>Dracarys Meme Generator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backcountry-game-bird-recipe'>Backcountry Game Bird Recipe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jurys-inn-galway-menu'>Jurys Inn Galway Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=convertible-lowrider-for-sale'>Convertible Lowrider For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adults-only-meaning'>Adults Only Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=born-in-prison-a%26e'>Born In Prison A&e</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Eight-Katherine-Neville-movie'>The Eight Katherine Neville Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-twits-movie'>The Twits Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dwight%27s-survival-food-plan-episode'>Dwight's Survival Food Plan Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flush-chapter-22'>Flush Chapter 22</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hypovolemic-thirst-process'>Hypovolemic Thirst Process</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=red-mist-roadcraft'>Red Mist Roadcraft</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meek-mill---wins-and-losses'>Meek Mill - Wins And Losses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reebok-zig-kinetica-review'>Reebok Zig Kinetica Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Charge-definition-Chemistry'>Charge Definition Chemistry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=armie-hammer-tv-shows'>Armie Hammer Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hungarian-good-luck-charm'>Hungarian Good Luck Charm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=failed-out-of-caribbean-medical-school'>Failed Out Of Caribbean Medical School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-creek-pass-with-lyrics'>Wolf Creek Pass With Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Poem-definition-in-literature'>Poem Definition In Literature</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hamish-donaldson-glass'>Hamish Donaldson Glass</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pete-becker-net-worth'>Pete Becker Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spain-on-foot'>Spain On Foot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=honkytonk-man-wwf-net-worth'>Honkytonk Man Wwf Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dorothea-lange-landscape'>Dorothea Lange Landscape</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Coco-Amazon-Prime'>Coco Amazon Prime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=commend-intercom-default-username-and-password'>Commend Intercom Default Username And Password</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dearborn-michigan-arab-festival'>Dearborn Michigan Arab Festival</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=racket-busters-cast'>Racket Busters Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=empire-of-the-summer-moon-criticism'>Empire Of The Summer Moon Criticism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orthodox-easter-memes'>Orthodox Easter Memes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Knowledge-is-the-key-to-success'>Knowledge Is The Key To Success</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-don%27t-want-to-get-out-of-bed-anymore'>I Don't Want To Get Out Of Bed Anymore</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meng-haoran-poems'>Meng Haoran Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seyfarth-shaw-logo'>Seyfarth Shaw Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cicada-meaning-in-spanish'>Cicada Meaning In Spanish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=you-are-old%2C-father-william-alice-in-wonderland'>You Are Old, Father William Alice In Wonderland</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shane-West-child'>Shane West Child</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=word-on-fire-daily-mass-today'>Word On Fire Daily Mass Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tunis-airport-coronavirus'>Tunis Airport Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=your-secret-is-safe-with-me-lyrics'>Your Secret Is Safe With Me Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-nast-quotes'>Thomas Nast Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mara-princess-run'>Mara Princess Run</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=danny-mann-voice-actor'>Danny Mann Voice Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-kidd-gilchrist-trade'>Michael Kidd-gilchrist Trade</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=non-fiction-novels-for-beginners'>Non Fiction Novels For Beginners</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sanctuary-church-gun-blessing'>Sanctuary Church Gun Blessing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=platform-stiletto-high-heels'>Platform Stiletto High Heels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=helen-hunt-husband'>Helen Hunt Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Clifton-Chronicles-Book-8'>Clifton Chronicles Book 8</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edc-cobra-belt'>Edc Cobra Belt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=johann-georg-hiedler'>Johann Georg Hiedler</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-happened-to-josef-mengele'>What Happened To Josef Mengele</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=return-to-the-night-of-the-zealot-storage'>Return To The Night Of The Zealot Storage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-taking-of-tiger-mountain-full-movie-online'>The Taking Of Tiger Mountain Full Movie Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hoosiers-bus-scene'>Hoosiers Bus Scene</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marsha-hunt-actress-today'>Marsha Hunt Actress Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-dharma-release'>American Dharma Release</a>,
+";s:7:"expired";i:-1;}

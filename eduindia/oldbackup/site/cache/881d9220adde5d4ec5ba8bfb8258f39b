@@ -1,0 +1,138 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3345:"<p>College of DuPage. College of DuPage Learning Commons office has put together a list of student success resources. Beginning & intermediate levels. </p> <p>College of DuPage, in partnership with ed2go, offers online open enrollment programs designed to provide the skills necessary to acquire professional level positions for many in-demand occupations. Our next session of English classes begins soon! Free morning & evening classes in DuPage & Aurora. College of DuPage Cosmetology Program, Addison, Illinois. Find out College of DuPage application and admission information, deadlines, admissions requirements, fees, and more at collegefactual.com. </p> <p>Transfer to a four-year institution with an associate degree, earn a technical certificate, learn in-demand workplace skills , study for your GED or take classes for your own enjoyment right here on campus. A variety of classes are offered at the College of DuPage. Harper ESL offers a full-time Intensive English Program (IEP), a variety of courses in our English Language Program (ELP) and more. The organization offers free one-on-one tutoring, English conversation groups, and workforce education. Professional teachers. </p> <p>Preparation for the American workplace. We offer a wide range of highly interactive courses that you can take entirely over the Internet. </p> <p>SAT/ACT Preparation Part I will give you all the information you need to do well on the verbal questions of the ACT and the new SAT. </p> <p>Career Training Programs from College of DuPage. Search. </p> <p>BIOLO1110 - Environmental Biology </p> <p>College of DuPage College of DuPage offers free English Language Learning classes and Citizenship classes to DuPage County residents. How to Enroll in Academic ESL Classes at College of DuPage College of DuPage offers a world of educational opportunities, right here at home. You are an important part of the Harper College community. Spring break will be extended by … </p> <p>Join us and learn English with people of all ages from all over the world. </p> <p>Classes are taught by experienced faculty and at convenient days and times. Tutoring for the citizenship exam & interview. Course Search. Most students try to find easy classes to take a load off during busy semesters. </p> <p>Our programs are designed by a team of professionals from each respective field, providing you with effective web-based learning programs. English (ENGLI) English Language Acquisition (ELA) English Language Studies (ELS) Eye Care Assistant (EYE) Facility Management (FACM) Fashion Studies (FASHI) Fire Science (FIRE) French (FRENC) General Education Development (GED) Geography (GEOGR) German (GERMA) Graphic Design (GRDSN) Health Information Technology (HIT) Health Sciences (HLTHS) The ACT verbal sections are called the Reading Test, the English Test, and the Science Test. </p> <p>Students can learn academic English for a degree program, job promotion or personal growth. </p> <p>Academic and professional English for global communication </p> <p>Welcome to our Online Instruction Center. “ The College of DuPage Library’s mission is to be an exemplary academic library that supports the educational goals and purposes of the college. 1. The Reading Test and the English Test assess your knowledge of English usage, grammar, and reading comprehension. </p>";s:7:"keyword";s:33:"college of dupage english classes";s:5:"links";s:9644:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=haymarket-riot-outcome'>Haymarket Riot Outcome</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=things-to-come-%281936%29---colorized'>Things To Come (1936) - Colorized</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natasha%27s-dance%3A-a-cultural-history-of-russia-review'>Natasha's Dance: A Cultural History Of Russia Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=auto-wreckers-california'>Auto Wreckers California</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=queen-elinor-bear'>Queen Elinor Bear</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-fiend-with-twenty-faces-pdf'>The Fiend With Twenty Faces Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=like-a-boss-casa-blanca'>Like A Boss Casa Blanca</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=warriors%3A-omen-of-the-stars'>Warriors: Omen Of The Stars</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=8-oz-cream-cheese-recipe'>8 Oz Cream Cheese Recipe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backyardigans-super-spy'>Backyardigans Super Spy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apologetics-course-pdf'>Apologetics Course Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=macbeth-1948-trailer'>Macbeth 1948 Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gangubai-kathiawadi-age'>Gangubai Kathiawadi Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2020-recruiting-class-basketball'>2020 Recruiting Class Basketball</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%C3%A7a%C4%9Fla-%C5%9Fim%C5%9Fek-wikipedia'>çağla şimşek Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=that-most-important-thing%3A-love---watch-online'>That Most Important Thing: Love - Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=and-we-all-fall-down-children%27s-song'>And We All Fall Down Children's Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Small-electric-Scissor-Lift-Table'>Small Electric Scissor Lift Table</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stars-of-fortune-the-guardians-trilogy-%231'>Stars Of Fortune The Guardians Trilogy #1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=still-lifes-meaning'>Still Lifes Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sister-quotes-for-instagram'>Sister Quotes For Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Deja-Vu-song'>Deja Vu Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peppermint-pie-with-chocolate-crust'>Peppermint Pie With Chocolate Crust</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sonnet-4-paraphrase'>Sonnet 4 Paraphrase</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-jon-cryer-married'>Is Jon Cryer Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=throne-of-glass-original-cover-for-sale'>Throne Of Glass Original Cover For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Plus-one-English-poem-If-summary'>Plus One English Poem If Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=national-women%27s-history-alliance'>National Women's History Alliance</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=italian-regional-knives'>Italian Regional Knives</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=little-live-pets-bird-cage-with-2-birds'>Little Live Pets Bird Cage With 2 Birds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=8th-day-ya%27alili'>8th Day Ya'alili</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hopscotch-coding-lessons'>Hopscotch Coding Lessons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fear-Street%2C-The-Betrayal'>Fear Street, The Betrayal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=post-mortem-form'>Post Mortem Form</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-they-from-lyrics'>Where They From Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-marriage-memes'>Funny Marriage Memes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-is-scott-joplin-buried'>Where Is Scott Joplin Buried</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elizabeth-bennet-movie'>Elizabeth Bennet Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=road-to-destiny-telenovela'>Road To Destiny Telenovela</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=focus-sash-pokemon-sword'>Focus Sash Pokemon Sword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=piya-rangrezz-story'>Piya Rangrezz Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=senate-judiciary-committee'>Senate Judiciary Committee</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=knoxville-events-next-3-days'>Knoxville Events Next 3 Days</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=married-at-17-stories'>Married At 17 Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=martha-harms-voice-actor'>Martha Harms Voice Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=don%27t-go-to-caribbean-medical-school'>Don't Go To Caribbean Medical School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kashkuli-gabbeh-rug-runner'>Kashkuli Gabbeh Rug Runner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Ghost-and-Mrs-Muir-Full-movie'>The Ghost And Mrs Muir Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Eye-Candy%3A-A-Novel'>Eye Candy: A Novel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-last-stop-lyrics-meaning'>The Last Stop Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rihanna-songs-2007'>Rihanna Songs 2007</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sebastian-stan-romania'>Sebastian Stan Romania</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manosque-france-population'>Manosque France Population</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=healthiest-frozen-vegetables'>Healthiest Frozen Vegetables</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=outdoor-mosquito-killer'>Outdoor Mosquito Killer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=squidbillies-krystal-quotes'>Squidbillies Krystal Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mike-henry-consuela'>Mike Henry Consuela</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jamychal-green-salary-2020'>Jamychal Green Salary 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=light-food-restaurants'>Light Food Restaurants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-gunfight-plot'>A Gunfight Plot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=giles-watling-qatar'>Giles Watling Qatar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pierce-pok%C3%A9mon-swsh'>Pierce Pokémon Swsh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drum-tower-europe'>Drum Tower Europe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adria-caravan-price-list'>Adria Caravan Price List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maternal-secrets-lifetime-recap'>Maternal Secrets Lifetime Recap</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-language-articles-pdf'>Chinese Language Articles Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=columbine-flower-care'>Columbine Flower Care</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-twits-audiobook'>The Twits Audiobook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=step-into-german---music'>Step Into German - Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thumbelina-cast-barbie'>Thumbelina Cast Barbie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manosque-france-to-paris'>Manosque France To Paris</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edc-knife-australia'>Edc Knife Australia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ida-reverse-engineering'>Ida Reverse Engineering</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-chemist-stephenie-meyer-pdf'>The Chemist Stephenie Meyer Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dhoom-reloaded-full-movie'>Dhoom Reloaded Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seth-godin-advice'>Seth Godin Advice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sabina-beekman-wikipedia'>Sabina Beekman Wikipedia</a>,
+";s:7:"expired";i:-1;}

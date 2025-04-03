@@ -1,0 +1,90 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2325:"<p>For lovers of Australian and New Zealand literary fiction; Ambassador for Australian literature . Normal text size Larger text size Very large text size. Posted 2 Jul July 2019, updated 3 Jul July 2019. (ABC News: Hugh Sando) Share. About ANZ LitLovers; ANZLL Indigenous Literature Reading List; Christina Stead; D Perpetual is the Trustee for the Miles Franklin Literary Award. </p> <p>I have been very busy with school holidays and have only just gotten around to having a good look at the 2019 MF Shortlist. About the Miles Franklin Literary Award milesfranklin.com.au. July 2, 2019 — 8.00pm. The Lebs author Michael Mohammed Ahmad has been shortlisted for the Miles Franklin Literary Award. The 2019 Miles Franklin Literary Award longlist I wasn’t going to mention the Miles Franklin Literary Award longlist announced earlier in the week (and already covered by Sue at Whispering Gums and Lisa at ANZLitLovers ) because I had already decided I would give myself a year off from reading the shortlist in its entirety. You can listen to interviews with the other three shortlisted authors - Gail Jones, Jennifer … </p> <p>The 2020 Miles Franklin Literary Award shortlist: THE WHITE GIRL by Tony Birch (The University of Queensland Press): This novel describes the journey of Odette and her 13-year-old granddaughter Sissy as they struggle to stay together when the authorities are determined to break them apart.The story is not given to sentimentality; instead it is a celebration of Aboriginal resilience and … The shortlist for the 2019 Miles Franklin Literary Award was announced on 2 July in Sydney. The winner of the 2019 Miles Franklin Literary Award will be announced on Thursday July 16. 2019 Miles Franklin Shortlist announced. By national arts, culture and entertainment reporter Michaela Boland.  By Jason Steger. Six of the best for the Miles Franklin shortlist. </p> <p>Rodney Hall (shortlisted for A Stolen Season), Michael Mohammed Ahmad (The Lebs) and Gregory Day (A Sand Archiveh) appear in this interview, which was recorded on 3 July and released on 4 July 2019. Miles Franklin shortlist announced, including The Lebs author Michael Mohammed Ahmad. I only managed to get three of the six right with my prediction, but in my defence, two of the books that made the list I had yet to read. </p>";s:7:"keyword";s:29:"miles franklin 2019 shortlist";s:5:"links";s:3804:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=florida-facts-and-pictures'>Florida Facts And Pictures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zell-swag-east-ave'>Zell Swag East Ave</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=l%C3%A9o-laurent-father'>Léo Laurent Father</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=audio-mixer-pc'>Audio Mixer Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youngest-couple-in-the-world-today'>Youngest Couple In The World Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atlantis-rising-review'>Atlantis Rising Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jonathan-Sagall-Schindler%27s-List'>Jonathan Sagall Schindler's List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bad-otter-puns'>Bad Otter Puns</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=would-you-khalid-lyrics'>Would You Khalid Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Eugene-grasset-medium'>Eugene Grasset Medium</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=patriarchate-of-jerusalem'>Patriarchate Of Jerusalem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lone-rider-tent-canada'>Lone Rider Tent Canada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roar-drink-packets'>Roar Drink Packets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Super-Mario-RPG-Mallow'>Super Mario RPG Mallow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=legend-the-graphic-novel-epub'>Legend The Graphic Novel Epub</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daniel-schorr-vice-cream'>Daniel Schorr Vice Cream</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Barbie-and-Her-Sisters-in-A-Pony-Tale'>Barbie And Her Sisters In A Pony Tale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Old-Track-to-Auvers'>The Old Track To Auvers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wringer-chapter-40-summary'>Wringer Chapter 40 Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=PoE-Warlord-influence-mods'>PoE Warlord Influence Mods</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=florence-knoll-total-design'>Florence Knoll Total Design</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=queen%27s-favourite-child'>Queen's Favourite Child</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vintage-waterford-crystal-vase'>Vintage Waterford Crystal Vase</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=home-alone-2-soundtrack---youtube'>Home Alone 2 Soundtrack - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aim%3A-a-behavior-analytic-curriculum-for-social-emotional-development-in-children'>Aim: A Behavior Analytic Curriculum For Social-emotional Development In Children</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=principles-of-soil-conservation'>Principles Of Soil Conservation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spongebob-toys-ebay'>Spongebob Toys Ebay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=factories-of-death%3A-japanese-biological-warfare%2C-1932-45-and-the-american-cover-up'>Factories Of Death: Japanese Biological Warfare, 1932-45 And The American Cover-up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jorge-mendes-instagram'>Jorge Mendes Instagram</a>,
+";s:7:"expired";i:-1;}

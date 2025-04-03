@@ -1,0 +1,127 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4465:"<p>1. open console and select npc with mouse but ofc you don't know where it is so type "prid XXXXX" (where XXXXX is npc refId) but ofc you don't know the refid so you can either: a. save game, load a previous save, select the npc and write down the refid the load ur last save b. find it here: elderscrolls.wikia.com) Board index ‹ The Elder Scrolls ... Use the console. She will be resurrected. Recuerda que usar trucos puede provocar problemas y por tanto, se suele recomendar desactivar el autoguardado antes de empezar a introducirlos. ". For The Elder Scrolls V: Skyrim on the PC, a GameFAQs message board topic titled "How do you use console commands to marry any npc? When you come across a merchant named Brynjolf at the Riften bazaar during the day or in The Bee and Barb at night, he will propose that you frame a vendor by planting a stolen ring on his person. </p> <p>Detailed Walkthrough []. brynjolf not spawning i don't know if its my mods doing it or the game itself but when i enter riften brynjolf doesn't spawn and i can't start the thieves guild questline, is there a way i … The ref ID is what appears when clicking on an object with the console open. Skyrim: 5 Absurdly Hilarious Glitches and Bugs You May Not Have Seen - Elder Scrolls 5 Facts - Duration: 7:17. I'm typing out the command in from the following quest debugger. Note that the base ID and not the ref ID must be used . prid targets an entity - Brynjolf in this case. This method also works to resurrect other NPCs/characters. Information on how to use the item code, how to open the Skyrim command console, compatible Skyrim commands, examples, and required DLCs (if any). The console is opened by the ~ key, it's in the left upper corner, under the Esc key on my keyboard. ... 0001B07D 00020545 Brynjolf. ; Steal Madesi's Silver Ring. 5 10 25 50 100 Deleting the mod won't get rid of it. TheEpicNate315 731,448 views Quick Walkthrough []. Load a save, press that ~ key, the console will open, type the command in there, press enter, then press the ~ key again to close the console. As the name suggests, they specialize in lockpicking, pickpocketing, and overall thievery. This quest, a Chance Arrangement, is received after having talked to Brynjolf in the Riften marketplace and accepting his offer to complete a small task for some money. Well, good news! ; Speak to Brynjolf. A code will appear. You can't kill Brynjolf, he is marked as essential throughout the entirety of the game also you do not need to kill Brynjolf ever. Usage of the 'setessential' console command is: setessential <base ID> <1/0> - set a character (NPC) as immortal (1) or mortal (0). Want to see what Skyrim console codes can do? </p> <p>Here is the list of console commands and cheat codes you can enter to make the game easier or to modify the overall experience in Skyrim.. Skyrim Cheat And Console Commands En esta sección nos centraremos en mostrarte todos los comandos de consola y los trucos más importantes relacionados con ellos.  If your on a console then if hes not already able to be married, your SOL Samantha hulme Posts: 3373 ... Screwed then, no Brynjolf for you Madeleine Rose Walsh Posts: 3425 Joined: Wed Oct 04, 2006 2:07 am Here is the list of console commands and cheat codes you can enter to make the game easier or to modify the overall experience in Skyrim. Skyrim console commands are pretty easy to input, too. To get rid of Brynjolf you need to complete the quests so he will stop following you Probably just me creating a syntax error, but I'm trying to move Brynjolf and Karliah in the quest Trinity restored, because they're not moving to the standing stone outside the nightingale hall. Talk to Brynjolf. Explore Skyrim item codes. The best place to get cheats, codes, cheat codes, walkthrough, guide, FAQ, unlockables, tricks, and secrets for The Elder Scrolls 5: Skyrim for PC. </p> <p>You are asked to … You're welcome. '20545' is Brynjolf 's RefID. If you enjoyed our list of Skyrim Console Commands, you'll know that a lot of need reference codes for NPCs and items. If not, try console commands to teleport Brynjolf to the player's current location: prid 20545 moveto player. </p> <p>Also he is supposed to follow you to complete the quest "blindsighted" The person you kill in "blindsighted" is: Mercer Frey. Open the console and click on her body. I'd type these commands while at the Riften market area (where you're supposed to meet Brynjolf). </p>";s:7:"keyword";s:28:"skyrim brynjolf console code";s:5:"links";s:8246:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cavalier-poetry-vs-metaphysical'>Cavalier Poetry Vs Metaphysical</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cades-county-tv-theme'>Cades County Tv Theme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jennifer-robson-interview'>Jennifer Robson Interview</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=castle-point-va'>Castle Point Va</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lifeline-recertification-qlink'>Lifeline Recertification Qlink</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adam-lobel-radboud-university'>Adam Lobel Radboud University</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=modern-warplanes-tips'>Modern Warplanes Tips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1908-pattern-cavalry-sword-for-sale'>1908 Pattern Cavalry Sword For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jubilee-professional-2020'>Jubilee Professional 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2006-miami-heat-roster'>2006 Miami Heat Roster</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-are-the-constitutional-duties-of-the-president'>What Are The Constitutional Duties Of The President</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lou-gehrig-movie'>Lou Gehrig Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=minnie-riperton-maya-rudolph'>Minnie Riperton Maya Rudolph</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-makes-lone-wolf-barrels'>Who Makes Lone Wolf Barrels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marilou-is-everywhere-book-review'>Marilou Is Everywhere Book Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=god%27s-grace-at-christmas'>God's Grace At Christmas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=top-gun-full-movie-with-english-subtitles'>Top Gun Full Movie With English Subtitles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-ring-amazon'>Blue Ring Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=magic-school-kdrama'>Magic School Kdrama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=military-stop-loss-2018'>Military Stop Loss 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=navaja-knife-csgo'>Navaja Knife Csgo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=melinda-gates-religion'>Melinda Gates Religion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=good-bye-meaning-in-telugu'>Good Bye Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japanese-sword-fighting-iaido'>Japanese Sword Fighting Iaido</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-need-a-hero-%28wow%29'>I Need A Hero (wow)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lord-of-the-flies-creepers-quotes'>Lord Of The Flies Creepers Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ken-lawson-death'>Ken Lawson Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=talespin-ghost-ship-episode'>Talespin Ghost Ship Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-edson-net-worth'>Richard Edson Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hush-summer-sale-2019'>Hush Summer Sale 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stiletto-nails-tips'>Stiletto Nails Tips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aidan-mcardle-endeavour'>Aidan Mcardle Endeavour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rand-brooks-gone-with-the-wind'>Rand Brooks Gone With The Wind</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sam-frost-partner'>Sam Frost Partner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-gunfight-plot'>A Gunfight Plot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marriage-action-plan'>Marriage Action Plan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Kings-of-Frog-Island'>The Kings Of Frog Island</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=then-again-maybe-i-won%27t-common-sense-media'>Then Again Maybe I Won't Common Sense Media</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mistward-throne-of-glass'>Mistward Throne Of Glass</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dan-barker-animator'>Dan Barker Animator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heartstopper-volume-3-pdf'>Heartstopper Volume 3 Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-conclave-inquisitor'>The Conclave Inquisitor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alec-and-magnus-fanfiction'>Alec And Magnus Fanfiction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mekn%C3%A8s-weather-hourly'>Meknès Weather Hourly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=channel-8-sports'>Channel 8 Sports</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=decide-meaning-in-malayalam'>Decide Meaning In Malayalam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intex-10ft-pool-with-pump'>Intex 10ft Pool With Pump</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Vega-last-name-origin'>Vega Last Name Origin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=schoolboy-arm-wrestling-instagram'>Schoolboy Arm Wrestling Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=killer-party-%281986-watch-online%29'>Killer Party (1986 Watch Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=true-flies-clothing'>True Flies Clothing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mat-franco-theater'>Mat Franco Theater</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stargazer-fish-cooking'>Stargazer Fish Cooking</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-eagle-otr-menu-prices'>The Eagle Otr Menu Prices</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fu-zi-sacred-lotus'>Fu Zi Sacred Lotus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-play-electric-guitar-for-kid-beginners'>How To Play Electric Guitar For Kid Beginners</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anschluss-of-austria'>Anschluss Of Austria</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-books-on-the-doctrine-of-god'>Best Books On The Doctrine Of God</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=first-year-college-student-scholarships'>First Year College Student Scholarships</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-was-xenia-goodwin-in-dance-academy'>How Old Was Xenia Goodwin In Dance Academy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-apartment-1996-full-movie---youtube'>The Apartment 1996 Full Movie - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trans-am-worldwide'>Trans Am Worldwide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=senate-rules-committee-ap-gov'>Senate Rules Committee Ap Gov</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=duplex-for-sale-chesapeake%2C-va'>Duplex For Sale Chesapeake, Va</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meg-murry-age'>Meg Murry Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lemy-fire-pit'>Lemy Fire Pit</a>,
+";s:7:"expired";i:-1;}

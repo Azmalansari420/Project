@@ -1,0 +1,122 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2507:"<p>Request additional information, schedule a showing, save to your property organizer. Get complete property information, maps, street view, schools, walk score and more. Englewood real estate listings include condos, townhomes, and single family homes for sale. Commercial properties are also available. </p> <p>ZipRealty helps you find current homes for sale in Englewood, CO. We show up to 30% more MLS listings than other websites, including new homes for sale, condos for sale, townhomes for sale, foreclosed homes for sale and land for sale. </p> <p>4 Baths! </p> <p>The average price of homes sold in Englewood, CO is $ 445,000. View our 80111 real estate area information to learn about the weather, local school districts, demographic data, and general information about 80111. As a licensed brokerage in Colorado (and across the United States), Movoto has access to the latest real estate data including single family homes, condos/townhouses, open houses, new listings, price reduced homes, recently bought homes, market trends, homes with a pool and more in Colorado and beyond. 10350 East Weaver Drive (click address for video tour) OPEN HOUSE 8/20 10-1! </p> <p>Englewood Mobile & Manufactured homes for Sale There are 40 real estate listings found in 80111 . </p> <p>Englewood real estate listings include condos, townhomes, and single family homes for sale. The average price of homes sold in Englewood, CO is $ 445,000.  </p> <p>Approximately 46% of Englewood homes are owned, compared to 47% rented, while 7% are vacant. Approximately 46% of Englewood homes are owned, compared to 47% rented, while 7% are vacant. See prices, photos, sale history, & school ratings. MLS #9129563 Movoto gives you access to the most up-to-the-minute real estate information in 80111. Set up your unique Englewood real estate search criteria to see results that match what you're looking for. 5 Beds! </p> <p>August 19, 2016 By Tatyana Sturm. </p> <p>Commercial properties are also available. MLS Data, Photos and Property Details for 6267 S BOSTON COURT, ENGLEWOOD, CO 80111. </p> <p>10205 E Peakview Avenue Englewood, CO, 80111, a 4 bedroom, 3 bathroom home currently listed for sale at $325,000. </p> <p>Search MLS Real Estate & Homes for sale in 80111, updated every 15 minutes. Homes for Sale in Aurora CO. Beacon Point Homes For Sale; Blackstone Country Club Homes For Sale CO; Copperleaf Homes; Homes for Sale in Greenfield – Aurora CO ... DENVER TECH CENTER HOME FOR SALE ENGLEWOOD, CO 80111. </p>";s:7:"keyword";s:37:"homes for sale in englewood, co 80111";s:5:"links";s:7572:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=body-bags-blu-ray'>Body Bags Blu-ray</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Quotes-For-loyal-husband'>Quotes For Loyal Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pascal-morabito-perfume'>Pascal Morabito Perfume</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kylie-Jenner-%26-Stormi'>Kylie Jenner & Stormi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jesse-Casper-Brown'>Jesse Casper Brown</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=patrick-buchanan-books'>Patrick Buchanan Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=curtis-harris-height'>Curtis Harris Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-impressions-keep-on-pushing-discogs'>The Impressions Keep On Pushing Discogs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beautiful-losers-trailer'>Beautiful Losers Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wise-with-money'>Wise With Money</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Millennium-Bridge-Harry-Potter'>Millennium Bridge Harry Potter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=google-drive-link-sharing'>Google Drive Link Sharing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=British-Army-divisions'>British Army Divisions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Feel-joy-quotes'>Feel Joy Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hamilton-trailer-2020'>Hamilton Trailer 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=365-days-of-astronomy'>365 Days Of Astronomy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=etiquette-for-small-wedding'>Etiquette For Small Wedding</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caravan-sports-chair'>Caravan Sports Chair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-garvey-quotes'>Steve Garvey Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=low-pressure-remedy'>Low Pressure Remedy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=riposte---dark-souls'>Riposte - Dark Souls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-trek-convention-2020-dates'>Star Trek Convention 2020 Dates</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gabriel-kane-day-lewis-movies'>Gabriel-kane Day-lewis Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=5-friends-boy'>5 Friends Boy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Push-dagger-California'>Push Dagger California</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-commedia-umana-balzac'>La Commedia Umana Balzac</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-does-your-garden-grow-book'>How Does Your Garden Grow Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wales-currency-to-inr'>Wales Currency To Inr</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=esencia-elementary-clever'>Esencia Elementary Clever</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roger-bacon-medicine'>Roger Bacon Medicine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interstellar-2-2019'>Interstellar 2 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jacob-nighthorse-house'>Jacob Nighthorse House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=le-blanc-cancun-closed'>Le Blanc Cancun Closed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-boy-on-the-wooden-box-chapter-3'>The Boy On The Wooden Box Chapter 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1-who-was-priscus-do-you-think-his-description-is-reliable-why'>1 Who Was Priscus Do You Think His Description Is Reliable Why</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jhabua-power-limited-corporate-office'>Jhabua Power Limited Corporate Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=high-school-in-sentence'>High School In Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isidora-invisible-cities'>Isidora Invisible Cities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fact-or-fiction-show-where-to-watch'>Fact Or Fiction Show Where To Watch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sorry-quotes-for-friends'>Sorry Quotes For Friends</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-are-the-7-things-you-need-for-a-balanced-diet%3F'>What Are The 7 Things You Need For A Balanced Diet?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ray-bradbury-inspiration'>Ray Bradbury Inspiration</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seals-on-chinese-scrolls'>Seals On Chinese Scrolls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-emile-pissarro-pastel'>Paul Emile Pissarro Pastel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=as-i-lay-dying---shaped-by-fire-single'>As I Lay Dying - Shaped By Fire Single</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rin-tin-tin-vs-tin-tin'>Rin Tin Tin Vs Tin Tin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edge-forum-amsterdam'>Edge Forum Amsterdam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bnd-of-doom-mask'>Bnd Of Doom Mask</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=journey-i%27ll-be-alright-without-you-album'>Journey I'll Be Alright Without You Album</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cool-merch-from-youtubers'>Cool Merch From Youtubers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oahu-vacation-packages-2020'>Oahu Vacation Packages 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-stranger-quotes'>The Stranger Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anouchka-delon-eyes'>Anouchka Delon Eyes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=on-his-blindness-poem-pdf'>On His Blindness Poem Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mycroft-holmes-death'>Mycroft Holmes Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Black-History-love'>Black History Love</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jurys-inn-galway-parking-cost'>Jurys Inn Galway Parking Cost</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wine-5-install'>Wine 5 Install</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=abraham-lincoln%3A-selected-speeches-and-writings'>Abraham Lincoln: Selected Speeches And Writings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trail-street-movie-youtube'>Trail Street Movie Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vray-for-revit'>Vray For Revit</a>,
+";s:7:"expired";i:-1;}

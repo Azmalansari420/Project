@@ -1,0 +1,117 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2620:"<p>This organization has been operating for approximately 19 years.  Contact Us Coral Gables City Hall 405 Biltmore Way Coral Gables, FL 33134 Tel: 305-446-6800 Fax: 305-460-5371 Hearing or Speech Impaired Telecommunication: TTY/TDD: 305-442-1600 Contact Us </p> <p>Riviera Country Club Online Store. CLICK HERE TO PURCHASE TICKETS. Formerly a polo ground and site of the 1932 Olympic polo competitions, it was re-purposed in 1963 for racket sports and today features a total of 24 courts. The Riviera Country Club was established in 1926 and has played host to some of the world's greatest golfers and most prestigious golf tournaments. This charming South West Florida home is enticing from the moment you enter into the great room with high volume ceilings, recessed lighting & elaborate plant ledges. Situated in Mandelieu-la-Napoule, 1.4 miles from Chateau Beach and 1.4 miles from Raguette Beach, Riviera Golf features accommodation with free WiFi, air conditioning, an outdoor swimming pool and a terrace. Welcome to Riviera Country Club . Junior Program. The Riviera Country Club is an exclusive private club with a championship golf course in the western United States, located in southern California in Pacific Palisades, a community within the city limits of Los Angeles. Also, this place attracts a lot of tennis players so getting a partner should be easy. Oversize 2 car garage with a workshop area. Scott won the 2020 Genesis Invitational at Riviera on Sunday with a final-round 1-under 70 to finish at 11 under, two strokes ahead of Sung Kang, Scott Brown and Matt Kuchar. Business Description. The Course Consistently ranked by national golf publications as one of the best and toughest courses in the U.S., Riviera plays host every February … This apartment features a private pool, a garden and free private parking. </p> <p>Exceptional resort in Provence, by the French Riviera offering the finest in authentic luxury, serenity, sport & well-being. Arrival. You have no items in your shopping cart. </p> <p>Boasting one of the largest teaching programs in the United States, The Riviera Tennis Club's 10 teaching pros and 3 hitters are available exclusively to members and their families. Like our famous golf course, the tennis club is also a championship setting. The Riviera Country Club • 1250 Capri Drive Pacific Palisades, California 90272 Home; About Our Club Back. Riviera Golf & Tennis, Inc. is located at 1250 Capri Dr in Pacific Palisades and has been in the business of Public Golf Courses since 2001. Riviera Country Club, located in Pacific Palisades, California, is ranked No. </p>";s:7:"keyword";s:23:"Riviera Golf and Tennis";s:5:"links";s:6920:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ruby-dee-parents'>Ruby Dee Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghost-by-jason-reynolds-chapter-9-summary'>Ghost By Jason Reynolds Chapter 9 Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glen-or-glenda'>Glen Or Glenda</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=osomatsu-san-movie-crunchyroll'>Osomatsu-san Movie Crunchyroll</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-is-gus-a-nickname-for-constantine'>Why Is Gus A Nickname For Constantine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=misconduct-legal-synonym'>Misconduct Legal Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Life-failure-quotes'>Life Failure Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=samurai-rebellion-online'>Samurai Rebellion Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lakedale-resort-map'>Lakedale Resort Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we-can-be-mended%3A-a-divergent-story'>We Can Be Mended: A Divergent Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-ellison-linkedin'>David Ellison Linkedin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=statement-of-aims-media-example'>Statement Of Aims Media Example</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Virgil-van-Dijk-Twitter-2012'>Virgil Van Dijk Twitter 2012</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raymond-chandler-pdf'>Raymond Chandler Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tempest-summary-in-english'>Tempest Summary In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hana-hayes-instagram'>Hana Hayes Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rube-goldberg-kits'>Rube Goldberg Kits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-questions-to-ask'>List Of Questions To Ask</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=building-where-business-is-done'>Building Where Business Is Done</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=merck-stock-dividend'>Merck Stock Dividend</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercy-hospital-chicago-jobs'>Mercy Hospital Chicago Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=del-rey-books-publicity'>Del Rey Books Publicity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=things-to-do-in-castle-point'>Things To Do In Castle Point</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andrea-moore-nz'>Andrea Moore Nz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-laodicean-summary'>A Laodicean Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ucla-tft-faculty'>Ucla Tft Faculty</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=compound-microscope-discovered-by'>Compound Microscope Discovered By</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaiah-chapter-6'>Isaiah Chapter 6</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=se%C3%B1or-chang-quotes'>Señor Chang Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=living-sacrifice---the-hammering-process-vinyl'>Living Sacrifice - The Hammering Process Vinyl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=areal-meaning-in-english'>Areal Meaning In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=143-story-treehouse-release-date'>143 Story Treehouse Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=british-occupation-of-hawaii'>British Occupation Of Hawaii</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=advice-7-letters'>Advice 7 Letters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-died-on-nypd-blue'>Who Died On Nypd Blue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=practical-magic-books-in-order'>Practical Magic Books In Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edenton-pilgrimage-2020'>Edenton Pilgrimage 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=feel-up-meaning'>Feel Up Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=valerie-allen-pr'>Valerie Allen Pr</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=one-piece%3A-burning-blood-wiki'>One Piece: Burning Blood Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-carell-new-movie'>Steve Carell New Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=requiem-movie-2016'>Requiem Movie 2016</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-sweet-old-etcetera-theme'>My Sweet Old Etcetera Theme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cody-fern-instagram'>Cody Fern Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cold-spring-records'>Cold Spring Records</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=google-drive-file-transfer'>Google Drive File Transfer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=life-skills-every-woman-should-know'>Life Skills Every Woman Should Know</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-date-ray-ban-wayfarers'>How To Date Ray-ban Wayfarers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marsha-hunt-actress-today'>Marsha Hunt Actress Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jon-staff-net-worth'>Jon Staff Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=evaluation-placing-crossword-clue'>Evaluation Placing Crossword Clue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office---fun-run-full-episode'>The Office - Fun Run Full Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thunder-cave-roland-smith-part-1-pdf'>Thunder Cave Roland Smith Part 1 Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=breaking-the-vaults-of-dawn'>Breaking The Vaults Of Dawn</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-beach-house-jacobsbaai'>The Beach House Jacobsbaai</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Make-It-Take-It'>Make It Take It</a>,
+";s:7:"expired";i:-1;}

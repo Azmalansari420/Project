@@ -1,0 +1,145 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3131:"<br>Here’s how they are defined: Voluntary manslaughter – whereby the defendant is found to have had the intent to kill or cause serious bodily harm to the victim. The section begins by defining the umbrella offence of manslaughter before delineating between voluntary and involuntary manslaughter. Here’s a broad breakdown. <br> <br>The offences of voluntary and involuntary manslaughter act to cover these situations. e distinction is based on the accused’s intention at the time of the killing. <br> <br>In most jurisdictions, there are two types of involuntary manslaughter, constructive and criminally negligent. The primary difference between voluntary and involuntary manslaughter is the factor of intention. With six types of murder and three types of manslaughter in the mix it can be hard to know what each one means. There are two types of manslaughter. Voluntary manslaughter is a separate concept from involuntary manslaughter and has several definitions depending on what state the crime occurs in. There are two main types of involuntary manslaughter: <br>  <br> <br>‘involuntary’ manslaughter. Involuntary manslaughter refers to those types of manslaughter which can be charged in their own right and where the accused lacks the mental element for murder ie the intention to kill or cause grievous bodily harm (GBH), although equally they can result from an indictment for murder where the prosecution fail to prove the mental element. A Killing in the "Heat of Passion" … Where there is no intention to kill or cause grievous bodily harm the o ence falls within the category of involuntary manslaughter. <br> <br>This conviction can only stand if the defendant pleads one of two partial defences against an offence of murder – loss of self control or reduced mental capacity. Involuntary manslaughter, on the other hand, occurs when someone dies as a result of the defendant's non-felonious illegal act or as a consequence of the defendant's irresponsibility or recklessness. <br> <br>Involuntary manslaughter involves an unintentional action that results in death. Involuntary manslaughter often refers to unintentional homicide from criminally negligent or reckless conduct. Voluntary manslaughter is the result of an intentional act of violence, even though it lacks planning or forethought.  <br>It can also refer to an unintentional killing through commission of a crime other than a felony. Involuntary manslaughter is differentiated from voluntary manslaughter, as there is an absence of intent to kill or cause harm to the victim. At the end of this section, you should be comfortable in defining the different types and applying the various rules of causation related to manslaughter. <br> <br>MURDER. Voluntary manslaughter is the killing of a human being in which the offender acted during the heat of passion, under circumstances that would cause a reasonable person to become emotionally or mentally disturbed to the point that they cannot reasonably control their emotions. Voluntary manslaughter is one of two main types of manslaughter, the other being involuntary manslaughter <br>";s:7:"keyword";s:33:"types of involuntary manslaughter";s:5:"links";s:10570:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=persian-poets-in-bengal'>Persian Poets In Bengal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=storytel-na-komputerze'>Storytel Na Komputerze</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marco-de-los-apeninos-a-los-andes'>Marco De Los Apeninos A Los Andes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mars-missions-timeline'>Mars Missions Timeline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=religion-and-intelligence'>Religion And Intelligence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ken-duken-wife'>Ken Duken Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-enrique-murciano-married'>Is Enrique Murciano Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=39-clues-superspecial'>39 Clues Superspecial</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-executioner-series'>The Executioner Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aesop-rock---skelethon'>Aesop Rock - Skelethon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buffalo-chaussure-homme'>Buffalo Chaussure Homme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-am-beginning'>I Am Beginning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=concussion-definition-medical'>Concussion Definition Medical</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=opening-files-in-c'>Opening Files In C</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-rope%2C-and-other-plays'>The Rope, And Other Plays</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fayetteville-population-2020'>Fayetteville Population 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zombicide-season-1'>Zombicide Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ethical-dilemma-meaning'>Ethical Dilemma Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stiletto-nails-tips'>Stiletto Nails Tips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-gabriel-security-cover'>Peter Gabriel Security Cover</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-eat-hakarl'>How To Eat Hakarl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-elements-science'>The Elements Science</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Paradise-Alley-%281962%29'>Paradise Alley (1962)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nobel-prize-in-economics'>Nobel Prize In Economics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=this-is-just-to-say-william-carlos-williams-analysis'>This Is Just To Say William Carlos Williams Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=redacted-bo2-2020'>Redacted Bo2 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lace-up-block-heels'>Lace Up Block Heels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-moon-beer-sainsbury%27s'>Blue Moon Beer Sainsbury's</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=runnymede-gym-opening-times'>Runnymede Gym Opening Times</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jonathan-cheban-restaurant'>Jonathan Cheban Restaurant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=violet-oakley-stained-glass'>Violet Oakley Stained Glass</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rocket-brothers-coffee-calories'>Rocket Brothers Coffee Calories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thank-you-amelia-bedelia-activities'>Thank You Amelia Bedelia Activities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mrs-piggle-wiggle-read-aloud'>Mrs Piggle Wiggle Read Aloud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=automatic-knife-replacement-springs'>Automatic Knife Replacement Springs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-rager-movies'>Chris Rager Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-event-does-mary-elizabeth-ask-charlie-to%3F'>What Event Does Mary Elizabeth Ask Charlie To?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apollo-justice%3A-ace-attorney-3ds'>Apollo Justice: Ace Attorney 3ds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lord-Stanley-hotel-Vancouver'>Lord Stanley Hotel Vancouver</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=empress-sissi-movie'>Empress Sissi Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-innocents-film-1961-streaming'>The Innocents Film 1961 Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dracarys-meme-generator'>Dracarys Meme Generator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=friends-of-halifax-county-animal-control'>Friends Of Halifax County Animal Control</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=louis-trichardt-to-johannesburg'>Louis Trichardt To Johannesburg</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=5-fingers-film'>5 Fingers Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=babylon-woodbridge-menu'>Babylon Woodbridge Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Starter-food-meaning'>Starter Food Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pers%C3%A9polis-pdf-espa%C3%B1ol'>Persépolis Pdf Español</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mr-brainwash-artworks'>Mr Brainwash Artworks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bloody-friday-documentary'>Bloody Friday Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mickey-mouse-son'>Mickey Mouse Son</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-is-quasimodo%27s-biological-father'>Who Is Quasimodo's Biological Father</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lee-tockar-voices'>Lee Tockar Voices</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dispossessed-shevek'>The Dispossessed Shevek</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anders-dynasty-heart-attack'>Anders Dynasty Heart Attack</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Albemarle-County-jobs'>Albemarle County Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=summit-viper-steel'>Summit Viper Steel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mortimer-robert-munsch-read-online'>Mortimer Robert Munsch Read Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shawnee-Free-Jones'>Shawnee Free Jones</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=duel-truck-toy'>Duel Truck Toy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-black-flamingo-review'>The Black Flamingo Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gurmukhi-words-in-punjabi'>Gurmukhi Words In Punjabi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jestination-unknown-cast'>Jestination Unknown Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=takiyasha-the-witch-and-the-skeleton-specter-from-the-story-of-ut%C3%B6-yasutaka'>Takiyasha The Witch And The Skeleton Specter From The Story Of Utö Yasutaka</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-galya-movies-and-tv-shows'>Chris Galya Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ted-turner-children'>Ted Turner Children</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sula-brut-methode-traditionnelle-750ml-price'>Sula Brut Methode Traditionnelle 750ml Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=books-about-bears-for-adults'>Books About Bears For Adults</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-damstra-and-paget-brewster'>Steve Damstra And Paget Brewster</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=copper-bracelet-with-magnets'>Copper Bracelet With Magnets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=birthright-trip-dates'>Birthright Trip Dates</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fujin-meaning-japanese'>Fujin Meaning Japanese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rick-owens-ramones'>Rick Owens Ramones</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-instruments-are-in-never-gonna-give-you-up'>What Instruments Are In Never Gonna Give You Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soil-conservation-facts'>Soil Conservation Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stout-scarab-value'>Stout Scarab Value</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kauai-restaurants-kapaa'>Kauai Restaurants Kapaa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adan-canto-spouses'>Adan Canto Spouses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-river-of-words-pdf'>A River Of Words Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-first%2C-my-last%2C-my-everything-lyrics'>My First, My Last, My Everything Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-lament-of-eustace-scrubb'>The Lament Of Eustace Scrubb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ronaldo-golden-ball'>Ronaldo Golden Ball</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=catholic-altar-crucifix-requirements'>Catholic Altar Crucifix Requirements</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Asylum-in-France'>Asylum In France</a>,
+";s:7:"expired";i:-1;}

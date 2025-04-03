@@ -1,0 +1,98 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4596:"<p>Bibliography. The Battle of Maldon took place in 991 near Maldon beside the River Blackwater in Essex, England, during the reign of Ethelred the Unready.The Anglo-Saxons, led by Byrhtnoth and his theigns, fought against a Viking invasion, a battle which ended in utter defeat for the Anglo-Saxons. The result is a heroic poem about loyalty , about the share experience of victory and defeat , the text of the poem is incomplete. The unknown poet of the Battle of Maldon created an enduring and popular literary work out of this local event. Loyalty, courage, and treasure are recurrent themes in secular heroic poetry; they are reflected in poems such as Beowulf and The Battle of Brunanburh. "The Battle of Maldon" is the name conventionally given to a surviving 325-line fragment of Old English poetry. The battle at Maldon in 991 would have received little attention had it not been the inspiration for the celebrated poem on the subject. </p> <p>The battle at Maldon in 991 would have received little attention had it not been the inspiration for the celebrated poem on the subject. This island was (as it still is) connected to the mainland by a causeway which was covered at high tide.  The Battle of Maldon (991AD) took place on the shores of the River Blackwater in Essex. Riedinger, Anita. But it took the Battle of Maldon to produce a lasting piece of poetry about this clash of nations and peoples – or, at the very least, a piece of poetry that lasted. These elegies are interconnected together throughout the poem. The Battle of Maldon is a reimagining of the battle rendered according to the conventions of the heroic genre, and the poet’s role is that of ‘an omniscient narrator [who] judges the poem’s actions from a vantage point appropriate to heroic legend’ (Clark, 1968: 55). The text epitomizes the medieval heroic code, resulting in a moral victory for the English forces. The Battle of Maldon uses linguistic tools to glorify the military capabilities of the Saxons, who are in reality the losing side, while minimizing the victory of the invading Vikings. George Clark. The Battle of Maldon (991AD) took place on the shores of the River Blackwater in Essex. Through use of language the poem eternalizes both individual heroes and traitors, while also reasserting the value of kinship and the promotion of the heroic code. Speculum 43 (1):52-71 (1968) Abstract Maldon criticism is not entirely monolithic—revisionists are stirring—but one may still speak of a “received interpretation” whose general outlines are chiefly traceable to E. D. Laborde and J. R. R. Tolkien. London: Methuen, 1937. “The Battle of Maldon: A Heroic Poem.” Speculum 43.1 (1968): 52-71. The Battle of Maldon: A Heroic Poem. </p> <p>“The Old English Formula in Context.” Of all published articles, the following were the most read within the past 12 months The heroic poem The Battle of Maldon praises the resolute, loyal, but futile resistance of ealdorman Byrhtnoth and his men against a larger Danish army, which systematically ravaged along the south-west coast from Essex to Hampshire in 991. From The Earliest English Poems Penguin books 1966 Translated by Michael Alexander … The battle's progress is related in a famous Anglo-Saxon poem, only part of which survives. This is in contrast to those that pervert the heroic code and desert the battle, as Byhrtwold argues, they will always regret it or “wendan þenceð” (line 316). A modern English translation of the heroic Anglo-Saxon poem. The poem, as a work of fiction, chance survivals of Anglohas received a great deal of attention from scholars of Anglo-Saxon literature. Clark, George. Though the poem details a historical defeat, The Battle of Maldon's importance comes not from its celebration of how the English forces fought, but rather how they died. </p> <p>There was a heroic stand by the Anglo-Saxons against the Viking invasion which ended in utter defeat for Brithnoth and his men. The battle's progress is related in a famous Anglo-Saxon poem, only … The Battle of Maldon: An Old English Poem. Be it as it may, one thing is certain – The Battle of Maldon is much more than a simple poem about two armies fighting. It has 325 metrically alliterating lines and some of … There was a heroic stand by the Anglo-Saxons against the Viking invasion which ended in utter defeat for Brithnoth and his men. The use of future tense acts both as a warning and a reference to the fact that those dissenters, such as Godric, will be eternalised within the poem itself for their transgressions. </p>";s:7:"keyword";s:35:"the battle of maldon: a heroic poem";s:5:"links";s:4538:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gardening-games-pc'>Gardening Games Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Phillips-66-logo'>Phillips 66 Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=recording-the-speech-for-feedback-meaning'>Recording The Speech For Feedback Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dead-2004-tour'>The Dead 2004 Tour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adam%27s-house-shelton-ct'>Adam's House Shelton Ct</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-split-screen-android'>How To Split-screen Android</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=susan-hayward-death'>Susan Hayward Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drill-chuck-adapter'>Drill Chuck Adapter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-neighbor-%282007%29'>The Neighbor (2007)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=life-under-the-nazis-readworks-answers'>Life Under The Nazis Readworks Answers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=future-of-psychology-2020'>Future Of Psychology 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=teething-puppy-breath'>Teething Puppy Breath</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sleepover-ideas-for-boys'>Sleepover Ideas For Boys</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mistborn%3A-the-final-empire-summary'>Mistborn: The Final Empire Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Relationship-coaching-tools'>Relationship Coaching Tools</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-wynn-musician'>Steve Wynn Musician</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maude-apatow-twitter'>Maude Apatow Twitter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blogs-like-seth-godin'>Blogs Like Seth Godin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sandridge-energy-rumors'>Sandridge Energy Rumors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=21st-century-literary-movements'>21st Century Literary Movements</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Augean-Stables'>The Augean Stables</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=war-games-pc'>War Games Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=junior-meaning-in-high-school'>Junior Meaning In High School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jane-Eyre-pronunciation'>Jane Eyre Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naples-population-2020'>Naples Population 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Turkey-Dance-Freeze'>Turkey Dance Freeze</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-happened-to-danny-cordray-the-office'>What Happened To Danny Cordray The Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dolly-the-sheep-facts'>Dolly The Sheep Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=homecoming-green-day-lyrics'>Homecoming Green Day Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cousin-phillis-plot-summary'>Cousin Phillis Plot Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ham-appetizers-food-network'>Ham Appetizers Food Network</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dispute-transaction-chime'>Dispute Transaction Chime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jane-stuart-artist'>Jane Stuart Artist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tex-chapter-7-summary'>Tex Chapter 7 Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=secret%2C-book%2C-and-scone-society-series'>Secret, Book, And Scone Society Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edguy-space-police'>Edguy Space Police</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blueberry-scientific-name'>Blueberry Scientific Name</a>,
+";s:7:"expired";i:-1;}

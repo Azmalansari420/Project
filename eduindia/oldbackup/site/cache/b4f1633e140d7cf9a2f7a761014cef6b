@@ -1,0 +1,101 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1288:"Amarcord je talijanska drama iz 1973. godine, koju je režirao Federico Fellini.To je poluautobiografska priča o starenju, koja spaja oštrinu s besramnom komedijom. <br> <br>En dialecte romagnol, « Amarcord » signifie à peu près « je me souviens » (en italien, (io) mi ricordo). Ő maga a Cora nevű gyomorkeserű rendelésekor ezzel egybehangzó – L'amaro Cora hangsor a forrása. Until 2013, the group's name was ensemble amarcord. le film est une chronique d'un adolescent turbulent et attachant, Titta, qui pourrait bien être Fellini lui-même.  <br>Il grandit entouré de personnages excentriques habitant le village de Borgo San Giulano (situé près des anciens murs de Rimini, à 50 km de Forlì, à l'époque la capitale de la province), au fil des saisons, sous le fascisme triomp… amarcord is a German male classical vocal ensemble based in Leipzig, founded in 1992 by five former members of the Thomanerchor.They primarily perform Medieval music, Renaissance music as well as collaborating with contemporary composers.  A cím az olasz „io mi ricordo” (jelentése: emlékezem) romagnai tájnyelvi változata (a m’arcord), a forgatókönyvíró Tonino Guerra egyik verséből származik. Az Amarcord 1973-ban készült színes, olasz–francia film. <br>";s:7:"keyword";s:23:"amarcord wikipedia film";s:5:"links";s:5298:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=resistance%3A-the-warsaw-ghetto-uprising-book'>Resistance: The Warsaw Ghetto Uprising Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-friend-at-hand-whiskey-price'>The Friend At Hand Whiskey Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adam-rothenberg-wife'>Adam Rothenberg Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-writer-observed'>The Writer Observed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-muraoka-curb-your-enthusiasm'>Alan Muraoka Curb Your Enthusiasm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ms-marvel-vol-2-2'>Ms Marvel Vol 2 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=General-Dynamics-Ordnance-and-Tactical-Systems'>General Dynamics Ordnance And Tactical Systems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nafsa-2019-schedule'>Nafsa 2019 Schedule</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cyprichromis-leptosoma-mpulungu'>Cyprichromis Leptosoma Mpulungu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-coaching-habit-summary'>The Coaching Habit Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-invincible-swordsman---2019-chinese-new-action-fantasy-kung-fu-martial-arts-full-movies-hd-%2313'>The Invincible Swordsman - 2019 Chinese New Action Fantasy Kung Fu Martial Arts Full Movies Hd #13</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elizabeth-peters-website'>Elizabeth Peters Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=habakkuk-3%3A19-meaning'>Habakkuk 3:19 Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-is-the-prey-novel'>Who Is The Prey Novel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=squidward-would-you-get-out-of-here'>Squidward Would You Get Out Of Here</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=does-john-rayburn-get-caught-for-killing-danny'>Does John Rayburn Get Caught For Killing Danny</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emma-straub-birthday'>Emma Straub Birthday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prodigal-summer-reviews'>Prodigal Summer Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=abhinay-deo-son'>Abhinay Deo Son</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=denise-dubarry-chips'>Denise Dubarry Chips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-dukas-biography'>Paul Dukas Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phellem-phellogen-phelloderm'>Phellem Phellogen Phelloderm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shang-dagger-facts'>Shang Dagger Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philippe-starck-designs-and-dates'>Philippe Starck Designs And Dates</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ravel---une-barque-sur-l%27oc%C3%A9an-orchestra'>Ravel - Une Barque Sur L'océan Orchestra</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-do-skinwalkers-do'>What Do Skinwalkers Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-oink-oink-mean-sexually'>What Does Oink Oink Mean Sexually</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dearborn-michigan-zip-code'>Dearborn Michigan Zip Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-can-say-where-the-road-goes-lyrics'>Who Can Say Where The Road Goes Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Joe-Staley-contract'>Joe Staley Contract</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dream-of-a-ridiculous-man-film'>The Dream Of A Ridiculous Man Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=avalanche-sharks-full-movie-english'>Avalanche Sharks Full Movie English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=styling-hollywood-reviews'>Styling Hollywood Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=turning-point-brands-investor-relations'>Turning Point Brands Investor Relations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mind-reading-books-pdf'>Mind Reading Books Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=windermere-lake-district'>Windermere Lake District</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dyncorp-lms-login'>Dyncorp Lms Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=7-deadly-sins-catholic-in-spanish'>7 Deadly Sins Catholic In Spanish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hawthorne-heights%27-casey'>Hawthorne Heights' Casey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=at-the-drive-in---vaya'>At The Drive-in - Vaya</a>,
+";s:7:"expired";i:-1;}

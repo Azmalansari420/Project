@@ -1,0 +1,84 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2861:"<p>Cotton Malone (Fictional Character) [] Cotton Malone is a fictional American special agent created by author Steve Berry in 2006 in the Cotton Malone series.The character is the centerpiece of Berry's novels and has comparisons and significant differences to other main characters in novels of the same genre. </p> <p>His books have been translated into 40 languages with 25,000,000 copies in 51 countries. For that reason, though there are no books out about Vitt yet, her role in the several Malone adventures warrant mention here though the stories, and plots, are about Malone. See the complete Cotton Malone chronological series book list in order, box sets or omnibus editions, and companion titles. Cotton Malone (chronological) Series. The Cotton Malone series book one is ranked as the top 100 thrillers ever written. </p> <p>Last 90 days. </p> <p></p> <p>With his wife, Elizabeth, he is the founder of History Matters, which is dedicated to historical preservation. Berry is the New York Times and #1 internationally best-selling author of 15 Cotton Malone adventures, four stand-alone thrillers, and several works of short fiction. Steve Berry is the New York Times and #1 internationally bestselling author of the Cotton Malone novels (The Bishop's Pawn, The Malta Exchange), among other books, and several works of short fiction.He has 25 million books in print, translated into 40 languages. Cotton Malone, one-time top operative for the U.S. Justice Department, is enjoying his quiet new life as an antiquarian book dealer in Copenhagen when an unexpected call to action reawakens his hair-trigger instincts–and plunges him back into the cloak-and-dagger world he thought he’d left behind. (2007) Later on, he left the Billet, moved to Amsterdam and purchased a old and rare bookstore. </p> <p>The Billet is a division inside the Justice Department that concentrates on international investigations. As mentioned elsewhere on this page, Cassiopeia Vitt started out as a support character in the pages of the Cotton Malone adventures and when she shows up, it is usually to help save the day. </p> <p>An ex-U.S. Justice Department agent turned antiquarian book dealer, Cotton Malone continues to serve his country when secrets and conspiracies buried deep in America's past come to light and threaten its future. The series tells the adventures of Cotton Malone, a retired US Justice Department operative, who has traded the dangerous life of special ops for a quiet life as a rare books dealer. Steve Berry is best known as the author of the book series, The Templar Legacy. </p> <p>Last 30 days. Steve Berry Books in Order: Cotton Malone series, Cotton Malone short stories, all short stories, standalone novels, and nonfiction, plus, a Steve Berry biography. (Series Order Book 46) eBook: Book List Guru: Amazon.com.au: Kindle Store </p>";s:7:"keyword";s:29:"cotton malone series in order";s:5:"links";s:2824:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=centennial-college-canada'>Centennial College Canada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Eight-Katherine-Neville-movie'>The Eight Katherine Neville Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yg-entertainment-instagram'>Yg Entertainment Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Affiliate-marketing-quote'>Affiliate Marketing Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=female-of-the-species-book'>Female Of The Species Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=at-the-drive-in---vaya'>At The Drive-in - Vaya</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=failed-out-of-caribbean-medical-school'>Failed Out Of Caribbean Medical School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=female-of-the-species-book'>Female Of The Species Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sweet-birch-growth-rate'>Sweet Birch Growth Rate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-fiend-with-twenty-faces-pdf'>The Fiend With Twenty Faces Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=advantageous-movie-trailer'>Advantageous Movie Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-is-janine-turner-married-to'>Who Is Janine Turner Married To</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paper-shredder-popular'>Paper Shredder Popular</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seyfarth-shaw-atlanta-salary'>Seyfarth Shaw Atlanta Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=words-with-tundra'>Words With Tundra</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sebastian-stan-romania'>Sebastian Stan Romania</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gerry-koob-new-jersey'>Gerry Koob New Jersey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=if-only-we-could'>If Only We Could</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arathorn-ii-father'>Arathorn Ii Father</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=campbell-university-financial-aid'>Campbell University Financial Aid</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=county-antrim-map'>County Antrim Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-lodger-novel'>The Lodger Novel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=archaeology-of-mari'>Archaeology Of Mari</a>,
+";s:7:"expired";i:-1;}

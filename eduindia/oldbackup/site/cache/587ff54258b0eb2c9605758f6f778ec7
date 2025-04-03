@@ -1,0 +1,125 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2773:"<br>詞 Word; 类属 Thesaurus; 例句 Examples; 筆順 Strokes; 字 Character; 字源 Etymology; Preferences; 国. guó. You have the opportunity to contribute ways that you remember Chinese characters and photos of your Chinese writing as you learn from other students of Chinese. <br> <br>Advertisement. Character Dictionary & Etymology. Welcome to the first and only living Chinese dictionary that is growing every day with its Chinese learners. Try to be the first to share your … Chinese … stroke count (number of brushstrokes of a Chinese character) Show Strokes Browse Dictionary. Undo Clear Close. Main; English Definition: country; nation; state; national; (Chinese surname) Simplified Script: 国: Traditional Script: 國; Part of Speech (名) noun: Measure Words: 个: Character Stroke Order; Mode Animate Trace outline Write … <br> <br>It supports English, German, French, and Hungarian translations based on the free dictionaries CC-CEDICT, HanDeDict, CFDICT, CHDICT, and CC-Canto. Learn Mandarin Mandarin-English Dictionary & Thesaurus. At the moment this tool only works for simplified Chinese characters and doesn't work for traditional characters.  <br>Chinese Memory Game. Click the animated Chinese character or the Next Stroke button below the animated Chinese character to hear the native-speaker pronunciation of the strokes of the character. Use our chinese stroke order dictionary to learn Chinese Calligraphy. <br> Chinese Strokes Order is the easy way to learn Chinese writing and calligraphy. Top VPN; Map of China; Sudoku (CN) Name in Chinese Learning Tools … For Chinese characters, stroke order animations and Unihan information are available. Do not only learn pinyin but also learn how to write chinese characters. Chinese Stroke Order Tool | Chinese Gratis Online Chinese Tools - Chinese Name, English-Chinese Dictionary, Bible... Got it! A Chinese character dictionary with look-up by English, pinyin, Cantonese pronounciation, and radical/stroke. Character dictionaryHelp. More info. Our Chinese Dictionary is Alive! 筆 畫 數. bǐ huà shù. For that it is vital that you can write characters with the correct chinese stroke order hence you will find this dictionary useful. LINE Dictionary is providing free dictionary and free translator. Search with English, Pinyin, or Chinese characters. Unique search feature: search by … Menu; About; Subscribe; Sign In ; Learn Mandarin > Dictionaries, Tools, and Resources for Learning Chinese. Make Me a Hanzi provides dictionary and graphical data for over 9000 of the most common simplified and traditional Chinese characters. YellowTip Popup Translator. Welcome to the first and only living Chinese dictionary that is growing every day with its Chinese learners. Learn more. <br>";s:7:"keyword";s:25:"chinese stroke dictionary";s:5:"links";s:8350:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seventeen-home-lyrics'>Seventeen Home Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-the-broken-heart-still-beats-sparknotes'>Where The Broken Heart Still Beats Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-nun-takes-the-veil-meaning'>A Nun Takes The Veil Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kailua-restaurants-open'>Kailua Restaurants Open</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leeza-soho-structure'>Leeza Soho Structure</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pride-and-Prejudice-Hulu'>Pride And Prejudice Hulu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richest-kid-in-america-donald-dougher-net-worth'>Richest Kid In America Donald Dougher Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=golden-palace-stoughton%2C-ma'>Golden Palace Stoughton, Ma</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-perfect-host-netflix'>The Perfect Host Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Sword-of-Justice'>The Sword Of Justice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kinked-demand-curve'>Kinked Demand Curve</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marco-de-los-apeninos-a-los-andes'>Marco De Los Apeninos A Los Andes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-happy-hours-west-des-moines'>Best Happy Hours West Des Moines</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jimmy-Fallon-office'>Jimmy Fallon Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=woodpecker-detective%27s-office'>Woodpecker Detective's Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-busy-world-of-richard-scarry-%7C-a-trip-to-the-moon'>The Busy World Of Richard Scarry | A Trip To The Moon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=uTorrent-apk-uptodown'>UTorrent Apk Uptodown</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fob-incoterms-2019'>Fob Incoterms 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=contact-sport-synonym'>Contact Sport Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intel-devil%27s-canyon-release-date'>Intel Devil's Canyon Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alexandre-desplat-net-worth'>Alexandre Desplat Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liberian-girl-music-video-cast'>Liberian Girl Music Video Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=li-bai-books'>Li Bai Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Eugenia-means-in-English'>Eugenia Means In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-jackson-history%3A-past%2C-present-and-future%2C-book-i-genres'>Michael Jackson History: Past, Present And Future, Book I Genres</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naming-the-elephant-summary'>Naming The Elephant Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Imaginarium-of-Doctor-Parnassus-full-movie'>The Imaginarium Of Doctor Parnassus Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bill-nye-the-science-guy-song'>Bill Nye The Science Guy Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rocketman-now-tv'>Rocketman Now Tv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mirror-mirror-on-the-wall%2C-who-is-the-fairest'>Mirror Mirror On The Wall, Who Is The Fairest</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soilless-potting-mix-recipe'>Soilless Potting Mix Recipe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marc-benioff-daughters'>Marc Benioff Daughters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-russia%2C-ny'>New Russia, Ny</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Doctor-%7C-Doctor-Who'>The Doctor | Doctor Who</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=campbell-college-headmaster'>Campbell College Headmaster</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Types-of-photography-techniques'>Types Of Photography Techniques</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=translate-english-to-spanish-creole'>Translate English To Spanish Creole</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emerald-falls-plant-care'>Emerald Falls Plant Care</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=han-gan-horse'>Han Gan Horse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blackjack-rules-casino'>Blackjack Rules Casino</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cole-younger-siblings'>Cole Younger Siblings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=microneedling-near-me'>Microneedling Near Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-selling-of-joseph-a-memorial-antislavery-argument-quizlet'>The Selling Of Joseph A Memorial Antislavery Argument Quizlet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-thank-you-song-lyrics'>No Thank You Song Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aion-jung-wikipedia'>Aion Jung Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-art-in-an-age-of-revolution%3A-fu-baoshi-%281904-1965%29'>Chinese Art In An Age Of Revolution: Fu Baoshi (1904-1965)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-absolute-value'>The Absolute Value</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-estes-technique'>Richard Estes Technique</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-love-mc'>I Love Mc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-clover-studio'>Black Clover Studio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mychart-mercy-one'>Mychart Mercy One</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=which-of-the-following-factors-limits-the-potential-production-of-wildlife-hunters-ed'>Which Of The Following Factors Limits The Potential Production Of Wildlife Hunters Ed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=graeme-sharp-everton-stats'>Graeme Sharp Everton Stats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atlantis-rising-review'>Atlantis Rising Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=4321-paul-auster-synopsis'>4321 Paul Auster Synopsis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dark-TV-series-cast'>Dark TV Series Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backend-developer-skills-2019'>Backend Developer Skills 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mother-dolores-hart'>Mother Dolores Hart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mansion-casino-restricted-countries'>Mansion Casino Restricted Countries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=loverboy-drink-owner'>Loverboy Drink Owner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dambusters-film-lancasters'>Dambusters Film Lancasters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hallie-ephron-net-worth'>Hallie Ephron Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bhishma-on-death-bed-of-arrow'>Bhishma On Death Bed Of Arrow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-casino-based-on-a-true-story'>Is Casino Based On A True Story</a>,
+";s:7:"expired";i:-1;}

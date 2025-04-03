@@ -1,0 +1,143 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2958:"<br>Contact Patient Relations/Feedback. I understand that the portal is for my sole use only, and I agree to not share my password with anyone else. <br> <br>Exchange secure messages with our staff. Where available, use your Portal Pass provided during your visit and enter the iCode to see your exam results. All rights reserved. Please see Terms and Conditions for more details. View and manage your medical records. Patient Portal. Overview. Click on “Need an Account?” to begin. Main Line: (239) 936-2316. Contact us at 703-824-3240 or info@alexandriaradiology.com to request an account. SCHEDULE APPOINTMENT. It also includes the images for studies performed in Princeton, Monroe and Mercerville. Freehold and Marlboro images are not available in the portal at this time. Certain conditions may apply. This online tool gives you the flexibility to access your health information and other resources between visits to Radiology Ltd. MyRad is available over the internet, which means you can use it virtually anywhere. Radiology Regional Center is a premier diagnostic imaging facility providing state-of the-art technology in a warm, comfortable environment. Princeton Radiology’s Patient Portal includes the reports for studies performed in our Princeton, Monroe, Mercerville, Marlboro and Freehold offices. We have 16 locations that include Santa Ana, Orange, Irvine, Anaheim, Garden Grove, Laguna Hills, La Mirada and Laguna Niguel for all your radiology needs. Request an Appointment. <br> <br>Brandon 1220 Oakfield Drive Brandon, FL 33511 (813) 655-1144. Find an Imaging Center. We now provide you with 24/7 electronic access to: Request appointments . When you attend one of our clinics for imaging, you will be provided with an access card which contains your login details. Minimum browser requirement for the portal access are: Internet Explorer 11, Chrome, Firefox or Microsoft Edge. View your images and studies Please allow 3 business days from exam completion to access reports. <br> <br>Locations. Create a new account to see your complete exam history. <br> <br>Reports are available to view on the portal after a 5 day delay. © 2013 Merge Healthcare. Make a payment on-line! Patient Portal NOTE: If you are trying to access the billing site with your billing log-in, click HERE Windsong’s patient portal allows you to view your imaging exam reports, 72 hours after our radiologist completes the review of your exam and signs off on your report. It also includes the images for studies performed in Princeton, Monroe and Mercerville.  Rose Radiology. Request an appointment on-line. Billing and Insurance. Patient Images & Results Online At Marina Radiology, we provide our patients with their images and results online. Your care and safety is our top priority. Patient Portal | Advanced Radiology - Information for Our Patients Skip to … Patient Portal We are pleased to announce Radiology Ltd.’s patient portal, MyRad. <br>";s:7:"keyword";s:24:"radiology patient portal";s:5:"links";s:10446:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=westworld-season-2-episode-10-imdb'>Westworld Season 2 Episode 10 Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-can-god-be-timeless'>How Can God Be Timeless</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Another-Birth-Forough-Farrokhzad'>Another Birth Forough Farrokhzad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=modern-warplanes-tips'>Modern Warplanes Tips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soulja-slim-death-video'>Soulja Slim Death Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autocad-2019-system-requirements-mac'>Autocad 2019 System Requirements Mac</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rhonda-Byrne-Net-Worth'>Rhonda Byrne Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rare-batman-graphic-novels'>Rare Batman Graphic Novels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ibuki-Mioda-birthday'>Ibuki Mioda Birthday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-impressions-keep-on-pushing-discogs'>The Impressions Keep On Pushing Discogs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-trek-fleet-command-discord-bot'>Star Trek Fleet Command Discord Bot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philosopher-donald-davidson'>Philosopher Donald Davidson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spiritism-vs-spiritualism'>Spiritism Vs Spiritualism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=online-gangster-games'>Online Gangster Games</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-the-name-olivia-mean'>What Does The Name Olivia Mean</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jack-of-hearts-mcu'>Jack Of Hearts Mcu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=virginia-game-walkthrough'>Virginia Game Walkthrough</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cheap-restaurants-in-malaysia'>Cheap Restaurants In Malaysia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=life-skills-every-woman-should-know'>Life Skills Every Woman Should Know</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chinese-symbol-for-english'>Chinese Symbol For English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=weather-baltimore-radar'>Weather Baltimore Radar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=melody%21%3A-american-girl'>Melody!: American Girl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dog-menu'>The Dog Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Murchison-Falls-Uganda'>Murchison Falls Uganda</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deadfall-in-a-sentence'>Deadfall In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sophie-isaacs-father'>Sophie Isaacs Father</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gerrit-rietveld-famous-works'>Gerrit Rietveld Famous Works</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=some-voices-synopsis'>Some Voices Synopsis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dave-ramsey-com-checkup'>Dave Ramsey Com Checkup</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=telangana-vantalu-recipes'>Telangana Vantalu Recipes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jane-austen-relatives-today'>Jane Austen Relatives Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=comment-for-comedy-video'>Comment For Comedy Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grimm%27s-complete-fairy-tales-amazon'>Grimm's Complete Fairy Tales Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=veronica-guerin-fields-of-athenry'>Veronica Guerin Fields Of Athenry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-death-and-life-of-great-american-cities-full-text'>The Death And Life Of Great American Cities Full Text</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=city-of-7-hills'>City Of 7 Hills</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=avon-products-online'>Avon Products Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-brain-games-on-netflix'>Is Brain Games On Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dangerous-game-series'>Dangerous Game Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=easy-tattoo-designs-to-do-yourself'>Easy Tattoo Designs To Do Yourself</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Telegraphist-job-description'>Telegraphist Job Description</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brothers-karamazov-oxford-world%27s-classics'>Brothers Karamazov Oxford World's Classics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-have-power'>To Have Power</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kagewani-season-2'>Kagewani Season 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cool-merch-from-youtubers'>Cool Merch From Youtubers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-librarian-of-auschwitz-review'>The Librarian Of Auschwitz Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chechen-mafia-leader'>Chechen Mafia Leader</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=candide-summary-short'>Candide Summary Short</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=twiggy-dress-pattern'>Twiggy Dress Pattern</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-target-memes'>Funny Target Memes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=strategic-leadership-theory'>Strategic Leadership Theory</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jason-lee-skateboard-company'>Jason Lee Skateboard Company</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-did-Sophocles-die'>How Did Sophocles Die</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fellini%27s-casanova-youtube'>Fellini's Casanova Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=protestant-countries-vs-catholic-countries'>Protestant Countries Vs Catholic Countries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xavier-dolan-instagram'>Xavier Dolan Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=christian-self-reflection-questions'>Christian Self-reflection Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Evolution-of-wheat'>Evolution Of Wheat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=modoc-county-cities'>Modoc County Cities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jerry-Garcia-Band'>Jerry Garcia Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=silence-falls-meaning'>Silence Falls Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=failure-synonym-medical'>Failure Synonym Medical</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-joe-hills-hermitcraft'>How Old Is Joe Hills Hermitcraft</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fort-lauderdale-airport-coronavirus'>Fort Lauderdale Airport Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=if-on-a-winter%27s-night-a-traveler-analysis'>If On A Winter's Night A Traveler Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-install-vray-for-sketchup-2018'>How To Install Vray For Sketchup 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Games-Without-Frontiers-company'>Games Without Frontiers Company</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-little-learning-is-a-dangerous-thing-paragraph'>A Little Learning Is A Dangerous Thing Paragraph</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=I%27ll-End-Those-Dogs'>I'll End Those Dogs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ginny-weasley-boggart-fanfiction'>Ginny Weasley Boggart Fanfiction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=child-protection-issues'>Child Protection Issues</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=enquiring-minds-want-to-know'>Enquiring Minds Want To Know</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jabberwocky-talky-talky-song'>Jabberwocky Talky Talky Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=junie-b%2C-first-grader-reading-level'>Junie B, First Grader Reading Level</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roll-of-thunder%2C-hear-my-cry-chapter-4'>Roll Of Thunder, Hear My Cry Chapter 4</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=After-the-Ordeal'>After The Ordeal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=so-that%27s-how-the-moon-changes-shape'>So That's How The Moon Changes Shape</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=killzone-mercenary-vita'>Killzone Mercenary Vita</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-thomson-tv-shows'>John Thomson Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2-thessalonians-1%3A12%2C-kjv'>2 Thessalonians 1:12, Kjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=private-lives-amazon'>Private Lives Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=comma-delimited-excel'>Comma Delimited Excel</a>,
+";s:7:"expired";i:-1;}

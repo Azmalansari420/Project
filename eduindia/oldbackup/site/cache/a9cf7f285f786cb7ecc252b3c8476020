@@ -1,0 +1,99 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3405:"<br>The team behind “Half-Life: Alyx” explained why they’re not making “Half-Life 3” in an interview with Geoff Keighley ahead of The Game Awards in December. Watch the trailer and head over to YouTube to see my 20 minute chat with Valve about the company's return to Half-Life. Announced concurrently with Alyx, industry veteran Geoff Keighley revealed he had been secretly chronicling the development of this latest Half-Life installment for a brand new documentary (much like how he did for the previous Half-Life games). Half-Life: Alyx – Final Hours Is A Thorough Documentary; For A Price .  Half-Life: Alyx - Final Hours is an interactive storybook, written by Geoff Keighley, that takes fans inside Valve Software to chronicle the company’s past decade of game development, including the return of Half-Life. Twenty-two years ago, Geoff Keighley was in college when he visited Gabe Newell and Valve Software to write The Final Hours of Half-Life. Yesterday we got the first trailer for Valve's VR title Half-Life: Alyx ahead of its release in March, a game that is set between the first and second games, and now The Game Awards creator Geoff Keighley has paid a visit to Valve to hear more about where the idea came from. Thought it may as well have felt as much at the time Half-Life: Alyx didn't pop out of a vacuum. And yeah, if you didn't know about this project, that headline might confuse you, but upfront: this is not a new Half-Life game made by or starring Geoff Keighley, but rather an inside look at the journey of Valve towards a new chapter in the Half-Life in Half-Life: Alyx, told in a uniquely interactive way. Half-Life: Alyx – Final Hours, Geoff Keighley's "multimedia experience" on the making of Valve's big VR shooter, is now live on Steam. Geoff Keighley followed the creation of Half-Life: Alyx over four years and he published a peek inside Valve as a Steam app on Thursday. Geoff Keighley @geoffkeighley I'm excited to announce my next project, The @finalhours of Half-Life: Alyx. Geoff Keighley on Twitter: "The Final Hours of Half-Life: Alyx, ten years inside Valve Software. As revealed in Half-Life: Alyx – Final Hours, a snazzy little documentary in the form of an app available on Steam, Geoff Keighley spoke to the team behind the VR experience about the creative decisions and tension of delving back into high profile software development in the Half-Life franchise after so long.  <br>In the now-deleted and alleged transcript, “Geoff” asks the dev team some questions about the decision to put a Half-Life game on VR before seemingly confirming Half-Life: Alyx for … <br> I see so many posts our there that think Alyx release might be a sign that the story after EP2 can be wrapped up on flatscreen. <br> <br>Geoff Keighley interview. Now, over two decades later, Keighley returns to Valve for The Final Hours of Half-Life: Alyx. Despite ostensibly being a killer app for Valve’s own VR headset, the Valve Index, Half-Life: Alyx will be compatible with “all PC-based VR headsets” when it releases in March 2020. <br> <br>Half-Life: Alyx could be a spin-off or a branching installment to what was supposed to be Half-Life 3. • RHYS DARBY: Exclusive interview with Rhys Darby (“Russell”), one of the stars of Half-Life: Alyx You can now get Half-Life: Alyx – The Final Hours, presented and written by Geoff Keighley … <br>";s:7:"keyword";s:39:"geoff keighley half life alyx interview";s:5:"links";s:4682:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we-go-dancing-song'>We Go Dancing Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-bernabe-wife'>Richard Bernabe Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=honolulu-news-live'>Honolulu News Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rifftrax-no-retreat%2C-no-surrender-review'>Rifftrax No Retreat, No Surrender Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1-peter---kjv'>1 Peter - Kjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steven-weinberg-education'>Steven Weinberg Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=filhaal-movie-release-date'>Filhaal Movie Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=half-a-sixpence-meaning'>Half A Sixpence Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=39-clues-superspecial'>39 Clues Superspecial</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=space-force-release-date'>Space Force Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tom-francis-games'>Tom Francis Games</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=niykee-heaton-guitar-chords'>Niykee Heaton Guitar Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lord-kitchener-statue'>Lord Kitchener Statue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goosebumps-escape-from-horrorland-playthrough'>Goosebumps Escape From Horrorland Playthrough</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naspa-first-forward'>Naspa First Forward</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-feel-like-i%27m-21-savage-lyrics'>I Feel Like I'm 21 Savage Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alex-etel-net-worth'>Alex Etel Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-adventure-book-up'>The Adventure Book Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=galileo-galilei-aportes'>Galileo Galilei Aportes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Telegraphist-job-description'>Telegraphist Job Description</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=take-away-calories'>Take Away Calories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=do-or-die-definition'>Do Or Die Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Princess-Truly-in-I-Am-Truly'>Princess Truly In I Am Truly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Types-of-sticky-rice'>Types Of Sticky Rice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-brockden-brown-books'>Charles Brockden Brown Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=welch%27s-fruit-snacks-strawberry'>Welch's Fruit Snacks Strawberry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aroldis-chapman-height-weight'>Aroldis Chapman Height Weight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-don%27t-understand-in-chinese'>I Don't Understand In Chinese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nafsa-conference-2020'>Nafsa Conference 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=agnikula-kshatriya-logo'>Agnikula Kshatriya Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=f%C3%A1bio-coentr%C3%A3o-number'>Fábio Coentrão Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gerges-de-la-tour'>Gerges De La Tour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liberator-in-a-sentence'>Liberator In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Clearwater-Beach-Tampa-beaches'>Clearwater Beach Tampa Beaches</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=falcon-crest-anna'>Falcon Crest Anna</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=neville-brody-constructivism'>Neville Brody Constructivism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=modernism-in-i-carry-your-heart-with-me'>Modernism In I Carry Your Heart With Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apache-engineering-jobs'>Apache Engineering Jobs</a>,
+";s:7:"expired";i:-1;}

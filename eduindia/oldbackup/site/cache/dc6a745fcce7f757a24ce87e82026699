@@ -1,0 +1,119 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2765:"<br>Many Fujian dishes incorporate specialty ingredients sourced from the mountains, including mushrooms and bamboo shoots, and from the sea, including shellfish and cuttlefish. <br> This can take several hours, but when the final result is filtered, it yields a very clear broth that is rich in colour, fragrance and flavor, and is well worth the chef’s extra effort. Known as Min cooking, the cuisine of Fujian is one of the eight main cuisines of China. The most characteristic aspect of Fujian cuisine is that the dishes are served in soup. One of the most famous dishes in Fujian cuisine has a rather intriguing name: Buddha Jumps Over the Wall. The Location of Fujian Province. The local cooks are good at preparing seafood, and the dishes they cook are tender, tasteful but not oily and look elegant. Fujian Cuisine. Fujian province is known for great seafood and soups and the precise use of scintillating but not tongue numbing spices. Fujian cuisine emphasizes colors, aroma, the blending of tastes and presentation, and special attention is paid to "aromas" and "blending of tastes." Fujian Cuisine, aka Min Cuisine, has long been known for its four distinctive sub-categories, or styles, corresponding to two regions and two cities.These are: Southern Style, Western Style, Fuzhou Style and Quanzhou Style. Fujian Cuisine is especially fussy when it comes to the flavoring of its clear soups. Fujian food is popular in Fujian, Taiwan and Southeast Asia with a light flavor, and rich and balanced nutrition among different ingredients. <br> <br>The cuisine emphasizes seafood, river fish, and shrimp. <br> <br>The Fujian Cuisine chef goes to great lengths to prepare the base stock for a Fujian soup. Woodland delicacies and seafoods are frequently used with varied cooking methods. Fujian cuisine, also called Min Cai for short, holds an important position in China's culinary art. When a dish is less salty, it tastes more delicious. <br> <br>Fujian cuisine is one of the eight chinese cuisines.The most famous food is Buddha Jumping Over the Wall(also called fotiaoqiang in china). Fujian Cuisine, aka Min Cuisine, has long been known for its four distinctive sub-categories, or styles, corresponding to two regions and two cities.These are: Southern Style, Western Style, Fuzhou Style and Quanzhou Style. The Fujian cuisine also known as min/hokkien cuisine is one of the 8 great cuisines of China that originates from Fujian province.  <br>Fujian cuisine comprises three branches -- Fuzhou, South Fujian and West Fujian. <br> <br>Fujian dishes are slightly sweet and sour, and less salty. The cuisine came in much later after the others were already into the system. Two major groups of central Chinese migrants also helped shape the cuisine. <br>";s:7:"keyword";s:21:"Fujian cuisine dishes";s:5:"links";s:7200:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we-are-sleeping-on-a-volcano'>We Are Sleeping On A Volcano</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=himmatwala-taki-oh-taki'>Himmatwala Taki Oh Taki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roman-republic-definition'>Roman Republic Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gross-swedish-food'>Gross Swedish Food</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-inspired-rita-williams-garcia-to-write'>What Inspired Rita Williams-garcia To Write</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fallen-army-40k'>Fallen Army 40k</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yo-kai-ramen-vending-machine'>Yo-kai Ramen Vending Machine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=would-you-khalid-lyrics'>Would You Khalid Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-cage%3A-amores'>John Cage: Amores</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Zaha-Hadid-France'>Zaha Hadid France</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=man-descending-prezi'>Man Descending Prezi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-illustrated-books-of-all-time'>Best Illustrated Books Of All Time</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lili-sepe-accident'>Lili Sepe Accident</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hatchet-chapter-6-questions'>Hatchet Chapter 6 Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Delta-Line-company'>Delta Line Company</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=villa-rides-imdb'>Villa Rides Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-porcupine-poe-farm'>The Porcupine Poe Farm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=A-letter-Food-items'>A Letter Food Items</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rihanna-songs-2007'>Rihanna Songs 2007</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=port-gore-color'>Port Gore Color</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pancakes-pancakes-reading-level'>Pancakes Pancakes Reading Level</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cky-full-album'>Cky Full Album</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=south-central-college-email'>South Central College Email</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hey%2C-al-comprehension-questions'>Hey, Al Comprehension Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chesapeake-energy-arena-seating-chart-pearl-jam'>Chesapeake Energy Arena Seating Chart Pearl Jam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rite-aid-birth-control-pills'>Rite Aid Birth Control Pills</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jennifer-rowe-author'>Jennifer Rowe Author</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lauren-holiday-2020'>Lauren Holiday 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=take-5-vs-6-nimmt'>Take 5 Vs 6 Nimmt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=worcester%2C-ma-weather'>Worcester, Ma Weather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-be-charming'>How To Be Charming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Brandon-Frankel-wiki'>Brandon Frankel Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Challenge-Season-35-Episode-1'>The Challenge Season 35 Episode 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robocop-2014-tamilrockers'>Robocop 2014 Tamilrockers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arthur-brooks-the-pursuit'>Arthur Brooks The Pursuit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-galya-movies-and-tv-shows'>Chris Galya Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rebecca-of-sunnybrook-farm-movies'>Rebecca Of Sunnybrook Farm Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=melos-and-selinuntius'>Melos And Selinuntius</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Street-Scene-Tangiers'>Street Scene Tangiers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=she%27ll-be-comin%27-round-the-mountain-bluegrass'>She'll Be Comin' Round The Mountain Bluegrass</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fernand-braudel-on-history-pdf'>Fernand Braudel On History Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donald-westlake-books'>Donald Westlake Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-garden-residences-price-list'>The Garden Residences Price List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chrysanthemum-meaning-death'>Chrysanthemum Meaning Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=don%27t-do-it-lyrics-starlito'>Don't Do It Lyrics Starlito</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Square-Emerald'>The Square Emerald</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=author-of-gone-girl'>Author Of Gone Girl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=graham-candy---holding-up-balloons'>Graham Candy - Holding Up Balloons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=el-dorado-park-and-rec'>El Dorado Park And Rec</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-father-son-and-holy-spirit-lyrics'>The Father Son And Holy Spirit Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=libanius-oration-64'>Libanius Oration 64</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=somewhere-in-paris'>Somewhere In Paris</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aesop-rock---skelethon'>Aesop Rock - Skelethon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=8-Miles-and-Runnin%27'>8 Miles And Runnin'</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-key-to-success-is-failure-quote'>The Key To Success Is Failure Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-bad-things-did-vespasian-do'>What Bad Things Did Vespasian Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thirteenth-child-series'>Thirteenth Child Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-underground-railroad-colson-whitehead'>The Underground Railroad Colson Whitehead</a>,
+";s:7:"expired";i:-1;}

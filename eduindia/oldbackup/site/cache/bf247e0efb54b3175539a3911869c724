@@ -1,0 +1,81 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2729:"<p>Shawn Sheehy has been teaching book arts courses and workshops since 2001. 215 likes. in Education from Valparaiso University, an A.A. in Graphic Design from Madison College, and an MFA in Book Arts from Columbia College Chicago.  He works sculpturally with the book format and has presented numerous workshops on pop-up engineering across the country. Creating Pop-Up Books - Magic and Mastery. Speaker Bio: Shawn Sheehy combines paper engineering with an interest in biological and cultural evolution to produce limited-edition pop-up books. PAPER ART Workshop Andy Singleton, ENGLAND 紙の芸術 - … Shawn has taught workshops at the Paper & Book Intensive, Penland School of Crafts, the Centers for Book Arts in Chicago and New York, and … He teaches pop-up engineering workshops regularly. Shawn Sheehy is an artist with a love of ecology who enjoys exploring such themes as interconnectedness, adaptability, and evolution.Passionate about pop-up books, he works sculpturally with the book format and has presented numerous workshops on pop … </p> <p>Join master paper engineer Shawn Sheehy as he demonstrates his exquisite techniques for pop-up books, and discusses his creative process, especially for his newest book, Beyond the Sixth Extinction. He has been teaching book arts courses and workshops on the national level—primarily in paper making and paper engineering—since 2001. SHAWN SHEEHY AUG 29th 5:30 -7:00. Passionate about pop-up books, he works sculpturally with the book format and has presented numerous workshops on pop … 2018 is an exciting year for Artist and Paper Engineer Shawn Sheehy. He has been teaching book arts courses and workshops on the national level—primarily in paper making and paper engineering—since 2001. An artist with a love of ecology who enjoys exploring such themes as interconnectedness, adaptability, and evolution, Shawn Sheehy is passionate about pop-up books! Subscribe if you'd like information about future pop-up wildflower workshops! Shawn Sheehy has a B.S. RINES AUDITORIUM Portland Public Library. Shawn Sheehy creates handmade artist books featuring pop-ups. Shawn Sheehy, Pop-Up Book Artist. CANDLEWICK WORKSHOPS is a series of talks and workshops about the art and work of creating beautiful, high quality children’s books presented by the artists, writers and luminaries at Candlewick Press. His broadsides and artist book editions have been collected by such prestigious institutions as Stanford, Carnegie Mellon, University of Chicago, Library of Congress, UCLA, Harvard, and the Jaffe Collection at FAU. Best Pop-Up Books 20,325 views. The mass-market version of his artist book Beyond the Sixth Extinction was released in October 2018. </p>";s:7:"keyword";s:22:"shawn sheehy workshops";s:5:"links";s:2472:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fantastic-four-roger'>Fantastic Four Roger</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-secret-footprints'>The Secret Footprints</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sodexo-application-status'>Sodexo Application Status</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rube-goldberg-picture-book'>Rube Goldberg Picture Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=John-Milton-works'>John Milton Works</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=side-story-synonym'>Side Story Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=knaus-boxstar-xl'>Knaus Boxstar Xl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roller-boogie-dvd'>Roller Boogie Dvd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kahlil-gibran-on-death-of-a-child'>Kahlil Gibran On Death Of A Child</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spongebob-karate-island-episode-number'>Spongebob Karate Island Episode Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trippy-tapestry-discount-code'>Trippy Tapestry Discount Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cji-reckless-endangerment'>Cji Reckless Endangerment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sycamore-row-sequel'>Sycamore Row Sequel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greenlandic-grammar-pdf'>Greenlandic Grammar Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=suzanne-ashman-localglobe'>Suzanne Ashman Localglobe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=overthrow-of-the-hawaiian-kingdom'>Overthrow Of The Hawaiian Kingdom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary-j-blige---take-me-as-i-am'>Mary J Blige - Take Me As I Am</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=remi%2C-nobody%27s-boy-%282019%29'>Remi, Nobody's Boy (2019)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roustabout-salary-in-kuwait'>Roustabout Salary In Kuwait</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-ellison-photography'>David Ellison Photography</a>,
+";s:7:"expired";i:-1;}

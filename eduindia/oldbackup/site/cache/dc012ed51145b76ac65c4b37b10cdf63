@@ -1,0 +1,123 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2822:"<p>VFR Est.  The unique design is completely reversible for use on either leg, and a heavy-duty elastic leg strap securely holds the kneeboard in place. This prints to a normal 8.5″x11″ piece of paper. Two mesh pockets on the side of the kneeboard provide storage for cleaning cloths and other accessories. I've been using a blank paper for my VFR flights. On the right leg I had a blank sheet with a navlog and relevant plates/diagrams behind it and I stowed any books I might need in a pocket or on the floor or on the glareshield. Includes check boxes for both preflight planning and in-flight adjustments as well as ample room for in-flight notes (Atis, clearance, etc.). I find myself writing down essentially the same info. Specifically, this form has been designed for use on kneeboards without the folding, flipping, and reclipping necessary of most standard 8.5" x 11" forms. Includes a drawstring bag for storage. VFR Cruising Altitutdes Magnetic Course CH REM ATA REM WCA Var Dev time off total dist. </p> <p>The durable brushed aluminum VFR Kneeboard is a great way to organize your flight data, providing a strong surface for inflight note-taking as well as quick access to important VFR information in the form of a permanent placard. Badger Pattern Altitude. Departure Point 4. I thought others might find it helpful, so I put it on my website. They're useful even if you're lucky enough to fly a high tech aircraft full of technically advanced avionics. Tri-Fold VFR Kneeboard. Tri-Fold VFR Kneeboard. 7 This sounds like a lot to remember but again it is just a variation on the theme of ‘Who, where, what’ with the ‘who’ including the type of aircraft and where you are from/to, and the ‘where’ including your altitude, flight rules and an estimate if possible for your next turning point. VFR, Estimate St.Ives one seven, Request basic service’. Take a closer look at SharpeAero’s uniquely designed kneeboard templates. ASA VFR KNEEBOARD KB-1 This durable brushed aluminum kneeboard is a great way to organize your flight data, providing a strong surface for inflight note taking as well as quick access to important VFR information in the form of a permanent It's free in all senses of the word. Traditional VFR Flight planner forms have not been designed with the pilot in mind. Posted on July 10, 2017 by ryanharvey. Aircraft Type/ Special Equipment 5. Back in the days of paper it was pretty much the same. Happy flying! Free VFR Kneeboard Flight Planner Philip Greenspun's Homepage: Philip Greenspun's Homepage Discussion Forums: Aviation: One Thread Notify me of new responses: I'm a VFR pilot and created for myself a template "flight planner" that I put on my kneeboard for all flights. It’s all in the details, people! They're totally free for you to download and use. </p>";s:7:"keyword";s:22:"vfr kneeboard template";s:5:"links";s:8006:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-season-5-episode-23'>The Office Season 5 Episode 23</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lisa-seagram-beverly-hillbillies'>Lisa Seagram Beverly Hillbillies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-graves-boston'>The Graves Boston</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=discovery-channel-episode'>Discovery Channel Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mitch-lucker-stomp'>Mitch Lucker Stomp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=navigating-early-symbolism'>Navigating Early Symbolism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Modern-World-History-in-Telugu-PDF'>Modern World History In Telugu PDF</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-town-koh-lanta-restaurants'>Old Town Koh Lanta Restaurants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=39-clues-superspecial'>39 Clues Superspecial</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-state-digital-dc'>Blue State Digital Dc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sza-drew-barrymore-meaning'>Sza Drew Barrymore Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=major-throwback-meaning-in-bengali'>Major Throwback Meaning In Bengali</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=georgia-mass-choir-songs-youtube'>Georgia Mass Choir Songs Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=50-below-zero-animated'>50 Below Zero Animated</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=payless-dress-shoes'>Payless Dress Shoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=princess-pingyang-legacy'>Princess Pingyang Legacy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sylvester-meaning-in-tamil'>Sylvester Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mustang-performance-upgrades'>Mustang Performance Upgrades</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mistborn-espa%C3%B1ol-pdf'>Mistborn Español Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=secrets-of-the-vine-summary'>Secrets Of The Vine Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=groundbreaking-ceremony-meaning'>Groundbreaking Ceremony Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chicken-sunday-ebook'>Chicken Sunday Ebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=captain-sindbad-%281963-full-movie-english%29'>Captain Sindbad (1963 Full Movie English)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geoffrey-bayldon-fort-boyard'>Geoffrey Bayldon Fort Boyard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=comic-art-history'>Comic Art History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oedipus-definition-psychology'>Oedipus Definition Psychology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wallace-d-wattles-pdf'>Wallace D Wattles Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=humano-llc-phone-number'>Humano Llc Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hugh-maclennan-halifax-explosion'>Hugh Maclennan Halifax Explosion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antes-do-iluminismo'>Antes Do Iluminismo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=palermo-connection-season-1-episode-1'>Palermo Connection Season 1 Episode 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2-thessalonians-1%3A12%2C-kjv'>2 Thessalonians 1:12, Kjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=What-causes-a-thunderstorm'>What Causes A Thunderstorm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Download-music%2C-movies%2C-games%2C-software-The-Pirate'>Download Music, Movies, Games, Software The Pirate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sojourner-rover-size'>Sojourner Rover Size</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-roman-history-of-ammianus-marcellinus'>The Roman History Of Ammianus Marcellinus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lota-de-macedo-soares-death'>Lota De Macedo Soares Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-c-grayling-wife'>A C Grayling Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-alamo-movie-2004-trailer'>The Alamo Movie 2004 Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=minecraft-lucid-dreams'>Minecraft Lucid Dreams</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robin-mccarthy-nelson'>Robin Mccarthy Nelson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lord-of-the-flies-creepers-quotes'>Lord Of The Flies Creepers Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tom-papa-you%27re-doing-great-imdb'>Tom Papa You're Doing Great Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=critical-thinking-high-school'>Critical Thinking High School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-spurgeon-sermons-by-scripture'>Charles Spurgeon Sermons By Scripture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marcus-lemonis-wiki'>Marcus Lemonis Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-bill-watterson-dead'>Is Bill Watterson Dead</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hippolyte-taine-race%2C-milieu%2C-moment'>Hippolyte Taine Race, Milieu, Moment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-fear-shakespeare%3A-hamlet%3A-act-5'>No Fear Shakespeare: Hamlet: Act 5</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pragmatism%3A-a-reader-pdf'>Pragmatism: A Reader Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=janet-snakehole-costume'>Janet Snakehole Costume</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=overstock-kitchen-curtains'>Overstock Kitchen Curtains</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=iphone-7-price-in-singapore'>Iphone 7 Price In Singapore</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-tudors%3A-the-royal-collection-uncut'>The Tudors: The Royal Collection Uncut</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greenville-weather-radar'>Greenville Weather Radar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-to-watch-the-secret%3A-dare-to-dream'>Where To Watch The Secret: Dare To Dream</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=uncorked-movie-2019'>Uncorked Movie 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-attack-of-jack-age'>The Attack Of Jack Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=casa-ivar-camino-forum'>Casa Ivar Camino Forum</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=courage-to-be-yourself-quotes'>Courage To Be Yourself Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=welcome-to-renaissance-place'>Welcome To Renaissance Place</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dangerous-Temptation-Anne-Mather-uploady'>Dangerous Temptation Anne Mather Uploady</a>,
+";s:7:"expired";i:-1;}

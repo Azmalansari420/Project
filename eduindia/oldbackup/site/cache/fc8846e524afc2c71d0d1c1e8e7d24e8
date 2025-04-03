@@ -1,0 +1,106 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1681:"Chappie (stylizeed as CHAPPiE) is an American science fiction film directed by Neill Blomkamp. <br> <br>Chappie (stylized as CHAPPiE) is a 2015 American dystopian science fiction action film directed by Neill Blomkamp and written by Blomkamp and Terri Tatchell.It stars Sharlto Copley, Dev Patel, Jose Pablo Cantillo, Sigourney Weaver, Hugh Jackman, and Ninja and Yolandi Visser of the South African zef rap-rave group Die Antwoord as metafictional versions of themselves.  <br> <br>The screenplay, written by Blomkamp and Terri Tatchell, is based on Blomkamp's 2004 short film Tetra Vaal. <br> <br>Die Hauptrollen des Films belegen Dev Patel, Hugh Jackman sowie Yolandi Visser und Watkin Tudor Jones, Teil der südafrikanischen Band Die Antwoord. Chappie (also known as CHAPPIE) is the titular main protagonist of the 2015 science fiction film of the of the same name. ... Ninja starts to train Chappie to shoot guns but gets very frustrated because Chappie is a slow learner. <br> <br>He is portrayed and voiced by Sharlto Copley. The film stars Sharlto Copley, Dev Patel, and Hugh Jackman, as well as members of the South African hip-hop group Die Antwoord. Chappie ist ein US-amerikanischer Science-Fiction-Film des Regisseurs Neill Blomkamp aus dem Jahr 2015.Das Drehbuch, das auf Blomkamps Kurzfilm Tetra Vaal (2005) basiert, schrieb er zusammen mit seiner Frau Terri Tatchell. Some gangsters, Ninja, Yolandi and Amerika, find Deon Wilson and a robot inside his van.  <br>The film was released on March 6, 2015. At work, Moore puts his gun to Deon's head and tells him to return the guard key. However, Chappie acts like a child and need to be trained to learn and grow. <br>";s:7:"keyword";s:25:"chappie learning to shoot";s:5:"links";s:5592:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angela-richter-dell'>Angela Richter Dell</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=inspirational-firefighter-stories'>Inspirational Firefighter Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Test-IO-EPAM'>Test IO EPAM</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=creepy-post-mortem-photos'>Creepy Post Mortem Photos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moonlight-syndrome-translation'>Moonlight Syndrome Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=addie-lane-wiki'>Addie Lane Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mad-magazine-back-issues-online'>Mad Magazine Back Issues Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deuce-bigalow%3A-male-gigolo-netflix'>Deuce Bigalow: Male Gigolo Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=minneapolis-police-department-jobs'>Minneapolis Police Department Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=archibald-macleish-play'>Archibald Macleish Play</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intermezzo-palate-cleanser'>Intermezzo Palate Cleanser</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hikaru-genji-plan'>Hikaru Genji Plan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreBest-places-to-eatWaipouli-Deli-%26-Restaurant%2C-Anuenue-Cafe%2C-and-more'>+ 18moreBest Places To EatWaipouli Deli & Restaurant, Anuenue Cafe, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tyrion-and-teclis-relationship'>Tyrion And Teclis Relationship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bruce-bennett-piano'>Bruce Bennett Piano</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gibraltar-population-density'>Gibraltar Population Density</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kate-Heads-West'>Kate Heads West</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=burlesque-christmas-party-london'>Burlesque Christmas Party London</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Chalk-Girl'>The Chalk Girl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vicky-the-viking-book'>Vicky The Viking Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-to-watch-texasville'>Where To Watch Texasville</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=babies-around-the-world-documentary'>Babies Around The World Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maggie-chen-xinyu'>Maggie Chen Xinyu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nicole-farhi-skirts'>Nicole Farhi Skirts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bus-174-documentary'>Bus 174 Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gothic-kitchen-table'>Gothic Kitchen Table</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=live-a-little-song'>Live A Little Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-lawrence-block'>How Old Is Lawrence Block</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interstellar-2-2019'>Interstellar 2 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hatchet-summary-of-the-book'>Hatchet Summary Of The Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolfgang-pauli-quotes'>Wolfgang Pauli Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=most-graphic-movies'>Most Graphic Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=police-week-2020-cancelled'>Police Week 2020 Cancelled</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-veil-movie-2017'>The Veil Movie 2017</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carol-o%27connell-2019'>Carol O'connell 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Difference-between-arhat-and-Buddha'>Difference Between Arhat And Buddha</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deep-river-spiritual-meaning'>Deep River Spiritual Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=silver-hawk-cartoon'>Silver Hawk Cartoon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-lowell-biography'>Robert Lowell Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tuscaloosa-movie-streaming'>Tuscaloosa Movie Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=traditional-catholic-modesty'>Traditional Catholic Modesty</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=darn-that-dream-meaning'>Darn That Dream Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Graham-Phillips-height'>Graham Phillips Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeff-altman-career'>Jeff Altman Career</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-list-forensic-files-episode-netflix'>John List Forensic Files Episode Netflix</a>,
+";s:7:"expired";i:-1;}

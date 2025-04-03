@@ -1,0 +1,125 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2684:"<p>Join the Civil 3D product team as they share a preview of what’s coming in the AutoCAD Civil 3D 2018.1 Update. When I open a Civil 3D 2013 file, AutoCAD Civil 3D 2017 is converting the old drawing. Solution The following point file formats are supported: AUF. AutoCAD Civil 3D is about to get another round of enhancements. directly into drawing in 2017. If I want to SaveAs this drawing it only has the possibility to save as older file format drawings (from 2013 till earlier versions). How to decompress these files so they can be used. What am I doing wrong? Previous to Civil 3D 2018, it was possible to import .LAS point clouds directly through Civil 3D using the legacy point cloud utility. </p> <p>Click Copy. Use the point file formats that are supplied with Autodesk Civil 3D or create your own formats. Point file. Northing, Easting, and Elevation data. Aaron often uses Civil 3D, and needs to send those files to clients that only have AutoCAD. Which by the way takes a long time to complete. The point file formats available in a drawing are listed in the Toolspace Settings tree. Now it requires use of ReCAP? NEZ. After you make a copy of a format, the format you created is automatically opened for editing. This article describes the required steps to bring Civil 3D data into ArcGIS for Desktop. Autodesk ® Collaboration for Civil 3D ®, a service of BIM 360 Design, allows civil infrastructure design teams to securely access Civil 3D files across multiple locations and companies.Streamline deliverables coordination, visualize changes, track project progress, and manage issues. Introduction to Civil 3D: Importing survey file formats. The point cloud will only accept the las format. I have found some great LiDAR information but it is in a compressed LAS file so the extension is LAZ. </p> <p>In Toolspace, on the Settings tab, expand the Point File Formats collection. As a certified Autodesk® instructor and a manager within the civil engineering industry, I have been asked many times about using AutoCAD® Civil 3D®-created data within ESRI ArcGIS. Autodesk Uploadable File, comma delimited. As you create a user point file format, you can view the file that contains your point data for reference This point file format type describes how point data is arranged in a Microsoft® Access database file. To add to dgorsman, Civil 3D will natively open .dwg and .dxf files and , through IMPORT and MAPIMPORT, it can import the file types in these screen captures. Civil 3D used to bring point clouds files such as LAS, TXT, etc. </p> <p></p> <p>View 1 Replies View Related AutoCAD Civil 3D :: Date Format In The AGS File Is Incorrect Dec 12, 2013. </p>";s:7:"keyword";s:20:"civil 3d file format";s:5:"links";s:7902:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=baby-sitters-club-book-8-release-date'>Baby-sitters Club Book 8 Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=contest-32-for-sale'>Contest 32 For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xavier-mcdaniel-net-worth'>Xavier Mcdaniel Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=malvern-college-egypt-jobs'>Malvern College Egypt Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=palisades-park-clerk'>Palisades Park Clerk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=city-of-san-jos%C3%A9-job-descriptions'>City Of San José Job Descriptions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=home-alone-2-soundtrack---youtube'>Home Alone 2 Soundtrack - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paulo-guedes-patrim%C3%B4nio'>Paulo Guedes Patrimônio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Stuck-by-Oliver-Jeffers-questions'>Stuck By Oliver Jeffers Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=college-of-dupage-english-classes'>College Of Dupage English Classes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-james-barile'>Richard James Barile</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bobo-doll-experiment-summary'>Bobo Doll Experiment Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reached-book-review'>Reached Book Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tamaki-suoh-voice-actor'>Tamaki Suoh Voice Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-landscape-painting'>American Landscape Painting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scott-joplin-piano-rolls'>Scott Joplin Piano Rolls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-does-mitzi-gaynor-live'>Where Does Mitzi Gaynor Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=odyssey-meaning-in-punjabi'>Odyssey Meaning In Punjabi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dutch-b1-level-book-pdf'>Dutch B1 Level Book Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=patricia-urquiola-husk-chair'>Patricia Urquiola Husk Chair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cask-and-schooner-friday-harbor'>Cask And Schooner Friday Harbor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Poem-definition-in-literature'>Poem Definition In Literature</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-competitive-is-wharton-emba'>How Competitive Is Wharton Emba</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Skinny-dipping-meaning-Wikipedia'>Skinny Dipping Meaning Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ovid-quotes-latin'>Ovid Quotes Latin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-green-crow'>The Green Crow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dreams-universe-pc'>Dreams Universe Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-girl-who-lived-pdf'>The Girl Who Lived Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-of-america-band'>Best Of America Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-galway-net-worth'>James Galway Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dieter-rams-personal-life'>Dieter Rams Personal Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Literature-and-its-theorists'>Literature And Its Theorists</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Evidence-of-Malice'>Evidence Of Malice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-estes-technique'>Richard Estes Technique</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antonyms-of-loftily'>Antonyms Of Loftily</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deance-wyatt-net-worth'>Deance Wyatt Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saba-care-for-me-lyrics'>Saba Care For Me Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carousel-slider-jquery'>Carousel Slider Jquery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-man-made-diseases'>List Man-made Diseases</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Last-Joy'>The Last Joy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mc-sniper---undercooled'>Mc Sniper - Undercooled</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fernand-braudel-on-history-pdf'>Fernand Braudel On History Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flubber-cast-1961'>Flubber Cast 1961</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lucille-little-richard-lyrics-meaning'>Lucille Little Richard Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hayley-cropper-red-coat'>Hayley Cropper Red Coat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-american-village-alabama'>The American Village Alabama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sylvia-and-Ted'>Sylvia And Ted</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=librecad-dwg-support'>Librecad Dwg Support</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ps4-games-like-the-witness'>Ps4 Games Like The Witness</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-get-a-zombie-horse'>How To Get A Zombie Horse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=somewhere-in-paris'>Somewhere In Paris</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shino-aburame-boruto'>Shino Aburame Boruto</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Alan-Halsall-wedding'>Alan Halsall Wedding</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=briarpatch-recap-episode-10'>Briarpatch Recap Episode 10</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=town-of-windermere-jobs'>Town Of Windermere Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kelly-minter-books'>Kelly Minter Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=not-without-merit-synonym'>Not Without Merit Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=can-your-heart-explode-from-drugs'>Can Your Heart Explode From Drugs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-courtship-of-miles-standish-summary'>The Courtship Of Miles Standish Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=celtic-cross-tattoos'>Celtic Cross Tattoos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whatever-happened-to-lexi-randall'>Whatever Happened To Lexi Randall</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shonen-knife---twist-barbie'>Shonen Knife - Twist Barbie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=johanna-lindsey-obituary'>Johanna Lindsey Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ernest-cline-ready-player-two'>Ernest Cline Ready Player Two</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,83 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5460:"<p>Other articles where Liber abaci is discussed: Fibonacci: Life: When Fibonacci’s Liber abaci first appeared, Hindu-Arabic numerals were known to only a few European intellectuals through translations of the writings of the 9th-century Arab mathematician al-Khwārizmī. Little is known about Fibonacci’s life. The Fibonacci sequence and the ratios of its sequential numbers have been discovered to be pervasive throughout nature, art, music, biology, and other disciplines. </p> <p>Liber Abaci Records have the objetive to follow alterntive mathematical systems as the Golden Ratio and the Lucas sequences. Fibonacci omitted the first term (1) in Liber Abaci. </p> <p>As you can see from this sequence, we need to start out with two “seed” numbers, which are 0 and 1.  Since Fibonacci’s father was a merchant, he traveled widely, allowing him to learn the Hindu-Arabic arithmetic system while growing up in Northern Africa. The impact of Fibonacci's book as the beginning of the spread of decimal numbers was his greatest mathematical achievement. 26-27). </p> <p>The Fibonacci sequence is a series of numbers where each number in the series is the equivalent of the sum of the two numbers previous to it. "Liber Abaci" first introduced the sequence to the Western world. Death and Legacy . published his book Liber Abaci, or “Book of Calcula-tion,” which introduced to the West something that is one of the greatest discover-ies of all time: the decimal numeration system, includ-ing the position of zero as the first number in the num-ber sequence. The problem yields the ‘Fibonacci sequence’: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377 . The first section introduces the Hindu–Arabic numeral system, including methods for converting between different representation systems. Diese Auf-gabe enthielt (in der westlichen Literatur) zum ersten Mal die Fibonacci-Zahlen, die durch diese Aufgabe berühmt wurden. The Fibonacci sequence is a series of numbers where each number in the series is the equivalent of the sum of the two numbers previous to it. The solution to the problem was a sequence of numbers later called Fibonacci numbers. The problem with rabbits One of the mathematical problems Fibonacci investigated in Liber Abaci was about … </p> <p>The ﬁrst two values in the sequence are given as F 1 = F 2 = 1 and higher terms are the sum of </p> <p>Little is known about Fibonacci’s life. </p> <p>He also published at least five other works. No one knows why Leonardo dedicated the book to Michael Scotus, who was the court astrologer to Holy Roman Emperor Frederick II, nor why he included the autobiographical information (Devlin, Man 43). This release is the Jacobsthal number 0 to 85 and back to 0 again. In his 1202 book, Liber Abaci, Fibonacci introduced the sequence to European mathematicians, even though the sequence was already known to Indian mathematicians. Medieval mathematician and businessman Fibonacci (Leonardo of Pisa) posed the following problem in his treatise Liber Abaci (pub. </p> <p>publication of Liber Abaci, no special notice was taken of these numbers. </p> <p>Indian scholars had already studied the sequence in the century before Fibonacci published the "Liber Abaci" and he didn't claim it as his own, but because he introduced it to the West, the sequence is associated with him. First published in 1202, Fibonacci's Liber abaci was one of the most important books on mathematics in the Middle Ages, introducing Arabic numerals and methods throughout Europe. </p> <p>The recurrence formula for these numbers is: F(0) = 0 F(1) = 1 F(n) = F(n − 1) + F(n − 2) n > 1 . A page of Fibonacci's Liber Abaci from the Biblioteca Nazionale di Firenze showing the Fibonacci sequence (in the box on the right)." This section also includes the first known description of trial division  for testing whether a number is composite  and, if so, factoring  it. In … Liber Abaci posed and solved a problem involving the growth of a population of rabbits based on idealized assumptions. As you can see from this sequence, we need to start out with two “seed” numbers, which are 0 and 1. Liber Aacib , in dem er die heute sehr bekann-te Kaninchenaufgabe niederschrieb. </p> <p>Weiterhin trug Leo-nardo von Pisa mit dem Buch Liber Abaci zur erbreiVtung des indisch-arabischen Zi ernsys-tems bei, das er in seinem Buch beschrieb. Liber Abaci solved a problem about the growth of a population of rabbits based on ideal assumptions. The principal of the sequence is that it is built by adding two adjacent terms to get the next term to add to the series. </p> <p></p> <p>This system, known as … 1202):. </p> <p>Fibonacci refers to the sequence of numbers made famous by thirteenth-century mathematician Leonardo Pisano, who presented and explained the solution to an algebraic math problem in his book Liber Abaci (1228). A closer inspection of the numbers making up the Fibonacci sequence brings to Fibonacci sequence Liber Abaci also posed, and solved, a problem involving the growth of a population of rabbits based on idealized assumptions. Fibonacci refers to the sequence of numbers made famous by thirteenth-century mathematician Leonardo Pisano, who presented and explained the solution to an algebraic math problem in his book Liber Abaci (1228). Fibonacci sequence. </p> <p>The Fibonacci Sequence was actually given the name by a French mathematician Edouard Lucas in the 1870s. </p>";s:7:"keyword";s:20:"liber abaci sequence";s:5:"links";s:2778:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jerry-Garcia-Band'>Jerry Garcia Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=A-Jewish-Holiday-ABC'>A Jewish Holiday ABC</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raymond-burr-wheelchair'>Raymond Burr Wheelchair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Princess-Truly-in-I-Am-Truly'>Princess Truly In I Am Truly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pig-farming-profit-margin'>Pig Farming Profit Margin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=round-brackets-examples'>Round Brackets Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-carson-branding'>David Carson Branding</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=enrique-hernandez-net-worth'>Enrique Hernandez Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Cheviot-walk'>The Cheviot Walk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-was-wackiest-ship-in-the-army-filmed'>Where Was Wackiest Ship In The Army Filmed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=venice-italy-calendar-of-events-2020'>Venice Italy Calendar Of Events 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-movie-couples'>Funny Movie Couples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=durban-tourism-internships'>Durban Tourism Internships</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=slow-cooker-clam-bake'>Slow Cooker Clam Bake</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=smart-women-finish-rich%2C-expanded-and-updated'>Smart Women Finish Rich, Expanded And Updated</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lee-bowman-envirolink'>Lee Bowman Envirolink</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cathy-zhang-height'>Cathy Zhang Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jane---jefferson-starship'>Jane - Jefferson Starship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=demon-stone-2'>Demon Stone 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=serial-monogamy-definition-sociology'>Serial Monogamy Definition Sociology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-don-t-have-enough-faith-to-be-an-atheist-chapters'>I Don T Have Enough Faith To Be An Atheist Chapters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spear-education-login'>Spear Education Login</a>,
+";s:7:"expired";i:-1;}

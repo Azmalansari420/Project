@@ -1,0 +1,92 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1215:"<p>Susan's voice-over reflections provide insight. Nel cast sono presenti Ewan McGregor, Eva Green, Ewen Bremner, …  Can anything make perfect sense? Perfect Sense è un film diretto da David Mackenzie, interpretato da Eva Green, Ewan McGregor, Connie Nielsen, Ewen Bremner Perfect Sense è un film di genere drammatico del 2011, diretto da David Mackenzie, con Ewan McGregor e Eva Green. Susan and Michael begin a relationship in the middle of increasing chaos, as the loss of other senses plagues more people and as civil authorities try to maintain order. Il lungometraggio, interpretato da Eva Green  e Ewan McGregor, è stato presentato in anteprima al Sundance Film Festival 2011. Drammatico, Germania, Gran Bretagna, 2011. Is love possible in such a changed world? Perfect Sense streaming - Il regista David Mackenzie dirige un thriller romantico che offre una commovente proposizione su come la razza umana potrebbe superare una pandemia globale. Perfect Sense è un film del 2011  diretto da David Mackenzie. Durata 88 min. </p> <p>Perfect Sense - Un film di David Mackenzie. Written by <jhailey@hotmail.com> Con Ewan McGregor, Eva Green, Connie Nielsen, Ewen Bremner, Stephen Dillane, Denis Lawson. </p>";s:7:"keyword";s:18:"perfect sense film";s:5:"links";s:3736:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=y2k-lalala-speedrun'>Y2k Lalala Speedrun</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greek-basketball-championship'>Greek Basketball Championship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jane-addams-timeline'>Jane Addams Timeline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-realm-brea'>The Realm Brea</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Transport-Fever-Requirements'>Transport Fever Requirements</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=graham-masterton-books-katie-maguire'>Graham Masterton Books Katie Maguire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=katherine-applegate-website'>Katherine Applegate Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jenny-Archer%2C-Author'>Jenny Archer, Author</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ubik-movie-2017'>Ubik Movie 2017</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Throne-of-England'>Throne Of England</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ultratech-cement-price-in-hyderabad-today'>Ultratech Cement Price In Hyderabad Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hoshi-wo-miru-hito'>Hoshi Wo Miru Hito</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=twin-dragon-dragonvale'>Twin Dragon Dragonvale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=titanic-amazon-prime'>Titanic Amazon Prime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kisho-Kurokawa%27s-Nakagin-Capsule-Tower-in-Tokyo'>Kisho Kurokawa's Nakagin Capsule Tower In Tokyo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=living-waters-youtube'>Living Waters Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=halloween-wiki-fandom'>Halloween Wiki Fandom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clear-nail-tips'>Clear Nail Tips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bodh-gaya-tourism'>Bodh Gaya Tourism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-shot-jesse-james'>Who Shot Jesse James</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saboteur-expansion-cards'>Saboteur Expansion Cards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-ellison-linkedin'>David Ellison Linkedin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-browne-easyjet'>Chris Browne Easyjet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-mother%27s-castle-sparknotes'>My Mother's Castle Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cathedral-book-fiction'>Cathedral Book Fiction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mr-mcgregor-costume'>Mr Mcgregor Costume</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-character-search'>Chinese Character Search</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prince-rupert-to-vancouver'>Prince Rupert To Vancouver</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devilman-lady-ryo'>Devilman Lady Ryo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=coachman-460-vip-2020'>Coachman 460 Vip 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=university-of-york-phd-fees'>University Of York Phd Fees</a>,
+";s:7:"expired";i:-1;}

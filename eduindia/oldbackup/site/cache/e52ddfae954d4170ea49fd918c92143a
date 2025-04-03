@@ -1,0 +1,99 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3847:"<br>Museum Garage. Update Vanderbilt is Reopening Slowly: Bring a Picnic, Enjoy Views, Stroll the Grounds We have reopened our grounds – but not our buildings – to the public, in accordance with Suffolk County and New York State safety guidelines. Donation Requests We strive to delight, entertain, and amaze guests with a unique, festive, and energetic ballpark experience unlike any other. <br> <br>Update Vanderbilt is Reopening Slowly: Bring a Picnic, Enjoy Views, Stroll the Grounds We have reopened our grounds – but not our buildings – to the public, in accordance with Suffolk County and New York State safety guidelines. While we would like to help everyone who approaches us for a donation, we simply cannot. <br> <br>Get Directions; Google Maps; Hours. <br> <br>You must bring you 501c3 documentation, the app and a formal letter in to the store. Museum Garage. Located at 1200 Route 25A in Stony Brook, the Long Island Museum is a Smithsonian affiliate, dedicated to enhancing the lives of adults and children with an understanding of Long Island's rich history and diverse cultures. Providence Children's Museum Home Page - Come Play, Come Learn! There is limited parking in the Museum garage for $10/car Monday-Thursday and $15/car Friday-Sunday. It is not necessary to follow-up with a phone call, as an e-mail response will be sent within one week of receiving the request. Elite Island Resorts is committed to supporting non-profits and charitable causes as part of our mission to give back to communities at home and abroad. Requests must be made at least 60 days before, and no more than four months ahead of the event No telephone, mailed or faxed requests will be accepted Must include full street address, non-profit ID number (if applicable), event date, purpose of event, and what the tickets and funds will be used for Your donation will make a difference. <br> <br>The garage is open 15 minutes before and after Museum hours, and closed when the Museum is closed. As a 501(c)3 nonprofit institution, the Bucks County Children’s Museum relies on private contributions from individual and corporate donors like you to provide children and families with unforgettable experiences that inspire children to explore,… Long Island Children's Museum 11 Davis Ave. Garden City, NY 11530. <br> On Sundays, garage opens at 8:45am for members and 10:30am for the general public. There are also summer and after school programs for children from ages 4 and up. As of 2019, we have a new policy in place to help as many non-profit organizations as possible by offering a 30% discount on all purchases for a fundraiser. We sincerely appreciate the efforts of the many excellent non-profit organizations that we have had the pleasure of working with over the years.  We sincerely appreciate the efforts of the many excellent non-profit organizations that we have had the pleasure of working with over the years. Year 2 Creativity Initiative Call for Creatives Click here for the new RFP. donate. These classes emphasize art, music and early childhood development. Our climbing adventures are self-guided, which means the courses can be taken at your own pace, so no pressure! Long Island Museum 1200 Route 25A; Stony Brook, NY 11790 Phone: (631) 751-0066 FAX : (631) 751-0353. Last year alone the museum captivated over 350,000 guests and inspired over 70,000 school children with our programs and education events. <br> <br>We welcome a limited number of visitors on Tuesdays, Fridays, Saturdays, and Sundays, from 11 am to 6 pm. Elite Island Resorts is committed to supporting non-profits and charitable causes as part of our mission to give back to communities at home and abroad. <br> <br> <br>donate. <br> <br>We welcome a limited number of visitors on Tuesdays, Fridays, Saturdays, and Sundays, from 11 am to 6 pm. <br>";s:7:"keyword";s:46:"long island children's museum donation request";s:5:"links";s:4948:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-nevadan-orogeny-accreted'>The Nevadan Orogeny Accreted</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wildest-Dreams-lyrics-meaning'>Wildest Dreams Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=house-of-blues-new-orleans-menu'>House Of Blues New Orleans Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Voltaire-Enlightenment-ideas'>Voltaire Enlightenment Ideas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-rintoul-audiobooks'>David Rintoul Audiobooks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Brand-New-Companion'>Brand New Companion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thurgood-marshall-school'>Thurgood Marshall School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=healthy-recipes-baking'>Healthy Recipes Baking</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mac-Miller-death'>Mac Miller Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-browne-easyjet'>Chris Browne Easyjet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=henrico-jail-west-inmate-search'>Henrico Jail West Inmate Search</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=but-not-the-hippopotamus-text'>But Not The Hippopotamus Text</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-meanest-man-in-texas-full-movie'>The Meanest Man In Texas Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-can-say-where-the-road-goes-lyrics'>Who Can Say Where The Road Goes Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Hawaiian-Kingdom'>The Hawaiian Kingdom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ebbinghaus-retention-curve'>Ebbinghaus Retention Curve</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=matilda-who-told-lies-and-was-burned-to-death-summary'>Matilda Who Told Lies And Was Burned To Death Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xiao-long-bao-chinese-characters'>Xiao Long Bao Chinese Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=function-of-diaphragm-in-microscope'>Function Of Diaphragm In Microscope</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=snapchat-captions-for-insta'>Snapchat Captions For Insta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-figlia-che-piange-prezi'>La Figlia Che Piange Prezi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-make-a-link-say-something-else-on-iphone'>How To Make A Link Say Something Else On Iphone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=operation-game-amazon'>Operation Game Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Where-did-Jane-Austen-live'>Where Did Jane Austen Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=allyson-felix-usain-bolt'>Allyson Felix Usain Bolt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=penitus-oculatus-armor'>Penitus Oculatus Armor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=academy-of-american-studies-bell-schedule'>Academy Of American Studies Bell Schedule</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=defion-internacional-official-website'>Defion Internacional Official Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nederman-fume-extraction'>Nederman Fume Extraction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hot-girl-lyrics'>Hot Girl Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Don-Lemon-Instagram'>Don Lemon Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=major-financial-crisis-in-the-world'>Major Financial Crisis In The World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-wrote-the-song-five-pounds-of-possum'>Who Wrote The Song Five Pounds Of Possum</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-city-of-tomorrow-and-its-planning-pdf'>The City Of Tomorrow And Its Planning Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kona-blue-mustang-2012'>Kona Blue Mustang 2012</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we-are-giants-lyrics'>We Are Giants Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barbara-ehrenreich-book'>Barbara Ehrenreich Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jeremy-Irons-voice'>Jeremy Irons Voice</a>,
+";s:7:"expired";i:-1;}

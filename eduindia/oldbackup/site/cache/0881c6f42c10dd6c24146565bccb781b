@@ -1,0 +1,89 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3437:"<br>The project is one of Le Corbusier's most well known. Le plan Voisin est un projet pour le centre de Paris, rive droite, dessiné entre 1922 et 1925 par Le Corbusier Histoire Le ... présenta au Salon d'automne de 1922 un plan pour une ville de trois millions d'habitants sur un terrain plat et vide, dégagé de toute construction antérieure. Theories of Urban Design. Plan Voisin was a planned redevelopment of central Paris designed by French Swiss architect Le Corbusier in 1925 and sponsored by his friend, the avante garde aircraft and automobile builder Gabriel Voisin, whose cutting-edge design ethic Le Corbusier admired.  Ya en 1922 había esbozado su proyecto de una Ville contemporaine pour trois milions d'habitants, ... Este esquema lo aplicó a su Plan Voisin para París, elaborado en 1925 con el patrocinio del fabricante de automóviles y aeroplanos Gabriel Voisin —anteriormente había tanteado a Peugeot y Citroën, que rehusaron—. Van Nostrand Reinhold Company, New York. Ville Radieuse bir diğer adıyla Radiant City, uygulanmamış olsa da Le Corbusier’nin en önemli şehircilik projelerinden bir tanesi. Le plan Voisin  est un projet pour le centre de Paris, rive droite, dessiné entre 1922 et 1925 par Le Corbusier. A new unit on a large scale (400 yards) inspires everything. <br> <br>2-7 in: TRANCIK, Roger (1986). The project is one of Le Corbusier's most well known. <br> 2-7 in: TRANCIK, Roger (1986). Perspective. La Ville Contemporaine, ... Ahora estamos muy familiarizados con la crítica de su Plan Voisin y la Ville Radieuse, que son responsables de innumerables desastres urbanos ejecutados en su espíritu. Finding Lost Space. Fig. Influenced by the linear city ideas of Milyutin and the theories of the syndicalist movement (that he had recently joined) he formulated a new vision of the ideal city, the Ville Radieuse. Ville contemporaine de trois millions d'habitants imaginée par Le Corbusier en 1922 Nel 1925 sempre nella stessa esposizione internazionale di Parigi, LC presenta una proposta urbanistica per il centro di Parigi che riprende i principi del modello di città per 3 milioni diabitanti: il Plan Voisin The development of an ideal. Proposes Ville Contemporaine (City for 3million inhabitants) Proposes Plan Voisin for Paris Europe 1930s Political instability through Europe Italy - Facism, Germany - Rise of Nazis, Russia - Stalinism France feeling delayed impact of World Economic Depression Le Corbusier now leader of the international modern move- ment. <br> <br>Il Plan Voisin è una soluzione urbanistica per il centro di Parigi, ... Il piano del 1925 sembra essere una trasposizione diretta della Ville contemporaine de trois millions d'habitants progettata nel 1922.  <br>Though the gridiron arrangement of the streets every 400 yards (sometimes only 200) is uniform (with a consequent ease in finding one’s way about), no two streets are in any way alike. Réalisation : Jacques Barsac et Christian Archambeaud, année : 1987L'architecte Charles-Edouard Jeanneret dit Le Corbusier commente les images de 3 projets non réalisés : la ville de trois millions d'habitants 1922, l'étude d'impact du Plan Voisin de Paris 1925, l'église de Firminy 1962. Finding Lost Space. Le Corbusier, daha önce üzerine çalıştığı Ville Contemporaine ve Plan Voisin projelerindeki başarısızlığı üzerine, yeni bir vizyon ile Villa Radieuse’yü tasarladı. <br>";s:7:"keyword";s:31:"ville contemporaine plan voisin";s:5:"links";s:3522:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-did-bob-suter-die'>How Did Bob Suter Die</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=life-is-a-precious-gift-from-god-quotes'>Life Is A Precious Gift From God Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-cage-dance-lyrics'>The Cage Dance Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=channel-5-news-des-moines'>Channel 5 News Des Moines</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pictures-of-noah%27s-ark-in-turkey'>Pictures Of Noah's Ark In Turkey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tribes-seth-godin-sparknotes'>Tribes Seth Godin Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Keith-Rogers-Kathryn-Stockett'>Keith Rogers Kathryn Stockett</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tamar-davis-on-the-voice-2016'>Tamar Davis On The Voice 2016</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clubfoot-sleep-problems'>Clubfoot Sleep Problems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=talley%27s-folly-burning-coal'>Talley's Folly Burning Coal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mona-home-delivery-cast'>Mona Home Delivery Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=World-War-2-flag'>World War 2 Flag</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Langston-Hughes-timeline'>Langston Hughes Timeline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Luther-Burbank-experiments'>Luther Burbank Experiments</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sharp-objects-characters'>Sharp Objects Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zinnia-seedlings-leggy'>Zinnia Seedlings Leggy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=non-distracting-or-undistracting'>Non Distracting Or Undistracting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blended-cast-lou'>Blended Cast Lou</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mandarin-language-learning'>Mandarin Language Learning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jia-yi-snow-kong'>Jia Yi Snow Kong</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-was-christopher-latham-sholes-born'>Where Was Christopher Latham Sholes Born</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yao-mingming-profile'>Yao Mingming Profile</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ukraine-and-russia-map'>Ukraine And Russia Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=literature-review-on-child-marriage-in-bangladesh'>Literature Review On Child Marriage In Bangladesh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ride-with-norman-reedus-2020'>Ride With Norman Reedus 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glenn-walken-wikipedia'>Glenn Walken Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Johnny-Depp-photoshoot'>Johnny Depp Photoshoot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=suburra-movie-netflix'>Suburra Movie Netflix</a>,
+";s:7:"expired";i:-1;}

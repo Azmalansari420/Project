@@ -1,0 +1,126 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2706:"<p>7/7/2020 1:15:02 PM GMT: Pasadena Water and Power: 65,000: 0: 7/2/2020 11:55:28 AM GMT: Riverside Public Utilities Department: 105,000: 11: 7/7/2020 1:15:02 PM GMT: Sacramento Municipal Utility District: 624,770: 0: 7/7/2020 9:34:24 AM GMT: San Diego Gas & Electric: 1,400,000: 348: 7/7/2020 1:15:05 PM GMT: Southern California Edison: 2,663,443: 386: 7/7/2020 1:15:05 PM GMT An extremely rare, controlled power outage that we enact as a last resort when there is a statewide Stage 3 Emergency declared. Post yours and see other's reports and complaints. Two California utility companies say they may have to cut power to 34 California counties, leaving an estimated 800,000 residents and businesses in the dark, along with 67 schools. </p> <p>Sometimes called a “rolling blackout.” Learn more about rotating outages > Public Safety Power Shutoff (PSPS) Event. Check current status and outage map. </p> <p>PG&E Power Outage Update, Shutoff Map as More Than 800,000 California Customers Left in the Dark Due to Wildfire Risk By Ewan Palmer On 10/9/19 at 4:15 AM EDT Share </p> <p>Outage Reports by Zip Codes. The explosion and subsequent fire caused brief power outages but no injuries were reported, authorities said. </p> <p>Most Recent Report Date: May 30, 2020. </p> <p>About Us.  </p> <p>Rotating Outage. Outage Reports by Zip Codes. There have been talks about power outages for over a decade. Sometimes called a “rolling blackout.” Learn more about rotating outages > Public Safety Power Shutoff (PSPS) Event. June 20, 2020, 7:07 p.m. @SCE @Meanderthal42 Hi there, SCE will typically notify customers of a critical outage ahead of time by mail, phone, or door hanger. @dagershman @sce, any info on power outage in San Dimas in area of SD Ave and Arrow up to Raging Waters? See if LADWP is having an outage in Northridge, Los Angeles County, California or it's just you. Rotating Outage. Power Outage in Tracy, California (CA). BAKERSFIELD, Calif. — While internet companies have prospered with little oversight in the past decade, 2020 ushers in a new era California with … Even without catastrophic fires, 2020 is likely to be a challenging year for businesses and other organizations across Northern California because of the planned power outage policies PG&E has enacted — all in addition to the challenges presented by the Coronavirus. I understand there is a power outage on Edom Hill, where our dish signal is transmitted from. Click on a state to see more information. Power Outage in Coronado, California (CA). </p> <p>Find out more on our About page. PowerOutage.us is an on going project created to track, record, and aggregate power outages across the united states. </p>";s:7:"keyword";s:28:"california power outage 2020";s:5:"links";s:8356:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Millennium-series-movies'>Millennium Series Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=east-is-east'>East Is East</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lagos%2C-nigeria-economy'>Lagos, Nigeria Economy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mockingjay-book-online'>Mockingjay Book Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eragon-game-ps2'>Eragon Game Ps2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=germany-a-winter%27s-tale-imdb'>Germany A Winter's Tale Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skins-2002-cast'>Skins 2002 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=samurai-western-ps2'>Samurai Western Ps2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clifford%27s-puppy-days-cast'>Clifford's Puppy Days Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=it%27s-mine-by-leo-lionni-pdf'>It's Mine By Leo Lionni Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richards-medical-research-laboratories-visit'>Richards Medical Research Laboratories Visit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-america-%282002-123movies%29'>In America (2002 123movies)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=varaha-meaning-in-english'>Varaha Meaning In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chip-and-dale-first-appearance'>Chip And Dale First Appearance</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clutch-band-songs'>Clutch Band Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rube-goldberg%27s-simple-normal-humdrum-school-day-read-aloud'>Rube Goldberg's Simple Normal Humdrum School Day Read Aloud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Quotes-for-teachers-from-students'>Quotes For Teachers From Students</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prosthetic-memory-landsberg-summary'>Prosthetic Memory Landsberg Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=google-drive-link-sharing'>Google Drive Link Sharing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=catherine-cusack-lcsw'>Catherine Cusack Lcsw</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nakano-broadway-gundam'>Nakano Broadway Gundam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=courage-to-be-yourself-quotes'>Courage To Be Yourself Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=keiko-agena-drums'>Keiko Agena Drums</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-was-the-sundance-kid-when-he-died'>How Old Was The Sundance Kid When He Died</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-court-of-frost-and-starlight-pdf-weebly'>A Court Of Frost And Starlight Pdf Weebly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Alice-Adams-novel'>Alice Adams Novel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=matt-o%27leary-instagram'>Matt O'leary Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=north-american-model-of-wildlife-conservation-problems'>North American Model Of Wildlife Conservation Problems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=CS-Lewis-transposition-summary'>CS Lewis Transposition Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=things-to-do-in-chefchaouen'>Things To Do In Chefchaouen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=family-sabbatical-meaning'>Family Sabbatical Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=claudia-lyrics-the-view'>Claudia Lyrics The View</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-blue-sky-aesthetic'>Dark Blue Sky Aesthetic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=golden-ratio-papyrus-location'>Golden Ratio Papyrus Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=imagination-lyrics-foster-meaning'>Imagination Lyrics Foster Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=homecoming-lyrics-hey-monday'>Homecoming Lyrics Hey Monday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-is-health-insurance-so-expensive-reddit'>Why Is Health Insurance So Expensive Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mary-Poppins---youtube'>Mary Poppins - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dervla-kirwan-children'>Dervla Kirwan Children</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=last-stop-locations'>Last Stop Locations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-love-again-original-singer-opm'>To Love Again Original Singer Opm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=luise-rainer-1937'>Luise Rainer 1937</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=norman-spinrad-the-iron-dream-pdf'>Norman Spinrad The Iron Dream Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kevin-olsen-wiki'>Kevin Olsen Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=columbus-ms-movie-theaters'>Columbus Ms Movie Theaters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dublin%2C-ca-map'>Dublin, Ca Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=el-narco%3A-the-bloody-rise-of-mexican-drug-cartels-pdf'>El Narco: The Bloody Rise Of Mexican Drug Cartels Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reef-blue-mustang'>Reef Blue Mustang</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-plays-sam-carmichael-in-mamma-mia'>Who Plays Sam Carmichael In Mamma Mia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jonathan-movie-ending-explained'>Jonathan Movie Ending Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fact-or-fiction-show-where-to-watch'>Fact Or Fiction Show Where To Watch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sheboygan-pizza-delivery'>Sheboygan Pizza Delivery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liber-abaci-sequence'>Liber Abaci Sequence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=outdoor-bleacher-seating'>Outdoor Bleacher Seating</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crossing-delancey-watch-online'>Crossing Delancey Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=walter-sickert-jack-the-ripper%27s-bedroom'>Walter Sickert Jack The Ripper's Bedroom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blondie-comic-characters'>Blondie Comic Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youngest-couple-in-the-world-today'>Youngest Couple In The World Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youtube-song-of-yesterday'>Youtube Song Of Yesterday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seals-on-chinese-scrolls'>Seals On Chinese Scrolls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-yo-son'>Michael Yo Son</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1-john-bible-study-tim-keller'>1 John Bible Study Tim Keller</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Late-Roman-Empire-map'>Late Roman Empire Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zathura-reading-level'>Zathura Reading Level</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=El-amor-despu%C3%A9s-del-amor'>El Amor Después Del Amor</a>,
+";s:7:"expired";i:-1;}

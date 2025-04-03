@@ -1,0 +1,85 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1182:"<br> <br> <br>Records, TVT Records: TVT 8731-0: US: 1995: Vendre cette version: JBO8024709: Underworld: Born Slippy Nuxx ‎ (DVD-V, Single, PAL) Junior Boy's Own, JBO, V2: JBO8024709: UK & Europe: 2003: Vendre cette version: Recommandations Avis Ajouter un Avis. <br> "Born Slippy .NUXX" is a song by British electronic group Underworld. Underworld est un groupe de musique électronique britannique qui a débuté un peu avant les années 1990 ... sera due à leur apparition sur la bande originale du film Trainspotting de Danny Boyle en 1996 grâce au single Born Slippy .NUXX. Paroles de la chanson Born Slippy (BOF Trainspotting) (Traduction) par Underworld Conduis, mec, jeune homme, une ange salie paralysée, mec Vers la porte, mec, elle avait un rouge à lèvres, mec Elle avait un beau mec et des larmes, mec Et dans ton espace intérieur, mec, tu avais Les mains de cette fille, mec, tu étais garçon au coeur dur <br> <br>Underworld: Born Slippy ‎ (12") Wax Trax! It was released in July 1996 as a single, and preceded in January 1995 by a release of the similarly named, but completely different track "Born Slippy", which featured "Born Slippy .NUXX" as a B side. ";s:7:"keyword";s:49:"sing and dance in your polka dot pants song video";s:5:"links";s:3042:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=medfield-state-hospital'>Medfield State Hospital</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fake-benchmade-crooked-river'>Fake Benchmade Crooked River</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=medically-induced-coma-recovery'>Medically Induced Coma Recovery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emerson-smartset-alarm-clock'>Emerson Smartset Alarm Clock</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Reproductive-System'>The Reproductive System</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ralph-steadman-mickey-mouse-shirt'>Ralph Steadman Mickey Mouse Shirt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=samurai-shodown-rpg-english-patch'>Samurai Shodown Rpg English Patch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=c-s-lewis-quotes-on-happiness'>C S Lewis Quotes On Happiness</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tuttle-publishing-chinese'>Tuttle Publishing Chinese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=d-h-lawrence-themes'>D H Lawrence Themes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Study-in-France-scholarship'>Study In France Scholarship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sea-dog-blueberry-beer'>Sea Dog Blueberry Beer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kurt-masur-gewandhaus'>Kurt Masur Gewandhaus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=letter-and-spirit-example'>Letter And Spirit Example</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alcatel-a3-xl-argos'>Alcatel A3 Xl Argos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reading-a-person-synonym'>Reading A Person Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=morgan-smith-goodwin-instagram'>Morgan Smith Goodwin Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sunflower-ebook'>The Sunflower Ebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fereydun-robert-%22fred%22-armisen'>Fereydun Robert "fred" Armisen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-day-of-doom-translation'>The Day Of Doom Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bird-in-a-cage-lyrics-old-97%27s'>Bird In A Cage Lyrics Old 97's</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-veil-%282016-ending-explained%29'>The Veil (2016 Ending Explained)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=domino%27s-charity-requests'>Domino's Charity Requests</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zachary-gibson-wikipedia'>Zachary Gibson Wikipedia</a>,
+";s:7:"expired";i:-1;}

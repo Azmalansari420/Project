@@ -1,0 +1,119 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4099:"<p>Find communities you're interested in, and become part of an online community! Reddit has a particular set of guidelines by which they ask their participants to behave. Reddit did … ‎What is Reddit? The ask and advice communities have often gained notoriety and made headlines for their seemingly melodramatic … In 2012, Yishan Wong, the site's then-CEO, stated, "We stand for free speech.This means we are not going to ban distasteful subreddits. Reddit is home to thousands of communities, endless conversation, and authentic human connection. In 2012, Yishan Wong, the site's then-CEO, stated, "We stand for free speech.This means we are not going to ban distasteful subreddits. Why is Reddit such a big deal? Whether you're into breaking news, sports, TV fan theories, or a never-ending stream of the internet's cutest animals, there's a community on Reddit for you. Start off with what you like and go from there. If you want to find subs that interest you Google is a good place to start. Reddit boasts more than 138,000 communities. How do I copy my subscriptions from one account to another? There are 100K active ones to choose from. If you really can't find one after searching then ask on r/findareddit. Reddit is where topics or ideas are arranged in communities. Start off with what you like and go from there. Reddit is known for a handful of communities that have taken on a life of their own, and that includes communities taking their efforts off Reddit entirely. Joining your favorite… Reddit has thousands of vibrant communities with people that share your interests. You can find them here. You can find literally anything on the Internet via Reddit. Feel free to post about your personal experiences living in community or to ask questions or discuss community-related news. Reddit also announced that its purge would include a subreddit with a hardcore far-left following, called "ChapoTrapHouse," and about 2,000 other communities. What is Reddit? A forum for discussing all aspects of intentional community - from co-housing to income sharing, secular and religious, large or small. Android You can find literally anything on the Internet via Reddit. </p> <p>Reddit will ban r/The_Donald, r/ChapoTrapHouse, and about 2,000 other communities today after updating its content policy to more explicitly … It’s an incredibly powerful, crowdsourced outlet. The social news site Reddit has occasionally been the topic of controversy due to the presence of communities on the site (known as "subreddits") devoted to explicit or controversial material. </p> <p>Whether you're into breaking news, sports, TV fan theories, or a never-ending stream of the internet's cutest animals, there's a community on Reddit for you. Reddit is where topics or ideas are arranged in communities. Stay informed about COVID-19 at r/coronavirus. Visit the Centers for Disease Control at cdc.gov for info. You can read all about how to create a community in our Mod Help Center. Reddit will ban r/The_Donald, r/ChapoTrapHouse, and about 2,000 other communities today after updating its content policy to more explicitly … Then Reddit's ask and advice communities may be the place for you. Managing Diverse Subscriptions: Use "multis" to make specialized playlists of subreddits. Reddit is also anonymous so you can be yourself, with your Reddit profile and persona disconnected from your real-world identity. How do I copy my subscriptions from one account to another? In order to have some consistency: Community Descriptions: Please describe what your community is, so that all users can find what they are looking … Online communities have a history of rebellion spanning over 30 years (my former employer, Imgur, had its own rebellion complete with homepage takeover a few weeks ago) but reddit … There are 100K active ones to choose from. Communities are active, in relation to their size and purpose, and where they are not, they are open to ideas and leadership that may make them more active. Alternatively, find out what’s trending across all of Reddit on r/popular. </p>";s:7:"keyword";s:21:"reddit my communities";s:5:"links";s:7294:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sweet-rice-porridge'>Sweet Rice Porridge</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=good-for-nothing-sale'>Good For Nothing Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tina-majorino-waterworld'>Tina Majorino Waterworld</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=takiyasha-the-witch-and-the-skeleton-specter-from-the-story-of-ut%C3%B6-yasutaka'>Takiyasha The Witch And The Skeleton Specter From The Story Of Utö Yasutaka</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-kay-inventor'>John Kay Inventor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=catwoman-vs-max-shreck-batman-returns'>Catwoman Vs Max Shreck Batman Returns</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-shot-jesse-james'>Who Shot Jesse James</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sim-Bhullar-height'>Sim Bhullar Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Viva-la-Vida%2C-Watermelons'>Viva La Vida, Watermelons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shang-dagger-facts'>Shang Dagger Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dragon-rider-game'>Dragon Rider Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=teddy-geiger-emma-stone'>Teddy Geiger Emma Stone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=freaky-ali-netflix'>Freaky Ali Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1908-pattern-cavalry-sword-for-sale'>1908 Pattern Cavalry Sword For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=iq-children%27s-books'>Iq Children's Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gangsta-boo-run-the-jewels-4'>Gangsta Boo Run The Jewels 4</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=next-to-of-course-god-america-i-litcharts'>Next To Of Course God America I Litcharts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Body-embodiment-definition'>Body Embodiment Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spokane-arena-capacity'>Spokane Arena Capacity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pop-art-definition'>Pop Art Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=copycat-pokemon-smogon'>Copycat Pokemon Smogon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=merrick-backcountry-treats'>Merrick Backcountry Treats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-kind-of-the-golden-river'>The Kind Of The Golden River</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=html-quotation-marks'>Html Quotation Marks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-wyatt-poems-pdf'>Thomas Wyatt Poems Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barbara-ehrenreich-book'>Barbara Ehrenreich Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=distributed-cognition-framework'>Distributed Cognition Framework</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Emmy-Dragon-Tales'>Emmy Dragon Tales</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mark-allen-hicks'>Mark Allen Hicks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=italian-mafia-tattoos'>Italian Mafia Tattoos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=montage-of-a-dream-deferred-publisher'>Montage Of A Dream Deferred Publisher</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-tall-is-victoria-everglot'>How Tall Is Victoria Everglot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ocean-drive%2C-miami-restaurant'>Ocean Drive, Miami Restaurant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-live-and-die-in-la-wait'>To Live And Die In La Wait</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=romance-is-a-bonus-book-episodes'>Romance Is A Bonus Book Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rollercoaster-tycoon-3-attractions'>Rollercoaster Tycoon 3 Attractions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-make-a-link-say-something-else-on-iphone'>How To Make A Link Say Something Else On Iphone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donald-l-miller-masters-of-the-air'>Donald L Miller Masters Of The Air</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-is-james-galway-famous'>Why Is James Galway Famous</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Sword-of-Justice'>The Sword Of Justice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atlas-shrugged-summary-reddit'>Atlas Shrugged Summary Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tom-rodriguez-wiki'>Tom Rodriguez Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Imaginarium-of-Doctor-Parnassus-full-movie'>The Imaginarium Of Doctor Parnassus Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Joel-Hoekstra-TSO'>Joel Hoekstra TSO</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghosts-of-the-shadow-market-forever-fallen'>Ghosts Of The Shadow Market Forever Fallen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-moon-movie-cast'>Blue Moon Movie Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-alex-gibney-documentaries'>Best Alex Gibney Documentaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prince-of-tennis-captain'>Prince Of Tennis Captain</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trueform-runner-uk'>Trueform Runner Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nihon-shoki-and-kojiki'>Nihon Shoki And Kojiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sword-ninja-game'>Sword Ninja Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chu-ci-Amazon'>Chu Ci Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Robocar-POLI-Roy'>Robocar POLI Roy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2021-basketball-recruiting'>2021 Basketball Recruiting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nielsen-norman-group-ux-certification-reviews'>Nielsen Norman Group Ux Certification Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Solar-Film'>The Solar Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=estranged-movie-2016'>Estranged Movie 2016</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jocelyn-lane-death'>Jocelyn Lane Death</a>,
+";s:7:"expired";i:-1;}

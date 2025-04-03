@@ -1,0 +1,115 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1842:"Since 1972, Bavarian artist Nils-Udo has worked directly with nature to create stunning, site-specific works of art that celebrate the beauty of the land.  Found berries, leaves, branches, and blossoms are transformed into captivating pieces evocative of mysterious portals and dreamy fairy realms deep in the woods. Du Connemara à la Réunion, de l’île de Vassivière à Central Park, ce globe-trotter conçoit chaque intervention avec les matériaux collectés sur place. GUIDE_EXPOSITION. Eruption d'été par Nils-Udo - Champagne Nicolas Feuillatte. Des constructions poétiques et justes, en harmonie avec le territoire. Peindre avec des nuages et dessiner avec des fleurs, Nils Udo le fait! D’abord peintre, Nils Udo a abandonné les tableaux pour se consacrer à la création d’œuvres imposantes dans l’environnement. Habitué à réaliser des installations dans la nature, l'artiste allemand Nils-Udo a reçu carte blanche de la part de la Fondation groupe EDF pour une oeuvre dans un espace intérieur. Du 23 novembre au 25 janvier 2014 La galerie Claire Gastaud présente la 4ème exposition personnelle du photographe Nils-Udo. Nils Udo, la Couvée. La photographie, qui est en quelque sorte l’acte final de La Couvée, sera présentée pour la première fois lors de l’exposition que la Galerie Claire-Gastaud consacre à Nils-Udo du 22 septembre au 3 novembre. <br> <br>Nils Udo expose son nid et ses oeuvres au Musée de la Poste à Paris. Nils Udo Le Nid,1978, terre, pierres, bouleaux et herbe. Nils Udo.wmv. Interview vidéo - Nils Udo Rédigé le 04/06/2011 (dernière modification le 18/06/2011) Nils Udo: le double prénom est devenu son nom d'artiste. Précurseur du mouvement « Art in Nature », il interagit sur le paysage sans jamais le violenter. Nils-Udo has Big Ideas. Radeau d'automne de Nils-Udo. ";s:7:"keyword";s:18:"nils udo interview";s:5:"links";s:6708:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=winnie-the-pooh-halloween-%28dvd%29'>Winnie The Pooh Halloween (dvd)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=John-Ottman-editing'>John Ottman Editing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=human-trafficking-countries-list-2019'>Human Trafficking Countries List 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=papa-john%27s-golden-ticket'>Papa John's Golden Ticket</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=work-trap-remix'>Work Trap Remix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richmond-va-%3E-gis'>Richmond Va > Gis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mineral-baby-names'>Mineral Baby Names</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=avalanche-sharks-full-movie-english'>Avalanche Sharks Full Movie English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maynard-dixon%2C-cloud-world'>Maynard Dixon, Cloud World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Marathon-of-Desires'>The Marathon Of Desires</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=top-10-issues-in-higher-education'>Top 10 Issues In Higher Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marco-de-los-apeninos-a-los-andes'>Marco De Los Apeninos A Los Andes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=playing-hardball-meaning'>Playing Hardball Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flush-chapter-22'>Flush Chapter 22</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=karmarama-social-media'>Karmarama Social Media</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bucket-list-Lake-District'>Bucket List Lake District</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Don-Lemon-Instagram'>Don Lemon Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-girl-in-the-train-agatha-christie'>The Girl In The Train Agatha Christie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=foxtrot-dance-origin'>Foxtrot Dance Origin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cleo-Beth-Fincher'>Cleo Beth Fincher</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=night-windows-the-weakerthans'>Night Windows The Weakerthans</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bruno-bauer-die-judenfrage'>Bruno Bauer Die Judenfrage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=l-impromptu-de-versailles-summary'>L Impromptu De Versailles Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=st-thomas-feast-day-2020'>St Thomas Feast Day 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=puppy-breath-candle'>Puppy Breath Candle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=first-history-book-in-tamil'>First History Book In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prosthetic-memory-landsberg-summary'>Prosthetic Memory Landsberg Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bruce-Almighty-google-drive'>Bruce Almighty Google Drive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-enrique-murciano-married'>Is Enrique Murciano Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sterling-knight-spouse'>Sterling Knight Spouse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dive-shows-uk-2019'>Dive Shows Uk 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=picnicing-or-picnicking'>Picnicing Or Picnicking</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sprinter-van-camper'>Sprinter Van Camper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tycoon-games-unblocked-hacked'>Tycoon Games Unblocked Hacked</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%C3%89owyn-and-Theoden'>Éowyn And Theoden</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=berghaus-windshirt-90-blue'>Berghaus Windshirt 90 Blue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-big-wide-mouthed-frog'>The Big Wide-mouthed Frog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chynna-phillips-kids'>Chynna Phillips Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-caused-the-fall-of-the-soviet-union'>What Caused The Fall Of The Soviet Union</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=strongarm-sport-canada'>Strongarm Sport Canada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=citadel-london-salary'>Citadel London Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dead-air-fine'>Dead Air Fine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=watch-unfriended%3A-dark-web'>Watch Unfriended: Dark Web</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we%27re-the-millers-online'>We're The Millers Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=loyal-lyrics-ceraadi'>Loyal Lyrics Ceraadi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glass-houses-trailer'>Glass Houses Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-demi-paradise-wiki'>The Demi Paradise Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=react-markdown-tutorial'>React Markdown Tutorial</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=learning-telugu-through-english-words'>Learning Telugu Through English Words</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edward-watson-photography'>Edward Watson Photography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-stroke-dictionary'>Chinese Stroke Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=y2k-lalala-speedrun'>Y2k Lalala Speedrun</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mindsight%3A-the-new-science-of-personal-transformation'>Mindsight: The New Science Of Personal Transformation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=twiggy-60s-makeup'>Twiggy 60s Makeup</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,136 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2950:"<p>Bruce Gordon, Professor of History, University of St. Andrews </p> <p>203-432-5355. bruce.gordon@yale.edu. Bruce Gordon (born 1962) is Titus Street Professor of Ecclesiastical History at Yale Divinity School.Gordon specializes in late-medieval and early modern religious culture.. Works. 06511 . Department: DIVDEA Dean. </p> <p>I taught from 1994 to 2008 at the University of St Andrews, My experience at YDS pushed me to better appreciate spiritual mentors in and out of class. A native of Canada, Bruce Gordon taught at the University of St. Andrews in Scotland, where he was professor of modern history and deputy director of the St Andrews Reformation Studies Institute. Website. Bruce Gordon Titus Street Professor of Ecclesiastical History Yale Divinity School with Secondary Appointment in the Department of History (September, 2012) 409 Prospect Street New Haven, CT 06511 Tel. </p> <p>Yale. Bruce Gordon, Professor of Ecclesiastical History. His small frame, brilliant intellect, fiery temper, divinely empowered work ethic and zeal for the glory of God in Christ compel me to get to know this man. Fields of Interest: European religious cultures of the … 203-432-5355. bruce.gordon@yale.edu. Faculty mentorship. 203-432-5355. He has written extensively on late-medieval and Reformation religious history, including a biography of John Calvin (2009) and a study of Calvin’s Institutes of the Christian Religion… </p> <p>Bruce Gordon Prior to joining the faculty at Yale, Gordon was professor of modern history and deputy director of the Reformation Studies Institute at the University of St. Andrews in Scotland. </p> <p>409 Prospect Street . His particular interests include the Swiss and German Reformations, Bibles, devotional literature, the clergy, death … European Studies Council. </p> <p>Website. Bruce Gordon Prior to joining the faculty at Yale, Gordon was professor of modern history and deputy director of the Reformation Studies Institute at the University of St. Andrews in Scotland. (203) 432‐5355 Bruce. Calvin (Yale University Press, 2009); John Calvin’s Institutes of the Christian … Home > People > Bruce Gordon. Field of Interest: American Religious History. Bruce Gordon’s research focuses on European religious cultures of the late-medieval and early modern periods, with a particular interest in the Reformation in German-speaking lands. Gordon, Bruce. He came to Yale in 2008. Bruce Gordon, Titus Street Professor of Ecclesiastical History, a native of Canada, taught at the University of St Andrews, Scotland before coming to Yale Divinity School in 2008. </p> <p>Yale. Bruce Gordon Titus Street Professor of Ecclesiastical History, Director of Graduate Studies, European Studies Council. Bruce Gordon, the newly appointed Titus Street Professor of Theology, is a specialist in late-medieval and early-modern religious history. (203) 432-5355 . Website. Gordon@yale.edu ACADEMIC APPOINTMENTS </p>";s:7:"keyword";s:17:"bruce gordon yale";s:5:"links";s:9572:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clorox-fuzion-spec-sheet'>Clorox Fuzion Spec Sheet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=illuminae-files-characters'>Illuminae Files Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=iq-by-roland-smith-characters'>Iq By Roland Smith Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-rintoul-taggart'>David Rintoul Taggart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=howard-lee-schiff-bank-of-america'>Howard Lee Schiff Bank Of America</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghibli-museum-tour-tickets'>Ghibli Museum Tour Tickets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charlie-and-the-chocolate-factory-chapter-2-questions'>Charlie And The Chocolate Factory Chapter 2 Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=murder-in-amsterdam%3A-the-death-of-theo-van-gogh'>Murder In Amsterdam: The Death Of Theo Van Gogh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=int-ka-full-form'>Int Ka Full Form</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=learn-syriac-language-pdf'>Learn Syriac Language Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-LaChapelle-most-famous-work'>David LaChapelle Most Famous Work</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cy-young-death'>Cy Young Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=corduroy-craft-template'>Corduroy Craft Template</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=le-m%C3%A9pris-summary'>Le Mépris Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=explanation-of-chapter-print-culture-and-the-modern-world-class-10'>Explanation Of Chapter Print Culture And The Modern World Class 10</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=albemarle-county-gis-basic-address-search'>Albemarle County Gis Basic Address Search</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeff-broin-net-worth'>Jeff Broin Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=it-wasn%27t-me-george-thorogood'>It Wasn't Me George Thorogood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pippin-revival-cast'>Pippin Revival Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=games-without-frontiers-legion'>Games Without Frontiers Legion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rome-festivals-2020'>Rome Festivals 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aimi-kobayashi-youtube'>Aimi Kobayashi Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dc-superhero-girls%3A-hero-of-the-year'>Dc Superhero Girls: Hero Of The Year</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=samurai-rebellion-imdb'>Samurai Rebellion Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ben-shapiro-show-966'>Ben Shapiro Show 966</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jason-salda%C3%B1a-movies-and-tv-shows'>Jason Saldaña Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Emilie-Schindler-maiden-name'>Emilie Schindler Maiden Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kyle-cooke-baseball-wikipedia'>Kyle Cooke Baseball Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i%27m-gonna-wait-for-a-long-time-life-is-strange-2'>I'm Gonna Wait For A Long Time Life Is Strange 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=el-dorado-park-softball'>El Dorado Park Softball</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=halley-gross-last-of-us-2'>Halley Gross Last Of Us 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=max-lucado-bookstore'>Max Lucado Bookstore</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ireland-flight-cost'>Ireland Flight Cost</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-autobiography-mussolini'>My Autobiography Mussolini</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rhythmbox-ubuntu-install'>Rhythmbox Ubuntu Install</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cities-in-usa'>Cities In Usa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alexandra-petri-political-views'>Alexandra Petri Political Views</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glen-or-glenda'>Glen Or Glenda</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=serayah-mcneill-instagram'>Serayah Mcneill Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=halloween-wiki-fandom'>Halloween Wiki Fandom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=white-chocolate-peppermint-pie'>White Chocolate Peppermint Pie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=earth-day-poems-for-high-school'>Earth Day Poems For High School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=torch-lighter-refill'>Torch Lighter Refill</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=preston-tucker-milb'>Preston Tucker Milb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blondie-comic-characters'>Blondie Comic Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hopscotch-coding-lessons'>Hopscotch Coding Lessons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mad-magazine-back-issues-online'>Mad Magazine Back Issues Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Youth-and-other-stories'>Youth And Other Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=equity-for-land-development'>Equity For Land Development</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dorothea-lange-landscape'>Dorothea Lange Landscape</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-gaither-singers'>List Of Gaither Singers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=winery-day-trips-from-rome'>Winery Day Trips From Rome</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jackpot-lottery-chart'>Jackpot Lottery Chart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sophistry-in-advertising'>Sophistry In Advertising</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lucas-Neff-Instagram'>Lucas Neff Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-victims%27-game-netflix-review'>The Victims' Game Netflix Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-was-a-doctor-in-auschwitz-sparknotes'>I Was A Doctor In Auschwitz Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=romance-novels-with-jealousy'>Romance Novels With Jealousy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=up-on-the-roof-lyrics-and-chords'>Up On The Roof Lyrics And Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=horrible-vintage-recipes'>Horrible Vintage Recipes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sunshine-sketches-of-a-little-town-character-analysis'>Sunshine Sketches Of A Little Town Character Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=breaking-news-houston'>Breaking News Houston</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=solitude-skyrim-execution'>Solitude Skyrim Execution</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zoey-tur-kobe'>Zoey Tur Kobe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tupolev-tu-144-interior'>Tupolev Tu-144 Interior</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Finnish-to-English'>Finnish To English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angel%27s-last-mission%3A-love-ep-1-eng-sub-dramacool'>Angel's Last Mission: Love Ep 1 Eng Sub Dramacool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wang-zhizhi-height'>Wang Zhizhi Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=veuve-clicquot-champagne-price'>Veuve Clicquot Champagne Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kanaa-full-movie-in-hotstar'>Kanaa Full Movie In Hotstar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=loverboy-drink-owner'>Loverboy Drink Owner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sara-aaronson-mankiewicz'>Sara Aaronson Mankiewicz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lota-de-macedo-soares-death'>Lota De Macedo Soares Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elina-meaning-in-arabic'>Elina Meaning In Arabic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bnd-of-doom-mask'>Bnd Of Doom Mask</a>,
+";s:7:"expired";i:-1;}

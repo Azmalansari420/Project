@@ -1,0 +1,128 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5687:"<p>Online LaTeX equation editor, generate your mathematical expressions using LaTeX with a simple way. Fortunately, there's a tool that can greatly simplify the search for the command for a specific symbol. If you see an expression in the exponent, treat it as though it had parentheses around it. Functions ln log exp lg sin cos tan csc sec cot sinh cosh tanh coth arcsin arccos arctan arccsc arcsec arccot argsinh argcosh argtanh 3 posts • Page 1 of 1 Occasionally, an expression has nested parentheses: one or more sets of parentheses inside another set. Here we arrange the equations in three columns. However, automatic sizing is not good in every case; one of these cases is precisely that of summations with limits above and below: compare the results of \[ \left( \sum_{i=1}^{n-1} i … Un éditeur LaTeX en ligne facile à utiliser. Update : Looks like I found a great reference on Wikipedia - never thought they'd have LaTeX info (I mean, most of the stuff I'm looking for is pretty obscure, but this takes the cake). That leaves the ##Q_1## in a silly place, but you can fix that with the \vphantom{} command. In case of equations, there is \eqref of package amsmath that adds parentheses around the equation number. LaTeX is a powerful tool to typeset math; Embed formulas in your text by surrounding them with dollar signs $; The equation environment is used to typeset one formula; The align environment will align formulas at the ampersand & symbol; Single formulas must be seperated with two backslashes \\; Use the matrix environment to typeset matrices; Scale parentheses with \left( \right) automatically </p> <p>Displayed equations. When it comes to evaluating expressions that contain parentheses, you can follow these steps: Evaluate the contents of parentheses, from the inside out. In math, parentheses — ( ) — are often used to group together parts of an expression. Again, use * to toggle the equation numbering. Have the student type 2/(7+3) and hit enter. – Heiko Oberdiek Apr 22 … ?”How to cross-reference another documentCross Referencing numbers missing for the Sections only, of a document prepared … As you see, the way the equations are displayed depends on the delimiter, in this case \[ \] and \( \). In your example, you might write this instead: "This is a fact related to equation (6) you passed many pages ago." If you use the amsmath package, then you can type \eqref instead of \ref, and the parentheses around the cited equation number will be supplied automatically. The size of brackets and parentheses can be manually set, or they can be resized … This function also works for displaying parentheses around a returned answer. \end{equation} a= b+ c (1) In case one does not want to have an equation number, the *-version is used: \begin{equation*} a = b + c \end{equation*} a= b+ c All other possibilities of typesetting simple equations have disadvantages: The displaymath-environment o ers no equation-numbering. \documentclass{article} \begin{document} This is your only binary choices \begin{math} \left\{ \begin{array}{l} 0\\ 1 \end{array} \right. Place parentheses around a cross-referenceHow to auto bracket ( ) referenced math equation numbers?What is null and when do we need to use it?Cross-Reference with custom textLatex - Miktex cross references linking back to ref pointCross reference figure appears as “? Open an example in Overleaf. L a T e X allows two writing modes for mathematical expressions: the inline mode and the display mode. </p> <p>Use the [latex]\pm[/latex] in front of the radical to separate the solution into two values: one in which the square root is added and one in which it is subtracted. LaTeX forum ⇒ Math & Science ⇒ Parentheses in math mode that are both larger AND bold Information and discussion about LaTeX's math and science related features (e.g. That can be achieve in plain LaTeX without any specific package. </p> <p>Règles du forum Merci d'éviter le style SMS dans vos messages et de penser à utiliser la fonction Recherche avant de poster un message. The LaTeX commands to format a formula as a display differ from the commands to format an inline formula only in the choice of the delimiters that identify mathematics mode. Evaluate […] </p> <p>If you are writing this in LaTeX, … Simplify both values to get the possible solutions. In elementary algebra parentheses, ( ), are used to specify the order of operations.Terms inside the bracket are evaluated first; hence 2×(3 + 4) is 14 and 20 ÷ (5(1 + 1)) is 2 and (2×3) + 4 is 10. Place parentheses around a cross-referenceHow to auto bracket ( ) referenced math equation numbers?What is null and when do we need to use it?Cross-Reference with custom textLatex - Miktex cross references linking back to ref pointCross reference figure appears as “? Expressions with nested parentheses. </p> <p>In the following example, the pair \[and \] delimit display mathematics mode.. ?”How to cross-reference another documentCross Referencing numbers missing for the Sections only, of a document prepared … Open an example in Overleaf.  \label {eq:Maxwell}, which will reference the main equation (1.1 above), or adding a label at the end of each line, before the \\ command, which will reference the sub-equation (1.1a or 1.1b above). Pour joindre des fichiers à vos messages, consulter ce sujet. </p> <p>TeX - LaTeX Stack Exchange is a question and answer site for users of TeX, LaTeX, ConTeXt, and related typesetting systems. Open an example of the amsmath package in Overleaf \vphantom{} works out the vertical height of what is inside the {}, and creates an invisible zero-width object of that size. </p>";s:7:"keyword";s:33:"parentheses around equation latex";s:5:"links";s:8322:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=columbine-flower-care'>Columbine Flower Care</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=delia-owens-bio'>Delia Owens Bio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=24-hours-in-a-day'>24 Hours In A Day</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-birthday-party'>The Office Birthday Party</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=advantages-of-soil-conservation'>Advantages Of Soil Conservation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jamie-zhu-wealth'>Jamie Zhu Wealth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Andrea-Hartman-age'>Andrea Hartman Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Amy-Walter-Kathryn-Hamm'>Amy Walter Kathryn Hamm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miley-cyrus---nothing-breaks-like-a-heart-chords'>Miley Cyrus - Nothing Breaks Like A Heart Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tim-winton-the-turning'>Tim Winton The Turning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=for-love-and-lemons-corset'>For Love And Lemons Corset</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=contend-definition-in-greek'>Contend Definition In Greek</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Finnish-to-English'>Finnish To English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=english-feedback-comments'>English Feedback Comments</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=milano-stiletto-gold'>Milano Stiletto Gold</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=annie%27s-gummies-vegan'>Annie's Gummies Vegan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=County-Donegal-points-of-interest'>County Donegal Points Of Interest</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maldon-district-council-grants'>Maldon District Council Grants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=explain-the-process-of-removing-a-president-from-office'>Explain The Process Of Removing A President From Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atlantic-beach%2C-fl-map'>Atlantic Beach, Fl Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-are-boon-baby-products-made'>Where Are Boon Baby Products Made</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-second-bakery-attack-quotes'>The Second Bakery Attack Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pasta-salad-ideas'>Pasta Salad Ideas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aaron-stanford-%28pyro%29'>Aaron Stanford (pyro)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=train-lyrics-marry-me'>Train Lyrics Marry Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Underwater-Doggies-Colors'>Underwater Doggies Colors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dmitry-utkin-artist'>Dmitry Utkin Artist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angels-and-airwaves---kiss-and-tell-girl'>Angels And Airwaves - Kiss And Tell Girl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-gaider-books'>David Gaider Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=possession%2C-byatt-analysis'>Possession, Byatt Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=najma-akhtar---five-rivers'>Najma Akhtar - Five Rivers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=majestic-bar-koh-lanta'>Majestic Bar Koh Lanta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=golden-fluid-acrylics-hobby-lobby'>Golden Fluid Acrylics Hobby Lobby</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meridian-bank-careers'>Meridian Bank Careers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=homecoming-lyrics-hey-monday'>Homecoming Lyrics Hey Monday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=somewhere-i-have-never-travelled%2C-gladly-beyond-meter'>Somewhere I Have Never Travelled, Gladly Beyond Meter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=giuseppe-andrews-movies'>Giuseppe Andrews Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=terence-young-hawaii'>Terence Young Hawaii</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mona-home-delivery-cast'>Mona Home Delivery Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aboriginal-australia-jack-davis'>Aboriginal Australia Jack Davis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=job-satisfaction-quotes'>Job Satisfaction Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rihanna-songs-2007'>Rihanna Songs 2007</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skins-2002-cast'>Skins 2002 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jimmy-p%27s-bonita'>Jimmy P's Bonita</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apache-corporation-headquarters-address'>Apache Corporation Headquarters Address</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=humano-llc-phone-number'>Humano Llc Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sodexo-application-status'>Sodexo Application Status</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=feng-qingyang-vs-dongfang-bubai'>Feng Qingyang Vs Dongfang Bubai</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-piller-fade-in-pdf'>Michael Piller Fade In Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=horse-colors-chart'>Horse Colors Chart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=you-know-in-german'>You Know In German</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=voice-translator-pen'>Voice Translator Pen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-there-going-to-be-a-replicas-2'>Is There Going To Be A Replicas 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jhabua-power-limited-corporate-office'>Jhabua Power Limited Corporate Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=City-of-Truth'>City Of Truth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rick-owens-ramones'>Rick Owens Ramones</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dayton-industrial-supply'>Dayton Industrial Supply</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shanghai-express-restaurant-menu'>Shanghai Express Restaurant Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=staples-high-school-class-of-1970'>Staples High School Class Of 1970</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naruto-shoes-collab'>Naruto Shoes Collab</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=claudio-reyna-height'>Claudio Reyna Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=samurai-helmet-meaning'>Samurai Helmet Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue%27s-room-games'>Blue's Room Games</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Custom-painted-heels'>Custom Painted Heels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=northwest-passage-antonym'>Northwest Passage Antonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=between-her-and-me'>Between Her And Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2-thessalonians-1%3A12%2C-kjv'>2 Thessalonians 1:12, Kjv</a>,
+";s:7:"expired";i:-1;}

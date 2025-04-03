@@ -1,0 +1,101 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2754:"<p>Butch Cassidy is played by Scott Paulin. Butch Cassidy's log cabin hideout at Cholila, in the remote Patagonia, Argentina; Abandoned House in the Ghost Town of Grafton near Zion National Park in Utah; The Alonzo Russell Home. By some point in 1902, Cassidy was in South America and he and Longabaugh, using assumed names, had purchased land in Argentina’s Cholila, where they ran a ranching operation. Robert Parker and Harry Longabaugh, known by name of outlaws, Butch Cassidy and Sundance Kid, along with Etta Place arrived in 1902 and bought a farm in the Tigre River near Cholila.The money came from the great Northern train robbery in 1901. Tiny Cholila is a scenic blip just off RN 40 that holds a curious piece of frontier history. From Buenos Aires, they traveled south to Chubut. In 1901, the notorious train and bank robber Robert Leroy Parker (aka Butch Cassidy), along with accomplices, Harry Alonzo Longabaugh (aka the Sundance Kid) and Etta Place (Longabaugh's female companion) traveled from New York City to Buenos Aires, Argentina, aboard the British steamer Herminius. Although they’d wanted to settle down as respectable ranchers, it wasn’t long before Cassidy and Longabaugh were tempted back into crime. The trio had settled in a four-room log cabin on a 15,000-acre ranch they’d purchased on Rio Blanco near Cholila, Argentina a few years earlier. He is played by Thomas Ian Griffith. The letter was posted in Cholila. </p> <p>Butch Cassidy, the Sundance Kid and Etta Place tried settling down and making an honest living near this quiet farming community outside the northeast entrance to Parque Nacional Los Alerces. The population of the town in 2010 was 1,560 and its elevation above sea level was 560 metres (1,840 ft) Cholila is located a few hundred meters from Pellegrini Lake, also called Lago do los Mosquitos, 461 hectares (1,140 acres) in surface area. The town of Cholila has the peculiarity of being made up of no less than four splendid valleys: the valley "El Cajon", the valley "El Rincón", the valley "El Blanco" and the valley "Villa Lago Rivadavia".. Cholila is located northeast of the province of Chubut, on National Route 40 in the middle of the Andes.. Cholila See map. 1999: The Secret of Giving is a Family movie that has a fictionalized version of Butch Cassidy under the alias Harry Withers. Cholila, Argentina is a town located in Cushamen Department, Chubut Province, Argentina. </p> <p>2006: Outlaw Trail: The Treasure of Butch Cassidy is an adventure film about a fictional "lost treasure" hidden by Butch Cassidy. (And Cassidy probably had gonorrhea.) </p> <p>This was the location of the bicycle scene in the movie 'Butch Cassidy and the Sundance Kid'. It is located in Patagonia.  </p>";s:7:"keyword";s:31:"butch cassidy cholila argentina";s:5:"links";s:5126:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fortnite-youtubers-that-died'>Fortnite Youtubers That Died</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=couture-kids-beverly-hills'>Couture Kids Beverly Hills</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=asia%27h-epperson-bobby-brown-story'>Asia'h Epperson Bobby Brown Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=according-to-siegel-the-most-fundamental-criticism-of-relativism-is-that-the-doctrine-is'>According To Siegel The Most Fundamental Criticism Of Relativism Is That The Doctrine Is</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lift-support-hardware'>Lift Support Hardware</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shuriken-naruto-origami'>Shuriken Naruto Origami</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deanna-mustard-princess-daisy'>Deanna Mustard Princess Daisy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chad-buchanan-imdb'>Chad Buchanan Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elementary-teaching-jobs-in-ct'>Elementary Teaching Jobs In Ct</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Instruments-of-Darkness'>Instruments Of Darkness</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tommy-davidson-parents'>Tommy Davidson Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edge-forum-amsterdam'>Edge Forum Amsterdam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Iron-Cross-First-Class'>Iron Cross First Class</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2001-washington-wizards'>2001 Washington Wizards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-American-Agent%3A-a-Maisie-Dobbs-novel'>The American Agent: A Maisie Dobbs Novel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mistward-throne-of-glass'>Mistward Throne Of Glass</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=simply-christian-chapter-5-summary'>Simply Christian Chapter 5 Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=10-branches-of-theology'>10 Branches Of Theology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sea-is-calling-and-i-must-go-quote'>The Sea Is Calling And I Must Go Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ian-McNeice-wife'>Ian McNeice Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-man-who-laughs-victor-hugo'>The Man Who Laughs Victor Hugo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antiquity-time-period'>Antiquity Time Period</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=focusrite-scarlett-2i2-software'>Focusrite Scarlett 2i2 Software</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marcel-breuer-cesca-chair-replica'>Marcel Breuer Cesca Chair Replica</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=man-down-bear'>Man Down Bear</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=micmac-meaning-french'>Micmac Meaning French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unknown-fortnite-twitch'>Unknown Fortnite Twitch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-rager-movies'>Chris Rager Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=couture-kids-beverly-hills'>Couture Kids Beverly Hills</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-herrick-death'>Robert Herrick Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=danielle-steel-heartbeat-movie'>Danielle Steel Heartbeat Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devil%27s-canyon-cpu'>Devil's Canyon Cpu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=playing-with-fire-documentary-vimeo'>Playing With Fire Documentary Vimeo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maria-montessori-quotes'>Maria Montessori Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=m4a1-s-cyrex-%28field-tested%29'>M4a1-s Cyrex (field-tested)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Laura-Childs-Battered-Eggs'>Laura Childs Battered Eggs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-did-cheyenne-and-cory-meet'>How Did Cheyenne And Cory Meet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-live-and-die-in-la-wait'>To Live And Die In La Wait</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=New-Rochelle-Zip-Code'>New Rochelle Zip Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=giorgia-whigham-net-worth'>Giorgia Whigham Net Worth</a>,
+";s:7:"expired";i:-1;}

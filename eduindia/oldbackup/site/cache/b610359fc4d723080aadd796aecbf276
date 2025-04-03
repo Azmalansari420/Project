@@ -1,0 +1,161 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3951:"<br>Given that the swashbuckler is a rogue archetype, no matter how heroic you intend your PC to be, I think it’s worth giving your swashbuckler a story that explains why they are so adept at slinking into the shadows, picking locks and conning wealthy widow(er)s into signing off their heirlooms and estates into your possession. This replaces the swashbuckler’s weapon and armor proficiency. Go swashbuckler all the way. Magic. Tyler's Pathfinder Guides. Add the Magical Knack trait for an increase in caster level so you can activate scrolls more easily. Races of Pathfinder: An Optimization Guide. The Swashbuckler is my favorite Pathfinder class, so here are some tips from my experience playing, as well as some Enchantments, Feats, and Magic Items I found invaluable.  Swashbuckler is perhaps the weakest martial PC class in Pathfinder: Even with feat investment its damage can't really compete with a great sword wielding Warrior whose only feat is power attack, while its AC takes too long to surpass heavy armor, and doesn't even get the wealth of quality archetypes the pre-Unchained Monk got. A sorcerer casts arcane spells drawn primarily from the sorcerer/wizard spell list. Sorcerer The Inner Power: A Guide for Sorcerers (Core, APG, UM, UC) (2012) A Quick Guide to Pathfinder Sorcerers: Gods Don't Need Spellbooks (Core, APG, UM, UC) (Recovered Build Page) (2013) Magic in the Blood: A guide to Eldritch Heritage and Sorcerer …  I will use the color coding scheme which has become common among Pathfinder build handbooks. Swashbuckler (Class) Region: Common in Andoran, Galt, Taldor, the Shackles, the Sodden Lands, Mediogalti Island, and the River Kingdoms: Races: Any Alignment: LG: NG: CG: LN: N: CN: LE: NE: CE: Iconic character : Jirelle: Images of swashbucklers: Source: Advanced Class Guide, pg(s). <br> <br>She fights with panache: a fluctuating measure of a swashbuckler’s ability to perform amazing actions in combat. ... Storm Blade (Swashbuckler/Sorcerer) She can cast any spell she knows without preparing it ahead of time. <br> <br>Swashbuckler; Arcanist (S Tier) Enora is Pathfinder's iconic halfling Arcanist. I will use the color coding scheme which has become common among Pathfinder build handbooks. (Original Concept by Lindley Court) Pathfinder - The Sorcerer Handbook. Seoni, Pathfinder's iconic human Sorcerer. If you would like help with Pathfinder player options not covered here, please email me and I am happy to provide additional assistance. ESPECIALLY Cut from the Air and Smash from the Air. Sorcerer. Use wands and scrolls as a sorcerer by taking the half-elf racial trait, Arcane Training. Weapon Enchantments: Flamboyant - Gets you an extra Panache point. Storm Blade (Swashbuckler/Sorcerer) The storm blade possesses a magical affinity towards lightning, and uses that to bridge disparate mystical powers within herself and to strike foes down with her sword. <br> <br>Okayo Finesse (Ex) : An Okayo corsair gains the benefits of the Weapon Finesse feat with light or one-handed melee weapons from the monk weapon group, and she can use her Charisma score in place of Intelligence and Wisdom for the purpose of meeting prerequisites for combat feats. I'm about to play my first game of Pathfinder. Class Archetypes. The Arcanist is a class that manages to be both easy to play and fun to play. Sorcerers have a limited number of spells that they can know, though this can be supplemented with items. Magic in the Blood: A Guide to Eldritch Heritage and Sorcerer Bloodlines. Buckler Bash (Ex): At 2nd level, a rondelero swashbuckler can perform a shield bash with a buckler (use the same damage and critical multiplier as for a light shield). I support a limited subset of Pathfinder's rules content. Feats. <br> <br>Elghinn Lightbringer's Stonehelm Emporium. Base Classes. More than just a lightly armored warrior, a swashbuckler is a daring combatant. Last Updated: September 24th, 2018. <br>";s:7:"keyword";s:32:"swashbuckler sorcerer pathfinder";s:5:"links";s:12590:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cae-oxford-aviation-academy'>Cae Oxford Aviation Academy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ill-wind-jazz-standard'>Ill Wind Jazz Standard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=italian-somaliland-significance'>Italian Somaliland Significance</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bekhudi-meaning-in-tamil'>Bekhudi Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=damascus-map-bible'>Damascus Map Bible</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lord-quotes-and-sayings'>Lord Quotes And Sayings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-mirror-and-the-light%2C-hilary-mantel'>The Mirror And The Light, Hilary Mantel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-hattie-visible-learning-summary'>John Hattie Visible Learning Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dip-n-dip'>Dip N Dip</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paper-shredder-popular'>Paper Shredder Popular</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Busuu-lifetime-subscription'>Busuu Lifetime Subscription</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue%27s-clues-magenta%27s-visit-book'>Blue's Clues Magenta's Visit Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hey-porter-lyrics'>Hey Porter Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=agatha-christie-the-listerdale-mystery'>Agatha Christie The Listerdale Mystery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-circus-of-dr-lao'>The Circus Of Dr Lao</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-country-in-the-world'>Best Country In The World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tony-gonzalez-movies-and-tv-shows'>Tony Gonzalez Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spear-education-login'>Spear Education Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-twister-on-netflix-2020'>Is Twister On Netflix 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=internal-energy-and-enthalpy'>Internal Energy And Enthalpy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=osomatsu-san-movie-crunchyroll'>Osomatsu-san Movie Crunchyroll</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bugsy-Siegel-wife'>Bugsy Siegel Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i%27m-going-back-to-cali-lyrics'>I'm Going Back To Cali Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=canaletto-restaurant-holland-america'>Canaletto Restaurant Holland America</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=neo-rauch-artwork'>Neo Rauch Artwork</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-books-against-socialism'>Best Books Against Socialism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-nanda-stand-for'>What Does Nanda Stand For</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Profess-in-a-sentence'>Profess In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-season-2-episode-18-reddit'>The Office Season 2 Episode 18 Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=does-bug-club-have-an-app'>Does Bug Club Have An App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cameron-wwe-boyfriend'>Cameron Wwe Boyfriend</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=center-for-first-generation-student-success-jobs'>Center For First-generation Student Success Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nashville-book-events'>Nashville Book Events</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ralph-steadman-hunter-s-thompson'>Ralph Steadman Hunter S Thompson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=female-prisoner-scorpion%3A-complete-collection'>Female Prisoner Scorpion: Complete Collection</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-daughters-a-daughter-for-the-rest-of-your-life'>A Daughters A Daughter For The Rest Of Your Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-make-an-atlatl-pdf'>How To Make An Atlatl Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sabre-travel-training'>Sabre Travel Training</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cng-meter-reading'>Cng Meter Reading</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=capucine-cause-of-death'>Capucine Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=still-synonym-adverb'>Still Synonym Adverb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dutilleux---sonatine'>Dutilleux - Sonatine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pippa-taylor-height'>Pippa Taylor Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=3-in-the-morning-lyrics-dbangz'>3 In The Morning Lyrics Dbangz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geoff-nicholls-drummer'>Geoff Nicholls Drummer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-twelve-dancing-princesses-book'>The Twelve Dancing Princesses Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=copper-bracelet-with-magnets'>Copper Bracelet With Magnets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=berkeley-carroll-coronavirus'>Berkeley Carroll Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-red-kidney-beans-can'>Dark Red Kidney Beans Can</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jill-townsend-movies-and-tv-shows'>Jill Townsend Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stendhal-festival-reviews'>Stendhal Festival Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-platform-ending'>The Platform Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=navigators-conference-2020'>Navigators Conference 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-absolutely-true-diary-pdf'>The Absolutely True Diary Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hana-hayes-instagram'>Hana Hayes Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fame-TV-show'>Fame TV Show</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dublin%2C-ca-map'>Dublin, Ca Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=solitude-skyrim-execution'>Solitude Skyrim Execution</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-hugh-crain-actor'>Old Hugh Crain Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=be-for-beauty-nottingham'>Be For Beauty Nottingham</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rick-gomez-loki'>Rick Gomez Loki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=candide-summary-short'>Candide Summary Short</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hang-on-Now'>Hang On Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=if-relativism-is-right-%28and-therefore-there-can-be-no-rightness%29%2C-then-relativism-is'>If Relativism Is Right (and Therefore There Can Be No Rightness), Then Relativism Is</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Buddha-Quotes-in-tamil'>Buddha Quotes In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-to-insert-cube-root-symbol-in-Excel'>How To Insert Cube Root Symbol In Excel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tv-detectives-1980s'>Tv Detectives 1980s</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tattoo-flash-clothing'>Tattoo Flash Clothing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kenzo-tange-architecture'>Kenzo Tange Architecture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=footloose-musical-synopsis'>Footloose Musical Synopsis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-a-quartet-in-poetry'>What Is A Quartet In Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-mundell-family'>Robert Mundell Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caribbean-blue-paint'>Caribbean Blue Paint</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cavalier-lyrics-genius'>Cavalier Lyrics Genius</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ho-Hung-Anh'>Ho Hung Anh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=balin-and-dwalin'>Balin And Dwalin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brother-ben-x-%28dallas%29'>Brother Ben X (dallas)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=haibun-matsuo-basho'>Haibun Matsuo Basho</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=missing-poster-template-google-docs'>Missing Poster Template Google Docs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-room%3A-old-sins---curiosity-room-globe-puzzle'>The Room: Old Sins - Curiosity Room Globe Puzzle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Amanda-Hocking-quotes'>Amanda Hocking Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-fantasy-meaning'>Dark Fantasy Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chevron-news-release'>Chevron News Release</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-fortaleza-film'>La Fortaleza Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-counterfactual-history'>What Is Counterfactual History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rising-tide-zephyr'>Rising Tide Zephyr</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bodh-gaya-tourism'>Bodh Gaya Tourism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Death-Note-Goodreads'>Death Note Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lowrance-hook-reveal-5-tripleshot'>Lowrance Hook Reveal 5 Tripleshot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=revile-in-a-sentence'>Revile In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mike-henry-consuela'>Mike Henry Consuela</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=virtual-casino-real-money'>Virtual Casino Real Money</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hope-against-hope-scripture'>Hope Against Hope Scripture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=west-highland-white-terrier-puppies'>West Highland White Terrier Puppies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michigan-basketball-news'>Michigan Basketball News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-aquinas-quotes-on-existence-of-god'>Thomas Aquinas Quotes On Existence Of God</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Spinning-Out-cancelled'>Spinning Out Cancelled</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peta-nocona-death'>Peta Nocona Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=princess-connect-re%3Adive-anime-release-date'>Princess Connect Re:dive Anime Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=non-distracting-or-undistracting'>Non Distracting Or Undistracting</a>,
+";s:7:"expired";i:-1;}

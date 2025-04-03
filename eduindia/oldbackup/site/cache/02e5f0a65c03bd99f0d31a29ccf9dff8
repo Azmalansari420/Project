@@ -1,0 +1,113 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3108:"<p></p> <p>The broken hip is another health setback for Carter, who has already battled his way back from cancer. (CNN) Former President Jimmy Carter said in a statement Wednesday that he is "distressed" by President Donald Trump's decision to withhold funding to the World Health Organization. (CNN) Anyone who's ever had a fragile grandparent knows that falls are especially dangerous for the elderly -- and Jimmy Carter has had three falls in the past six months. He was treated once after undergoing a procedure to … Former President Jimmy Carter says he has cancer that has spread, although it’s not yet clear what kind of cancer he has. The Carter Center is guided by the principles of our Founders, Jimmy and Rosalynn Carter. Former President Jimmy Carter answers questions during a news conference at a Habitat for Humanity project on Oct. 7, in Nashville, Tenn. , the day after falling at home. He had turned 95 the previous week. </p> <p>On August 20, he disclosed that melanoma  had been found in his brain and liver, and that he had begun treatment with the immunotherapy  drug pembrolizumab  and was about to start radiation therapy (AP Photo/Mark Humphrey) Jimmy Carter (James Earl Carter, Jr.), 39th president of the United States, was born October 1, 1924, in the small farming town of Plains, Georgia.  Founded, in partnership with Emory University, on a fundamental commitment to human rights and the alleviation of human suffering, the Center seeks to prevent and resolve conflicts, enhance freedom and democracy, and improve health. Jimmy Carter was the 39th president of the United States and served as the nation's chief executive during a time of serious problems at home and abroad. Opinion > Celebrity Diagnosis Jimmy Carter's Head Injury: Emblem of Impending Health Crisis — His recent surgery isn't an isolated case. </p> <p>Carter's perceived mishandling of … In August 2015, former president Jimmy Carter announced that he had cancer which had spread from his liver to other parts of his body. On August 3, 2015, Carter underwent elective surgery to remove "a small mass" on his liver, and his prognosis for a full recovery was initially said to be "excellent". Former president Jimmy Carter, 95, opened up about his journey with cancer on Sunday, and revealed that he’s “completely at ease with death.” … The fall required a dozen stitches. Those tumbles - … In the 1976 US Presidential election campaign, Democratic candidate Jimmy Carter proposed health care reform that included key portions of the universal national health insurance bill that had been put forth by Senator Ted Kennedy. The Carter Center Partners With Mental Health Reporters’ Network to Mentor Liberian Journalists June 25, 2020 COVID-19 Crisis Threatens Democracy, Leading World Figures Warn Carter won the election, defeating President Gerald Ford on November 2, 1976. Carter, 90, had a mass removed from his liver on Aug. 3. Former President Jimmy Carter is back in the hospital after struggling with a series of health issues. In 2015, when he was 90, it was announced that … </p>";s:7:"keyword";s:19:"jimmy carter health";s:5:"links";s:6420:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-Do-Dinosaurs-Books'>How Do Dinosaurs Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bible-verses-to-pray-over-your-daughter'>Bible Verses To Pray Over Your Daughter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plural-of-moose-moosen'>Plural Of Moose Moosen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tuscaloosa-movie-streaming'>Tuscaloosa Movie Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=l%C3%AC-in-mandarin'>Lì In Mandarin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-last-dance-font'>The Last Dance Font</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kathleen-e-woodiwiss-book-list'>Kathleen E Woodiwiss Book List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jane-addams-timeline'>Jane Addams Timeline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philadelphia-movie-kiss'>Philadelphia Movie Kiss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marina-tsvetaeva-poetry'>Marina Tsvetaeva Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amulet%27%3A-film-review'>Amulet': Film Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hold-up-wait-a-minute-song'>Hold Up Wait A Minute Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julia-lazar-franco-cause-of-death'>Julia Lazar Franco Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-celebrate-spring-equinox-pagan'>How To Celebrate Spring Equinox Pagan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we-used-to-be-so-close-quotes'>We Used To Be So Close Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angel-island-map'>Angel Island Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-is-stronger-than-death-meaning'>Love Is Stronger Than Death Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cormega-net-worth'>Cormega Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frank-coraci-waterboy'>Frank Coraci Waterboy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-dj-paul-album'>New Dj Paul Album</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-whisperer-in-darkness-ending-explained'>The Whisperer In Darkness Ending Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=genesis-1%3A27-hebrew'>Genesis 1:27 Hebrew</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=minneapolis-police-department-jobs'>Minneapolis Police Department Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=70s-fashion-disco'>70s Fashion Disco</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=muse-storytelling-hiring'>Muse Storytelling Hiring</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=villa-restaurant-menu-williamsport'>Villa Restaurant Menu Williamsport</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-was-wackiest-ship-in-the-army-filmed'>Where Was Wackiest Ship In The Army Filmed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-suede-creepers'>Black Suede Creepers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-lax-linear-algebra'>Peter Lax Linear Algebra</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Spain-tour-packages'>Spain Tour Packages</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-best-friend-%282018-full-movie%29'>My Best Friend (2018 Full Movie)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zhang-ziyi-2019'>Zhang Ziyi 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Street-Scene-Tangiers'>Street Scene Tangiers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amphi-middle-school'>Amphi Middle School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dalgona-coffee-quotes-for-instagram'>Dalgona Coffee Quotes For Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blessing-cross-orthodox'>Blessing Cross Orthodox</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=super-drags-characters'>Super Drags Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noah-jupe-now'>Noah Jupe Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Memory-Wall-Anthony-Doerr-PDF'>Memory Wall Anthony Doerr PDF</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=uncle-sam-poster-history'>Uncle Sam Poster History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frugal-grocery-list'>Frugal Grocery List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-carell-new-movie'>Steve Carell New Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scott-mccloud-the-sculptor-review'>Scott Mccloud The Sculptor Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=monique-ganderton-net-worth'>Monique Ganderton Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=an-extraordinary-egg-activities'>An Extraordinary Egg Activities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-positive-messages'>Funny Positive Messages</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-louis-deniot-book'>Jean-louis Deniot Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=John-Stockwell-Top-Gun'>John Stockwell Top Gun</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mark-bazeley-wife'>Mark Bazeley Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carry-in-vs-potluck'>Carry-in Vs Potluck</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jamila-jordan-springhill'>Jamila Jordan Springhill</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blackjack-rules-casino'>Blackjack Rules Casino</a>,
+";s:7:"expired";i:-1;}

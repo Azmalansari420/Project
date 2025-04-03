@@ -1,0 +1,152 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3195:"<p>link.trigger() vs .triggerHandler(). Definition and Usage. jQuery's event system normalizes the event object according to W3C standards. jQuery.Event Constructor. The click event occurs when an element is clicked. The event.target is an inbuilt property in jQuery which is used to find which DOM element will start the event. Most properties from the original event are copied over and normalized to the new event object. </p> <p>The event object is guaranteed to be passed to the event handler. In Internet Explorer 8 and lower, a few events such as change and submit do not natively bubble but jQuery patches these to bubble and create consistent cross-browser behavior. Commonly Used jQuery Event Methods $(document).ready() The $(document).ready() method allows us to execute a function when the document is fully loaded. jQuery code to show the working of event.target Property property: The target property gets the element on which the event originally occurred, opposed to the currentTarget property, which always refers to the element whose event listener triggered the event. This event is already explained in the jQuery Syntax chapter. The new operator is optional. </p> <p>Definition and Usage. I'm a Jquery newbie, so if this answer is available somewhere, please let me know. As of jQuery 1.3, .trigger()ed events bubble up the DOM tree; an event handler can stop the bubbling by returning false from the handler or calling the .stopPropagation() method on the event object passed into the event. It returns the value that is returned by the last handler, not … click() The click() method attaches an event handler function to an HTML element.. The event is firing when I click the button but it also will fire when I click to the side of the button which produces an undesirable affect in the application I'm building. This will not only trigger the jQuery event handlers, but also follow the link and change the current page. Return Value: It returns which DOM element triggered the event. The target event property returns the element that triggered the event. </p> <p>There are four differences between .trigger() and .triggerHandler().triggerHandler() only triggers the event on the first element of a jQuery object..triggerHandler() cannot be chained. Although .trigger() simulates an event activation, complete with a synthesized event object, it does not perfectly replicate a naturally-occurring event. I'm having some issues with the Jquery click event.  </p> <p>The function is executed when the user clicks on the HTML element. A click event handler attached via that string could be removed with ... from the deepest, innermost element (the event target) in the document where they occur all the way up to the body and the document element. The click() method triggers the click event, or attaches a function to run when a click event occurs. The jQuery.Event constructor is exposed and can be used when calling trigger. Syntax: event.target Parameter: It does not accept any parameter because it is a property not a function. My user needs to click button B, which processes some info with AJAX I've included a JSFiddle below which demonstrates this issue. </p>";s:7:"keyword";s:25:"jquery click event target";s:5:"links";s:11436:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vita-student-leeds'>Vita Student Leeds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chanel-shoes---selfridges'>Chanel Shoes - Selfridges</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=influence-of-youtube-on-society-today'>Influence Of Youtube On Society Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Child-marriage-charity'>Child Marriage Charity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=express-pizza-killamarsh-number'>Express Pizza Killamarsh Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Patron-saint-of-soccer'>Patron Saint Of Soccer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chrono-cross-steam'>Chrono Cross Steam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=molokai-boat-tours'>Molokai Boat Tours</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aboriginal-australia-jack-davis'>Aboriginal Australia Jack Davis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hairdressers-price-list'>Hairdressers Price List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=berlin-keplerstr-2'>Berlin Keplerstr 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=laura-bush-and-michelle-obama'>Laura Bush And Michelle Obama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alaska-airlines-flight-261-air-crash-investigation'>Alaska Airlines Flight 261 Air Crash Investigation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pine-spirit-Wu-Guanzhong'>Pine Spirit Wu Guanzhong</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tumse-milke-aisa-laga-lyrics'>Tumse Milke Aisa Laga Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-bet-by-anton-chekhov-summary'>The Bet By Anton Chekhov Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=El-laberinto-de-amor'>El Laberinto De Amor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-lion-king-jeremy-irons-character'>The Lion King Jeremy Irons Character</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Patrick-Warburton-Net-Worth'>Patrick Warburton Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blink-182-tour-2021'>Blink 182 Tour 2021</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raid-5-calculation-formula'>Raid 5 Calculation Formula</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-queen%27s-assassin-review'>The Queen's Assassin Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-canyon-tv-series'>Steve Canyon Tv Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Goosebumps-3-SlappyWorld-Movie'>Goosebumps 3 SlappyWorld Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cream---Wheels-of-Fire'>Cream - Wheels Of Fire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghost-voyage-%282008-full-movie%29'>Ghost Voyage (2008 Full Movie)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jennifer-robson-interview'>Jennifer Robson Interview</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cng-meter-reading'>Cng Meter Reading</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bobo-doll-experiment-summary'>Bobo Doll Experiment Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=silmarillion-movie-reddit'>Silmarillion Movie Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reggie-london-law-offices'>Reggie London Law Offices</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Superhero-Quotes-for-Dad'>Superhero Quotes For Dad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-butterworth-morris'>George Butterworth Morris</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Evidence-of-Malice'>Evidence Of Malice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oh-say-can-you-say-tongue-twisters'>Oh Say Can You Say Tongue Twisters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poetry-is-the-first-and-last-of-all-knowledge'>Poetry Is The First And Last Of All Knowledge</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-mark-steel-solution'>The Mark Steel Solution</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=coming-of-age-movies-2016'>Coming-of-age Movies 2016</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-do-coma-patients-poop'>How Do Coma Patients Poop</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=motto-majime-ni-fumajime-kaiketsu-zorori-episode-6'>Motto Majime Ni Fumajime Kaiketsu Zorori Episode 6</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-it-mean-to-awake-to-righteousness'>What Does It Mean To Awake To Righteousness</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-wrote-the-song-five-pounds-of-possum'>Who Wrote The Song Five Pounds Of Possum</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=modern-presidents-quizlet'>Modern Presidents Quizlet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-ring-amazon'>Blue Ring Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kathy-Bates-Misery'>Kathy Bates Misery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chen-long-and-wang-shixian'>Chen Long And Wang Shixian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=neo-rauch%3A-para'>Neo Rauch: Para</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=billy-talent---afraid-of-heights'>Billy Talent - Afraid Of Heights</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Young-and-the-Restless-today'>Young And The Restless Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Eugene-grasset-medium'>Eugene Grasset Medium</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=savoir-faire%3A-an-advanced-french-course'>Savoir-faire: An Advanced French Course</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Francesco-I-Sforza'>Francesco I Sforza</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-spring-lake-beach-open'>Is Spring Lake Beach Open</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=international-picnic-day-2021'>International Picnic Day 2021</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=romans-2-the-message'>Romans 2 The Message</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=green-gloves-football'>Green Gloves Football</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blake-clark-grown-ups'>Blake Clark Grown Ups</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hen-llinge-translator'>Hen Llinge Translator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xosha-roquemore-instagram'>Xosha Roquemore Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=waterford-crystal-rose'>Waterford Crystal Rose</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prize-winning-short-stories'>Prize-winning Short Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ca%C3%B1on-city-directions'>Cañon City Directions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=captain-harlock-ship'>Captain Harlock Ship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fran-kranz-instagram'>Fran Kranz Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soviet-union-political-system-during-ww2'>Soviet Union Political System During Ww2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mahesh-elkunchwar-party'>Mahesh Elkunchwar Party</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=loughgall-ambush-bodies'>Loughgall Ambush Bodies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blackstar-id-core-40-power-supply'>Blackstar Id Core 40 Power Supply</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-does-bad-country-end%3F'>How Does Bad Country End?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-williams-author'>Charles Williams Author</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lisa-pera-death'>Lisa Pera Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=got7-%27hard-carry-vlive'>Got7 'hard Carry Vlive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plan-a-vacation-to-alabama'>Plan A Vacation To Alabama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=racket-busters-cast'>Racket Busters Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reading-iq-logo'>Reading Iq Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=berserk-slan-figure'>Berserk Slan Figure</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=women%27s-ministry-roles-and-responsibilities'>Women's Ministry Roles And Responsibilities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-is-the-transmission'>Where Is The Transmission</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backtrace-ending-explained'>Backtrace Ending Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fireside-grill-takeout-menu'>Fireside Grill Takeout Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-old-is-Rihanna-daughter'>How Old Is Rihanna Daughter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tin-tin-protein-full-name'>Tin Tin Protein Full Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Osamu-Dazai-quotes'>Osamu Dazai Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deanna-mustard-princess-daisy'>Deanna Mustard Princess Daisy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-culture-of-education%2C-bruner-pdf'>The Culture Of Education, Bruner Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aim-stock-forecast'>Aim Stock Forecast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blade-marvel-cast'>Blade Marvel Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lexy-kolker-birthday'>Lexy Kolker Birthday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-wayfarer-by-stephen-crane-prezi'>The Wayfarer By Stephen Crane Prezi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fullproof-or-foolproof'>Fullproof Or Foolproof</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kristin-davis-married'>Kristin Davis Married</a>,
+";s:7:"expired";i:-1;}

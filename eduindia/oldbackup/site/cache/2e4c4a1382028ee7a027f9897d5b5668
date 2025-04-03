@@ -1,0 +1,84 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1591:"<br>Reggie Watts set out to make a sci-fi improv series, but his lack of props or a set may have worked against him with the studios. But we're giving it a shot. His special Reggie Watts: A Live At Central Park aired on Comedy Central in May 2012. Reggie Watts: Spatial: 2016: The Earliest Show as Himself: 2016: Wonderland as Himself: 2016: My Entire High School Sinking Into the Sea as Assaf (voice) 2016: HarmonQuest as Graelgdogh / Quinzelplip / Goblock: 2016: Creative Control as Reggie Watts No Editor. Learn more about Reggie Watts at TVGuide.com with exclusive news, full bio and filmography as well as photos, videos, and more. Videos uploaded to Vimeo by Reggie Watts USER EDITOR. <br> <br> <br>He also has appeared multiple times on Conan , and on Late Night With Jimmy Fallon , Jimmy Kimmel Live , John Oliver’s Stand-Up New York , HBO’s The Yes Men Save The World , IFC, Comedy Central’s Michael and Michael Have Issues , UK’s Funny Or Die , and PBS’ Electric Company . Top 10 TV shows  20 movies and TV shows … The completely improvised show weaves … During "The Late Late Show With James Corden," the host and Reggie Watts had an emotional discussion about racism and the death of George Floyd. Find out what happens on … Reggie Watts: Spatial 2016 TV-MA 1h 1m Music The comic innovator delivers a surreal set blending experimental songs, jokes about grits, guns and drugs, and other improvised comedy adventures. <br> <br>Comedian/musician Reggie Watts brings viewers along on a one-of-a-kind surrealist experimental comedy adventure. <br> User Score: 0  <br>";s:7:"keyword";s:32:"reggie watts movies and tv shows";s:5:"links";s:2834:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-pryor%3A-live-on-the-sunset-strip-123movies'>Richard Pryor: Live On The Sunset Strip 123movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kent-osborne---imdb'>Kent Osborne - Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poetry-is-the-first-and-last-of-all-knowledge'>Poetry Is The First And Last Of All Knowledge</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sara-aaronson-mankiewicz'>Sara Aaronson Mankiewicz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fantasia-the-singer'>Fantasia The Singer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Grass-Is-Greener'>Grass Is Greener</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shane-strickland-age'>Shane Strickland Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=davina-mccall-workout-youtube'>Davina Mccall Workout Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-sin-city-2-on-netflix'>Is Sin City 2 On Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bonifacio-ang-unang-pangulo-google-drive'>Bonifacio Ang Unang Pangulo Google Drive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sitter-movie'>The Sitter Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nevernight-book-3'>Nevernight Book 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=painting-games-steam'>Painting Games Steam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-post-office-girl-goodreads'>The Post Office Girl Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Past-and-future-quotes'>Past And Future Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Russia-net-worth'>Russia Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paradox-movie-time-travel'>Paradox Movie Time Travel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=with-blood-comes-cleansing-merch'>With Blood Comes Cleansing Merch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flash-gordon-film'>Flash Gordon Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=echoes-of-eden-florals'>Echoes Of Eden Florals</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rocketman-now-tv'>Rocketman Now Tv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-does-mitzi-gaynor-live'>Where Does Mitzi Gaynor Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reached-book-review'>Reached Book Review</a>,
+";s:7:"expired";i:-1;}

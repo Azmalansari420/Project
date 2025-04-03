@@ -1,0 +1,107 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2649:"<br>Tennyson was Poet Laureate of the United Kingdom from 1850 to 1892 and remains one of the most popular English poets. The Princess: Tears, Idle Tears. By Alfred, Lord Tennyson. <br> <br>Title Composer Holst, Gustav: Opus/Catalogue Number Op./Cat. <br> <br>IGH 33 Key A major Movements/Sections Mov'ts/Sec's: 5 songs: Sweet and low. Tennyson, a claim that has encouraged many critics to identify the infant as Aglaïa, 8 Ibid., p. 166. <br> <br>Alternative Titles: “The Princess, a Medley” The Princess, in full The Princess, a Medley, long poem by Alfred, Lord Tennyson, published in 1847; a third edition in 1850 added some new lyrics. from.  <br>The poem tells the story of a heroic princess who forswears the world of men and founds a women's university where men are forbidden to enter. Ida listens and then sinks into “mournful mellowing.” Poco adagio (A major) The splendour falls. Songs from 'The Princess' Alt ernative. <br> Op.20a ; H80 I-Catalogue Number I-Cat. Rise in the heart, and gather to the eyes, In looking on the happy Autumn-fields, … No.  <br> <br>The prince to whom she … This odd narrative fantasy sometimes anticipates 20th-century poetry in its fragmented, nontraditional structure and was well received in its time. <br> <br>No. by Christopher Ricks (London: Con moto (D major) Tears, idle tears. <br> <br>It was first produced at the Olympic Theatre in London on 8 January 1870. from The Princess: Tears, Idle Tears. <br> <br>Tears, idle tears, I know not what they mean, Tears from the depth of some divine despair. <br> <br>Cyril rebukes her for having no heart and keeping mother and child separated from each other. Andante (F ♯ minor) O swallow, swallow. 9 All references to The Princess use Tennyson: A Selected Edition , ed. Born in 1809, Alfred Lord Tennyson is one of the most well-loved Victorian poets. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org Title: The Princess Author: Alfred Lord Tennyson Release Date: August 2, 2008 [EBook #791] Last Updated: February 7, 2013 Language: English Character set encoding: ISO-8859-1 *** START OF THIS PROJECT GUTENBERG EBOOK THE PRINCESS … <br> <br>The Princess is a blank verse farcical play, in five scenes with music, by W. S. Gilbert which adapts and parodies Alfred Lord Tennyson 's humorous 1847 narrative poem, The Princess: A Medley. The Princess is a serio-comic blank verse narrative poem, written by Alfred Tennyson, published in 1847. <br> <br>The princess observes Cyril, the singer of the awful song, and becomes tall and stern. <br>";s:7:"keyword";s:32:"tennyson songs from the princess";s:5:"links";s:5762:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pop-in-cellular-shades'>Pop-in Cellular Shades</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-architect---youtube'>My Architect - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=confessions-of-a-mask-analysis'>Confessions Of A Mask Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cormega-the-testament'>Cormega The Testament</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jquery-trigger-click'>Jquery Trigger Click</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moloka-i-chapter-summaries'>Moloka I Chapter Summaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=turning-point-brands-careers'>Turning Point Brands Careers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Baby-girl-adoption'>Baby Girl Adoption</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bhishma-on-death-bed-of-arrow'>Bhishma On Death Bed Of Arrow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=luis-da-silva-jr-ethnicity'>Luis Da Silva Jr Ethnicity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jerle-shannara-pronunciation'>Jerle Shannara Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bob-kuban-forensic-files'>Bob Kuban Forensic Files</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youngest-couple-in-the-world-today'>Youngest Couple In The World Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maynard-dixon%2C-cloud-world'>Maynard Dixon, Cloud World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kinked-demand-curve'>Kinked Demand Curve</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sza-drew-barrymore-chords'>Sza Drew Barrymore Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=simply-perfect-hijab'>Simply Perfect Hijab</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=catwoman-vs-max-shreck-batman-returns'>Catwoman Vs Max Shreck Batman Returns</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-death%2C-book-45'>In Death, Book 45</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=playing-your-game%2C-baby-lyrics'>Playing Your Game, Baby Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-conrad-children'>Robert Conrad Children</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rio-Rita-musical'>Rio Rita Musical</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-penguin-anthology-of-twentieth-century-american-poetry-pdf'>The Penguin Anthology Of Twentieth-century American Poetry Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lights-on-netflix'>Lights On Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cross-creek-apartments-reviews'>Cross Creek Apartments Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leave-for-sub-inspector'>Leave For Sub Inspector</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jessica-de-gouw-height'>Jessica De Gouw Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-chronicle-herald-obituaries'>The Chronicle Herald Obituaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barbara-mertz-net-worth'>Barbara Mertz Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Goldilocks-and-the-three-bears-pdf'>Goldilocks And The Three Bears Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-julie-taymor-known-for'>What Is Julie Taymor Known For</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=china-got-talent-2019'>China Got Talent 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youtube-song-of-yesterday'>Youtube Song Of Yesterday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ugali-and-fufu'>Ugali And Fufu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-demi-paradise-wiki'>The Demi Paradise Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mae-whitman-miles-heizer-tattoo'>Mae Whitman Miles Heizer Tattoo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=budget-car-insurance'>Budget Car Insurance</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=exo-power-album-details'>Exo Power Album Details</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hanks-gun-belts-sizing'>Hanks Gun Belts Sizing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=villa-restaurant-wayland%2C-ma'>Villa Restaurant Wayland, Ma</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japanese-word-for-chinese'>Japanese Word For Chinese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Patricia-Polacco-author-study'>Patricia Polacco Author Study</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=songs-about-war-2018'>Songs About War 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=golden-ratio-papyrus-location'>Golden Ratio Papyrus Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=belsnickel-black-peter'>Belsnickel Black Peter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devil%27s-carnival-3-release-date'>Devil's Carnival 3 Release Date</a>,
+";s:7:"expired";i:-1;}

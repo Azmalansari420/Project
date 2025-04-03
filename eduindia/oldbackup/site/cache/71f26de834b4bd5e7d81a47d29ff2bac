@@ -1,0 +1,138 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2726:"<p>12/10/2015 0 Comments The Battle of Ideas 1. Why does the ‘neo-classical’ aggregate supply curve always lead to an equilibrium level of national output equal to the full-employment level of real GDP? </p> <p>Capital-Based Macroeconomics Keynes and Hayek: Head to Head 2006 Adapted from Time and Money: The Macroeconomics of Capital Structure by Roger W. Garrison London: Routledge, 2001 2. Hayek Vs. Keynes 1. Fear the Boom and Bust: A Hayek Vs. Keynes Rap Anthem; Fight of the Century: Keynes Vs. Hayek Round 2 ; Intervention versus laissez-faire. Hayek vs. Keynes. Hayek vs Keynes: A Simple Way to Understand. (Hayek for short), identified three areas of contention. Keynes believed that Hayek's acceptance of "natural" market mechanisms was naive and failed to explain the major movements in the world economy and in national developments. Keynes Hayek is not an easy book to write, nor, for a lay audience, an easy book to fully understand. </p> <p>From an economic perspective, policymakers are faced with the decision of whether to intervene in the economy during crisis periods (in John Maynard Keynes’s style of economics) or let the market heal itself (per F.A. Keynes Vs. Hayek Hayek Newsnight economics editor Paul Mason chairs a debate between followers of two of the great economic thinkers of the 20th century: John Maynard Keynes and Friedrich Hayek. In recent history, the period 1945-1980 saw mainly a Keynesian trend in economic policies throughout the "western" world, in which governments saw it as their responsiblity to intervene to maintain high … Keynes and Hayek: Head to Head John Maynard Keynes 1883 — 1946 Friedrich A. Hayek 1899 — 1992 3.  The two schools have battled for nearly a century over which has better economic philosophy. Fight of the Century: Keynes vs. Hayek Round Two Lyrics: John Maynard Keynes / F. A. Hayek / Round Two / Round 2.0 / Same economists. </p> <p>Hayek, et al. The early discussions between the two economists often centre on the definition of concepts: if they didn't understand each other imagine the non-specialist reader! Same beliefs / New microphones / … The two major schools of economic thought are the free market economists, or Austrians, and the “Keynesians.” One of the most notable Austrian economists was Friedrich Hayek while Keynesian economics comes from John Maynard Keynes. </p> <p>Hayek failed to deliver a knock-out blow to Keynes, and although he returned to the fight in the LSE learned journal Economica in the autumn of 1931, the argument about whether it is best to stimulate an economy in the face of large scale unemployment or rather, let the market find its own solution, has been going on ever since. Knowing … </p>";s:7:"keyword";s:15:"hayek vs keynes";s:5:"links";s:9600:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sing-don%27t-you-worry-bout-a-thing'>Sing Don't You Worry Bout A Thing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amy-pietz---imdb'>Amy Pietz - Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=something-beautiful-is-on-the-horizon-quotes'>Something Beautiful Is On The Horizon Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chaussure-buffalo-ann%C3%A9e-90'>Chaussure Buffalo Année 90</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-treatise-on-the-true-devotion-to-the-blessed-virgin'>A Treatise On The True Devotion To The Blessed Virgin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=agnes-grey-characters'>Agnes Grey Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arthur-brooks-podcast'>Arthur Brooks Podcast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=British-conversation-examples'>British Conversation Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mitch-mitchell-boxer'>Mitch Mitchell Boxer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rubi-shoes-product-review'>Rubi Shoes Product Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carl-mydans-philippines'>Carl Mydans Philippines</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prodigal-son-season-3'>Prodigal Son Season 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Starship-Troopers-3%3A-Marauder'>Starship Troopers 3: Marauder</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anton-bruckner-symphony-no-9'>Anton Bruckner Symphony No 9</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cotillion-georgette-heyer-review'>Cotillion Georgette Heyer Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=equity-for-land-development'>Equity For Land Development</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-of-wall-street-naomi'>Wolf Of Wall Street Naomi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=comptine-d%27un-autre-%C3%A9t%C3%A9-piano-chords'>Comptine D'un Autre été Piano Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=del-shannon---little-town-flirt'>Del Shannon - Little Town Flirt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Innkeepers-ending'>The Innkeepers Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-really-happened-book'>What Really Happened Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=newborn-won%27t-sleep-at-night-unless-held'>Newborn Won't Sleep At Night Unless Held</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-eustace-linkedin'>John Eustace Linkedin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Heretic-parfum-SAMPLES'>Heretic Parfum SAMPLES</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Marcel-Breuer-Philosophy'>Marcel Breuer Philosophy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hope-these-information-are-helpful'>Hope These Information Are Helpful</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=niwaka-ame-lyrics'>Niwaka Ame Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eric-hobsbawm-nations-and-nationalism-since-1780'>Eric Hobsbawm Nations And Nationalism Since 1780</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=make-me-better-year'>Make Me Better Year</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gold-striker-height'>Gold Striker Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=renegades-esports-fortnite'>Renegades Esports Fortnite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=FBI-log-in'>FBI Log In</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=imagination-is-everything-quote'>Imagination Is Everything Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-brookes-cartoonist-times'>Peter Brookes Cartoonist Times</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sociocultural-graded-influences'>Sociocultural Graded Influences</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=modern-american-face-mask-review'>Modern American Face Mask Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mad-crazy-meaning'>Mad Crazy Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=swallows-and-amazons-book-summary'>Swallows And Amazons Book Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clara-brereton-sanditon-actress'>Clara Brereton Sanditon Actress</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kook-meaning-surfing'>Kook Meaning Surfing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jennifer-Ehle-net-worth'>Jennifer Ehle Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tangerine-song-1941'>Tangerine Song 1941</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chinese-brush-painting-fish'>Chinese Brush Painting Fish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=living-louder---planetshakers-lyrics'>Living Louder - Planetshakers Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=darkest-fear-game'>Darkest Fear Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kepler%27s-somnium-analysis'>Kepler's Somnium Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yuzuru-hanyu-education'>Yuzuru Hanyu Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=show-luo-make-up-artist'>Show Luo Make Up Artist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Neil-Peart-wife'>Neil Peart Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=legends-of-tomorrow-new-episode'>Legends Of Tomorrow New Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=facts-about-sandra-cisneros'>Facts About Sandra Cisneros</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nanking-movie-trailer'>Nanking Movie Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prolixity-of-speech'>Prolixity Of Speech</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japan-mini-camper'>Japan Mini Camper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chosen-one-in-literature'>Chosen One In Literature</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=megamind-netflix-2020'>Megamind Netflix 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=red-sea-aquarium'>Red Sea Aquarium</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=theory-of-planned-behavior-ppt'>Theory Of Planned Behavior Ppt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sasha-the-office'>Sasha The Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghost-story-games-reddit'>Ghost Story Games Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fudge-box-recipe'>Fudge Box Recipe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-don%27t-have-enough-faith-to-be-an-atheist-summary'>I Don't Have Enough Faith To Be An Atheist Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-switch-movie-cast'>The Switch Movie Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=persian-straight-sword'>Persian Straight Sword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=appleseed-xiii-episodes'>Appleseed Xiii Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=china-got-talent-2019'>China Got Talent 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brian-culbertson-net-worth'>Brian Culbertson Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japanese-atrocities-against-american-soldiers'>Japanese Atrocities Against American Soldiers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=suzanne-neve-photos'>Suzanne Neve Photos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Anyone-But-Me'>Anyone But Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yak-3-for-sale'>Yak 3 For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=inuyasha-movie-island'>Inuyasha Movie Island</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stop-the-clock'>Stop The Clock</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vernon%2C-florida-events'>Vernon, Florida Events</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dj-moore-fantasy-stats'>Dj Moore Fantasy Stats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=herblock-looks-at-communism'>Herblock Looks At Communism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chandra-mtg-art'>Chandra Mtg Art</a>,
+";s:7:"expired";i:-1;}

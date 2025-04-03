@@ -1,0 +1,130 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4591:"<br>George Boole laid the mathematical foundations of the information age. 1815 George Boole is born. George Boole (1815–1864) was an English mathematician and a founder of the algebraic tradition in logic. 1. George Boole Biography, Life, Interesting Facts Childhood And Early Life. Born to a shoemaker father, he had little formal education, but was a … Engineering. 1830s - Mastering mathematics . <br> <br> <br>^           O'Connor, John J.; Robertson, Edmund F., "George Boole", MacTutor History of Mathematics archive, University of St Andrews. George Boole’s legacy as an educator springs largely from his own unconventional education. It was founded i… <br> <br>THE LIFE AND WORK OF GEORGE BOOLE: A PRELUDE TO THE DIGITAL AGE. George Boole (Template:IPAc-en; 2 November 1815 – 8 December 1864) was an English mathematician, philosopher and logician. ... Born as the son of a shoemaker, he did not receive much formal education yet he went on to become one of the greatest mathematicians and educators of the 19th century. Despite having the usual nineteenth century view on the role of women in the home, Boole ensured that his five daughters received “an emancipated education”.  He revealed himself from a very young age as a prodigy, and although his family circumstances were limited financially, his father encouraged his son’s thirst for knowledge and he received the best formal education available to him. George Boole was born November 2, 1815 in Lincoln, Lincolnshire,England, into a family of modest means, with a father who wasevidently more of a good companion than a good breadwinner. George Boole's wife, Mary Everest Boole. This was the last of his formal schooling but not the end of his education, for he inherited a talent for self-study from his father, a shoemaker by … He revolutionized logic by applying methods from the then-emerging field of symbolic algebra to logic. This book, aimed at the general reader and now available again, is the first full-length biography of George Boole (1815–1864) who has been variously described as the founder of pure mathematics, one of the fathers of computer science and discoverer of symbolic logic. The first advanced text he tackled was the Lacroix Calcul Différentiel, which he read in the original French.. He worked as a schoolmaster in England and from 1849 until his death as professor of mathematics at Queen’s University, Cork, Ireland. <br> <br>He worked in the fields of differential equations and algebraic logic, and is now best known as the author of The Laws of Thought. Education. His fatherwas a shoemaker whose real passion was being a devoted dilettante inthe realm of science and technology, one who enjoyed participating inthe Lincoln Mechanics’ Institution; this was essentially a communitysocial club promoting reading, discussions, and lectures regardingscience. George Boole and Women in Higher Education. <br> <br>He attended a primary school of the National Society and then a school for commercial subjects. He is considered as one of the founders of computer science. Boole said, <br> <br>George Boole was an English mathematician, philosopher and logician. July 23, 2014 July 24, 2014 / Mike Ryan / Leave a comment. Mathematician George Boole, the originator of Boolean algebra, was born on the 2 November 1815 in Lincoln, Lincolnshire, England. George Boole is better known as the inventor of symbolic logic. <br> The famous mathematician George Boole (1815-1864) has been variously called “the father of pure mathematics” and “the father of the computer age”. From 1831, Boole began an ambitious programme of self-education in mathematics. John Boole’s boot and shoe shop in Silver Street provides an income, but the family’s economic and social position is … He worked in the fields of differential equations and algebraic logic, and is now best known as the author of The Laws of Thought. Know more about his life in this biography. George Boole—like Newton before him—was an unlikely success story. George Boole was born on Nov. 2, 1815, in Lincoln. George Boole is born on 2 November 1815 in Lincoln, England; he is the first child of John Boole, a shoemaker, and his wife Mary Ann, who was a lady’s maid. His ground-breaking advances — Boolean algebra and symbolic logic — provided the cornerstones for modern mathematics, microelectronic engineering and computer science. His parents were Mary Ann Joyce and John Boole.Boole Sr. was a shoemaker who ran his shop, but he was also interested in making instruments and mathematics. <br>";s:7:"keyword";s:22:"george boole education";s:5:"links";s:8906:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Complete-Unknown-meaning'>Complete Unknown Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jonah-meaning-medical'>Jonah Meaning Medical</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dona-flor-and-her-two-husbands-film-review'>Dona Flor And Her Two Husbands Film Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natalie-schepman-joseph'>Natalie Schepman Joseph</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=return-to-cranford'>Return To Cranford</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-know-a-lot%21'>I Know A Lot!</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=california-state-board-of-food-and-agriculture'>California State Board Of Food And Agriculture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Lucky-Wheel'>The Lucky Wheel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-lawrence-block'>How Old Is Lawrence Block</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nisi-shawl-bibliography'>Nisi Shawl Bibliography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daniel-shapiro-agnes-gund'>Daniel Shapiro Agnes Gund</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-twelve-dancing-princesses-book'>The Twelve Dancing Princesses Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jack-davis-education'>Jack Davis Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-eat-buffet-without-getting-fat'>How To Eat Buffet Without Getting Fat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=matlab-solve-cubic-equation-roots'>Matlab Solve Cubic Equation Roots</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=evan-evagora-instagram'>Evan Evagora Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=midnight-movies-boston'>Midnight Movies Boston</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stewart-francis---one-liners'>Stewart Francis - One Liners</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=words-from-savory'>Words From Savory</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orlando-renaissance-festival'>Orlando Renaissance Festival</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kylie-padilla-siblings'>Kylie Padilla Siblings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=inappropriate-behavior-in-the-workplace'>Inappropriate Behavior In The Workplace</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ain%27t-no-woman-like-the-one-i-got-rap-song'>Ain't No Woman Like The One I Got Rap Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Electromagnetic-Theory-PDF'>Electromagnetic Theory PDF</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=judy-woodruff-tremors'>Judy Woodruff Tremors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-beetlejuice-pics'>Funny Beetlejuice Pics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=romance-of-the-three-kingdoms-moss-roberts'>Romance Of The Three Kingdoms Moss Roberts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-cut-weight-for-boxing'>How To Cut Weight For Boxing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=30-worst-restaurants-in-America'>30 Worst Restaurants In America</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=don-sherman-delphi'>Don Sherman Delphi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=react-tree-github'>React Tree Github</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-did-your-heart-go-missing-chords'>When Did Your Heart Go Missing Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=matlab-solve-cubic-equation-roots'>Matlab Solve Cubic Equation Roots</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beach-of-the-war-gods-%281973%29-full-movie'>Beach Of The War Gods (1973) Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-today-what-does-this-larger-dome%27%27-refer-to'>In Today What Does This Larger Dome'' Refer To</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zero-kiryu-cosplay'>Zero Kiryu Cosplay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=picasso-faces-kindergarten'>Picasso Faces Kindergarten</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Orthodoxy%3A-Evolving-Tradition'>Orthodoxy: Evolving Tradition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edamame-yield-per-plant'>Edamame Yield Per Plant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary%27s-mantle-consecration-videos'>Mary's Mantle Consecration Videos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Heat-transfer-in-air'>Heat Transfer In Air</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frederick%2C-prince-of-wales'>Frederick, Prince Of Wales</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-daughters-a-daughter-for-the-rest-of-your-life'>A Daughters A Daughter For The Rest Of Your Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jquery-click-event-target'>Jquery Click Event Target</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kobayashi-yoshio-rampo-kitan'>Kobayashi Yoshio Rampo Kitan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=portobello-outdoor-swimming-pool'>Portobello Outdoor Swimming Pool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hard-life-game'>Hard Life Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Macbeth-summary-for-kids'>Macbeth Summary For Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roustabout-jobs-uk'>Roustabout Jobs Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=biologos-foundation-wikipedia'>Biologos Foundation Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alle-farben-youtube'>Alle Farben Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-was-xenia-goodwin-in-dance-academy'>How Old Was Xenia Goodwin In Dance Academy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=head-of-project-delivery-job-description'>Head Of Project Delivery Job Description</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mobile-phone-definition'>Mobile Phone Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-trouble-I%27ve-seen'>The Trouble I've Seen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seyfarth-shaw-atlanta-salary'>Seyfarth Shaw Atlanta Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-mexico-tourism-map'>New Mexico Tourism Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sword-vinyl'>The Sword Vinyl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joint-astronomy-centre-birthday-star'>Joint Astronomy Centre Birthday Star</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=national-city-population'>National City Population</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=please-find-the-below-details-as-per-your-request'>Please Find The Below Details As Per Your Request</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=civil-3d-file-format'>Civil 3d File Format</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-happened-to-leslie-sykes-and-phillip-palmer'>What Happened To Leslie Sykes And Phillip Palmer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Test-IO-EPAM'>Test IO EPAM</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lori-singer-fame'>Lori Singer Fame</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jarhead%3A-Law-of-returns-release-Date'>Jarhead: Law Of Returns Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-is-taurus-season-2019'>When Is Taurus Season 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=creole-jambalaya-recipe'>Creole Jambalaya Recipe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pandora-music-app'>Pandora Music App</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,88 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2423:"<p>Home recipes. Updated: 10/15/19. Get creative with this pantry staple.  Jump to Recipe. lasagna, stuffed manicotti; use instead of canned tomatoes in braises or stews eg. Beef Chili. Shredded Beef Burrito Filling. Once you’ve finished canning tomatoes, allow the jars to stand untouched for 30 days before opening a jar to allow time for the tomatoes to absorb and enrich with the flavors. Canned fire-roasted tomatoes—a divinely flavorful shortcut—add a nice waft of smoky flavor, which plays off the punchy notes of garlic and red pepper flakes. Just add green peppers and onions to this simple recipe and you’ll have a … Italian-style tomatoes go for a brief simmer with tender white cannellini beans and fresh spinach. Posted: 6/10/14. Make your next office party a taco bar or burrito bar! Canned Salsa Recipe. The next time you can't figure out what to do with Canned Tomatoes – nothing fancy here, just canned whole tomatoes; How to Make Salsa Step 1. Wash tomatoes and cut a small 'x' in the … For your restaurant style salsa, start with 2 jalapeño peppers and 2 Serrano peppers, a small onion or half of an onion, juice from one lime, 3 garlic cloves, 1/4 teaspoon cumin and about a … Make a big pot of this rich, meaty chili, a side of cornbread, and then … To peel the tomatoes, bring a large pot of water to a boil. While we'll always love and use fresh summer tomatoes in our tomato pies and white bread sandwiches, sometimes canned tomatoes are just the pantry staple we need for a fast and flavorful dinner. Set out the beef in the slow cooker on warm, along with tortillas, bowls of shredded cheese, salsa, sour cream, and chopped lettuce, jalapenos, onions and tomatoes. Pair it with your favorite burger, or treat yourself by using it as a decadent dip for sweet potato fries. use in any recipe calling for a jar of canned pasta or marinara sauce eg. For their own reasons, my kids not very big canned tomato fans, so I don’t can too many jars. </p> <p>Make sure to stock up on this must-have ingredient on your next trip to the grocery store so you can try out every single one of these 22 canned tomato recipes. FAST and EASY Canned Salsa recipe made with diced tomatoes! These 8 jars will be just enough for my husband and I, which is all right with me. cilantro green peppers onion tomato. Serve over hot penne and spoon crumbled bits of feta cheese over the top for a … </p>";s:7:"keyword";s:34:"recipes using home canned tomatoes";s:5:"links";s:3376:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-win-an-undue-influence-case'>How To Win An Undue Influence Case</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wendy-clear-meaning'>Wendy Clear Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cause-of-death-edward-hopper'>Cause Of Death Edward Hopper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-music-meme'>Love Music Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naruto-season-4-episode-27'>Naruto Season 4 Episode 27</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-last-whisper-book'>The Last Whisper Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-alexanian-net-worth'>David Alexanian Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miriam-margolyes-harry-potter-role'>Miriam Margolyes Harry Potter Role</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=southwestern-energy-subsidiaries'>Southwestern Energy Subsidiaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=erica-henderson-store'>Erica Henderson Store</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=winix-5500-2-best-buy'>Winix 5500-2 Best Buy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dhoom-reloaded-full-movie'>Dhoom Reloaded Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=campbell-school-of-innovation-campus'>Campbell School Of Innovation Campus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-butterworth%3A-the-banks-of-green-willow'>George Butterworth: The Banks Of Green Willow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trace-latina-tv'>Trace Latina Tv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bug-books-for-preschool'>Bug Books For Preschool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carlos-donoso-ventr%C3%ADlocuo-edad'>Carlos Donoso Ventrílocuo Edad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shop-around-motown'>Shop Around Motown</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-adulterous-woman-movie'>The Adulterous Woman Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greg-bahnsen-lectures'>Greg Bahnsen Lectures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hide-rainbow-kitten-surprise-meaning'>Hide Rainbow Kitten Surprise Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-wouldn-t-wanna-be-me%27%27-live'>Who Wouldn T Wanna Be Me'' Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=exo---wolf'>Exo - Wolf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=church-of-england-daily-prayer-pdf'>Church Of England Daily Prayer Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=big-group-restaurants'>Big Group Restaurants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sword-vinyl'>The Sword Vinyl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=katie-kimmel-dog-vase'>Katie Kimmel Dog Vase</a>,
+";s:7:"expired";i:-1;}

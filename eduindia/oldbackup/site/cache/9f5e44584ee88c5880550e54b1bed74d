@@ -1,0 +1,146 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2769:"<p>AutoCAD Knowledge webinars are regular online tutorial series hosted by the Autodesk AutoCAD Product Experts to help users learn AutoCAD and create innovative 2D and 3D designs through interactive live webinars or on-demand tutorials.. Types of AutoCAD tutorial topics: AutoCAD Basic features (such as dimensions, reuse content, layers) AutoCAD Advanced features (such as dynamic … 9:59. Learn how to create 2D drawings with free AutoCAD LT tutorials and learning resources. Make sure Ortho mode is OFF, (it ON when it glow in blue, OFF in grey) click the icon to turn it ON or OFF. 1. In this autocad tutorial you’ll learn how to draw tap symbol. </p> <p>6h 12m Beginner Jun 05, 2018 Views 36,409. One of the biggest differences between AutoCAD and AutoCAD LT is that AutoCAD LT provides precision two-dimensional (2D) drafting and documentation capabilities, while AutoCAD also provides three-dimensional (3D) functionalities. Learning Autodesk AutoCAD LT 2014. by Brian Benton. AutoCAD LT 2010 | Construct & Dimensioning a Jig Tutorial | Part I Video Tutorials. AutoCAD LT 2010 Tutorial | Zoom and Pan Basics by SoftwareMedia.com. 5. AutoCAD LT enables you to do simple customizations, but doesn’t support built-in programming capabilities (AutoLISP). Click New 2. (or press F8 to toggle) 3. 8:53. 2:08. Preview Course. Left-click once to position the starting point of our first line. </p> <p>AutoCAD LT 2010 | Dimensioning Tutorial by SoftwareMedia.com. Download a free AutoCAD LT trial for Windows or Mac. Change country/language X We will start at a location near the bottom-left of the graphics window. Open a new drawing. You have been detected as being from . Get started with AutoCAD LT. Learn how to create your own CAD designs and communicate design intent on the world's most well-known 2D CAD platform. Next move the cursor upward and toward the right side of point 1. 1-8 AutoCAD LT® 2011 Tutorial 4. </p> <p>AutoCAD LT ® is computer-aided design (CAD) software that architects, engineers, construction professionals, and designers rely on to produce 2D drawings and documentation.. Design, draft, and document with 2D geometry; Access a comprehensive set of editing, design, and annotation tools; Work faster in an intuitive user interface Learning AutoCAD LT 2016 with Shaun Bryant. AutoCAD LT 2010 | Align Command Tutorial by SoftwareMedia.com. In this AutoCAD LT 2014 training course from Brian Benton, you will learn how to create 2D drawings using this lighter version of AutoCAD developed by Autodesk. The 15 video tutorials on this page are provided by our friends at Infinite Skills and authored by Brian Benton.. Worldwide Sites. </p> <p> Where applicable, you can see country-specific product information, offers, and pricing. </p>";s:7:"keyword";s:19:"autocad lt tutorial";s:5:"links";s:10746:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=english-extension-1-sample-paper-2019'>English Extension 1 Sample Paper 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caroline-o%27neill-wharton'>Caroline O'neill Wharton</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pavel-filonov-paintings'>Pavel Filonov Paintings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=british-abyssinia-expeditionary-force'>British Abyssinia Expeditionary Force</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Over-the-rainbow'>Over The Rainbow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Patricia-Polacco-author-study'>Patricia Polacco Author Study</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-pinkertons-rotten-tomatoes'>The Pinkertons Rotten Tomatoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=helen-hunt-husband'>Helen Hunt Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Google-Analytics-certificate'>Google Analytics Certificate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dc-superhero-girls%3A-hero-of-the-year'>Dc Superhero Girls: Hero Of The Year</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercenaries-2%3A-world-in-flames-repack'>Mercenaries 2: World In Flames Repack</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=relationship-between-raju-and-rosie-in-the-guide'>Relationship Between Raju And Rosie In The Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-loree-mcbride'>How Old Is Loree Mcbride</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=halsey-and-yungblud-split'>Halsey And Yungblud Split</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Estonian-Army-Afghanistan'>Estonian Army Afghanistan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=panipat-ka-kila'>Panipat Ka Kila</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=don-diamont-sons'>Don Diamont Sons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jesse-bostick-wikipedia'>Jesse Bostick Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tim-cook%3A-the-genius-who-took-apple-to-the-next-level-review'>Tim Cook: The Genius Who Took Apple To The Next Level Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spartacus-%281960-full-movie%29'>Spartacus (1960 Full Movie)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=female-prisoner-scorpion%3A-complete-collection'>Female Prisoner Scorpion: Complete Collection</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tintin-in-the-land-of-the-soviets-colour-english'>Tintin In The Land Of The Soviets Colour English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Alison-Carey-obituary'>Alison Carey Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scott-schiff-wife'>Scott Schiff Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-man-of-sorrows-painting'>The Man Of Sorrows Painting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roman-catholic-meaning'>Roman Catholic Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-sarah-waters-married'>Is Sarah Waters Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=austria-during-ww2'>Austria During Ww2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-williams-author'>Charles Williams Author</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sorcerer-pharesm'>The Sorcerer Pharesm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sherb-animal-crossing-ocd'>Sherb Animal Crossing Ocd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ian-McNeice-Harry-Potter'>Ian McNeice Harry Potter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lomo%27instant-wide-manual-pdf'>Lomo'instant Wide Manual Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=forgotten-god-chapter-2-study-questions'>Forgotten God Chapter 2 Study Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jane-harber-net-worth'>Jane Harber Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=battle-beast---straight-to-the-heart'>Battle Beast - Straight To The Heart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=etymology-of-evangelism'>Etymology Of Evangelism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Prayer-mind-Map'>Prayer Mind Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-hate-mira-animal-crossing'>I Hate Mira Animal Crossing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rabbit-proof-fence-movie'>Rabbit-proof Fence Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=one-heart-to-win'>One Heart To Win</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brother-ben-x-%28dallas%29'>Brother Ben X (dallas)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ally-sheedy-2019'>Ally Sheedy 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=5-fingers-film'>5 Fingers Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geek-love-play'>Geek Love Play</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julie-marie-fernandez'>Julie Marie Fernandez</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Zain-Asher-Instagram'>Zain Asher Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=south-beach-boca-grande'>South Beach Boca Grande</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-secret%3A-dare-to-dream-spoilers-what-is-the-secret'>The Secret: Dare To Dream Spoilers What Is The Secret</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mushroom-shake-koh-lipe'>Mushroom Shake Koh Lipe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mario-joyner-family'>Mario Joyner Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scribd-vs-audible-vs-kindle'>Scribd Vs Audible Vs Kindle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=citrix-epic-login'>Citrix Epic Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mike-zeck-marvel'>Mike Zeck Marvel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-hill-cast'>The Hill Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beauty-is-power'>Beauty Is Power</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grape-tomato-sauce'>Grape Tomato Sauce</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dinesh-paliwal-board-of-directors'>Dinesh Paliwal Board Of Directors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=herons-bonsai-jade'>Herons Bonsai Jade</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sharon-core%3A-early-american'>Sharon Core: Early American</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=papa-pizza-game'>Papa Pizza Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=der-abentheuerliche-simplicissimus'>Der Abentheuerliche Simplicissimus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=concorde-band-just-kiss-her'>Concorde Band Just Kiss Her</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=doom-manual-story'>Doom Manual Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harry-kirton-season-1'>Harry Kirton Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-the-role-of-literature-in-our-society-pdf'>What Is The Role Of Literature In Our Society Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=british-occupation-of-hawaii'>British Occupation Of Hawaii</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raheem-sterling-family'>Raheem Sterling Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raleigh-bicycles-makro'>Raleigh Bicycles Makro</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sweet-hereafter-parents-guide'>The Sweet Hereafter Parents Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-is-the-rosetta-spacecraft-now'>Where Is The Rosetta Spacecraft Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-city-of-tomorrow-and-its-planning-pdf'>The City Of Tomorrow And Its Planning Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Michael-Stewart-James-Stewart'>Michael Stewart James Stewart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fermat%27s-room-english-dubbed'>Fermat's Room English Dubbed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=minecraft-disable-thunderstorms'>Minecraft Disable Thunderstorms</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fun-facts-and-trivia-about-alabama'>Fun Facts And Trivia About Alabama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reply-1994-husband'>Reply 1994 Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=merck-stock-dividend'>Merck Stock Dividend</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gabriel-kane-day-lewis-movies'>Gabriel-kane Day-lewis Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=personal-fitness-merit-badge-workbook'>Personal Fitness Merit Badge Workbook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arjun-daughter-husband-death'>Arjun Daughter Husband Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=virginia-game-walkthrough'>Virginia Game Walkthrough</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amy-pietz---imdb'>Amy Pietz - Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-trek%3A-bridge-crew-no-vr'>Star Trek: Bridge Crew No Vr</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hideout-movie-1987'>Hideout Movie 1987</a>,
+";s:7:"expired";i:-1;}

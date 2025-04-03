@@ -1,0 +1,118 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2595:"<br>The house is well furnished with historic items from the Queen & family. Born in 1836, Queen Emma was the wife of King Kamehameha IV. They were the royal couple responsible for Queen’s Hospital and Saint Andrew’s Cathedral. <br> <br>Hānaiakamalama – Queen Emma Summer Palace . Queen Emma Summer Palace, Oahu. <br> <br>Standing room is available for up to another 25 guests. Surrounded by a lush garden, the palace was built in 1843 as a summer retreat for Queen Emma, the wife of King Kamehameha IV. Queen Emma became a symbol of Hawaii’s cosmopolitan culture. Hānaiakamalama (Lit., the foster child of the light (or moon,)) now known as the Queen Emma Summer Palace, was the “mountain” home of Queen Emma, wife of Kamehameha IV. <br> <br>Queen Emma Summer Palace is a very unique Hawaii experience and is located just minutes from downtown Honolulu.  <br>The fact sheet for the self-guided tour is easy to read and informative. Not as palatial as ʻIolani Palace, it’s an airy, colonnaded, New England-style house of simple and practical design. Hānaiakamalama or Queen Emma Summer Palace, served as a retreat for Queen Emma of Hawaii from 1857 to 1885, as well as for her husband King Kamehameha IV, and their son, Prince Albert Edward.It is a now a historic landmark, museum, and tourist site located at 2913 Pali Highway, less than a ten-minute drive outside of downtown Honolulu, Hawaii.The museum is open daily from 9:00 a.m. to … Queen Emma Summer Palace, or Hanaiakamalama which means The Southern Cross, gives visitors a well preserved look at the summer home and lifestyle of Hawaiian royalty, in this case Queen Emma. She was the descendant of Hawaiian chieftains and John Young from England, who was a friend and advisor to King Kamehameha I. <br>  <br> <br>Queen Emma Summer Palace or Hānaiakamalama, was the secluded mountain-home and summer retreat of Queen Emma of Hawai‘i from 1857 to 1885, her husband King Kamehameha IV and their son, Prince Albert Edward. At this beautiful Hawaii wedding venue ceremonies are held on the Prince Albert Terrace in the midst of a beautiful, tropic garden setting which can seat up to 50 guests. Queen Emma Summer Palace, also known as Hanaiakamalama (meaning “foster child of the moon”), was used by Queen Emma and her family as a retreat from the rigors of … Queen Emma's Summer Palace makes a nice start to a round-Diamond head tour . A past era comes alive at Queen Emma Summer Palace in historic Nu`uanu Valley. Queen Emma Summer Palace. The house was originally constructed by John George Lewis in … <br>";s:7:"keyword";s:24:"queen emma summer palace";s:5:"links";s:7014:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-circus-of-dr-lao'>The Circus Of Dr Lao</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reached-book-review'>Reached Book Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-nativity-emerson-paramount'>Black Nativity Emerson Paramount</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercenaries-2-ps2-cheats'>Mercenaries 2 Ps2 Cheats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Comedy-drama-examples'>Comedy Drama Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spanish-workbook-preschool'>Spanish Workbook Preschool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=citrix-epic-login'>Citrix Epic Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stiletto-nails-tips'>Stiletto Nails Tips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bruce-the-bear-movie'>Bruce The Bear Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kevin-henkes-author-study-pdf'>Kevin Henkes Author Study Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dark-Places-book-ending'>Dark Places Book Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dhanwaan-1993-full-movie'>Dhanwaan 1993 Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=syndrome-2004-movie'>Syndrome 2004 Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=temper-trap---sweet-disposition-%28live%29'>Temper Trap - Sweet Disposition (live)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kesey%27s-Garage-Sale'>Kesey's Garage Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nyima-funk-whose-line-is-it-anyway'>Nyima Funk Whose Line Is It Anyway</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Goldilocks-and-the-three-bears-pdf'>Goldilocks And The Three Bears Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kris-humphries-net-worth-before-kim'>Kris Humphries Net Worth Before Kim</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sunoco-credit-card'>Sunoco Credit Card</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-retreat%2C-no-surrender-wikipedia'>No Retreat, No Surrender Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Oxford-Dictionary-of-philosophy-pdf'>Oxford Dictionary Of Philosophy Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=does-bug-club-have-an-app'>Does Bug Club Have An App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rooms-to-rent-suffolk'>Rooms To Rent Suffolk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soldiering-on-meaning'>Soldiering On Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kentucky-rifle-replica'>Kentucky Rifle Replica</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dwight-schultz-office'>Dwight Schultz Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hippolyte-taine-history-of-english-literature'>Hippolyte Taine History Of English Literature</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=berthe-morisot-mother'>Berthe Morisot Mother</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fu-zi-sacred-lotus'>Fu Zi Sacred Lotus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=exo-olympic-stadium'>Exo Olympic Stadium</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=martha-speaks-wiki'>Martha Speaks Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-moritz-illness'>Michael Moritz Illness</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dragon-island-blue-pc'>Dragon Island Blue Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seeking-him-2019'>Seeking Him 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adventures-of-huckleberry-finn-movie-1953'>Adventures Of Huckleberry Finn Movie 1953</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=getting-to-yes'>Getting To Yes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bob-barker-2019'>Bob Barker 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vanessa-kirby-callum-turner'>Vanessa Kirby Callum Turner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=campfire-tales-%281997-streaming%29'>Campfire Tales (1997 Streaming)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i%27m-just-a-loser-tiktok-song-lyrics'>I'm Just A Loser Tiktok Song Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-version-of-the-art-of-war-for-business'>Best Version Of The Art Of War For Business</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tadao-ando%2C-architect'>Tadao Ando, Architect</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=genetics-poem-analysis'>Genetics Poem Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-henri-book'>Robert Henri Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lace-up-chunky-heels'>Lace Up Chunky Heels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=another-word-for-delivery-company'>Another Word For Delivery Company</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=m67-grenade-price'>M67 Grenade Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-key-to-success-is-failure-quote'>The Key To Success Is Failure Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dangerous-game-series'>Dangerous Game Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rumble-fish-essay'>Rumble Fish Essay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tallstar%27s-revenge-new-cover'>Tallstar's Revenge New Cover</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=regretting-you-review'>Regretting You Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=editors---violence'>Editors - Violence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Freckle-Juice-Chapter-3'>Freckle Juice Chapter 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jan-hammer-group'>Jan Hammer Group</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Switzerland-before-ww2'>Switzerland Before Ww2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Flames%3A-A-Fantasy'>The Flames: A Fantasy</a>,
+";s:7:"expired";i:-1;}

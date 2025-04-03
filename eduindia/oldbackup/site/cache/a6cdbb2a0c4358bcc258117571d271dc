@@ -1,0 +1,125 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1826:"<p>The stories have been abridged and retold in modern English by respected children's authors, making them accessible to readers as young as six while retaining all the charm, atmosphere, and sense of adventure that made the original tales world-famous. It's never too early to start introducing your children to the classics — the kiddie classics, that is.We've rounded up 20 timeless children's books that are musts in every literary kid's library. This fantastic boxset brings together 16 well-loved children's classics. The Ultimate Children's Classic Collection (Wordsworth Box Sets) (Children's Classics) Paperback – 25 Sept. 2015 by Lewis Carroll (Author), Kenneth Grahame (Author), Robert Louis Stevenson (Author), Anna Sewell (Author), Rudyard Kipling (Author), Frances Hodgson Burnett (Author), Sir James Matthew Barrie (Author) & 4 more </p> <p> </p> <p>Oh, the Places You'll Go! Your headquarters for the best classic literature for children, Yesterday's Classics offers a rich collection of books from a wide variety of genres, with special emphasis on history, literature, and natural history. </p> <p>i'm trying to make a list of the best, classic children's books for my soon to arrive niece or nephew, help me out and add your favorite Score A book’s total score is based on multiple factors, including the number of people who have voted for it and how highly those voters ranked the book. These dramatic, easy-to-follow stories, charmingly illustrated with verve and … While used extensively as school reading, Yesterday's Classics titles work equally well as independent reading, and family read-alouds. </p> <p>; Goodnight Moon; The Giving Tree This is a list of children's classic books published no later than 1990 and still available in … $8.98; Brown Bear, Brown Bear, What Do You See? </p>";s:7:"keyword";s:35:"children's classic collection books";s:5:"links";s:7974:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=squidward-would-you-get-out-of-here'>Squidward Would You Get Out Of Here</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=queen-of-sweden-rose-seeds'>Queen Of Sweden Rose Seeds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=attack-on-titan-birds'>Attack On Titan Birds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lion-el%27jonson-model-for-sale'>Lion El'jonson Model For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clopin-trouillefou-musical'>Clopin Trouillefou Musical</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thai-flashcards-pdf'>Thai Flashcards Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-pryor%3A-live-on-the-sunset-strip-123movies'>Richard Pryor: Live On The Sunset Strip 123movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seyfarth-shaw-atlanta-salary'>Seyfarth Shaw Atlanta Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=he-has-shown-thee-o-man-lyrics'>He Has Shown Thee O Man Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-onion-movie-trailer'>The Onion Movie Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tremors-2-movie'>Tremors 2 Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=uncontrollable-laughter-in-sleep'>Uncontrollable Laughter In Sleep</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Notre-Dame%2C-Indiana'>Notre Dame, Indiana</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=omkara-hit-or-flop'>Omkara Hit Or Flop</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liz-claman-trump'>Liz Claman Trump</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=janet-evanovich-movie'>Janet Evanovich Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apollo-justice%3A-ace-attorney-switch'>Apollo Justice: Ace Attorney Switch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1909-bolo-knife'>1909 Bolo Knife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Hampdenshire-Wonder'>The Hampdenshire Wonder</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=streetlight-manifesto-tampa'>Streetlight Manifesto Tampa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-last-dragonslayer'>The Last Dragonslayer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-post-office-girl-goodreads'>The Post Office Girl Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=21-day-weather-forecast-gibraltar'>21 Day Weather Forecast Gibraltar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-haunting-of-bly-manor-trailer'>The Haunting Of Bly Manor Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-ballad-of-reading-gaol-analysis-pdf'>The Ballad Of Reading Gaol Analysis Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fatal-contact-full-movie-watch-online'>Fatal Contact Full Movie Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-prince-book'>Dark Prince Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marina-animal-crossing-reddit'>Marina Animal Crossing Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saigon-bride-year'>Saigon Bride Year</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=biblical-hours-of-prayer'>Biblical Hours Of Prayer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dieter-rams-record-player'>Dieter Rams Record Player</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-do-choices-affect-our-identity'>How Do Choices Affect Our Identity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kook-meaning-surfing'>Kook Meaning Surfing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=D%26D-cleric-spells'>D&D Cleric Spells</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miracles-song-lyrics'>Miracles Song Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fighter-fish-price-in-chennai'>Fighter Fish Price In Chennai</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=post-mortem-form'>Post Mortem Form</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=space-force-release-date'>Space Force Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Throne-of-Glass-book-1'>Throne Of Glass Book 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-moon-movie-1986-cast'>Blue Moon Movie 1986 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Brandon-Frankel-wiki'>Brandon Frankel Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=melange-fabric-properties'>Melange Fabric Properties</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marisa-berenson-sister'>Marisa Berenson Sister</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-bones-lyrics'>Funny Bones Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chaplin-%281992%29-full-movie-123movies'>Chaplin (1992) Full Movie 123movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tradition-and-the-individual-talent-analysis'>Tradition And The Individual Talent Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lord-quotes-and-sayings'>Lord Quotes And Sayings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Society-of-Illustrators-restaurant'>Society Of Illustrators Restaurant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-paulson-net-worth'>John Paulson Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-dubuffet-facts'>Jean Dubuffet Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Micah-Bible-verses'>Micah Bible Verses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alcatraz-facts-and-information'>Alcatraz Facts And Information</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=erie%2C-pa-area-code'>Erie, Pa Area Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Nan-Woods-now'>Nan Woods Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-brood-nola'>The Brood Nola</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dylan-the-dog'>Dylan The Dog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backstreet-relationship-meaning'>Backstreet Relationship Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what%27s-the-difference-between-jelly-and-jam-joke-how-i-met-your-mother'>What's The Difference Between Jelly And Jam Joke How I Met Your Mother</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=legend-of-luke'>Legend Of Luke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chopin-nocturne-op-9-no-1-guitar-tab'>Chopin Nocturne Op 9 No 1 Guitar Tab</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Simile-for-home'>Simile For Home</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reb-beach-family'>Reb Beach Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-mcdonald-college-uniform'>The Mcdonald College Uniform</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hard-life-game'>Hard Life Game</a>,
+";s:7:"expired";i:-1;}

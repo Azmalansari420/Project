@@ -1,0 +1,145 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2803:"<p>The page itself is quite boring so I want to focus primarily on the CSS code. But should I spend that much effort for a simple and common problem? </p> <p>Each anchor link is given a tooltip based on the class .tooltip.Using the HTML5 data syntax I’m pulling the text from an attribute named data-tool. Step 1 – Create a new page or post, or edit an existing one.. The anchor name can be anything you want it to be but I recommend to name it related to the subject. </p> <p>Getting Started. To do this, add a ‘1/1’ Column directly above the content you’re targeting by clicking the ‘+ Columns’ button on the lower right side of the Container. How to link in the same page in HTML. In Divi we do this by filling in the ID of the anchor to a section, row or module.  How to offset anchor tag link using CSS – NO JAVASCRIPT required Saturday, 13 December 2014 by Adrian Gordon. For proper functionality, the order of these selectors should be −:link:visited:hover:active; The syntax of CSS psudo-class property is as follows − … Link to anchor on same page; Link to anchor on another page; Link to anchor on same page Step 1 – Create a link. </p> <p>Thank you so much for this simple solution! Step 2 – Add your content as normal then determine the content on the page you’d like to target.. HTML anchor link. Step 3 Now you need to assign the anchor link to a section of your page so when you clicked on the anchor link it will jump to that part of the page. In a wordpress theme using themefusion – I added your .anchor css code to the code section of the page, then created a menu anchor element calling the CSS class: anchor. </p> <p>I found an answer on stackoverflow with just pure css. HTML anchor link code. </p> <p>This guide covers how to add anchor links to any block section on your site with a Code Block. </p> <p>I’ve been trying to find a “linked anchor” script that scrolls the page, but also doesn’t interfere with href’s that have the hash (#) symbol stand-alone within them (as those types of href’s typically are used with other JS functions). ... Monday, 30 December 2019. Using CSS pseudo-class selectors, namely, :active, :hover, :link and :visited we can style different states of a link/anchor. Then fiddle with the header sizing (mine was closer to 310px) – worked a charm! Step 3 – Now we need to add the Menu Anchor element. For example, the table of contents in this guide contains anchor links that take you to each header. Offset html anchors for fixed header with pure css 26 Mar 2017 • 1 min read css anchor_tag Using Javascript is the intuition when I encountered this problem. An anchor link (or "page jump") is a special URL that takes you to a specific place on a page. Live Demo – Download Source Code. </p> <p></p>";s:7:"keyword";s:15:"page anchor css";s:5:"links";s:10990:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-brookes-cartoonist-times'>Peter Brookes Cartoonist Times</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=designing-brand-identity%3A-an-essential-guide-for-the-whole-branding-team-pdf'>Designing Brand Identity: An Essential Guide For The Whole Branding Team Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-music-meme'>Love Music Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mike-hammer-tv-series'>Mike Hammer Tv Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Goofy-meaning-in-telugu'>Goofy Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sick-puppy-meaning'>Sick Puppy Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plural-of-moose-moosen'>Plural Of Moose Moosen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-truants-wikipedia'>The Truants Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=matt-weitzman-american-dad'>Matt Weitzman American Dad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=types-of-sunglasses'>Types Of Sunglasses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Herman-Bavinck-Quotes'>Herman Bavinck Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goebbels-sportpalast-speech-transcript'>Goebbels Sportpalast Speech Transcript</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blade-series-2020'>Blade Series 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chu-ci-Amazon'>Chu Ci Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=into-your-heart-tamil-meaning'>Into Your Heart Tamil Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-happened-to-nolan%27s-mom-on-bloodline'>What Happened To Nolan's Mom On Bloodline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interventional-radiology-salary-2019'>Interventional Radiology Salary 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lipstick-building-law-firm'>Lipstick Building Law Firm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buckbeak-prisoner-of-azkaban'>Buckbeak Prisoner Of Azkaban</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dell-curry-kids'>Dell Curry Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=higher-power-definition'>Higher Power Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-flyers-professional-pilot-program-reviews'>American Flyers Professional Pilot Program Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robot-wars-cast'>Robot Wars Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atlantis-rising-review'>Atlantis Rising Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ruins-of-mausoleum-in-tus-iransimin-behbahani-quotes'>Ruins Of Mausoleum In Tus Iransimin Behbahani Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=irish-themed-films'>Irish Themed Films</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Khakee-Full-Movie-Download-480p'>Khakee Full Movie Download 480p</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Alexander-Herzen-quotes'>Alexander Herzen Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joshua-dionisio-and-barbie-forteza-movie'>Joshua Dionisio And Barbie Forteza Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sula-brut-methode-traditionnelle-750ml-price'>Sula Brut Methode Traditionnelle 750ml Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=masahiro-sakurai-kirby'>Masahiro Sakurai Kirby</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=long-island-children%27s-museum-donation-request'>Long Island Children's Museum Donation Request</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Advantages-of-mobile-phone'>Advantages Of Mobile Phone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-pronounce-dithyramb'>How To Pronounce Dithyramb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Phoenix-list-2019'>Phoenix List 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tamer-Hassan-Game-of-Thrones-character'>Tamer Hassan Game Of Thrones Character</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deradicalization-meaning-in-telugu'>Deradicalization Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=not-sticking-to-gestational-diabetes-diet'>Not Sticking To Gestational Diabetes Diet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orthodox-church-in-turkey'>Orthodox Church In Turkey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brent-wilson-linkedin'>Brent Wilson Linkedin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Carl-Brutananadilewski-meme'>Carl Brutananadilewski Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beyond-belief%3A-fact-or-fiction-sleepwalker'>Beyond Belief: Fact Or Fiction Sleepwalker</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stardock-multiplicity-crack'>Stardock Multiplicity Crack</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sorry-quotes-for-friends'>Sorry Quotes For Friends</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-patriarchs-of-jerusalem'>List Of Patriarchs Of Jerusalem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=acoustic-communication-in-fish'>Acoustic Communication In Fish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edison-electric-light-company'>Edison Electric Light Company</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=terence-young-hawaii'>Terence Young Hawaii</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Street-Dance-of-China-s2-Eng-sub'>Street Dance Of China S2 Eng Sub</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whats-the-difference-between-jelly-and-jam-joke'>Whats The Difference Between Jelly And Jam Joke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-town-youtube-channel'>Love Town Youtube Channel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ernest-cline-ready-player-two'>Ernest Cline Ready Player Two</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-ciociara-full-movie'>La Ciociara Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cookie-Cats-Pop'>Cookie Cats Pop</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolfgang-pauli-quotes'>Wolfgang Pauli Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poems-of-the-decade-revision-guide'>Poems Of The Decade Revision Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1952-stanley-kramer-movie'>1952 Stanley Kramer Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chime-dispute-reviews'>Chime Dispute Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rowan-witt-net-worth'>Rowan Witt Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jack-Skellington-cat'>Jack Skellington Cat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=she-and-i-or-she-and-me'>She And I Or She And Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=home-alone-2-soundtrack---youtube'>Home Alone 2 Soundtrack - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-goat-yelp'>The Goat Yelp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=short-stories-of-gratitude-and-thanksgiving'>Short Stories Of Gratitude And Thanksgiving</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stick-war---unblocked-games-77'>Stick War - Unblocked Games 77</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unit-731-photos'>Unit 731 Photos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alexa-meade-interesting-facts'>Alexa Meade Interesting Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-mann-sociology'>Michael Mann Sociology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-walk%3A-steps-for-new-and-renewed-followers-of-jesus'>The Walk: Steps For New And Renewed Followers Of Jesus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=conor-mcgregor-reebok-zig-kinetica'>Conor Mcgregor Reebok Zig Kinetica</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Morning-Sun-Pok%C3%A9mon'>Morning Sun Pokémon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-wars%3A-jedi-knight%3A-jedi-academy-mods-nexus'>Star Wars: Jedi Knight: Jedi Academy Mods Nexus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deadfall-1968-film-location'>Deadfall 1968 Film Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dc%27s-stargirl-imdb'>Dc's Stargirl Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emperor-jimmu-age'>Emperor Jimmu Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-albert-michener'>James Albert Michener</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-is-the-transmission'>Where Is The Transmission</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=distributed-cognition-framework'>Distributed Cognition Framework</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brendan-smyth---betrayal-of-trust'>Brendan Smyth - Betrayal Of Trust</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apt-pupil-imdb'>Apt Pupil Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jarhead%3A-law-of-return-review-rotten-tomatoes'>Jarhead: Law Of Return Review Rotten Tomatoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-archer-paulo-coelho'>The Archer Paulo Coelho</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-wind-up-bird-chronicle-sparknotes'>The Wind-up Bird Chronicle Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mike-mussina-hall-of-fame-plaque'>Mike Mussina Hall Of Fame Plaque</a>,
+";s:7:"expired";i:-1;}

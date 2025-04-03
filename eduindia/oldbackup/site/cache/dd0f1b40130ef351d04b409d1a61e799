@@ -1,0 +1,85 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2816:"<br>STUDY. <br> <br>Nach 6 Tagen kommt die Vergessenskurve auf 23 %. In this instalment of the Online Learning Glossary, we’re looking at one of the biggest bugbears in the training community. One subject spent 70 hours learning lists and relearning them after 20 min, 1 hour, 9 hours, 1 day, 2 days, or 31 days. <br> <br>One subject spent 70 hours learning lists and relearning them after 20 min, 1 hour, 9 hours, 1 day, 2 days, or 31 days. We present a successful replication of Ebbinghaus' classic forgetting curve from 1880 based on the method of savings. psilver1. EBBINGHAUS'S CURVE OF RETENTION: "Ebbinghaus's curve of retention deals with how we forget things already learned." This curve was drawn using Ebbinghaus’ original forgetting curve data – but that data only came from one man (himself), and a one-person study doesn’t make for great science. If it wasn’t for the forgetting curve, your learners could take an eLearning unit once and it would stick in their brains first time. What he also discovered was that over time, if learning is rehearsed and … The Curve of Forgetting describes how we retain or get rid of information that we take in. Spell. The forgetting curve was coined by German psychologist, Hermann Ebbinghaus (hence the formal name), in the late 1800s. If you want your training content to stick, making access to courses convenient … Ebbinghaus' forgetting Curve. The first study to hypothesize the forgetting curve was done in 1885. Related Psychology Terms. <br> Image source. <br> <br>His curve showed retention rather than forgetting. We present a successful replication of Ebbinghaus’ classic forgetting curve from 1880 based on the method of savings. The curve demonstrates the declining rate at which information is lost if no particular effort is made to remember it. EBBINGHAUS'S CURVE OF RETENTION.  <br>It’s a formula that represents the rate at which information is forgotten after it is initially learned. We present a successful replication of Ebbinghaus’ classic forgetting curve from 1880 based on the method of savings. <br> <br>The Ebbinghaus retention curve: training does not increase the ability to apply pressure immobilisation in simulated snake bite—implications for snake bite first aid in the developing world Ian D. Simpson. reinforcement. Ebbinghaus’ Forgetting Curve, or simply ‘The Forgetting Curve’, shows how information is lost over time when you don’t try to retain it.. The Forgetting Curve Hermann Ebbinghaus (1850-1909) was a German psychologist who founded the experimental psychology of memory. Happily, more recent work with a larger sample of participants has been able to replicate the finding. Ebbinghaus forgetting curve describes the decrease in ability of the brain to retain memory over time. Match. <br>";s:7:"keyword";s:26:"ebbinghaus retention curve";s:5:"links";s:3064:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kanaa-full-movie-in-hotstar'>Kanaa Full Movie In Hotstar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brian-regan-kids'>Brian Regan Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cross-creek-apartments-reviews'>Cross Creek Apartments Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-louis-deniot-book'>Jean-louis Deniot Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=final-offer-movie-negotiation'>Final Offer Movie Negotiation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hungarian-past-tense'>Hungarian Past Tense</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Arne-Jacobsen-quotes'>Arne Jacobsen Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=giants-and-the-genii-multiplex-of-wing-and-eye'>Giants And The Genii Multiplex Of Wing And Eye</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philadelphia-movie-kiss'>Philadelphia Movie Kiss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-target-memes'>Funny Target Memes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=olly-richards-short-stories-in-spanish-for-beginners'>Olly Richards Short Stories In Spanish For Beginners</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ator%2C-the-fighting-eagle-full-movie'>Ator, The Fighting Eagle Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dark-prince'>The Dark Prince</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=burnley-fc-shop'>Burnley Fc Shop</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chuck-meaning-in-malayalam'>Chuck Meaning In Malayalam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gandalf-meme-generator'>Gandalf Meme Generator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bug-fixes-and-improvements'>Bug Fixes And Improvements</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-zootopia-on-disney%2B-plus'>Is Zootopia On Disney+ Plus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alpha-wolf-barrel-review'>Alpha Wolf Barrel Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=How-long-ago-was-AD-33'>How Long Ago Was AD 33</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trollhunters-season-3-trailer'>Trollhunters Season 3 Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-battle-of-maldon-poem-pdf'>The Battle Of Maldon Poem Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ninja-gaiden-tomonobu-itagaki'>Ninja Gaiden Tomonobu Itagaki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dublin-city-council-housing-phone-number'>Dublin City Council Housing Phone Number</a>,
+";s:7:"expired";i:-1;}

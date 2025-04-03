@@ -1,0 +1,122 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4644:"<p>The fire originated in the office of the Chief of Police. A fire broke out at the Palisades Interstate Parkway Police headquarters Wednesday. The fire originated in the office of the Chief of Police. ALPINE, N.J. — A New Year's Day fire ripped thru the Palisades Interstate Parkway’s police headquarters in Alpine. </p> <p>Among the agencies that sent air and sea units to assist were the NYPD, Palisades Interstate Parkway Police, the Nyack and Piermont fire department marine units, the Thiells dive team, the Irvington and Tarrytown fire departments, the Rockland County Sheriff's Office and the Westchester County Police Aviation Unit. On Wednesday, January 1, 2020, at about 11:45 AM, a fire was detected in the Palisades Interstate Parkway Police Department (PIPPD) Headquarters. The Daily Voice reports the fire went to four alarms because of problems with water pressure.The same building suffered a fire back in the 1970s. On Thursday, July 5th 2018 at 1708hrs the Palisades Interstate Parkway Police Department received multiple 9-1-1 calls reporting a car that struck a tree and caught fire on the Parkway southbound, south of interchange 3 in the Alpine NJ section. </p> <p>Editor’s note: After press time, a Palisades Interstate Parkway Police spokesperson issued a statement on this fire incident, which has been added at the end of this story. </p> <p>Media reports say the 4-alarm fire began in the  A fire broke out at the Palisades Interstate Parkway Police headquarters Wednesday. The blaze went to four alarms because of problems with water pressure, responders said. Palisades Interstate Parkway police said the 41-year-old man, whose name wasn't released, was heading north on the parkway in Alpine just before the New York state line on Thursday. An office of the Palisades Interstate Parkway Police and the Court of the Palisades Interstate Park were housed on the building’s first floor, with the Commission on the second. This facility is located within a historic building along the New Jersey Palisades in Alpine, NJ. </p> <p>The southern terminus of the route is at the George Washington Bridge in Fort Lee, New Jersey, where it connects … ALPINE, N.J.— A four-alarm fire that tore through the Palisades Interstate Park Commission headquarters in Alpine on New Year’s Day caused extensive damage and drew fire … The fire originated in the office of the Chief of Police. A fire ripped through the Alpine headquarters of the Palisades Interstate Parkway Police on Wednesday, officials said. </p> <p>This facility is located within a historic building along the New Jersey Palisades in Alpine, NJ. The building was significantly damaged. </p> <p>On Wednesday, January 1, 2020, at about 11:45 AM, a fire was detected in the Palisades Interstate Parkway Police Department (PIPPD) Headquarters. </p> <p>First Class Raymond E. Walter said. The building was home to the administrative offices of the Palisades Park Commission and a branch of the Palisades Interstate Parkway Police. The Palisades Interstate Parkway (PIP) is a 38.25-mile-long (61.56 km) limited-access highway in the U.S. states of New Jersey and New York.The parkway is a major commuter route into New York City from Rockland and Orange counties in New York and Bergen County in New Jersey. Palisades Interstate Parkway police said the 41-year-old man, whose name wasn't released, was heading north on the parkway in Alpine just before the New York state line on Thursday. No one was hurt in the blaze, but one Park Commissioner has said some of the Commission’s on-site records have been destroyed. A fast-moving blaze ravaged the headquarters of the Palisades Interstate Parkway Police Department on Wednesday. </p> <p>On Thursday, July 5th 2018 at 1708hrs the Palisades Interstate Parkway Police Department received multiple 9-1-1 calls reporting a car that struck a tree and caught fire on the Parkway southbound, south of interchange 3 in the Alpine NJ section.Officers Timothy Conboy #393, Michael Holland #403, and Antonio Megaro #405 responded. </p> <p>The building also housed a municipal court. The building also housed a municipal court. The building was home to the administrative offices of the Palisades Park Commission and a branch of the Palisades Interstate Parkway Police. The were no injuries, but the station was badly damaged, according to … The woman was “diabetic, exhausted, dehydrated and vomiting” when Palisades Interstate Parkway police found her and her 15-year-old son shortly after 2 p.m. Sunday in the area of the Great Stairs more than 150 feet above the river in Alpine, PIPPD Sgt. </p> <p></p>";s:7:"keyword";s:40:"Palisades Interstate Parkway Police fire";s:5:"links";s:7612:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=house-democratic-rules'>House Democratic Rules</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=white-vinegar-kills-mites'>White Vinegar Kills Mites</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jefferson-white-actor'>Jefferson White Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-vortex%3A-where-the-law-of-attraction-assembles-all-cooperative-relationships'>The Vortex: Where The Law Of Attraction Assembles All Cooperative Relationships</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isidora-invisible-cities'>Isidora Invisible Cities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apartments-in-parker%2C-co'>Apartments In Parker, Co</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Man-to-Woman'>Man To Woman</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fx-broken-date'>Fx Broken Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carol%27s-journey-cast'>Carol's Journey Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=text-maze-generator'>Text Maze Generator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=club-dread-trailer'>Club Dread Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prosthetic-memory-landsberg-summary'>Prosthetic Memory Landsberg Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tinashe---remember-when'>Tinashe - Remember When</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=casa-das-canoas-plan'>Casa Das Canoas Plan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-wall-arliss'>Robert Wall Arliss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eliza-butterworth-weight-loss'>Eliza Butterworth Weight Loss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Alexander-Herzen-quotes'>Alexander Herzen Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orthodoxy-chesterton-quotes'>Orthodoxy Chesterton Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=southampton%2C-ny-real-estate'>Southampton, Ny Real Estate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=puerto-rico-hotels-on-the-beach'>Puerto Rico Hotels On The Beach</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seymour-chwast-posters'>Seymour Chwast Posters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-Bailey-Vogue'>David Bailey Vogue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japanese-rv-for-sale'>Japanese Rv For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-creator-of-sonic'>The Creator Of Sonic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=https-learning-davidsonhotels-com-index-php'>Https Learning Davidsonhotels Com Index Php</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mother-krampus-2%3A-slay-ride-full-movie'>Mother Krampus 2: Slay Ride Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=verboten-synonym-deutsch'>Verboten Synonym Deutsch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oak-park-zip-code-ca'>Oak Park Zip Code Ca</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=song-of-deborah'>Song Of Deborah</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clorox-fuzion-spec-sheet'>Clorox Fuzion Spec Sheet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=3d-pop-up-books'>3d Pop-up Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wingamm-oasi-540-price'>Wingamm Oasi 540 Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=as-i-grow-older%2C-i-pay-less-attention'>As I Grow Older, I Pay Less Attention</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=El-amor-despu%C3%A9s-del-amor'>El Amor Después Del Amor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-fault-in-our-stars-shakespeare-quote-john-green'>The Fault In Our Stars Shakespeare Quote John Green</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fun-food-news'>Fun Food News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Danny-Welbeck-Instagram'>Danny Welbeck Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Something-Good-Robert-Munsch-Activities'>Something Good Robert Munsch Activities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whole-foods-bao-buns'>Whole Foods Bao Buns</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eqt-partners-london'>Eqt Partners London</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yap-yap-yap-meaning'>Yap Yap Yap Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marine-forecast-jamaica'>Marine Forecast Jamaica</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=booker-t-washington-school-dallas'>Booker T Washington School Dallas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=homes-for-sale-in-englewood%2C-co-80111'>Homes For Sale In Englewood, Co 80111</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=masahiro-sakurai-kirby'>Masahiro Sakurai Kirby</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=st-anne-catholic-church'>St Anne Catholic Church</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=supermarket-chaos-uk'>Supermarket Chaos Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=68-kill-watch-online'>68 Kill Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-file-late-taxes'>How To File Late Taxes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=katsura-hoshino-anime'>Katsura Hoshino Anime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=china-boy-bully-dog'>China Boy Bully Dog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-brook-hamlet-review'>Peter Brook Hamlet Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeff-goldblum-appearances-2019'>Jeff Goldblum Appearances 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=navigating-early-symbolism'>Navigating Early Symbolism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phases-of-matter-worksheet-pdf'>Phases Of Matter Worksheet Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rifftrax-no-retreat%2C-no-surrender-review'>Rifftrax No Retreat, No Surrender Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Herman-Bavinck-Quotes'>Herman Bavinck Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=evangelism-definition-webster'>Evangelism Definition Webster</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Innkeepers-ending'>The Innkeepers Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bani-Adam---Coldplay'>Bani Adam - Coldplay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=president-house-usa'>President House Usa</a>,
+";s:7:"expired";i:-1;}

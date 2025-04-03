@@ -1,0 +1,103 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2877:"<br>Sponsors: Educause Security Discussion mailing list archives By Date By Thread Re: EDUCAUSE 2019 - Hawkins Leadership Roundtable. from Quote Investigator (website), January 3, 2019. I'd like to provide additional support for participation in the Hawkins Leadership Roundtable. From: Brian Kelly <bkelly EDUCAUSE EDU> Date: Wed, 4 Sep 2019 12:47:13 +0000. From: The EDUCAUSE Security Community Group Listserv <SECURITY LISTSERV EDUCAUSE EDU> On Behalf Of Hillhouse, Bob (Bob) Sent: Monday, July 1, 2019 12:39 PM To: SECURITY LISTSERV EDUCAUSE EDU Subject: [SECURITY] FW: ATTENDEES LIST OF Security Professionals Conference 2019 … ; and (3) What are the critical challenges and how can we strategize solutions? Dear Colleagues, I am pleased to be a part of the Hawkins Leadership Roundtable as a Leadership Advisor. EDUCAUSE Annual Conference. No, but I’ve received a number of similar emails from other firms trying to sell me attendee lists for other events. <br> <br>For example, a little more than half of IT professionals agreed that HR has been supportive of IT's hiring efforts in the past five years: 48% in 2014; 54% in 2016; and 57% in 2019 (see figure 1). Sign up for free EDUCAUSE Review weekly emails to hear about new content. From: "Pitt, Sharon" <spitt UDEL EDU> Date: Wed, 4 Sep 2019 14:25:26 +0000. <br> <br>A majority of IT managers and CIOs view central HR as a resource that supports diversity, equity, and inclusion (DEI) efforts. 3 For two opinions about the value of the Horizon Report’s predictions, see Audrey Watters, “The 100 Worst Ed-Tech Debacles of the Decade,” Hack Education (blog), December 31, 2019, and Stephen Downes, “Horizon Report Preview 2019,” Stephen Downes (website), February 28, 2019.  <br> <br>Log in or create an EDUCAUSE profile to manage your subscriptions. <br> Keep up with higher education IT trends. <br> <br>With the best presenters, the best content, and the best networking, the premier higher ed IT event brings together professionals and technology providers from around the world to share ideas, grow professionally, and discover solutions to today’s challenges. Sponsors: Educause Security Discussion mailing list archives By Date By Thread Re: eDiscovery Solutions. Sponsors: Educause Security Discussion mailing list archives ... EDUCAUSE 2019 - Hawkins Leadership Roundtable. Months into his role as Educause's cyber director, Brian Kelly is leaning on his experience as a CISO to build a community for his peers. For 17 years, the New Media Consortium convened panels of experts from higher education and posed three key questions for them to discuss: (1) What is on the five-year horizon for higher education institutions? The EDUCAUSE Annual Conference showcases the best thinking in higher education IT! ; (2) Which trends and technology developments will drive educational change? <br> <br>";s:7:"keyword";s:22:"educause 2019 sponsors";s:5:"links";s:5196:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pig-farming-profit-margin'>Pig Farming Profit Margin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adria-caravan-price-list'>Adria Caravan Price List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spiritual-partnership-amazon'>Spiritual Partnership Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-trek%3A-picard-panel'>Star Trek: Picard Panel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tristan-knight-citi'>Tristan Knight Citi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=march-9-events'>March 9 Events</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=suits-from-the-gentlemen'>Suits From The Gentlemen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nathan-chen---youtube'>Nathan Chen - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=na-kel-smith-sponsors'>Na-kel Smith Sponsors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=middle-mississippi-river-national-wildlife-refuge'>Middle Mississippi River National Wildlife Refuge</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-super-brain-course'>What Is Super Brain Course</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=endings%2C-beginnings-who-does-she-end-up-with'>Endings, Beginnings Who Does She End Up With</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=erb%27s-palsy-exercises-for-infants-pdf'>Erb's Palsy Exercises For Infants Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=walmart-night-light'>Walmart Night Light</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isaiah-40%3A11-commentary'>Isaiah 40:11 Commentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Where-the-Giant-Sleeps'>Where The Giant Sleeps</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bath-toy-storage'>Bath Toy Storage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=silver-shadows-pdf'>Silver Shadows Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=duel-truck-toy'>Duel Truck Toy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-wind-up-bird-chronicle-character-analysis'>The Wind-up Bird Chronicle Character Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=she-was-the-quiet-one-spoiler'>She Was The Quiet One Spoiler</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jason-marin-wikipedia'>Jason Marin Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lawman-1971-full-movie'>Lawman 1971 Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cece-halpert-2020'>Cece Halpert 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adore-movie-link'>Adore Movie Link</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does--7-mean-in-point-spread'>What Does -7 Mean In Point Spread</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hagerstown-md-to-rockville-md'>Hagerstown Md To Rockville Md</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wave-particle-duality-examples'>Wave-particle Duality Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hunger-pdf-roxane'>Hunger Pdf Roxane</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=larry-graham-drake%27s-uncle'>Larry Graham Drake's Uncle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ny-giants-%2372'>Ny Giants #72</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thailand-population-2019'>Thailand Population 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=valley-swim-lyrics'>Valley Swim Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=I-Am-So-Blessed'>I Am So Blessed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bambusa-chungii-for-sale'>Bambusa Chungii For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devil-in-spring%3A-the-ravenels%2C-book-3'>Devil In Spring: The Ravenels, Book 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=koh-poda-accommodation'>Koh Poda Accommodation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noisy-nora-video'>Noisy Nora Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mayavan-full-movie-watch-online-tamilrockers'>Mayavan Full Movie Watch Online Tamilrockers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mike-herrera---moments-like-these'>Mike Herrera - Moments Like These</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sarah-cooper-tiktok'>Sarah Cooper Tiktok</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pulitzer-prize-2019'>Pulitzer Prize 2019</a>,
+";s:7:"expired";i:-1;}

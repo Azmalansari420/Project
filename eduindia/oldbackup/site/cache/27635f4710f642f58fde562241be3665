@@ -1,0 +1,150 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2757:"<br>Convergence, in mathematics, property (exhibited by certain infinite series and functions) of approaching a limit more and more closely as an argument (variable) of the function increases or decreases or as the number of terms of the series increases.. For example, the function y = 1/x converges to zero as x increases. Bernhard Riemann proved that a conditionally convergent series may be rearranged to converge to any value at all, including ∞ or −∞; see Riemann series theorem. On the other hand, the sequence 1, 2, 3, 4, 5, 6, . Find out if the series converges, then 2. Answer: Since we have a power n in the series, we will use the Root-Test. <br> <br>1. n. n. is convergent but the series ∑ ∞ =1. . A convergent sequence has a limit — that is, it approaches a real number. Determine it isn’t absolutely convergent. lim +1 <1 →∞ n n n a a then the series ∑ ∞ n=1 a n converges; (b) if lim +1 >1 →∞ n n a a the series diverges. Problem 1: Test for convergence. A classic example is the alternating series given by ... but is not absolutely convergent (see Harmonic series). In other words if series $\sum v_{n} $ is convergent and, For example, the sequence 2.1, 2.01, 2.001, 2.0001, . <br> This is not a real number, so the sequence does not converge.  Problem 2: Test for convergence. <br> <br>Examples: The series ∑ ∞ =1 1.001. We have. A series is said to be convergent if it approaches some limit (D'Angelo and West 2000, p. 259). More Examples on Series. It is a divergent sequence . This is an example of a sequence in mathematics. is convergent or divergent. Here’s another convergent sequence: This time, the sequence […] If sumu_k and sumv_k are convergent series, then sum(u_k+v_k) and sum(u_k … Here are a few important examples of p-series that are either convergent or divergent. 1. n. n. is divergent. So, to determine if the series is convergent we will first need to see if the sequence of partial sums, { n ( n + 1) 2 } ∞ n = 1 { n ( n + 1) 2 } n = 1 ∞. If the new (all positive term) series converges, then the series is absolutely convergent. -x, +x, -x…), and each term is bigger than the term after it, the series converges. Conversely, a series is divergent if the sequence of partial sums is divergent.  <br>Take the absolute values of the alternating (converging) series. Since, and, we get . Although no finite value of x will cause the value of y to actually … In mathematics, a series  is the sum  of the terms of an infinite sequence  of numbers. As with geometric series, a simple rule exists for determining whether a p-series is convergent or divergent. We've given an example of a convergent geometric series, making the concept of a convergent series more precise. <br>";s:7:"keyword";s:26:"convergent series examples";s:5:"links";s:11124:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dave-gibbons-art-for-sale'>Dave Gibbons Art For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Neil-Peart-wife'>Neil Peart Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sick-puppy-meaning'>Sick Puppy Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caroline-wozniacki-harvard'>Caroline Wozniacki Harvard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antonina-shevchenko-sherdog'>Antonina Shevchenko Sherdog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=which-of-these-is-the-best-example-of-metaphor'>Which Of These Is The Best Example Of Metaphor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-wilmot-age'>David Wilmot Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=68-kill-watch-online'>68 Kill Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-or-an-before-hotel'>A Or An Before Hotel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moli%C3%A8re-quotes-in-clothes'>Molière Quotes In Clothes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chosen-one-in-literature'>Chosen One In Literature</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=32nd-european-film-awards'>32nd European Film Awards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caravan-sports-chair'>Caravan Sports Chair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-sunset-koh-lanta'>Best Sunset Koh Lanta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jade-castrinos-jakob-dylan'>Jade Castrinos Jakob Dylan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-bernabe-wife'>Richard Bernabe Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oliver-button-is-a-sissy-reading-level'>Oliver Button Is A Sissy Reading Level</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rumble-fish-essay'>Rumble Fish Essay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unique-wedding-invitations'>Unique Wedding Invitations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=parker-deluxe-ink-converter'>Parker Deluxe Ink Converter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=milton-glaser-bob-dylan-poster-original'>Milton Glaser Bob Dylan Poster Original</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leslie-sykes-instagram'>Leslie Sykes Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saarinen-side-table'>Saarinen Side Table</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ken-blackman-relationship-coach'>Ken Blackman Relationship Coach</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tesseract---nocturne'>Tesseract - Nocturne</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-jekyll-doesn%27t-hide-meaning'>My Jekyll Doesn't Hide Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=countvectorizer-vs-tfidfvectorizer'>Countvectorizer Vs Tfidfvectorizer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=waterford-elegance-wine-glasses'>Waterford Elegance Wine Glasses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kelechi-nwakali-sofifa'>Kelechi Nwakali Sofifa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kathryn-morris-instagram'>Kathryn Morris Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Eugenia-means-in-English'>Eugenia Means In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-jekyll-doesn%27t-hide-meaning'>My Jekyll Doesn't Hide Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bible-verses-about-hibernation'>Bible Verses About Hibernation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ride-with-norman-reedus-2020'>Ride With Norman Reedus 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marrakesh-restaurant-owner'>Marrakesh Restaurant Owner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sim-Bhullar-height'>Sim Bhullar Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=8th-day-new-song'>8th Day New Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=visages-villages-netflix'>Visages Villages Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=doyon-dividend-2019-1099'>Doyon Dividend 2019 1099</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yokai-monsters-wiki'>Yokai Monsters Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Homecoming-Sonia-Sanchez'>Homecoming Sonia Sanchez</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sarah-waters-partner'>Sarah Waters Partner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kimberly-chandler-height'>Kimberly Chandler Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bloody-friday-documentary'>Bloody Friday Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madam-sir-serial-rating'>Madam Sir Serial Rating</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sean-o-casey-autobiographies'>Sean O Casey Autobiographies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tin-tin-protein-full-name'>Tin Tin Protein Full Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chain-of-gold-pre-order-gift'>Chain Of Gold Pre Order Gift</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Glitter-png-transparent'>Glitter Png Transparent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kensho-ono-giorno'>Kensho Ono Giorno</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-fear-shakespeare%3A-hamlet%3A-act-3%2C-scene-2'>No Fear Shakespeare: Hamlet: Act 3, Scene 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brighton-city-manager'>Brighton City Manager</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=summertime-movie-2015'>Summertime Movie 2015</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miracles-song-lyrics'>Miracles Song Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meditation-cushion-set'>Meditation Cushion Set</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Nez-Perce-War'>Nez Perce War</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=exploitation-films-examples'>Exploitation Films Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=world-meditates-with-sri-sri-live'>World Meditates With Sri Sri Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alexander-and-the-wind-up-mouse-worksheets'>Alexander And The Wind Up Mouse Worksheets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raymond-khoury-author-website'>Raymond Khoury Author Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joel-fabiani-now'>Joel Fabiani Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=muji-sun-house'>Muji Sun House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=human-psychology-and-behaviour'>Human Psychology And Behaviour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-tudors%3A-the-royal-collection-uncut'>The Tudors: The Royal Collection Uncut</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Innkeepers-ending'>The Innkeepers Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sticsa-questionnaire-scoringtreatment-of-complicated-uti'>Sticsa Questionnaire Scoringtreatment Of Complicated Uti</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=salad-recipes-for-dinner'>Salad Recipes For Dinner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=addie-lane-wiki'>Addie Lane Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lan-Yi-Chinese-actor'>Lan Yi Chinese Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-anne-marie-green'>How Old Is Anne-marie Green</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Post-national-citizenship-definition'>Post National Citizenship Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geoffrey-of-monmouth-history-of-the-kings-of-britain-pdf'>Geoffrey Of Monmouth History Of The Kings Of Britain Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=weezer-beverly-hills-album'>Weezer Beverly Hills Album</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lord-Stanley-hotel-Vancouver'>Lord Stanley Hotel Vancouver</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marcio-kogan-net-worth'>Marcio Kogan Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=akasha%3A-queen-of-the-damned'>Akasha: Queen Of The Damned</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nigerian-dishes-igbo'>Nigerian Dishes Igbo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=google-meet-microphone-is-off'>Google Meet Microphone Is Off</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=movies-with-dragons-on-netflix'>Movies With Dragons On Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bradley-cooper-2020'>Bradley Cooper 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=town-of-windermere-jobs'>Town Of Windermere Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=earth-day-poetry'>Earth Day Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-nativity-emerson-paramount'>Black Nativity Emerson Paramount</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=happy-happy-band'>Happy Happy Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=montgomery-meaning-in-english'>Montgomery Meaning In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sasha-the-office'>Sasha The Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aroldis-chapman-height-weight'>Aroldis Chapman Height Weight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buckler-dark-souls'>Buckler Dark Souls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=juvenile-crime-statistics'>Juvenile Crime Statistics</a>,
+";s:7:"expired";i:-1;}

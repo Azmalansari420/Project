@@ -1,0 +1,82 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2747:"<p></p> <p>The school is a collaboration between Brighton College and Cognita – a leading global schools group that provides a uniquely global education that seeks to develop all-round academic excellence and encourages positive, international perspectives. Brighton College Dubai Brighton College Abu Dhabi Brighton College International School Bangkok Brighton College UK Brighton College Singapore Admissions: +971 (0)5 045 20109 </p> <p>Reception: Brighton College (Singapore) offers an exceptional foundation for learning for children aged 18 months to 11 years, through the Early Years Foundation Stage (EYFS) and the English National Curriculum. One of a Kind Welcome to Brighton College (Singapore). There’s no shortage of all-through, International Baccalaureate schools in Singapore. </p> <p>Brighton College plans to open a nursery and primary school for students aged 18 months through to 11 years in Singapore in September 2020. </p> <p> Brighton College (Singapore) will comprise of a Pre-Prep for children aged 18 months to 6 years and a Prep School for children aged 6 to 11 years. If you wish to join an international educational network committed to innovation and excellence, where people place the highest value on learning both for pupils and colleagues, you will be well suited to one of the schools in the Brighton College family. </p> <p>For children from 18 months to 11 years, Brighton College (Singapore) provides an ambitious and challenging education, based on the English National Curriculum, in the nurturing and personalised environment of a small preparatory school, where each child is individually known by the whole school community. </p> <p>In addition to guiding pupils through applications to the best universities in the world - such as Oxbridge, the Ivy League, and the Russell Group - our schools extend pupils through a forward-thinking curriculum. </p> <p>Brighton College, in partnership with leading global schools group Cognita, is delighted to announce the plan to open a new international school in Singapore in September 2020, subject to relevant regulatory approvals. Brighton College (Singapore), for children aged 18 months to 11 years, will draw upon the strengths of its parent school in the UK. Brighton College Dubai Brighton College Abu Dhabi Brighton College International School Bangkok Brighton College UK Brighton College Singapore Admissions: +971 (0)5 045 20109 </p> <p>Brighton College Dubai Brighton College Al Ain Brighton College International School Bangkok Brighton College UK Brighton College Singapore. Life at our international schools. Admissions: +971 (0)2 815 6504. Like Brighton College UK, our international schools are preparing pupils for life beyond school. </p>";s:7:"keyword";s:28:"brighton college (singapore)";s:5:"links";s:2534:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wine-5-install'>Wine 5 Install</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=family-sabbatical-meaning'>Family Sabbatical Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zip-extractor-online'>Zip Extractor Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=use-of-got'>Use Of Got</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary-martin-anne-stringfield'>Mary Martin Anne Stringfield</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=John-Francis-Reuel-Tolkien'>John Francis Reuel Tolkien</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Michael-Owen-wiki'>Michael Owen Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=louis-stone-1910'>Louis Stone 1910</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maltese-cross-tattoo-small'>Maltese Cross Tattoo Small</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeremy-hardy-speaks-to-the-nation'>Jeremy Hardy Speaks To The Nation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lightning-wallpaper-live'>Lightning Wallpaper Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jackson-5-gold'>Jackson 5 Gold</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ihome-ibt29-app'>Ihome Ibt29 App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ray-Bolger-age'>Ray Bolger Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brandi-carlile---the-mother-lyrics'>Brandi Carlile - The Mother Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bill-Nye-the-Science-Guy-memes'>Bill Nye The Science Guy Memes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-wesley-net-worth'>William Wesley Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-pronounce-altercation'>How To Pronounce Altercation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=captain-sindbad-%281963-full-movie-english%29'>Captain Sindbad (1963 Full Movie English)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sony-dream-machine-models'>Sony Dream Machine Models</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donna-anderson-instagram'>Donna Anderson Instagram</a>,
+";s:7:"expired";i:-1;}

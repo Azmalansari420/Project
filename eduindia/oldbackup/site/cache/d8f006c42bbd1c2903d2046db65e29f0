@@ -1,0 +1,102 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2809:"<br>We have eliminated the need for you to travel across campus or call multiple departments to obtain answers to your Bursar, Financial Aid and Registrar-related questions. Enter your username and password to login. How do I obtain an Academic Transcript? Note: If you enrol in a course but don't select a class time or drop it from your enrolment before census date, you'll still incur the fee for the course. (3) ... (15) Where a deferment of commencement pre-acceptance is approved a new Letter of Offer will be issued by the SCU International Admissions Section. You may pay with checks, cashier checks, cash, online through your SCU Pay Site on eCampus with e-checks. Every course has a Course Progression to help you choose your units. My Enrolment uses a different login than other SCU systems. Managing your enrolment ; Enrol in your units (subjects) Changing your enrolment; Class registration; Withdrawing from units/subjects; Class and exam timetables; Unplugged SCU; International student support. My essentials guide; Study; Student administration. These are the details you will need to login to My Enrolment. You can add courses up until the end of week 2, and remove courses from your enrolment up until census date. (Friday, 27 March 2020) Important information about Internet Explorer Please note that due to development having ceased on Internet Explorer, this is no longer a supported browser while using the Blackboard learning environment. myEnrolment can be accessed by students via this direct link - myEnrolment. T: 02 6659 3080 (Internal Extension 83080) Free Call: 1800 111 890 (ask for CHEC Service Desk) E: coffs.servicedesk@scu.edu.au In person at the Service Desk counter: <br> <br>These are the details you will need to login to My Enrolment . Use your student ID to log in to My Enrolment. <br> Exam centres; Student guide for completing Multiple Choice Test Answer Sheet <br> <br>Welcome to SCU One Stop Our friendly staff in the One Stop are here to assist you with your billing, financial aid and registration needs. Please ensure you check your Course Enrolment Guide; To view the Major/Electives available in your study plan click Choose Contact our Client Services team on 1800 005 687 or enquiry@scu.edu.au or chat to us on the SCU website webchat. <br> <br>How to change your personal contact details in MyEnrolment My essentials guide; Study; Student administration. Technology Services Knowledgebase. Managing your enrolment ; Enrol in your units (subjects) Changing your enrolment; Class registration; Withdrawing from units/subjects; Class and exam timetables; Unplugged SCU; International student support.  <br> You should consult the Course Progression before you enrol in your units of study (subjects) via My Enrolment. Technology Services Knowledgebase. <br>";s:7:"keyword";s:16:"scu my enrolment";s:5:"links";s:5232:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eugene-onegin-pushkin'>Eugene Onegin Pushkin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spongebob-tumbleweed-gif'>Spongebob Tumbleweed Gif</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bloodthirsty-butchers-discography'>Bloodthirsty Butchers Discography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-tall-was-william-wallace'>How Tall Was William Wallace</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donald-and-douglas-trains'>Donald And Douglas Trains</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=music-bed-customer-service-number'>Music Bed Customer Service Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Anil-Ambani-vs-Mukesh-Ambani'>Anil Ambani Vs Mukesh Ambani</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miller-huggins-grave'>Miller Huggins Grave</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=do-brooke-and-alex-end-up-together'>Do Brooke And Alex End Up Together</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=personal-power-tony-robbins'>Personal Power Tony Robbins</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skagway-news-obituaries'>Skagway News Obituaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orion-cramer-merch'>Orion Cramer Merch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-much-does-a-pig-roast-feed'>How Much Does A Pig Roast Feed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=toshiki-masuda-characters'>Toshiki Masuda Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=properties-to-rent'>Properties To Rent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-destroy-america-in-3-easy-steps-wiki'>How To Destroy America In 3 Easy Steps Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=comptine-d%27un-autre-%C3%A9t%C3%A9-piano-chords'>Comptine D'un Autre été Piano Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wrentham-outlet-stores'>Wrentham Outlet Stores</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manchester-to-nottingham'>Manchester To Nottingham</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-hate-mira-animal-crossing'>I Hate Mira Animal Crossing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-wolfowitz-vice'>Paul Wolfowitz Vice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=puerto-rico-hotels-on-the-beach'>Puerto Rico Hotels On The Beach</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mookie-Betts-contract'>Mookie Betts Contract</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hatchet-series-horror'>Hatchet Series Horror</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=baby-boom-replay'>Baby Boom Replay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=war-game-strategy'>War Game Strategy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-cage-trumpet'>John Cage Trumpet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=auschwitz-a-doctor%27s-eyewitness-account-read-online'>Auschwitz A Doctor's Eyewitness Account Read Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-joie-lee-married'>Is Joie Lee Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=muddy-waters---hoochie-coochie-man'>Muddy Waters - Hoochie Coochie Man</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-should-i-read-bluestar%27s-prophecy'>When Should I Read Bluestar's Prophecy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-luckiest-lady-in-london-pdf'>The Luckiest Lady In London Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=interventional-radiology-salary-2019'>Interventional Radiology Salary 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-season-4-episode-11-full-episode'>The Office Season 4 Episode 11 Full Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kyle-bell-wife'>Kyle Bell Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=presuppositionalism-vs-evidentialism'>Presuppositionalism Vs Evidentialism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=memrise-spanish-courses'>Memrise Spanish Courses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=I-wish-I-were-a-butterfly'>I Wish I Were A Butterfly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=curtis-harris-height'>Curtis Harris Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=men%27s-drip-clothing'>Men's Drip Clothing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeremiah-32%3A17-kjv'>Jeremiah 32:17 Kjv</a>,
+";s:7:"expired";i:-1;}

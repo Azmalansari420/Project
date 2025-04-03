@@ -1,0 +1,133 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2958:"Using learnings from the course, he collaborated with professors at TU Delft to develop a ‘black-box’ fermentation model of Genomatica’s 1,4-BDO process in large-scale fermentors.  This course doesn't go into the real detail about each of the techniques used in a design thinking process. Later, it impacts the ability to recall knowledge. These course reports will be reviewed annually by the FCI Faculty Advisory Board. After the initial stages of needs analysis (what do the students/instructors need) and hiring phase (who will write the course), the development teach creates a plan, or a blueprint of the course.. <br> <br>begin to apply Backward Design to the development or revision of an online course and; write 2-4 measurable learning outcomes for that course. Work within a schedule and meet stated deadlines. The DE course design and development process is informed by a systematic instructional design approach and the pedagogical expertise of instructional designers. Course Development Process Design Phase During the Design Phase of course development, the course development team (an instructional systems designer and subject matter expert) creates a draft design plan (i.e., draft preliminary lesson plan). By the end of this module, we hope you will be able to. This means that fully half of the course (including assessments and activities) is complete during the first semester of development. <br> <br>Appreciate and use the instructional design process in creating an online course. If that's your focus, you should also watch my course on applying design thinking. In this plan, the following are specified: • Draft Lesson/Module Number • Draft Lesson/Module Titles <br> <br>As learners progress through the course, design assists with learning and retention. Design starts by grabbing the attention of learners and then motivates them to stay engaged. Although courses may vary in size, subject matter or level, a systematic process will help you plan and structure your course and syllabus--You can edit this template and create your own diagram.Creately diagrams can be exported and added to Word, PPT (powerpoint), Excel, Visio or any other document. <br> <br>We also discuss the first aspect of Backward Design -- learning outcomes. eLearning course design plays a significant role in every step of the learning process. At the end of each three year period, a course review process will take place which provides a new opportunity for elements of the hosting department to collaborate with the CRLT CCD team on upgrades to the design of the course. Jason is also a 2015 graduate of the Advanced Course Bioprocess Design. Planning (Creating a Course Blueprint) The most important part of course design is the planning. <br> <br>In general, the framework used to support course design at OpenEd is a modified version of the instructional design model ADDIE (Analysis, Design, Development, Implementation, Evaluation). ";s:7:"keyword";s:21:"Course design process";s:5:"links";s:9080:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mao-asada-2019'>Mao Asada 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=winsor-mccay-illustrations'>Winsor Mccay Illustrations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=To-the-Unknown-Voice'>To The Unknown Voice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=homes-for-sale-in-portsmouth%2C-va-23703'>Homes For Sale In Portsmouth, Va 23703</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=100th-birthday-poem'>100th Birthday Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tetris-party-rom'>Tetris Party Rom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-bravest-man-in-the-universe-lyrics'>The Bravest Man In The Universe Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=macbeth-1948-trailer'>Macbeth 1948 Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-eat-buffet-without-getting-fat'>How To Eat Buffet Without Getting Fat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-felt-that-meme-meaning'>I Felt That Meme Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=100th-birthday-ideas'>100th Birthday Ideas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autocad-2019-system-requirements-mac'>Autocad 2019 System Requirements Mac</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bugging-you-meaning'>Bugging You Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maggie-chen-xinyu'>Maggie Chen Xinyu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=diesel-power-basketball'>Diesel Power Basketball</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-did-cheyenne-and-cory-meet'>How Did Cheyenne And Cory Meet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=college-of-dupage-english-classes'>College Of Dupage English Classes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Joseph-Andrews-analysis'>Joseph Andrews Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dance-academy%3A-the-comeback-2'>Dance Academy: The Comeback 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=demain-movie-english-subtitles'>Demain Movie English Subtitles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Old-fashioned-sandwiches'>Old Fashioned Sandwiches</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bobby-Shmurda-Net-Worth'>Bobby Shmurda Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charlotte-coleman-movies-and-tv-shows'>Charlotte Coleman Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vintage-waterford-crystal-vase'>Vintage Waterford Crystal Vase</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=you-are-old%2C-father-william-alice-in-wonderland'>You Are Old, Father William Alice In Wonderland</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gandalf-meme-generator'>Gandalf Meme Generator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Stefan-Zweig%3A-Farewell-to-Europe-Trailer'>Stefan Zweig: Farewell To Europe Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-paradise-season-1'>The Paradise Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cure-%281997-reddit%29'>Cure (1997 Reddit)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=inkheart-2-cast'>Inkheart 2 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bei-dao-poems-pdf'>Bei Dao Poems Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prolixity-of-speech'>Prolixity Of Speech</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=renee-rodriguez-photography'>Renee Rodriguez Photography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spontaneous-combustion-song'>Spontaneous Combustion Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-can-i-stop-the-heartbeat-in-my-ear%3F'>How Can I Stop The Heartbeat In My Ear?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Matthew-timmons-before-and-after'>Matthew Timmons Before And After</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bahasa-melayu-for-beginners-pdf'>Bahasa Melayu For Beginners Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elsa%27s-wildest-dreams-tiktok'>Elsa's Wildest Dreams Tiktok</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-young-dro-songs'>Best Young Dro Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=implicit-memory-and-priming'>Implicit Memory And Priming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=helping-toddler-self-soothe-without-pacifier'>Helping Toddler Self-soothe Without Pacifier</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=town-of-norfolk%2C-ma'>Town Of Norfolk, Ma</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=canaletto-restaurant-holland-america'>Canaletto Restaurant Holland America</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=toriyama-sekien-yokai'>Toriyama Sekien Yokai</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clockwork-princess%2C-chapter-19'>Clockwork Princess, Chapter 19</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=okinawa-island-map'>Okinawa Island Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Society-of-Illustrators-restaurant'>Society Of Illustrators Restaurant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=junior-meaning-in-high-school'>Junior Meaning In High School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goosebumps-series-online'>Goosebumps Series Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=once-tobin-center'>Once Tobin Center</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dream-of-seeing-a-ghost-in-a-mirror'>Dream Of Seeing A Ghost In A Mirror</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=legends-of-the-hidden-temple-1993'>Legends Of The Hidden Temple 1993</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=archaeology-of-mari'>Archaeology Of Mari</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=godric-true-blood-height'>Godric True Blood Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ride-with-norman-reedus-2020'>Ride With Norman Reedus 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sea-dog-blueberry-beer'>Sea Dog Blueberry Beer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Marcus-Ulpius-Trajanus'>Marcus Ulpius Trajanus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jump-in-japanese'>Jump In Japanese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-child-models'>List Of Child Models</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Know-You-More'>Know You More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autodesk-m%26e-collection'>Autodesk M&e Collection</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rooster-teeth-first'>Rooster Teeth First</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=campbell-football-2019'>Campbell Football 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hey%2C-al-comprehension-questions'>Hey, Al Comprehension Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caleb-johnson-american-idol'>Caleb Johnson American Idol</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-crazy-movie'>The Crazy Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=at-the-edge-of-the-orchard-review'>At The Edge Of The Orchard Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tsakos-energy-navigation-subsidiaries'>Tsakos Energy Navigation Subsidiaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tv-detectives-1980s'>Tv Detectives 1980s</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Charge-definition-Chemistry'>Charge Definition Chemistry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rihanna-songs-2007'>Rihanna Songs 2007</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dreams-worth-more-than-nightmares'>Dreams Worth More Than Nightmares</a>,
+";s:7:"expired";i:-1;}

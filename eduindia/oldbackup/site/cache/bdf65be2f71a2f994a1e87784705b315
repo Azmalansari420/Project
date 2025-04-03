@@ -1,0 +1,142 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2963:"Carousel. Carousel component for Vue.js. Feel free to submit issues and … Vue Carousel - A flexible, responsive, touch-friendly carousel for Vue.js Vue Carousel - A flexible, responsive, touch-friendly carousel for Vue.js - fh48/vue-pwa-carousel Created with Sketch. So, let’s get started with integration of bootstrap carousel with Vue.js app. Media Slider Maps Images Movie Music Carousel Echarts Video Player Player. Many developers already have experience in using Bootstrap, or have at least heard about it. In this carousel tutorial, we will use CDN to get both of them. An update:index event is fired whenever the user interacts with this component, allowing to synchronize index prop. All my tutorials gravitate around Progressive Vue Apps. Description. In fact, carousels really deserve their popularity. I was tempted to use something like owl-carousel and get on with my day, but I also kind of wanted to build something new with Vue, which I have been learning for a few months now. 26.634. Why, though? ... Tutorials If you need any additional help, ... React or Vue Apart from the standard Bootstrap integration (using jQuery), MDBootstrap also integrates with Angular, React and Vue… vue-agile Carousel component for Vue.js inspired by Slick. All UI. The VOnsCarousel component can also be controlled programatically through the index prop. Expected behaviorCarousel items should adapt for mobile devices (PF view 3 items per row, mobile - 1 item per row) in multy modeCarousel should go to next slide while swipeng left and right or at least it should go to next/prev slides on next/prev button click in multi modeActual behaviorNeed to … Bootstrap is probably the … To disable this feature, set the no-hover-pause prop on `. Vue Carousel A flexible, responsive, touch-friendly carousel for Vue.js #UI Components #Carousels. Multi-item carousel MDB Pro component To use multi-item carousel add multi property to the component. 20 September 2017 Powerfull Carousel component for Vue.js. Bootstrap carousel is responsive and interactive slideshow which is created for presenting content, especially images and videos. With the help of this article, we will learn how to install the Vue app from scratch using Vue CLI, how to install bootstrap-vue packages and configure in Vue … Today, it’s almost impossible to find any Website or UI library which doesn’t come with one or another kind of carousel. Install Vue.js App With Bootstrap. These are all necessary assets we need to build our carousel. Vue Slick Carousel with True SSR. The user can switch between the items by panning. Vue CLI will help us to install and set up Vue.js app along with basic scaffolding.. First of all, you can make sure that you’ve Vue CLI installed and up to date. Elements Wizard Drop Drag Time Icon Circle Rating Dialog Overlay Tooltips Popup Alert Svg. WARNING: vue-carousel is at pre-alpha stage of development and may undergo significant changes. ";s:7:"keyword";s:21:"vue carousel tutorial";s:5:"links";s:10362:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hungry-synonyms-Urban-Dictionary'>Hungry Synonyms Urban Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drastically-meaning-in-tamil'>Drastically Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=born-to-run%3A-a-hidden-tribe%2C-superathletes%2C-and-the-greatest-race-the-world-has-never-seen-pdf'>Born To Run: A Hidden Tribe, Superathletes, And The Greatest Race The World Has Never Seen Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paulo-freire-pedagogy-of-the-oppressed-summary'>Paulo Freire Pedagogy Of The Oppressed Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=function-of-diaphragm-in-microscope'>Function Of Diaphragm In Microscope</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adieu-galaxy-express-999'>Adieu Galaxy Express 999</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=four-cups-bible-study'>Four Cups Bible Study</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glenn-greenwald-net-worth'>Glenn Greenwald Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=watermelon-man-meaning'>Watermelon Man Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-love-of-god-pdf'>The Love Of God Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=street-magic-meme'>Street Magic Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-is-deer-trail%2C-colorado-growing'>Why Is Deer Trail, Colorado Growing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=portuguese-government-coronavirus'>Portuguese Government Coronavirus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grimes%2C-real-name'>Grimes, Real Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=appalachian-spring-instrumentation'>Appalachian Spring Instrumentation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prokhorovka-battle-map'>Prokhorovka Battle Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=newport-news-shipbuilding-news'>Newport News Shipbuilding News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cruising-in-watsonville-full-movie'>Cruising In Watsonville Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-best-friend-%282018-full-movie%29'>My Best Friend (2018 Full Movie)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manchester-by-the-sea---watch'>Manchester By The Sea - Watch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hand-challenge-tik-tok'>Hand Challenge Tik Tok</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autocad-help-desk'>Autocad Help Desk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-hartman-kindness-101-courage'>Steve Hartman Kindness 101 Courage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=godard-nouvelle-vague-%281990%29'>Godard Nouvelle Vague (1990)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=astronomical-clocks-in-the-world'>Astronomical Clocks In The World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bright-sunshiny-day-lyrics'>Bright Sunshiny Day Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=toriyama-sekien-translation'>Toriyama Sekien Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=josef-hoffmann-style'>Josef Hoffmann Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=advice-7-letters'>Advice 7 Letters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bailey-sok-instagram'>Bailey Sok Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=one-of-the-weekends'>One Of The Weekends</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=afro-beats-instrumentals'>Afro Beats Instrumentals</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=discovery-kids-games'>Discovery Kids Games</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maria-ouspenskaya-cause-of-death'>Maria Ouspenskaya Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gwen-ifill-death'>Gwen Ifill Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=juvenile-crime-statistics'>Juvenile Crime Statistics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-grand-sophy-epub'>The Grand Sophy Epub</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crossfire-tucker-carlson'>Crossfire Tucker Carlson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deeper-pro-plus-range'>Deeper Pro Plus Range</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trafficked-movie-onlinethe-searchers-behind-the-scenes'>Trafficked Movie Onlinethe Searchers Behind The Scenes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Pulitzer-Prize-for-Drama'>Pulitzer Prize For Drama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=diane-hendricks-yacht'>Diane Hendricks Yacht</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=personal-fitness-merit-badge-workbook'>Personal Fitness Merit Badge Workbook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-places-to-stargaze-in-the-us'>Best Places To Stargaze In The Us</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=melange-fabric-properties'>Melange Fabric Properties</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ingredients-book%2C-george-zaidan'>Ingredients Book, George Zaidan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-tout-le-monde-%28demo%29'>A Tout Le Monde (demo)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=briggs-forms-catalog'>Briggs Forms Catalog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bedknobs-and-broomsticks-football'>Bedknobs And Broomsticks Football</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=retest-in-a-sentence'>Retest In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autocad-guide-pdf'>Autocad Guide Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=colossians-3%3A18-kjv'>Colossians 3:18 Kjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=journey-ps4-gameplay'>Journey Ps4 Gameplay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spin-selling-table-of-contents'>Spin Selling Table Of Contents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Making-a-simple-floor-plan-in-AutoCAD'>Making A Simple Floor Plan In AutoCAD</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ethics-of-imagination'>Ethics Of Imagination</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mineral-baby-names'>Mineral Baby Names</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moon-lee-movies'>Moon Lee Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=does-costco-have-tomahawk-steaks'>Does Costco Have Tomahawk Steaks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Amy-Walter-Kathryn-Hamm'>Amy Walter Kathryn Hamm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-is-the-antagonist-in-ungifted'>Who Is The Antagonist In Ungifted</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hotel-meyrick-galway'>Hotel Meyrick Galway</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-storyteller%27s-secret-nyt-review'>The Storyteller's Secret Nyt Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-graves-war-poems'>Robert Graves War Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tamil-novels-scribd-2018'>Tamil Novels Scribd 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=visakhapatnam-news-channel'>Visakhapatnam News Channel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-eat-buffet-without-getting-fat'>How To Eat Buffet Without Getting Fat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Olivier-Martinez-son'>Olivier Martinez Son</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=patented-in-a-sentence'>Patented In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kiara-sky-gel-polish-ombre'>Kiara Sky Gel Polish Ombre</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=and-then-natsume-soseki'>And Then Natsume Soseki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-room%3A-old-sins---curiosity-room-globe-puzzle'>The Room: Old Sins - Curiosity Room Globe Puzzle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beck---die-waiting'>Beck - Die Waiting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Munsch-Mini%E2%80%91Treasury-Three'>Munsch Mini‑Treasury Three</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Words-Trailer'>The Words Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=song-of-deborah'>Song Of Deborah</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=open-sesame-company'>Open Sesame Company</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oskar-schindler-interview'>Oskar Schindler Interview</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youtube-chevaliers-de-la-table-ronde'>Youtube Chevaliers De La Table Ronde</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=headhunter-dc-metallum'>Headhunter Dc Metallum</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tony-evans-commentary-pdf'>Tony Evans Commentary Pdf</a>,
+";s:7:"expired";i:-1;}

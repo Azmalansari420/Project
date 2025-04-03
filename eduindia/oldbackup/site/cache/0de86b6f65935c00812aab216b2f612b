@@ -1,0 +1,85 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2452:"<p><br /> <br /> Mr Twit is a foul and smelly man with bits of cornflake and sardine in his beard.<br /> Mrs Twit is a horrible old hag with a glass eye.<br /> <br /> They&#39;ve kept Muggle-Wump monkeys caged in the garden for far too long, and now the monkeys want to take their revenge . Penguin presents the audiobook edition of The Twits by Roald Dahl, read by Richard Ayoade. SoundCloud. It was written in 1979, and first published in 1980. The audiobook features original music.  The Twits audiobook is a humorous children’s audiobook written by Roald Dahl and illustrated by Quentin Blake. The audiobook features original music. This is an audio book version of Roald Dahl's, The Twits, read by Nicholas Rocke. Meet the Characters. Mr Twit is a foul and smelly man with bits of cornflake and sardine in his beard. Penguin presents the audiobook edition of The Twits by Roald Dahl, read by Richard Ayoade. The first sentence of the story is, “What a lot of hairy-faced men there are around nowadays!” Mrs Twit is a horrible old hag with a glass eye. . . Penguin presents a marvellous new recording of Roald Dahl's The Twits, read by IT Crowd star Richard Ayoade. Stream The Twits; an audio book by user233828831 from desktop or your mobile device. Mr Twit is a foul and smelly man with bits of cornflake and sardine in his beard. The Twits, first published in 1980, may be about a pair of horrible twits, but it also features one of the most-quoted phrases in all of Roald's books... Find out more about the period in Roald Dahl's life during which The Twits was published. Mrs Twit is … Mr Twit. The Twits; an audio book by user233828831 published on 2013-08-27T12:11:45Z. Mr Twit is a foul and smelly man with bits of cornflake and sardine in his beard. Penguin presents a marvellous new recording of Roald Dahl's The Twits, read by IT Crowd star Richard Ayoade. The Twits. Mr Twit is a foul and smelly man with bits of cornflake and sardine in his beard. Penguin presents the audiobook edition of The Twits by Roald Dahl, read by Richard Ayoade. Mrs Twit is a horrible old hag with a glass eye. The Twits audiobook was adapted for the stage in 2007.The idea of this children’s audiobook was triggered by Dahl’s desire to “do something against beards”, because he had an acute hatred of them. Mrs Twit is a horrible old hag with a glass eye. </p> <p>Together they make the nastiest couple you could ever hope not to meet. </p>";s:7:"keyword";s:19:"the twits audiobook";s:5:"links";s:3034:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=winter-brunch-ideas'>Winter Brunch Ideas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jonathan-Sagall-Schindler%27s-List'>Jonathan Sagall Schindler's List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Faces-Places-Reddit'>Faces Places Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richelle-mead-book-series'>Richelle Mead Book Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=admiral-sportswear-jobs'>Admiral Sportswear Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=morgan-smith-goodwin-instagram'>Morgan Smith Goodwin Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ex-boyfriend-spelling'>Ex Boyfriend Spelling</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-rainey-harper'>William Rainey Harper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mona-home-delivery-cast'>Mona Home Delivery Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angus-cloud-movies'>Angus Cloud Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=horrible-histories-books-pdf'>Horrible Histories Books Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rove-concepts-executive-side-chair'>Rove Concepts Executive Side Chair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-majestic-theater'>The Majestic Theater</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thirteen-full-movie-dailymotion'>Thirteen Full Movie Dailymotion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-eckhart-tolle-still-alive'>Is Eckhart Tolle Still Alive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sister-quotes-for-instagram'>Sister Quotes For Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angler-fish-evolution'>Angler Fish Evolution</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-gift%3A-poems-by-hafiz-the-great-sufi-master-pdf'>The Gift: Poems By Hafiz The Great Sufi Master Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=journey-i%27ll-be-alright-without-you-album'>Journey I'll Be Alright Without You Album</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shattered-innocence-book'>Shattered Innocence Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rustlers%27-rhapsody-blackie'>Rustlers' Rhapsody Blackie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-forest-in-german'>Black Forest In German</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clorox-fuzion-reviews'>Clorox Fuzion Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=5-star-buffet-near-me'>5 Star Buffet Near Me</a>,
+";s:7:"expired";i:-1;}

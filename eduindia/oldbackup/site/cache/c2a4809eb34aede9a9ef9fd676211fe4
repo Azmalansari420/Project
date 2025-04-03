@@ -1,0 +1,82 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2552:"<p>Roth, who wrote the book as a college student, has earned a tremendous amount of first book buzz, and the hype is well-deserved. </p> <p>Allegiant is a science fiction novel for young adults, written by the American author Veronica Roth and published by HarperCollins in October 2013. Then an Erudite boy in a blue sweater shoves me. She is the youngest of three kids. It completes the Divergent trilogy that Roth started with her debut novel Divergent in 2011. Today the crowd has a new kind of energy, a last day mania. She is interested in biology and theology, and she enjoys cooking and poetry. ... June talks with author Veronica Roth, who wrote the first draft of her novel Divergent when she was a senior at Northwestern University. </p> <p>One thing the "Divergent" trilogy has on the other two - its author age. She was born in New York City. Veronica Roth (born August 19, 1988) is an American writer. She wrote Divergent, her first novel, during the Christmas holidays when she was at university. </p> <p>She is married to Nelson Fitch, a photographer. Veronica Roth is a Christian. Dedication To my mother, ... at our age. </p> <p>She has a brother and a sister. Divergent Author Veronica Roth Has Some Ideas By Megan McCluskey March 31, 2020 8:00 AM EDT </p> <p>The book is written from the perspective of both Beatrice (Tris) and Tobias (Four). She attended Barrington High School and then Carleton College. Goodreads: What attracted you to the dystopian genre as a storyteller?If dystopian lit is the new vampire, how do you think young adult literature will continue to evolve? 6 on The New York Times best-seller list. How Divergent Author Veronica Roth Learns From Criticism. ... Divergent. Veronica Roth: I've always loved the dystopian genre.My introduction to it was The Giver by Lois Lowry, which is a powerful book, and then 1984 by George Orwell and Brave New World by Aldous Huxley. </p> <p>Veronica Roth wrote "Divergent" and signed a book deal while she was still in … In Beatrice Prior’s dystopian Chicago world, society is divided into five factions, each dedicated to the cultivation of a particular virtue—Candor (the honest), Abnegation (the selfless), Dauntless (the brave), Amity (the peaceful), and Erudite (the intelligent). Roth was raised in Barrington, Illinois. All of her siblings live in Chicago with her. Veronica Roth wrote the first of the books that would become the best-selling Divergent series when she was still in college, earning a degree in creative writing. Her mother was a painter. </p>";s:7:"keyword";s:42:"veronica roth age when she wrote divergent";s:5:"links";s:2546:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jaani-dost-trailer'>Jaani Dost Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=death-of-the-king'>Death Of The King</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scarpetta-vegas-happy-hour'>Scarpetta Vegas Happy Hour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=panipat-ka-kila'>Panipat Ka Kila</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=revile-in-a-sentence'>Revile In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atticus-shaffer-2019'>Atticus Shaffer 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apologetics-course-pdf'>Apologetics Course Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gemini-Man-IMDb'>Gemini Man IMDb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-geography-of-bliss-moldova'>The Geography Of Bliss Moldova</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=New-London%2C-WI-Campground'>New London, WI Campground</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=task-conflict-theory'>Task Conflict Theory</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fighter-lyrics-saba'>Fighter Lyrics Saba</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=futura-2000-tag'>Futura 2000 Tag</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Northern-Ireland-flag-image'>Northern Ireland Flag Image</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sal%C3%A1m%C3%A1n-and-Abs%C3%A1l'>Salámán And Absál</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fort-smith-regional-airport'>Fort Smith Regional Airport</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elie-metchnikoff-discovery'>Elie Metchnikoff Discovery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=villa-restaurant-menu-williamsport'>Villa Restaurant Menu Williamsport</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=osorno-volcano-last-eruption'>Osorno Volcano Last Eruption</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we%27re-going-on-a-lion-hunt-read-aloud'>We're Going On A Lion Hunt Read Aloud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=house-by-the-railroad-essay'>House By The Railroad Essay</a>,
+";s:7:"expired";i:-1;}

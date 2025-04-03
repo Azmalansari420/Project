@@ -1,0 +1,123 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2021:"<p>In a rollicking, entertaining read, Baba's Kitchen will lead you into the complex soul of Eastern Europe's Indigenous people. Chọn từ Món súp & xà lách, Vindaloo, Vegetable masalas, Uthappam hoặc Paratha Baba's Kitchen, 274 Bùi Viện, Phường Phạm Ngũ Lão , Quận 1, Hồ Chí Minh. Đặt thức ăn online với Baba's Kitchen từ Vietnammm.com. Recent restaurant reviews of Baba's Kitchen Hồ Chí Minh. </p> <p> Baba’s Kitchen is proud to be Vietnam’s favorite Indian restaurant, and we are ready to make your meal, delivery or catered event a success. Choose from Chettinad, Achary, Dosa, Soft Drinks or … In addition to our highly regarded food and service—TripAdvisor ranks Baba’s as one of the top restaurants in both Ho Chi Minh City and Hoi An! Baba's Kitchen, 115 Phan Chu Trinh, Phường Minh An , , Hội An. Read user reviews of others and also order your food online at Vietnammm.com. Order takeaway with Vietnammm.com! Baba’s Kitchen đem đến cho thực khách những món ăn đậm chất Ấn Độ mà người bản xứ khi đến ăn cũng phải thốt lên rằng, họ như đang được thưởng thức món ăn tại chính quê hương mình! "Baba's Kitchen is a good companion to Savella Stechishin's book [Traditional Ukrainian Cookery]. We will be presenting copies as awards at our year end dinner.."~ Los Angeles Ukrainian Cultural Centre. </p> <p>Choose from Dopiaza, Prawn Curries, Mutton Curries, Rice or Desserts With 1.500 of delivery restaurants in Da Nang, Ha Noi Ho Chi Minh City, Hoi An and Nha Trang we are one of the biggest food delivery platforms in Vietnam. Find the best delivery restaurant within a few clicks and enjoy your food! Baba's Kitchen, 115 Phan Chu Trinh, Phường Minh An , , Hội An. ... Cập nhật mới tại Vietnammm.com. Order online with Baba's Kitchen via Vietnammm.com. Baba's Kitchen Hoi An. Baba's Kitchen Hoi An. Order online with Baba's Kitchen via Vietnammm.com. Baba brings India to Vietnam. </p>";s:7:"keyword";s:24:"baba's kitchen vietnammm";s:5:"links";s:8150:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=streetlight-manifesto-tampa'>Streetlight Manifesto Tampa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-invented-pokemon'>Who Invented Pokemon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=university-certificate-in-workforce-essentials'>University Certificate In Workforce Essentials</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=university-of-york-phd-fees'>University Of York Phd Fees</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=durable-pop-up-books'>Durable Pop-up Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=message-on-time-and-chance'>Message On Time And Chance</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lone-wolf-hand-climber%2Fsaddle-combo'>Lone Wolf Hand Climber/saddle Combo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=revolutionary-war-pistols'>Revolutionary War Pistols</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Robocar-POLI-Roy'>Robocar POLI Roy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Get-What%27s-Yours-2019'>Get What's Yours 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=folding-ceiling-fan-with-led-light'>Folding Ceiling Fan With Led Light</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trafficked-movie-onlinethe-searchers-behind-the-scenes'>Trafficked Movie Onlinethe Searchers Behind The Scenes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ezra-bible-study-questions'>Ezra Bible Study Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=watch-legends-of-the-hidden-temple-season-1'>Watch Legends Of The Hidden Temple Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=russian-pmcs-in-africa'>Russian Pmcs In Africa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ode-to-a-father-poem'>Ode To A Father Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joanna-jedrzejczyk-sherdog'>Joanna Jedrzejczyk Sherdog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=100th-birthday-poem'>100th Birthday Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fatal-contact-full-movie-watch-online'>Fatal Contact Full Movie Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-lament-of-eustace-scrubb'>The Lament Of Eustace Scrubb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=50-below-zero-animated'>50 Below Zero Animated</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=remi%2C-nobody%27s-boy-%282019%29'>Remi, Nobody's Boy (2019)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=professor-vector-chamber-of-secrets'>Professor Vector Chamber Of Secrets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=irma-grese-film'>Irma Grese Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=production-manager-meaning'>Production Manager Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=can-i-hire-someone-to-beat-me-up'>Can I Hire Someone To Beat Me Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-was-a-doctor-in-auschwitz-sparknotes'>I Was A Doctor In Auschwitz Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ovid-meaning-latin'>Ovid Meaning Latin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caroline-wozniacki-harvard'>Caroline Wozniacki Harvard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-formula-1-team'>American Formula 1 Team</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xu-beihong-horse-paintings'>Xu Beihong Horse Paintings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=weather-ocho-rios-14-day-forecast'>Weather Ocho Rios 14 Day Forecast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nba-2k20-blacktop-online-with-friends'>Nba 2k20 Blacktop Online With Friends</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-much-is-serena-van-der-woodsens-trust-fund'>How Much Is Serena Van Der Woodsens Trust Fund</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fox-At-School'>Fox At School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Word-for-abandonthe-ninth-life-of-louis-drax-book'>Word For Abandonthe Ninth Life Of Louis Drax Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-the-grounding-problem'>What Is The Grounding Problem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Freedom-Debt-Relief-lawsuit'>Freedom Debt Relief Lawsuit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frida-kahlo-exquisite-corpse'>Frida Kahlo Exquisite Corpse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mohawk-meaning-in-bengali'>Mohawk Meaning In Bengali</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-mann-next-movie'>Michael Mann Next Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alejo-carpentier%3A-the-kingdom-of-this-world'>Alejo Carpentier: The Kingdom Of This World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-awakening-passage-analysis'>The Awakening Passage Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crime-and-punishment-1970-english-subtitles'>Crime And Punishment 1970 English Subtitles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miracles-song-lyrics'>Miracles Song Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nathan-lynn-famous-birthdays'>Nathan Lynn Famous Birthdays</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=python-cryptography-library'>Python Cryptography Library</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sturgill-simpson-wife'>Sturgill Simpson Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-presence-in-the-bible'>Black Presence In The Bible</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reggie-watts-ted-talk-song'>Reggie Watts Ted Talk Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=this-be-the-verse-you-grave-for-me'>This Be The Verse You Grave For Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-assassination-legal'>Is Assassination Legal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=olivier-messiaen-biography'>Olivier Messiaen Biography</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=man-city-vs-arsenal-postponed'>Man City Vs Arsenal Postponed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=johnny-galecki-kaley-cuoco'>Johnny Galecki Kaley Cuoco</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-room%3A-old-sins---curiosity-room-globe-puzzle'>The Room: Old Sins - Curiosity Room Globe Puzzle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rhenz-abando-wiki'>Rhenz Abando Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=metalocalypse-full-episodes'>Metalocalypse Full Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=babysitters-club-little-sister-books-for-sale'>Babysitters Club Little Sister Books For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dunban-melia-heart-to-heart'>Dunban Melia Heart-to-heart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prodigal-son-season-3'>Prodigal Son Season 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Korean-War-bayonet'>Korean War Bayonet</a>,
+";s:7:"expired";i:-1;}

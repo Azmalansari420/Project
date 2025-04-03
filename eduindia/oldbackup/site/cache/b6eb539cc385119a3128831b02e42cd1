@@ -1,0 +1,160 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2957:"<p>The rate increase is set to go into effect on January 1, 2019 and will be the first rate change since July 2018. “We believe it’s important that our customers reap the benefit of a lower tax rate,” said Eversource Massachusetts Electric Operations President Craig Hallstrom in … </p> <p>The Eversource 2020 rate increase means that you can save on your electricity by shopping for a supplier. </p> <p>Eversource and its partners provide you with energy efficiency solutions to help you better manage your energy usage — saving you money and energy all year long.  If your city is expensive — and moving isn't on the table — consider shopping around for a more affordable rate. </p> <p>As proposed, Eversource requested a 20% rate hike that would have raised customers’ rates by $284 million, including a $96 million increase in … </p> <p>* Note: New customers are no longer eligible for Rate 5. </p> <p>Eversource said in early January that because the tax cut would reduce the utility’s costs it voluntarily would pass along the savings. </p> <p>If you have a different rate, visit our full list of generation rates or see the List and Applicability of … The following rates are available to our customers and have been approved by the Massachusetts Department of Public Utilities. The standard service rate changes every six months, January 1st and July 1st. Eversource Energy customers in the state of Connecticut, who currently have Eversource as their electricity supplier, will see a 16% rate hike in their supply rate beginning January 1, 2020 and running all the way through June 30, 2020. See below annual rate changes in major Massachusetts municipalities. Eversource offers a standard service rate for generation to customers who choose to remain with the utility and not select an alternative supplier. Eversource officials said the most significant hike will be to the distribution portion of the bill, resulting in a total increase of 4.6%, or $5.68 per customer. </p> <p>Massachusetts energy customers residing in the eastern part of the state who receive their electricity bill from Eversource Energy (formerly NSTAR) are facing a large price hike on the basic service rate portion of the bill. In addition to the Delivery Service Charges, to calculate your total bill you will also need to include the Supplier Services charge from your bill ( Basic Service or a third-party competitive power supplier ). There is a wide range of energy efficiency services available for your home or business. For example, drivers in Worcester faced a bigger year-over-year rate increase (2.3%) than their intrastate neighbors in Springfield (1.5%) between 2018 and 2017. Beginning January 1st, the fixed rate option for Eversource Energy will increase from 8.12 cents/kWh to […] The total Supplier Services Rate includes the Generation Service Charge (GSC), the FMCC Generation and Energy Adjustment Clause (if applicable). </p>";s:7:"keyword";s:43:"eversource rate increase 2020 massachusetts";s:5:"links";s:12786:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=toriyama-sekien-translation'>Toriyama Sekien Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chesapeake-energy-arena-seating-chart-pearl-jam'>Chesapeake Energy Arena Seating Chart Pearl Jam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barbed-wire-png'>Barbed Wire Png</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-lennox-ravi-zacharias'>John Lennox Ravi Zacharias</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chester%27s-way-summary'>Chester's Way Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moulin-rouge-tara-morice'>Moulin Rouge Tara Morice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cobra-verde-herzog'>Cobra Verde Herzog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pavlof-volcano-eruption'>Pavlof Volcano Eruption</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-beach-house-jacobsbaai'>The Beach House Jacobsbaai</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amelia-bedelia-goes-camping-online'>Amelia Bedelia Goes Camping Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gustav-radbruch-works'>Gustav Radbruch Works</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caroline-wozniacki-david-lee'>Caroline Wozniacki David Lee</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bai-ling---imdb'>Bai Ling - Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charif-ghattas-nationality'>Charif Ghattas Nationality</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intense-look-meaning'>Intense Look Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=passion-flower-uses'>Passion Flower Uses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=turnaround-agenda%3A-resale-store'>Turnaround Agenda: Resale Store</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shelly-laurenston-upcoming-books'>Shelly Laurenston Upcoming Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=then-again-maybe-i-won%27t-common-sense-media'>Then Again Maybe I Won't Common Sense Media</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ryder-mclaughlin-movies'>Ryder Mclaughlin Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paradox-in-the-lottery-story'>Paradox In The Lottery Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rocket-Brothers-Tulsa'>Rocket Brothers Tulsa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=masters-in-cognitive-science'>Masters In Cognitive Science</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soldiering-on-meaning'>Soldiering On Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=some-voices-synopsis'>Some Voices Synopsis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peak-shoes-price'>Peak Shoes Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-ella-dershowitz'>How Old Is Ella Dershowitz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=child-protection-issues'>Child Protection Issues</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carousel-slider-jquery'>Carousel Slider Jquery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lynch-family-ages'>Lynch Family Ages</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vincent-gallo---imdb'>Vincent Gallo - Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-luckiest-lady-in-london-pdf'>The Luckiest Lady In London Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tamlane-and-byrd-janet'>Tamlane And Byrd Janet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=susan-buckner-now'>Susan Buckner Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oak-park-zip-code-ca'>Oak Park Zip Code Ca</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-adventures-of-tintin%3A-the-secret-of-the-unicorn-book'>The Adventures Of Tintin: The Secret Of The Unicorn Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steve-hartman-kindness-101-courage'>Steve Hartman Kindness 101 Courage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-big-snow-1947'>The Big Snow 1947</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=taking-of-pelham-123-ending-explained-1974'>Taking Of Pelham 123 Ending Explained 1974</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rival-schools-2-iso'>Rival Schools 2 Iso</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thin-democracy-definition'>Thin Democracy Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adore-movie-link'>Adore Movie Link</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=last-day%2C-luanne-rice-review'>Last Day, Luanne Rice Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=golden-swallow-restaurant'>Golden Swallow Restaurant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-is-health-insurance-so-expensive-reddit'>Why Is Health Insurance So Expensive Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cheyenne-social-club-cast'>Cheyenne Social Club Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kahlan-amnell-real-name'>Kahlan Amnell Real Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-trek-online-ship-interiors'>Star Trek Online Ship Interiors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brian-lumley-audio-books'>Brian Lumley Audio Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Romesh-Gunesekera-Reef'>Romesh Gunesekera Reef</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boxer-rebellion-effects'>Boxer Rebellion Effects</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nikki-giovanni-interesting-facts'>Nikki Giovanni Interesting Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pizza-gogo-uk-discount-code'>Pizza Gogo Uk Discount Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=traffic-jam-chords-james-taylor'>Traffic Jam Chords James Taylor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=murder%2C-she-baked%3A-a-chocolate-chip-cookie-mystery-full-movie'>Murder, She Baked: A Chocolate Chip Cookie Mystery Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beautiful%3A-the-carole-king-musical-full-show'>Beautiful: The Carole King Musical Full Show</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=patricia-allison-instagram'>Patricia Allison Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jane-stuart-artist'>Jane Stuart Artist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leadership-and-the-new-science-review'>Leadership And The New Science Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=British-conversation-examples'>British Conversation Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-do-mountains-symbolize-in-chinese-culture'>What Do Mountains Symbolize In Chinese Culture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eames-house-architect'>Eames House Architect</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=metalcore-bands-2020'>Metalcore Bands 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=norman-bridwell-awards'>Norman Bridwell Awards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-japan-and-china-have-in-common'>What Does Japan And China Have In Common</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=halloween-wiki-fandom'>Halloween Wiki Fandom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=montage-of-a-dream-deferred-publisher'>Montage Of A Dream Deferred Publisher</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fran-kranz-instagram'>Fran Kranz Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=which-of-the-following-factors-limits-the-potential-production-of-wildlife-hunters-ed'>Which Of The Following Factors Limits The Potential Production Of Wildlife Hunters Ed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rawnald-gregory-erickson-the-second-lyrics'>Rawnald Gregory Erickson The Second Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intercessory-prayers-for-the-world'>Intercessory Prayers For The World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=political-correctness%3A-the-munk-debates-book'>Political Correctness: The Munk Debates Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=multiple-light-bulbs-blowing'>Multiple Light Bulbs Blowing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-pigman-summary-chapter-3'>The Pigman Summary Chapter 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=town-of-deer-trail'>Town Of Deer Trail</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Lemon-Orchard'>The Lemon Orchard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Paradise-Alley-%281962%29'>Paradise Alley (1962)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-it-mean-to-awake-to-righteousness'>What Does It Mean To Awake To Righteousness</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fx-broken-date'>Fx Broken Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sorry-angel---watch-online'>Sorry Angel - Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gregor-Mendel-book'>Gregor Mendel Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-haunting-hour-%3A-really-you'>The Haunting Hour : Really You</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=individual-movement-techniques-army-doctrine'>Individual Movement Techniques Army Doctrine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=multiple-light-bulbs-blowing'>Multiple Light Bulbs Blowing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manosque-france-population'>Manosque France Population</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-kay-inventor'>John Kay Inventor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=empty-quarter-map'>Empty Quarter Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cask-and-schooner-friday-harbor'>Cask And Schooner Friday Harbor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amulet-book-9-pdf'>Amulet Book 9 Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=professor-layton-vs-phoenix-wright-buy'>Professor Layton Vs Phoenix Wright Buy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stephen-king-grandchildren'>Stephen King Grandchildren</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robot-wars-cast'>Robot Wars Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-jesus-prayer-in-aramaic'>The Jesus Prayer In Aramaic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ukrainian-orthodox-church-split'>Ukrainian Orthodox Church Split</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hyperlink-in-presentation'>Hyperlink In Presentation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bai-Chinese-character'>Bai Chinese Character</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=giuseppe-andrews-movies'>Giuseppe Andrews Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=me-and-john-and-paul'>Me And John And Paul</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-benioff-net-worth-2020'>David Benioff Net Worth 2020</a>,
+";s:7:"expired";i:-1;}

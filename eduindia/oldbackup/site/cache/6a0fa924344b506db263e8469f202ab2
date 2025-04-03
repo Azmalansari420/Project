@@ -1,0 +1,158 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2695:"<br>Abram Games 'Air Mail' poster of 1935 incorporates the main elements of his design... Public Information Posters. His father, Joseph Gamse, a Latvian photographer, changed the family name to Games. Abram Games, whose real name was Abraham Gamse, was born in Whitechapel, London, in 1914. He was born Abraham Gamse , he was the son of immigrants : a Latvian photographer and a Russo-Polish (part Russian , part Polish ) seamstress .  The style of his work – refined but vigorous compared to the work of contemporaries – has earned him a place in the pantheon of the best of 20th-century graphic designers. He was born Abraham Gamse, he was the son of immigrants: a Latvian photographer and a Russo-Polish (part Russian, part Polish) seamstress. Abram Games, British graphic designer best known for the World War II posters he created while serving as official war poster designer for England; his works were noted for their vividness and clarity and bore the influences of Futurism, Abstraction, and Surrealism (b. July 29, 1914--d. Aug. 27, 1996). In 1960 he was commissioned by FAO to produce promotional posters for the Freedom From Hunger Campaign. Abram Games (1914-1996) was one of the twentieth century’s most celebrated graphic designers. Abram Games (29 July 1914 – 27 August 1996) was a British graphic designer. London 1914 - London 1996 Abram Games, whose real name was Abraham Gamse, was born in Whitechapel, London, in 1914. The style of his work – refined but vigorous compared to the work of contemporaries – has earned him a place in the pantheon of the best of 20th-century graphic designers. In acknowledging his power as a propagandist, he claimed, "I wind the spring and the public, in looking at the poster, will have that spring released in its mind." Abram Games (1914 – 1996) Some of the most memorable graphic images of mid-20th century Britain were the work of the designer ABRAM GAMES (1914-1996). In acknowledging his power as a propagandist, he claimed, "I wind the spring and the public, in looking at the poster, will have that spring released in its mind." His clients included the United Nations, London Transport, British Airways, Shell, the Financial Times and Guinness. For a while Abram Games attended St Martins School of Art in London but, disillusioned by the style of teaching and deterred by the high tuition fees, Abram Games soon left the art school. Abram Games. Six years later his own obituary appeared in the Journal written by Professor Alan and Isabella Livingston. Abram Games, MBE (born: 1914 died: 1996) was a British graphic designer. His father, Joseph Gamse, a Latvian photographer, changed the family name to Games. <br>";s:7:"keyword";s:23:"abram games information";s:5:"links";s:12370:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Michael-Stewart-James-Stewart'>Michael Stewart James Stewart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richest-kid-in-america-donald-dougher-net-worth'>Richest Kid In America Donald Dougher Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pg-99-discogs'>Pg 99 Discogs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-paperback-releases'>New Paperback Releases</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=it-was-good-until-it-wasn%27t-vinyl'>It Was Good Until It Wasn't Vinyl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lawman-1971-full-movie'>Lawman 1971 Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wayne-rooney-house-tour'>Wayne Rooney House Tour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glo-extracts-verification'>Glo Extracts Verification</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dave-ramsey-church'>Dave Ramsey Church</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Elements-of-Love%3A-Ballads'>Elements Of Love: Ballads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-wyatt-poems-pdf'>Thomas Wyatt Poems Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=enjoyment-synonyms-in-french'>Enjoyment Synonyms In French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=an-education-%282009-full-movie-watch-online%29'>An Education (2009 Full Movie Watch Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Black-Book-film'>Black Book Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-does-chris-offutt-live'>Where Does Chris Offutt Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-was-jack-kornfield-born'>Where Was Jack Kornfield Born</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shaun-evans-ashes-to-ashes'>Shaun Evans Ashes To Ashes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=advantages-of-soil-conservation'>Advantages Of Soil Conservation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jubilee-cookbook-review'>Jubilee Cookbook Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=redwall-series-order'>Redwall Series Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=karen-haircut-name'>Karen Haircut Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reb-beach-family'>Reb Beach Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=padmavathi-telugu-song'>Padmavathi Telugu Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kathy-Bates-Misery'>Kathy Bates Misery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anne-frank-book-review'>Anne Frank Book Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=suicide-commandos---burn-it-down-lyrics'>Suicide Commandos - Burn It Down Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dave-hill-comedian'>Dave Hill Comedian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=examples-of-street-smart'>Examples Of Street Smart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andromeda-tonks-wand'>Andromeda Tonks Wand</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blessing-cross-orthodox'>Blessing Cross Orthodox</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leena-in-arabic-calligraphy'>Leena In Arabic Calligraphy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natalie-curtis-net-worth'>Natalie Curtis Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caroline-wozniacki-harvard'>Caroline Wozniacki Harvard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ellen-lupton-facts'>Ellen Lupton Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Quidditch-Through-the-Ages-illustrated'>Quidditch Through The Ages Illustrated</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-unforgiven-wow'>The Unforgiven Wow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jal-bin-machhli-nritya-bin-bijli-kajra-laga-ke-bindiya-saja-ke'>Jal Bin Machhli Nritya Bin Bijli Kajra Laga Ke Bindiya Saja Ke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charlotte-greenwood-cause-of-death'>Charlotte Greenwood Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Greatest-NOFX-songs'>Greatest NOFX Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=implicit-memory-and-priming'>Implicit Memory And Priming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-did-frank-luke-do'>What Did Frank Luke Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Delta-Line-company'>Delta Line Company</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=monique-ganderton-net-worth'>Monique Ganderton Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jennifer-robson-interview'>Jennifer Robson Interview</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chill-n-Grill-menu'>Chill N Grill Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ftl-advanced-edition-guide'>Ftl Advanced Edition Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sabbath%27s-theater-summary'>Sabbath's Theater Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=racing-extinction-discovery-education-worksheet-answers'>Racing Extinction Discovery Education Worksheet Answers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Be-Here-To-Love-Me'>Be Here To Love Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ammianus-marcellinus-rolfe'>Ammianus Marcellinus Rolfe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Modern-samurai-movies'>Modern Samurai Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tear-soup-pdf'>Tear Soup Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-academy-of-neurology-membership-criteria'>American Academy Of Neurology Membership Criteria</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=astronomical-clocks-in-the-world'>Astronomical Clocks In The World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=outdoor-mosquito-killer'>Outdoor Mosquito Killer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=talley%27s-folly-summary'>Talley's Folly Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Oscar-Wilde-family'>Oscar Wilde Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natasha%27s-dance%3A-a-cultural-history-of-russia-review'>Natasha's Dance: A Cultural History Of Russia Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nice-girls-don-t-get-the-corner-office-tips'>Nice Girls Don T Get The Corner Office Tips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-contribution-to-the-critique-of-political-economy-summary'>A Contribution To The Critique Of Political Economy Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greenwich-high-school-tour'>Greenwich High School Tour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=3-am-challenges-to-do-with-friends'>3 Am Challenges To Do With Friends</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Not-I%2C-Not-I'>Not I, Not I</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=at-second-glance-synonym'>At Second Glance Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=master-of-magic-retorts'>Master Of Magic Retorts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nanking-movie-trailer'>Nanking Movie Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=matt-levine%2C-drifter'>Matt Levine, Drifter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-kingsley-stories'>Charles Kingsley Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=babe-clothing-men'>Babe Clothing Men</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=josef-hoffmann-style'>Josef Hoffmann Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=long-day%27s-journey-into-night-justwatch'>Long Day's Journey Into Night Justwatch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gateway-east-nearest-mrt'>Gateway East Nearest Mrt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-a-female-curmudgeon-called'>What Is A Female Curmudgeon Called</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dispute-transaction-chime'>Dispute Transaction Chime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tumse-milke-aisa-laga-lyrics'>Tumse Milke Aisa Laga Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ken-blackman-relationship-coach'>Ken Blackman Relationship Coach</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=remi%2C-nobody%27s-boy-%282019%29'>Remi, Nobody's Boy (2019)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=strongarm-sport-canada'>Strongarm Sport Canada</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reach-regulations-2019'>Reach Regulations 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-wojnarowicz-untitled-1992'>David Wojnarowicz Untitled 1992</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=palomino-pop-up-truck-camper-for-sale'>Palomino Pop Up Truck Camper For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=greenville-news-crime'>Greenville News Crime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-fiend-with-twenty-faces-pdf'>The Fiend With Twenty Faces Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=untamed-book-amazon'>Untamed Book Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeff-leach-imdb'>Jeff Leach Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beatrix-potter-musical-figurine'>Beatrix Potter Musical Figurine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-rain-song-poem'>A Rain Song Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-beardsley-teams-coached'>Peter Beardsley Teams Coached</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dutilleux---sonatine'>Dutilleux - Sonatine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=BJ%27s-on-the-Water'>BJ's On The Water</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kuwait-drilling-company-vacancies-2019'>Kuwait Drilling Company Vacancies 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Elements-of-Love%3A-Ballads'>Elements Of Love: Ballads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=piya-rangrezz-story'>Piya Rangrezz Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dr-quinn-medicine-woman-season-1-dailymotion'>Dr Quinn Medicine Woman Season 1 Dailymotion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jambiya-knife-for-sale'>Jambiya Knife For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yuri-lowenthal-characters'>Yuri Lowenthal Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-History-of-Middle-earth-12-volume-set'>The History Of Middle-earth 12 Volume Set</a>,
+";s:7:"expired";i:-1;}

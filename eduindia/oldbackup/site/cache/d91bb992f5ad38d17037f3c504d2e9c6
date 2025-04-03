@@ -1,0 +1,81 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4059:"<br> <br> The K-Wings and Bell's … <br> <br>Two Hearted Ale is a IPA - American style beer brewed by Bell's Brewery - Eccentric Café & General Store in Kalamazoo, MI. Two Hearted Ale. <br> <br>Kalamazoo is a small city in the southwestern state of Michigan, halfway between two large cities such as Chicago and Detroit. <br> <br>Cherry Stout . With two and a half times the amount of Centennial hops, Double Two Hearted® has intense pine and citrus notes, a resinous hop aroma and rich malt character. Bell’s likely named the beer after the Ernest Hemingway short story ‘Big Two-Hearted River’ which makes mention of trout fishing on the river in Michigan. Score: 95 with 15,410 ratings and reviews. What the brewers say “Hopped massively... with Centennial hops... for their characteristic grapefruit and pine resin aromas. <br> <br>Two Hearted Ale . Two Hearted Ale is all about balance.  <br>Commercial Description: Brewed with 100% Centennial hops from the Pacific Northwest and named after the Two Hearted River in Michigan’s Upper Peninsula, this IPA is bursting with hop aromas ranging from pine to grapefruit from massive hop additions in both the kettle and the fermenter. Le Batteur . <br> <br>Brewed with 100% Centennial hops from the Pacific Northwest and named after the Two Hearted River in Michigan’s Upper Peninsula, this IPA is bursting with hop aromas ranging from pine to grapefruit from massive hop additions in both the kettle and the fermenter. Begun as a homebrewing store in 1983, and producing beer since 1985, it is the oldest existing craft brewery in Michigan. <br> <br>Specialty . Allow two hearted clone to stay warm with hops for a week. Perfectly balanced with a malt backbone and combined with the signature fruity aromas of Bell's house yeast, this beer is … The aroma is truly distinct, indelible and unique. Double Two Hearted . <br> <br>Rack beer, prime with sugar and bottle. Two-Hearted Ale is American IPA made with 100% Centennial hops. Description [IPA] 7% ABV. Mixes of forest pine and tart citrus exude from the head, confirmed by a … Double Two Hearted Everything you love about our classic Two Hearted® Ale... now in a double IPA. Previous Menu. Dry hop one week into fermentation. Print Shelf Talker. <br> <br>Yes, there are plenty of hops, but there are also plenty of malts that combined in a perfectly balanced flavor. <br> <br>Rack beer, crash cool, and cold age for a week. <br> <br>L'Appel du Vide Blackberry . Bells Two Hearted is like no other IPA I've had, truly within a class of its own. It certainly gives you a full hop experience. Bell's Two Hearted Ale named best beer in America — again. <br> <br>Hopped exclusively with the Centennial hop varietal from the Pacific Northwest, massive additions in the kettle & again in the fermenter lend their characteristic grapefruit & pine resin aromas. <br> <br>Two Hearted Ale is defined by its intense hop aroma and malt balance. It operates a brewpub  and a store selling merchandise and homebrewingsupplies at its Kalamazoo location. What you don’t get, though, is overkill. <br> <br>Flamingo Fruit Fight . Specialty . Eccentric Cafe & General Store. As of 2019, it is the largest independently owned brewery in the state, and the 7th … Incessant . Big Porch Ale . Hopslam Ale . <br> <br>This is a certain eye-catcher for any trout enthusiast as the label features an elegant brook trout surfacing through a stream. Bell's Two Hearted Ale beer, arguably the best American IPA. Two Hearted Ale. <br> <br>craft American, although obviously at the time there was still no indication that this would happen. <br> <br>BELL’S TWO HEARTED ALE [IPA] 7% ABV. <br> <br>Bell's Brewery, Inc.  is a family-owned  craft brewing  company with operations in Comstock  and Kalamazoo, Michigan. Bell's Brewery also places Hopslam in Top 10, while Founders Brewing Company places four beers, including KBS and CBS A significant malt body and the signature fruity aromas of Bell’s house yeast balance the hops.” What our panel thought. <br>";s:7:"keyword";s:22:"Bell's Two Hearted Ale";s:5:"links";s:2466:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=large-detailed-map-of-maryland'>Large Detailed Map Of Maryland</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-addams-cartoons-book'>Charles Addams Cartoons Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=japanese-core-2000-reddit'>Japanese Core 2000 Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=forrest-goodluck-ethnicity'>Forrest Goodluck Ethnicity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-God-Abandons-Antony'>The God Abandons Antony</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=omid-abtahi-height'>Omid Abtahi Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-up-meaning'>List Up Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clifford-the-big-red-dog-season-1-episode-1'>Clifford The Big Red Dog Season 1 Episode 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Throne-of-Glass-book-1'>Throne Of Glass Book 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youngest-couple-in-the-world-today'>Youngest Couple In The World Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rick-owens-ramones'>Rick Owens Ramones</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alien-game-online'>Alien Game Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lee-jung-eun-okja'>Lee Jung-eun Okja</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aldi-turkey-tenderloin-price'>Aldi Turkey Tenderloin Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rolling-vengeance-dvd'>Rolling Vengeance Dvd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-a-secret-relationship-called'>What Is A Secret Relationship Called</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ron-holloway-trio'>Ron Holloway Trio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=left-for-dead-in-a-sentence'>Left For Dead In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=traditional-catholic-modesty'>Traditional Catholic Modesty</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shmoo-plot-explained'>Shmoo Plot Explained</a>,
+";s:7:"expired";i:-1;}

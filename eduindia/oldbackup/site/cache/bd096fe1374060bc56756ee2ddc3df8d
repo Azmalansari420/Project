@@ -1,0 +1,81 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4255:"<p>Classic editor History Talk (0) Share.  By Ani Bundel. Here is a picture of the Goldstein Family Tree from the Harry Potter edition of Time Magazine, 2017. </p> <p>They are related to the Lovegood family. </p> <p>Many of its members have worked as magizoologists. Members Rolf Scamander-Husand of Luna Lovegood, father of Lorcan and Lysander Scamander, Luna Scamander (nee Lovegood)-Wife of Rolf Scamander, mother of Lorcan and Lysnader Scamander (see Lovegood family), Lorcan Scamander-Son of Rolf and Luna Scamander, twin … Rolf Scamander was the grandson of Newt and Tina Scamander.. Facts and appearances. The Scamanders are a notable wizarding family whose members have worked with magical creatures for generations. Scamander was the surname of a wizarding family. "The Dukuwaqa lives in a warm ocean, the Selma in an icy freshwater lake. He and Luna have twin sons, Lorcan and Lysander (YL, Pm:Quidditch). It ended up with both the Weasley family tree as well as the Black family tree (plus Potter, Lestrange, Delacour, Lovegood, Longbottom, Crouch and Malfoy thrown in the mess). Boggart ... She is an Oc of mine. I also placed another member at the family tree. Anyway, it is sorted in one generation per row, so in total there are nine generations, 114 people. It is another Oc. The Lovegood family is a wizarding family. Many of its members worked as magizoologists. The Dumbledore Family Tree Will Confuse 'Fantastic Beasts' Fans Even More. </p> <p>Scamander is the surname of a wizarding family. </p> <p>Though the Scamander family trace their heritage back several ... Rolf Scamander, sorted over into Hufflepuff, was also a student. Luna Lovegood married Rolf Scamander and they had one set of twins, Lorcan and Lysander. Newt and Tina have three Kneazles named Hoppy, Milly, and Mauler ( FB ). ... She is never seen without a smile, although you wouldn't want to get on her bad side (she was raised by a pureblood family after all). After the battle of Hogwarts Luna Lovegood will become a wizarding naturalist and marry Rolf Scamander, grandson of Newt Scamander, and have twin boys called Lorcan and Lysander. </p> <p>Rolf Scamander (first cousin) Nyx Caleb Ulric (uncle) ... Godric Gryffindor (ancestor) Scamander Family (relatives) Ulric Family (relatives) Goldstein (relatives) Magical characteristics. Xenophilius and Pandora Lovegood are married and have one daughter, Luna. You would need the brains of a Billywig not to foresee an immediate bloodbath if both were crammed tightly together in tepid, brackish water." Via hp ... Lorcan Scamander, Lysander Scamander, Louis … He was also considered a personification of the Scamander River, along the lower plains of which the battles of the Trojan War were fought, according to The Iliad. Okey. </p> <p>He is brother of Stella. ... J.K. Rowling's hand-drawn family tree. The Scamander family is a wizarding family. Rolf is the grandson of Newt Scamander, the author of Fantastic Beasts and Where to Find Them. He married Luna Lovegood (BLC, YL) and Rita Skeeter notes that he was surprised by the flamboyant dress she wore for their wedding (Pm:Quidditch).. </p> <p>The former is a shape-shifter that can transform from fish to man, the latter is a serpent that devours human flesh and fish. The Lovegood family is a family from Harry Potter. The Potter family is a very old one, but it was never (until the birth of Harry James Potter) at the very forefront of wizarding history, contenting itself with a solid and comfortable existence in the backwaters. They were related by marriage to the Lovegood family. In Greek mythology, Scamander was a river god who fought for Troy during the Trojan War. Scamander family. Family tree Newt Scamander Porpentina Goldstein Queenie Goldstein Xenophilius Lovegood Pandora Lovegood Rolf Scamander Luna Lovegood Lorcan Scamander Lysander Scamander </p> <p>Newt and his grandson Rolf are both well-known Magizoologists (and Rolf's wife Luna is a wizarding naturalist), but the family affinity for magical creatures goes back at least one generation further - to … “Oh and Mum!” Mr. Scamander said to Tina, “make sure Aislynn doesn’t climb too high, she can’t always get back down again!” “Alright Landon!” said … </p>";s:7:"keyword";s:26:"rolf scamander family tree";s:5:"links";s:2550:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Lamb-Lies-Down-on-Broadway-inner-sleeve-story'>The Lamb Lies Down On Broadway Inner Sleeve Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leeza-soho-structure'>Leeza Soho Structure</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cassie-ventura-2020'>Cassie Ventura 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ford-county-illinois-marriage-records'>Ford County Illinois Marriage Records</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-vita-meaning'>La Vita Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=principles-of-soil-conservation'>Principles Of Soil Conservation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=majority-report-merch'>Majority Report Merch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fantastic-four-%231-2018'>Fantastic Four #1 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jen-taylor-%28cortana%29'>Jen Taylor (cortana)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joan-as-police-woman-under-control'>Joan As Police Woman Under Control</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=laravel-framework-github'>Laravel Framework Github</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blood-beach-trailer'>Blood Beach Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=investigation-of-a-citizen-above-suspicion-ending-explained'>Investigation Of A Citizen Above Suspicion Ending Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-French-leaving-National-Review'>David French Leaving National Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=butch-cassidy-house'>Butch Cassidy House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=found-book-summary'>Found Book Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gojira-albums-in-order'>Gojira Albums In Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tourist-trap-ending'>Tourist Trap Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bell-hooks-intersectionality'>Bell Hooks Intersectionality</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-victor-dick-dale'>The Victor-dick Dale</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,89 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4012:"<br>A bit of background: Born in 1864, highly-intelligent Béatrice was the daughter of the banker and major art collector Baron Alphonse de Rothschild. History of the Villa and Jardins Ephrussi de Rothschild. The villa is surrounded by nine gardens, each on a different theme: French, Spanish, Japanese, Florentine, Provençal, exotic, a stone garden, a rose garden, and a garden de Sèvres. <br> <br>Every event celebrated at Villa Ephrussi de Rothschild is considered special due to its incredible locale. The History and Gardens of Villa Ephrussi de Rothschild Surrounded by nine separate areas all of which boast an array of patios, a waterfall, ponds, and rare trees, the house stands tall in this oasis of calm. Villa et Jardins Ephrussi de Rothschild, located in Saint-Jean-Cap-Ferrat on the Cote d'Azur, is a dreamy seaside villa that you cannot miss when visiting the French Riviera. Villa & Jardins Ephrussi de Rothschild: So relaxing gardens and a beautiful villa - See 2,438 traveler reviews, 3,411 candid photos, and great deals for St-Jean-Cap-Ferrat, France, at Tripadvisor.   The magnificent Villa Ephrussi de Rothschild & Gardens in Saint-Jean-Cap-Ferrat is the epitome of French romance. De tuin van Villa Ephrussi de Rothschild. Today, the striking seafront palazzo is maintained by the Institut de France and is open to the public, and also hosts the annual summer opera festival: Opera Azuriales. The good news is that the gardens are open 365 days a year throughout the changing seasons. Open daily from 10 a.m to 6 p.m, apart from the long summer months of July and August when they shut at 7 p.m. Popular Videos - Villa Ephrussi de Rothschild & Plants Villa Ephrussi de Rothschild - Topic; 23 videos; ... Jardin Villa Ephrussi de Rothschild Exploring the gardens by soniarose1983. Thus Baroness Béatrice Ephrussi, neé de Rothschild, (1864-1934) described her completed villa ‘Ile de France’ and its gardens situated on the narrowest isthmus of the Cap Ferrat. Book your tickets online for Villa & Jardins Ephrussi de Rothschild, St-Jean-Cap-Ferrat: See 2,443 reviews, articles, and 3,421 photos of Villa & Jardins Ephrussi de Rothschild, ranked No.1 on Tripadvisor among 9 attractions in St-Jean-Cap-Ferrat. The Ephrussi de Rothschild Villa and Gardens on the Saint-Jean-Cap-Ferrat peninsula between Nice and Monaco is one of the top sightseeing destinations on the French Riviera. The pink-painted villa, once belonging to wealthy Frenchwoman Béatrice Ephrussi de Rothschild, was designed by Belgian architect Aaron Messiah and built in the early 20th century. The Villa et Jardins Ephrussi de Rothschild on Saint-Jean-Cap-Ferrat is a popular French Riviera daytrip destination with long opening hours and easy transportation. Located in Saint-Jean-Cap-Ferrat, France, the Villa Éphrussi de Rothschild Gardens is known for its variety of themed gardens. Villa Ephrussi (also known as the 'Villa Ile de France' and 'Villa Ephrussi de Rothschild') was built by Beatrice Ephrussi de Rothschild in the early part of the 20th century. Opening hours of Villa Ephrussi de Rothschild. Photo: Renata Haidle Every year for the last 10 years, rose lovers have been gathering at the Villa Ephrussi-de-Rothschild in Saint-Jean-Cap-Ferrat to celebrate not only the queen of the flower kingdom, but also the woman behind the story: Béatrice Ephrussi, née de Rothschild. Book your tickets online for Villa & Jardins Ephrussi de Rothschild, St-Jean-Cap-Ferrat: See 2,443 reviews, articles, and 3,421 photos of Villa & Jardins Ephrussi de Rothschild, ranked No.1 on Tripadvisor among 9 attractions in St-Jean-Cap-Ferrat. At 19, she married Maurice Ephrussi, a Parisian banker who was a friend of her parents and 15 years her senior. Nestled in the exclusive French Côte d'Azur, it is an iconic venue ideal for luxury weddings and glamorous parties. Throughout your visit, you will discover this extraordinary woman, whose everyday life and taste for art are forever embodied in the villa. <br>";s:7:"keyword";s:36:"villa ephrussi de rothschild gardens";s:5:"links";s:3370:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tony-scott-musician'>Tony Scott Musician</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=irma-grese-film'>Irma Grese Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=An-extraordinary-egg'>An Extraordinary Egg</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clockwork-princess-goodreads'>Clockwork Princess Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-photograph-artwork'>How To Photograph Artwork</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-we-talk-about-when-we-talk-about-love-raymond-carver-analysis'>What We Talk About When We Talk About Love Raymond Carver Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backfire-g3-manual'>Backfire G3 Manual</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hear-me-out-meme'>Hear Me Out Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=living-language-german-website'>Living Language German Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clockwork-princess-goodreads'>Clockwork Princess Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yamato-ramen-machine-price'>Yamato Ramen Machine Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-missing-ones'>The Missing Ones</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Shakespeare-Stealer'>The Shakespeare Stealer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=witcher-3-best-steel-sword-ng%2B'>Witcher 3 Best Steel Sword Ng+</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tony-fadell-house'>Tony Fadell House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Switzerland-before-ww2'>Switzerland Before Ww2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manon-lescaut-book'>Manon Lescaut Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-the-wake-per-petterson'>In The Wake Per Petterson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mara-princess-run'>Mara Princess Run</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anouchka-delon-eyes'>Anouchka Delon Eyes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=street-magic-meme'>Street Magic Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nancy-neele-christie'>Nancy Neele Christie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=king-kalakaua-pronunciation'>King Kalakaua Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unkle-psyence-fiction'>Unkle Psyence Fiction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kevin-mccarthy-fox-5-age'>Kevin Mccarthy Fox 5 Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=genesis-1%3A27-hebrew'>Genesis 1:27 Hebrew</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rosey-grier-net-worth'>Rosey Grier Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hunan-inn-lunch-menu'>Hunan Inn Lunch Menu</a>,
+";s:7:"expired";i:-1;}

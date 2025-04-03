@@ -1,0 +1,147 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2040:"<p>There are 3 Parks Departments in El Dorado County, California, serving a population of 185,015 people in an area of 1,708 square miles.There is 1 Parks Department per 61,671 people, and 1 Parks Department per 569 square miles..  Profile. Feb 23, 2018 - Explore visiteldoradoks's board "Parks & Rec" on Pinterest. When visiting any Park in the City of Albuquerque please respect the rules. Search our directory of things to do and places to stay. </p> <p>Located in a uniquely picturesque corner of Long Beach, California, El Dorado Park Golf Course features uninterrupted views of lush, stunning landscapes at every turn. Eldorado Park, Brampton: See 36 reviews, articles, and 10 photos of Eldorado Park, ranked No.7 on Tripadvisor among 34 attractions in Brampton. Outdoor Recreation Category: Fishing & Boating, Gold Panning Locations, Parks, and Rafting. Welcome to El Dorado Park Golf Course. See more ideas about Parks n rec, Rec, El dorado. Map. El Dorado Park is one of the biggest municipal parks in Scottsdale, featuring 60 acres of green space and two lakes. June 29 Update - To the El Dorado Park Men’s Golf Club Membership Happily, golf has been back for well over a month with no bad publicity or any reported incidents. Please join us to share your ideas regarding the future improvements at El Dorado Park. Choose Your Next El Dorado County Adventure. El Dorado Park is a small urban playground in Albuquerque. </p> <p>It's small field is good for a game of soccer or frisbee. In California, El Dorado County is ranked 22nd of 58 counties in Parks Departments per capita, and 22nd of 58 counties in Parks Departments per square mile. Outdoor Recreation. El Dorado Park Master Plan Community Meeting Wednesday, October 11, 2017 6:30 - 7:30 pm Arlanza Community Center at Bryant Park 7950 Philbin Avenue, Riverside, CA 92503 Contact Parks, Recrea on and Community Services at 951‐826‐2000 with ques ons. </p> <p>Search. Home > Outdoor Recreation > Placerville > Parks > Chili Bar River Park; Chili Bar River Park. </p>";s:7:"keyword";s:22:"el dorado park and rec";s:5:"links";s:10640:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=san-jacinto-college'>San Jacinto College</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cape-breton-news-today'>Cape Breton News Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sumner-redstone-2019'>Sumner Redstone 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xavier-mcdaniel-knicks'>Xavier Mcdaniel Knicks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-they-from-lyrics'>Where They From Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naples%2C-florida-weather'>Naples, Florida Weather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nischelle-turner-curly-hair'>Nischelle Turner Curly Hair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Harold-Robbins-The-Carpetbaggers'>Harold Robbins The Carpetbaggers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=noodle-education-careers'>Noodle Education Careers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nabors-drilling-human-resources'>Nabors Drilling Human Resources</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1-john-bible-study-tim-keller'>1 John Bible Study Tim Keller</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=today-robert-lujan'>Today Robert Lujan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=biography-of-wang-wei'>Biography Of Wang Wei</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=danny-ramirez-mma'>Danny Ramirez Mma</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leslie-knope-joe-biden'>Leslie Knope Joe Biden</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eugene-onegin-pushkin'>Eugene Onegin Pushkin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Fake-police-officers'>Fake Police Officers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aherne-of-films'>Aherne Of Films</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-do-meditation'>How To Do Meditation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=does-costco-have-tomahawk-steaks'>Does Costco Have Tomahawk Steaks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rube-goldberg-machine-computer-game'>Rube Goldberg Machine Computer Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rebekah-Vardy-Instagram'>Rebekah Vardy Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plymouth-argyle-kit'>Plymouth Argyle Kit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bon-appetit-vegetarian-chili'>Bon Appetit Vegetarian Chili</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-God-Code'>The God Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=teacher-appreciation-quotes-from-students'>Teacher Appreciation Quotes From Students</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=GVC-Investor-Relations'>GVC Investor Relations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-does-the-word-of-god-change-us'>How Does The Word Of God Change Us</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rabbits-children%27s-book'>Rabbits Children's Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ravel---une-barque-sur-l%27oc%C3%A9an-orchestra'>Ravel - Une Barque Sur L'océan Orchestra</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rupture-full-movie'>Rupture Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-platform-ending'>The Platform Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=city-of-chicago-%3A%3A-human-resources'>City Of Chicago :: Human Resources</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=life-skills-every-woman-should-know'>Life Skills Every Woman Should Know</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orthodox-church-in-turkey'>Orthodox Church In Turkey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=online-games-big-two'>Online Games Big Two</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=falaise-pocket-corridor-of-death'>Falaise Pocket Corridor Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Eversource-Director-salary'>Eversource Director Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=king-kamehameha-tomb'>King Kamehameha Tomb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Titanic-2---The-Return-of-Jack-%282020%29'>Titanic 2 - The Return Of Jack (2020)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leonard-koren-point-reyes'>Leonard Koren Point Reyes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-felt-that-meme-meaning'>I Felt That Meme Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=basildon-population-2019'>Basildon Population 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=that-thing-you-do%21-dance-with-me-tonight'>That Thing You Do! Dance With Me Tonight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-alexa'>What Is Alexa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rube-goldberg%27s-simple-normal-humdrum-school-day-read-aloud'>Rube Goldberg's Simple Normal Humdrum School Day Read Aloud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blink-182-california-font'>Blink-182 California Font</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kyouka-bungou-stray-dogs-seiyuu'>Kyouka Bungou Stray Dogs Seiyuu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blade-marvel-cast'>Blade Marvel Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eustace-scrubb-age'>Eustace Scrubb Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dolly-dearest-2014'>Dolly Dearest 2014</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=falling-up-songs'>Falling Up Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=r%C3%ADo-conchos-map'>Río Conchos Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bahubali-sword-toy-amazon'>Bahubali Sword Toy Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shoah-Foundation-hologram'>Shoah Foundation Hologram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=top-gun-full-movie-with-english-subtitles'>Top Gun Full Movie With English Subtitles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-is-block-10-closed-at-auschwitz'>Why Is Block 10 Closed At Auschwitz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pop-up-book-collections'>Pop-up Book Collections</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wfg-transamerica-reviews'>Wfg Transamerica Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mendel-palace-pok%C3%A9mon'>Mendel Palace Pokémon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-school-love-lyrics'>Old School Love Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-leopard-film-amazon'>The Leopard Film Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bruce-the-bear-movie'>Bruce The Bear Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=syndrome-2004-movie'>Syndrome 2004 Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=justin-hawkins%3A-rita-ora'>Justin Hawkins: Rita Ora</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emmanuel%27s-dream-vocabulary'>Emmanuel's Dream Vocabulary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-counter-yelp'>The Counter Yelp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=creation-of-the-humanoids-trailer'>Creation Of The Humanoids Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=josie-long-2019'>Josie Long 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miss-marple%27%27-towards-zero-location'>Miss Marple'' Towards Zero Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=coachman-460-vip-2020'>Coachman 460 Vip 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-jasper-jones'>How Old Is Jasper Jones</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-malory-religion'>Thomas Malory Religion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=most-popular-chips-in-america'>Most Popular Chips In America</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-wick-boss-429'>John Wick Boss 429</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ibuki-Mioda-birthday'>Ibuki Mioda Birthday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julie-peppard-daughter'>Julie Peppard Daughter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-dandelion-menu'>The Dandelion Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apache-engineering-jobs'>Apache Engineering Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barbara-bain-net-worth'>Barbara Bain Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chain-stitching-machine'>Chain Stitching Machine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autobiography-of-andrew-carnegie'>Autobiography Of Andrew Carnegie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Northern-Ireland-flag-image'>Northern Ireland Flag Image</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isamu-noguchi-portal'>Isamu Noguchi Portal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=botch-band-merch'>Botch Band Merch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tuskegee-experiment-lawsuit'>Tuskegee Experiment Lawsuit</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,137 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4283:"Assemble enables construction professionals to condition, query, and connect BIM data to key workflows including design reviews, takeoffs, estimating, change management, and value engineering to reduce risk and improve efficiencies during project planning and execution. Assemble provides the flexibility to adapt to the details of any project while delivering highly accurate costs regardless of varying project details. Costimator comes loaded with industry validated Cost Models and Time Standards that the enables the system to support the cost estimating of hundreds of manufacturing processes, including all forms of machining, fabrication, stamping, welding, assembly, molding, castings, forgings, electronics and more.. Should an estimator using this system begin a take-off and be unable to finish it, another estimator familiar with the system can complete the estimate without having to ask questions. These AEC solutions providers are working together to bring an easy to use 5D BIM approach to cost estimating.  Assemble Systems, the leading provider of Construction Data Management solutions, is pleased to announce its latest integration for Estimating with Sage, a market leader for integrated accounting, estimating, payroll and payment systems. Assemble Systems is a United States software company that was founded in 2011, and offers a software title called Assemble Insight. In square foot estimating the estimator works with the project area. If you are looking to streamline your estimating process and enjoy the benefits of model based estimating, while utilizing your Excel templates your estimating team has spent years perfecting, this tech session is for you. Assemble Insight offers training via documentation, webinars, live online, and in person sessions. The Assemblies method is a sequential approach to estimating, which represents how the building is to be constructed. Assemble Systems, the leading provider of Construction Data Management solutions, is pleased to announce its latest integration for Estimating with Sage, a … In a ROM estimate a gross unit is established, for example the number of hospital beds required. Assemble Systems provides a SaaS platform that consumes BIM models, drawings, and point clouds enabling construction professionals to condition, query, and connect the data to key workflows. Assemble Systems is a cloud-based solution for general contractors that provides real-time access to critical project data--from 3D models and point clouds to cost and schedule--throughout the project lifecycle. Drywall; Acoustic / Specialty Ceilings; Millwork; Carpentry; Exterior Wall Systems; Preconstruction Services The goal of 'Whole Building' Design is to create a successful high-performance building by applying an integrated design and team approach to the project during the … One great advantage of an Assemblies estimate is the ability to substitute one system for another This estimate is prepared by working with the system or assembly unit of a project. This functionality is only available if you have the Estimating Module.. Assemble was acquired by Autodesk and will be integrated into … An Assemblies or Systems Estimate is a type of estimate typically used on larger commercial projects where a particular assembly or system repeatedly appears in project. This estimate is prepared by working with the system or assembly unit of a project. In a ROM estimate a gross unit is established, for example the number of hospital beds required. They are usually preformed while a project is still in the design stage and are generally considered to provide accuracy in the ± 10-15% range. BOSTON, MA, July 13, 2017 – Assemble Systems, the leading provider of Construction Data Management solutions, is pleased to announce its latest integration for Estimating with Sage, a market leader for integrated accounting, estimating, payroll and payment systems.These AEC solutions providers are working together to bring an easy to use 5D BIM approach to cost estimating. About Assemble Systems Assemble Systems with its headquarters in Boston provides a SaaS platform that consumes BIM models, drawings, and point clouds enabling construction professionals to condition, query, and connect the data to key workflows. ";s:7:"keyword";s:31:"assemble systems for estimating";s:5:"links";s:9426:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=schisma-stephen-king'>Schisma Stephen King</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-new-woman'>The New Woman</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=until-forever-wiki'>Until Forever Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ville-contemporaine-plan-voisin'>Ville Contemporaine Plan Voisin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dave-kruseman-wiki'>Dave Kruseman Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marina-tsvetaeva-poetry'>Marina Tsvetaeva Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-cantos-online'>The Cantos Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shattered-innocence-book'>Shattered Innocence Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=traveler%27s-company-inserts'>Traveler's Company Inserts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=allegiant-book-summary-by-chapter'>Allegiant Book Summary By Chapter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-is-gus-a-nickname-for-constantine'>Why Is Gus A Nickname For Constantine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reply-1994-husband'>Reply 1994 Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=follow-jesus-scripture'>Follow Jesus Scripture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prayer-to-save-my-family'>Prayer To Save My Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Millennium-series-movies'>Millennium Series Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lotus-birth-spiritual-meaning'>Lotus Birth Spiritual Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alb%C3%A9niz%3A-suite-espa%C3%B1ola'>Albéniz: Suite Española</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spiritual-disciplines-of-abstinence'>Spiritual Disciplines Of Abstinence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=streetlight-manifesto-tampa'>Streetlight Manifesto Tampa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chad-buchanan-imdb'>Chad Buchanan Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-don%27t-have-enough-faith-to-be-an-atheist-summary'>I Don't Have Enough Faith To Be An Atheist Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=germany-a-winter%27s-tale-imdb'>Germany A Winter's Tale Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=del-shannon---little-town-flirt'>Del Shannon - Little Town Flirt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-outsiders-chapter-1-summary-shmoop'>The Outsiders Chapter 1 Summary Shmoop</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brian-joseph-mccook-net-worth'>Brian Joseph Mccook Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=And-the-Rest-is-History'>And The Rest Is History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kesey%27s-Garage-Sale'>Kesey's Garage Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bobo-doll-experiment-summary'>Bobo Doll Experiment Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-swords-of-ditto-online-co-op'>The Swords Of Ditto Online Co-op</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bachelorette-2020-men'>Bachelorette 2020 Men</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=montgomery-meaning-in-english'>Montgomery Meaning In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=utopia-falls-plot'>Utopia Falls Plot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=last-look-book'>Last Look Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grape-tomato-sauce'>Grape Tomato Sauce</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sylvia-and-Ted'>Sylvia And Ted</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Matilda-poem-PDF'>Matilda Poem PDF</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Child-marriage-charity'>Child Marriage Charity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-reunion-song'>Dark Reunion Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fujin-meaning-japanese'>Fujin Meaning Japanese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edge-forum-amsterdam'>Edge Forum Amsterdam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frankenweenie-part-2'>Frankenweenie Part 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=davina-oyg-review'>Davina Oyg Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Grunge-style-2019'>Grunge Style 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trippie-redd-album-release-date-2020'>Trippie Redd Album Release Date 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rocket-Brothers-Tulsa'>Rocket Brothers Tulsa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Nine-months-Netflix'>Nine Months Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-to-study-to-become-a-manager'>What To Study To Become A Manager</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andrew-taylor-ap'>Andrew Taylor Ap</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grab-food-rider-malaysia'>Grab Food Rider Malaysia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-store-documentary-streaming'>The Store Documentary Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=uae-embassy-usa'>Uae Embassy Usa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-rennie-mackintosh-ebay'>Charles Rennie Mackintosh Ebay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Konami-Shooting-Collection'>Konami Shooting Collection</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Last-Empire%3A-The-final-Days-of-the-Soviet-Union-summary'>The Last Empire: The Final Days Of The Soviet Union Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=birthright-trip-dates'>Birthright Trip Dates</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sei-shonagon-on-men'>Sei Shonagon On Men</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jim-lee-wife'>Jim Lee Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=4321-paul-auster-synopsis'>4321 Paul Auster Synopsis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=german-marks-to-dollars'>German Marks To Dollars</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-celebration-gif'>The Office Celebration Gif</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-self-soothing'>What Is Self-soothing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poison-arrow-tibia'>Poison Arrow Tibia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=squidward-would-you-get-out-of-here'>Squidward Would You Get Out Of Here</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sweet-black-wine'>Sweet Black Wine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=agafia-lykova-latest-news'>Agafia Lykova Latest News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-nights%3A-metal-batmen'>Dark Nights: Metal Batmen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hal-moore-leadership'>Hal Moore Leadership</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fatal-contact-full-movie-watch-online'>Fatal Contact Full Movie Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=benefits-of-doing-the-right-thing'>Benefits Of Doing The Right Thing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michiko-london-cap'>Michiko London Cap</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chesapeake-bay-foundation-board-of-directors'>Chesapeake Bay Foundation Board Of Directors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Midstream%3A-My-Later-Life'>Midstream: My Later Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-fault-in-our-stars-shakespeare-quote-john-green'>The Fault In Our Stars Shakespeare Quote John Green</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-anchorman-on-amazon-prime'>Is Anchorman On Amazon Prime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thunder-cave-pdf'>Thunder Cave Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natrang-full-movie'>Natrang Full Movie</a>,
+";s:7:"expired";i:-1;}

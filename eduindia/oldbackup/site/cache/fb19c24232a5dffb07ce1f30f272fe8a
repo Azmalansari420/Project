@@ -1,0 +1,124 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4202:"<p>Share: Would you like to add a fragment identifier that directs the user to a particular section of your page? The hyperlink created by an anchor element is applied to the text, image, or other HTML content nested between the opening and closing <a> tags. And yup, if you happen to already have a something styled on your page using ID, linking to it works just fine.) This blog article will show you how to add these to pages served via AngularJS Web UI. Anchor Tag - Image - HTML5 Anchor Tag and Images as Links. (ie, you can use them for css styles, javascript and a lot more. ), users may visit these resources. It is used to place a graphic at a desired location. Then, when the link is clicked, the page will scroll to the location with the bookmark. Sous la spécification HTML 4.01, id et name peuvent être tous les deux utilisés sur un élément <a> s'ils ont des valeurs identiques. The browser will then jump to the specified anchor. REL OPTIONAL. </p> <p>base: target href However when a link targets an anchor on the same page the browser 'Back' button will no longer take the browser back to the previous page, but to the previous anchor. By convention, the attribute names are prefixed with asp-. I am using ID now for the newer stuff creating, but thought while I was there I would change the old named anchors if needed. thatraja 2-Aug-11 2:54am 5! This anchoring from one page to another is made possible by the attribute "href", which can … What is an anchor. HTML Bookmarks with ID and Links. The <a> element, or anchor element, it used to create a hyperlink to another webpage or another location within the same webpage. </p> <p>Link text is also called anchor text and is particularly important from the perspective of search engine optimization. The image tag is actually an anchor. La valeur de name est similaire à la valeur de l'attribut global id, et doit être un identifiant alphanumérique unique au document. Note that the href attribute in each source anchor specifies the address of the destination anchor with a URI.. --SA. By Kyle Tummonds. Content within each <a> should indicate the link's destination. The Anchor tag in HTML can be defined as a means to create a hyperlink that can link your current page on which the text is being converted to hypertext via <a> (anchor tag) to another page. Example HTML bookmarks are used to allow readers to jump to specific parts of a webpage. </p> <p>Anchors in HTML are essentially bookmarks within a page that can be targeted directly by adding an anchor reference starting with '#' to the URL. Learn how to create an anchor link to jump to a specific section of a page, and how to link to the anchor from another webpage.  How to use Fragment Identifiers with HTML Anchors. Also see how to style the jumping anchor link with examples. In my solution, I used it to show how to show/hide the element dynamically using Javascript, please see. I have posted an alternate. To use a bookmark, you must first create it, and then add a link to it. The destination anchor of a link may be an element within an HTML … What exactly does "depreciated" mean in terms of HTML? </p> <p>Another document can then make a reference explicitly to this anchor by putting the identifier after the address, separated by a hash sign. </p> <p>Mahendra.p25 2-Aug-11 2:00am Thanks SA. Identifiers are arbitrary strings but must be unique within the HTML document. I added id to your tag for the purpose of using it in my solution which should complement yours (I hope you don't mind). With that said, just in case for some reason you want to try the other way, here it is. The “preparation” string in the upper HTML reference is the link text that is visible in the body text of a website and may appear as blue text or underlined, depending on the layout. By activating these links (by clicking with the mouse, through keyboard input, voice commands, etc. Jan 03 2017. I keep seeing it a lot and only know the meaning of the general term. The HTML <a> element (or anchor element), with its href attribute, creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address. </p>";s:7:"keyword";s:14:"html anchor id";s:5:"links";s:8146:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cream---Wheels-of-Fire'>Cream - Wheels Of Fire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=low-heel-pumps-block-heel'>Low Heel Pumps Block Heel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fatal-contact-%282006-full-movie-english%29'>Fatal Contact (2006 Full Movie English)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meili-pronunciation-norse-god'>Meili Pronunciation Norse God</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chesapeake-weather-Radar'>Chesapeake Weather Radar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mockingjay-meaning-in-english'>Mockingjay Meaning In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dispossessed-shevek'>The Dispossessed Shevek</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-paradise-season-1'>The Paradise Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meaning-of-alcatraz'>Meaning Of Alcatraz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-window-movie'>The Window Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Benefits-of-rural-development'>Benefits Of Rural Development</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spider-loc-game'>Spider Loc Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=suddhodana-buddha%27s-father'>Suddhodana Buddha's Father</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sleepwalkers-movie-2014'>Sleepwalkers Movie 2014</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beyond-belief%3A-fact-or-fiction-sleepwalker'>Beyond Belief: Fact Or Fiction Sleepwalker</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=martha-speaks-wiki'>Martha Speaks Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-of-j-roc'>Best Of J-roc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=according-to-siegel-the-most-fundamental-criticism-of-relativism-is-that-the-doctrine-is'>According To Siegel The Most Fundamental Criticism Of Relativism Is That The Doctrine Is</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sequin-moment-meaning'>Sequin Moment Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-librarian-of-auschwitz-review'>The Librarian Of Auschwitz Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bekhudi-meaning-in-tamil'>Bekhudi Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reddit-harry-potter%3A-wizards-unite'>Reddit Harry Potter: Wizards Unite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poop-emoji-dog-toy-with-fart-sound'>Poop Emoji Dog Toy With Fart Sound</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-the-man-who-planted-trees-a-true-story'>Is The Man Who Planted Trees A True Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sam-frost-partner'>Sam Frost Partner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-graves-war-poems'>Robert Graves War Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=macbeth-1948-trailer'>Macbeth 1948 Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tea-ceremony-china'>Tea Ceremony China</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alessandro-manzoni-promessi-sposi'>Alessandro Manzoni Promessi Sposi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=campbell-school-of-innovation-campus'>Campbell School Of Innovation Campus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-are-my-feet-cold-as-ice'>Why Are My Feet Cold As Ice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=costco-books-february-2020'>Costco Books February 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kanaka-maoli-flag'>Kanaka Maoli Flag</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spin-magazine-best-albums-of-all-time'>Spin Magazine Best Albums Of All Time</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=al-mckay-allstars-members'>Al Mckay Allstars Members</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amy-sun-instagram'>Amy Sun Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jamie-zhu-wealth'>Jamie Zhu Wealth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lev-shestov-existentialism'>Lev Shestov Existentialism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=this-time-next-year-we%27ll-be-millionaires-song'>This Time Next Year We'll Be Millionaires Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=karl-schmidt-rottluff-prints'>Karl Schmidt-rottluff Prints</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=netflix-poker-documentary'>Netflix Poker Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Frank-Thomas-stats'>Frank Thomas Stats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=florida-facts-and-pictures'>Florida Facts And Pictures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=danny-elfman---the-simpsons'>Danny Elfman - The Simpsons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cades-county-tv-theme'>Cades County Tv Theme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=King-Jack-parents-guide'>King Jack Parents Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sofia-Mechetner-net-worth'>Sofia Mechetner Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-hoorelbeke-net-worth'>Peter Hoorelbeke Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anuraag-das-mtg'>Anuraag Das Mtg</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trans-am-worldwide'>Trans Am Worldwide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-hoffman-net-worth'>Robert Hoffman Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-lion-king-jeremy-irons-character'>The Lion King Jeremy Irons Character</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-is-a-lonely-hunter'>Love Is A Lonely Hunter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-galya-movies-and-tv-shows'>Chris Galya Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=abstract-for-nanotechnology-in-mechanical-engineering'>Abstract For Nanotechnology In Mechanical Engineering</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=takiyasha-the-witch-and-the-skeleton-specter-from-the-story-of-ut%C3%B6-yasutaka'>Takiyasha The Witch And The Skeleton Specter From The Story Of Utö Yasutaka</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charlet-chung-net-worth'>Charlet Chung Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alfies-cocktail-menu'>Alfies Cocktail Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sea-prayer-analysis'>Sea Prayer Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Glasgow-Coma-Scale-test'>Glasgow Coma Scale Test</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=falling-for-innocence-ep-5-eng-sub-facebook'>Falling For Innocence Ep 5 Eng Sub Facebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=warner-queer-theory'>Warner Queer Theory</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=magic-realism-movies'>Magic Realism Movies</a>,
+";s:7:"expired";i:-1;}

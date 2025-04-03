@@ -1,0 +1,112 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5045:"<p>Hannibal Hamlin was born on August 27, 1809, in Paris Hill, Maine, to Cyrus Hamlin, a farmer and surveyor, and his wife, Anna Livermore. The Hannibal Hamlin House is a historic house at 15 5th Street in Bangor, Maine. </p> <p>Hamlin was the son of Cyrus Hamlin, a physician, sheriff, and farmer, and Anna Livermore. </p> <p>Additional resources. His last duty as a public servant came in 1881 when Secretary of State James G. Blaine  convinced President James A. Garfield  to name Hamlin as United States Ambassador to Spain. </p> <p>Mark Scroggins, Hannibal: The Life of Abraham Lincoln’s First Vice President, p. 174. Prior to his election in 1860, Hamlin served in the United States Senate, the House of Representatives, and, briefly, as Governor of Maine. After practicing law, he entered politics as an antislavery Jacksonian Democrat and served in the Maine state legislature (1836–40). He was the first Vice President from the Republican Party. He was the first Vice President from the Republican Party. </p> <p>After local public schools, he attended Hebron Academy. </p> <p>Michael Burlingame, editor, Inside the White House in War Times, p. 171 (from William Stoddard, White House Sketches, No. Hamlin, Hannibal, 1809-1891. </p> <p>Michael Burlingame, editor, An Oral History of Abraham Lincoln: John G. Nocolay’s Interviews and Essays, p. 68 (interview with Hannibal Hamlin, April 8, 1879). He next went to Washington, and served two terms in the U.S. House of Representatives, from 1843–1847. Hamlin was a great nephew of U.S. Hannibal Hamlin didn't even seek or want the Republican vice presidential nomination in 1860, but he won it anyway and served as Abraham Lincoln's first vice president. </p> <p>The Hannibal Hamlin House is a historic house at 15 5th Street in Bangor, Maine.Built c. 1848-51, this well-preserved Italianate house was the home of United States Vice President Hannibal Hamlin from 1862 until his death in 1891. Always active physically, he was athletic as well as being an avid reader. This Art Deco theater is the last remaining opera house in the “little Broadway of the North.” The Dr. Cyrus Hamlin House (Hannibal’s birthplace) on Hannibal Hamlin Drive was built in 1805. </p> <p>Not content with private life, Hamlin returned to the U.S. Senate in 1869 to serve two more 6-year terms before declining to run for re-election in 1880 because of an ailing heart. He was a Democratic Representative in Congress from 1842 to 1846, was elected a … His father, Cyrus Hamlin, was a physician who had graduated from Harvard. Dr. Hamlin was the first Clerk of Courts for Oxford County. Footnotes. Hannibal Hamlin didn't even seek or want the Republican vice presidential nomination in 1860, but he won it anyway and served as Abraham Lincoln's first vice president. Dr. Hamlin built a three-story white house with high square rooms and large windows that look out over the New Hampshire mountains on one side and the Paris Hill Common and Baptist Meeting house on … Image of governor’s portrait courtesy of Maine State Museum. Hamlin’s birthplace is on Paris Hill in the town of Paris. </p> <p>To appease the South, the Republicans dropped Hamlin from the ticket in 1864, choosing Southerner Andrew Johnson to run with Lincoln.  There he denounced Henry Clay's economic programs and voted very much as a Jacksonian Democrat. Hannibal grew up in prosperous surroundings, and had a good education. Hamlin received the appointment on June 30, 1881, and held the post until October 17, 1882. Hannibal Hamlin (August 27, 1809 – July 4, 1891) was the 15th Vice President of the United States, serving under President Abraham Lincoln from 1861-1865. Hamlin, Hannibal (1809-1893), was admitted to the bar in 1833.He was a member of the Maine Legislature from 1836 to 1840 and in 1847, being chosen Speaker in 1837, 1839 and 1840. </p> <p>The Hannibal Hamlin House is a historic house at 15 5th Street in Bangor, Maine.Built c. 1848-51, this well-preserved Italianate house was the home of United States Vice President Hannibal Hamlin from 1862 until his death in 1891. Hamlin received early education from the district schools and then went to the Hebron Academy, a preparatory school in Hebron, Maine. Hannibal Hamlin, originally a Democrat, was speaker of the Maine House of Representatives. 2 were here. To appease the South, the Republicans dropped Hamlin from the ticket in 1864, choosing Southerner Andrew Johnson to … Hamlin was born to Cyrus Hamlin and Anna Livermore on Paris Hill (now a National Register Historic District) in Paris, Maine, in Oxford County, a descendant of James Hamlin in the sixth generation, who had settled in the Massachusetts Bay Colony in 1639. Hannibal Hamlin (August 27, 1809 – July 4, 1891) was the 15th Vice President of the United States, serving under President Abraham Lincoln from 1861-1865. </p> <p>7). Prior to his election in 1860, Hamlin served in the United States Senate, the House of Representatives, and, briefly, as Governor of Maine. </p>";s:7:"keyword";s:21:"Hannibal Hamlin House";s:5:"links";s:6618:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Richard-Dawkins-debate'>Richard Dawkins Debate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Clifton-Chronicles-Book-8'>Clifton Chronicles Book 8</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=den-tokyo-tripadvisor'>Den Tokyo Tripadvisor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-instruments-are-used-in-ragtime-music'>What Instruments Are Used In Ragtime Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-sabuda-pop-up-books-christmas'>Robert Sabuda Pop-up Books Christmas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bessie-love-reds'>Bessie Love Reds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glasgow%2C-ky-population'>Glasgow, Ky Population</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sophie-isaacs-father'>Sophie Isaacs Father</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=niki-chow-husband-fu-yiming'>Niki Chow Husband Fu Yiming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=revolutionary-war-pistols'>Revolutionary War Pistols</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-retreat%2C-no-surrender-wikipedia'>No Retreat, No Surrender Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-movie-johnson-county-war'>The Movie Johnson County War</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dmitri-shostakovich-death'>Dmitri Shostakovich Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seven-silly-eaters-characters'>Seven Silly Eaters Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spiritual-disciplines-of-abstinence'>Spiritual Disciplines Of Abstinence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=suicide-commandos---burn-it-down-lyrics'>Suicide Commandos - Burn It Down Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=union-station-nj'>Union Station Nj</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hayat-Tahrir-al%E2%80%91Sham'>Hayat Tahrir Al‑Sham</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nenjil-thunivirundhal-trailer'>Nenjil Thunivirundhal Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tailspin-meaning-in-malayalam'>Tailspin Meaning In Malayalam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-my-end-is-my-beginning-mary-queen-of-scots'>In My End Is My Beginning Mary Queen Of Scots</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hong-kong-airlines-flight-status'>Hong Kong Airlines Flight Status</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Voltaire-Enlightenment-ideas'>Voltaire Enlightenment Ideas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=san-antonio-public-library-tutoring'>San Antonio Public Library Tutoring</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natural-resources-conservation-service-jobs'>Natural Resources Conservation Service Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mitch-lucker-stomp'>Mitch Lucker Stomp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=william-stafford-poems'>William Stafford Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-much-is-serena-van-der-woodsens-trust-fund'>How Much Is Serena Van Der Woodsens Trust Fund</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=outdoor-bleacher-seating'>Outdoor Bleacher Seating</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=why-did-terrell-davis-retire'>Why Did Terrell Davis Retire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kaante-movie-dialogue'>Kaante Movie Dialogue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wr%3A-mysteries-of-the-organism-streaming'>Wr: Mysteries Of The Organism Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=words-from-auditor'>Words From Auditor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sharyl-attkisson-books'>Sharyl Attkisson Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=types-of-inserts'>Types Of Inserts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-cloud-2-android'>Dark Cloud 2 Android</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=syndrome-2004-movie'>Syndrome 2004 Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drawn-and-quartered-real-video'>Drawn And Quartered Real Video</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=split-%28only-u-sample%29'>Split (only U Sample)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=our-daily-bread-board-of-directors'>Our Daily Bread Board Of Directors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crisis-text-line-volunteer-benefits'>Crisis Text Line Volunteer Benefits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-education-dive-a-reliable-source'>Is Education Dive A Reliable Source</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-cost-of-discipleship-amazon'>The Cost Of Discipleship Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=han-yu-chinese-character'>Han Yu Chinese Character</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dorothy-draper-rendered-perspective-drawing'>Dorothy Draper Rendered Perspective Drawing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Spinning-Out-cancelled'>Spinning Out Cancelled</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=split-%28only-u-sample%29'>Split (only U Sample)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=juke-definition-slang'>Juke Definition Slang</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liverpool-england-weather'>Liverpool England Weather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ellen-lupton-facts'>Ellen Lupton Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=villa-restaurant-menu-williamsport'>Villa Restaurant Menu Williamsport</a>,
+";s:7:"expired";i:-1;}

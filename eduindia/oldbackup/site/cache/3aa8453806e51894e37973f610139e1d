@@ -1,0 +1,93 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1054:"<p>The Hebrew Letter Dalet. The letter Dalet is the fourth letter in the Hebrew alphabet. Note: Like Gimmel, Dalet can also sometimes have a dot in the middle of the letter (called a dagesh mark), but this does not affect its pronunciation: with or without the dot, it is still pronounced "d" as in door (historically, Dalet without the dot was pronounced "th'). The Modern Hebrew name for this letter is dalet and means "door." The word dalet is a derivative of the parent root dal also meaning "door." Dalet is the fourth letter of the Hebrew alphabet Numerical value: 4 Sound: "D" Meaning: 1. See more. Daleth definition, the fourth letter of the Hebrew alphabet. The Arabic name for this letter is dal giving support to the parent root as the original name. </p> <p>The English letter “D” is derived from Dalet, as well.  While the specific reason for the letter being named Dalet […] The letter Dalet is actually the source of the Greek letter Delta, as you can see by the similarities in the two letters’ names. Poor 2. door 3. lift up </p>";s:7:"keyword";s:20:"Dalet Hebrew meaning";s:5:"links";s:4080:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grab-food-pc'>Grab Food Pc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-ash-tree-bafflegab'>The Ash Tree Bafflegab</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sometimes-you-make-choices-in-life-and-sometimes-choices-make-you-meaning'>Sometimes You Make Choices In Life And Sometimes Choices Make You Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=temper-trap-songs'>Temper Trap Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=basics-of-autocad'>Basics Of Autocad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=china-economic-reform-timeline'>China Economic Reform Timeline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=welch%27s-fruit-snacks-strawberry'>Welch's Fruit Snacks Strawberry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-ellison-linkedin'>David Ellison Linkedin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Khakee-Full-Movie-Download-480p'>Khakee Full Movie Download 480p</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-savident-children'>John Savident Children</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beethoven-tune-codycross'>Beethoven Tune Codycross</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=autocad-doesnt-group'>Autocad Doesnt Group</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=avalanche-sharks-full-movie-english'>Avalanche Sharks Full Movie English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=southampton-weather-forecast-15-days'>Southampton Weather Forecast 15 Days</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=does-john-rayburn-get-caught-for-killing-danny'>Does John Rayburn Get Caught For Killing Danny</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=braxton-bragg-family-tree'>Braxton Bragg Family Tree</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gemma-Arterton-Net-worth'>Gemma Arterton Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-are-the-knights-of-malta'>Who Are The Knights Of Malta</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=under-the-persimmon-tree-theme'>Under The Persimmon Tree Theme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hells-angels-springfield-ma-clubhouse'>Hells Angels Springfield Ma Clubhouse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Danny-Welbeck-Instagram'>Danny Welbeck Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pliosaurus-funkei-vs-mosasaurus'>Pliosaurus Funkei Vs Mosasaurus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marketing-by-seth-godin'>Marketing By Seth Godin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pina-pellicer---biograf%C3%ADa'>Pina Pellicer - Biografía</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=city-of-windermere'>City Of Windermere</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=salvatore-quasimodo-biografia'>Salvatore Quasimodo Biografia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cop-town-movie'>Cop Town Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=midnight-sun-meyer-novel-characters'>Midnight Sun Meyer Novel Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=londonderry-nh-map'>Londonderry Nh Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=educause-fall-2019'>Educause Fall 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Kathy-Bates-Misery'>Kathy Bates Misery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Teacher-in-America'>Teacher In America</a>,
+";s:7:"expired";i:-1;}

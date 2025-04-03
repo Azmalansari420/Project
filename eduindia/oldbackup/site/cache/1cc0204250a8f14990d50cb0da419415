@@ -1,0 +1,83 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1506:"<br>Arran House - Campus Residence is a summer hostel in Edinburgh’s West End and within 10 minutes’ walk of Haymarket Railway Station. Arran House - Campus Residence is a summer hostel in Edinburgh’s West End and within 10 minutes’ walk of Haymarket Railway Station. The property offers double rooms in shared apartments or classic studios.  Book Arran House, Edinburgh on Tripadvisor: See 75 traveller reviews, 19 candid photos, and great deals for Arran House, ranked #185 of 294 Speciality lodging in Edinburgh … Arran House is one of three residences we have in Edinburgh. The property offers easy access to Edinburgh Fringe Festival venues, including the Grassmarket and Cowgate. It’s just a 20-minute walk from the University of Edinburgh and Napier University, and a 25-minute bus ride from Heriot-Watt University. Arran House Student Accommodation Located right in the middle of the city, Arran House puts you within easy reach of everything which is why those who are new to the city prefer to stay here. Arran House, Edinburgh: Bekijk 75 reizigersbeoordelingen, 19 onthullende foto's en goede aanbiedingen voor Arran House, gewaardeerd als nr.185 van 295 bijzondere accommodaties in Edinburgh en geclassificeerd als 3 van 5 bij Tripadvisor. The property offers easy access to Edinburgh Fringe Festival venues, including the Grassmarket and Cowgate. Wherever you’re studying, getting there will be a piece of cake.  The University of Edinburgh takes 26-minutes to reach by bus. <br>";s:7:"keyword";s:21:"arran house edinburgh";s:5:"links";s:2874:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=middle-school%3A-just-my-rotten-luck-read-online'>Middle School: Just My Rotten Luck Read Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=veronica-roth-childhood'>Veronica Roth Childhood</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pandora%27s-box-example-sentence'>Pandora's Box Example Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Arne-Jacobsen-quotes'>Arne Jacobsen Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=palomino-pop-up-truck-camper-for-sale'>Palomino Pop Up Truck Camper For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=medium-stiletto-nail-tips'>Medium Stiletto Nail Tips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fordham-high-school-for-the-arts'>Fordham High School For The Arts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shoes-Board-Book'>Shoes Board Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=contemporary-theories-of-education'>Contemporary Theories Of Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sara-Paretsky-wiki'>Sara Paretsky Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vector-group-subsidiaries'>Vector Group Subsidiaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=great-langdale-campsite'>Great Langdale Campsite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dunban-melia-heart-to-heart'>Dunban Melia Heart-to-heart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chronic-pain-as-a-disease'>Chronic Pain As A Disease</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreBest-breakfastsSree-Krishna-Kafe%2C-SLV-Corner%2C-and-more'>+ 18moreBest BreakfastsSree Krishna Kafe, SLV Corner, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Halo%3A-Reach-ranks'>Halo: Reach Ranks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soul-winning-scriptures'>Soul Winning Scriptures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pandora-pod-training-login'>Pandora Pod Training Login</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Color-of-boredom'>Color Of Boredom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tristana-abilities-explosive-charge'>Tristana Abilities Explosive Charge</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=laila-robins-movies-and-tv-shows'>Laila Robins Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tico-and-the-golden-wings'>Tico And The Golden Wings</a>,
+";s:7:"expired";i:-1;}

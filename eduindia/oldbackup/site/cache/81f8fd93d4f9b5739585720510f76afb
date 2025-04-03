@@ -1,0 +1,141 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2646:"<p>At approximately 10:35 in the morning on December 17, 1903, Orville Wright made the first powered, controlled, and sustained flight of a heavier-than-air machine. QUICK VIEW. Building From Experience. Telegram from Orville Wright in Kitty Hawk, North Carolina, to His Father Announcing Four Successful Flights, 1903 December 17 Description. In 1903, the Wright brothers took flight for the first time from the beaches of Kitty Hawk, North Carolina. Wright Brothers Booklet $1.00.  QUICK VIEW. $28.00. $15.99. </p> <p>Kitty Hawk Wright Brothers License Plate Short Sleeve T-Shirt. Today, in California, we are building on their legacy to create the next generation of vehicles for everyday flight. The Wright Brothers National Memorial is recognized as the site of the first successful human attempt at heavier-than-air, controlled, powered flight carried out by Orville and Wilbur Wright on December 17, 1903. $5.99. KITTY HAWK, N.C. (WTVD) -- First in Flight. North Carolina; trip-planning; Tags: kitty hawk flyer, kitty hawk history, kittyhawk flyer, kittyhawk in North Carolina is where the Wright Brothers flew, Learning about the Wright Brothers, strawberry picking in Virginia, What is the significance of Kittyhawk, where can you pick peanuts, where to learn about the Wright Brothers The Wright brothers, Orville and Wilbur, are aviation pioneers credited with inventing, building, and flying the first successful airplane. Kitty Hawk Kites. They also dabbled with printing presses, motors, and other machinery. The brothers started their mechanical careers working in their bicycle shop. QUICK VIEW. </p> <p>There is little doubt that what the brothers achieved on the windswept dunes of Kitty Hawk, North Carolina from 1900 to 1903 changed our world forever. Puzzled, Inc. Wright Flyer Wooden 3-D Puzzle. </p> <p>Kitty Hawk Kites. Near Kitty Hawk, North Carolina, the Wright Brothers make the first successful flight in history of a self-propelled, heavier-than-air aircraft. The Wrights desired a number of conditions in order to successfully experiment with controlled flight. Second, they needed an area with high sand dunes from which to glide. North Carolina Lighthouse Emblem Mug. Their first flight was on December 17, 1903, just south of Kittyhawk, North Carolina. First, they needed steady winds. </p> <p>Kitty Hawk, North Carolina, a tiny coastal fishing village of approximately 300 people at the turn of the century, would come to suit their needs. The flight lasted 12 seconds and covered 120 feet (37 meters). </p> <p>Kitty Hawk, North Carolina, made its way into the history books 115 years ago. </p> <p>The […] </p>";s:7:"keyword";s:42:"kitty hawk, north carolina wright brothers";s:5:"links";s:10104:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seth-godin-audiobook'>Seth Godin Audiobook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joe-hills-hermitcraft-wiki'>Joe Hills Hermitcraft Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-post---movie-online'>The Post - Movie Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=panipat-ka-kila'>Panipat Ka Kila</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=max-and-ruby-roger'>Max And Ruby Roger</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Postcode-sector-map-Glasgow'>Postcode Sector Map Glasgow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=courage%3A-the-backbone-of-leadership-pdf'>Courage: The Backbone Of Leadership Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emilie-claire-barlow-movies-and-tv-shows'>Emilie-claire Barlow Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=extra-auf-deutsch-transcript'>Extra Auf Deutsch Transcript</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crash-dive-1997'>Crash Dive 1997</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-boole-education'>George Boole Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-instruments-did-john-cage-play'>What Instruments Did John Cage Play</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shaun-chen-mp'>Shaun Chen Mp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=effects-of-rising-healthcare-costs'>Effects Of Rising Healthcare Costs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ancient-greece-ks2-activities'>Ancient Greece Ks2 Activities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oklahoma-movie-review'>Oklahoma Movie Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charif-ghattas-nationality'>Charif Ghattas Nationality</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-precipice-definition'>The Precipice Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=samyuktha-tamil-novels-scribd'>Samyuktha Tamil Novels Scribd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pursuit-past-tense'>Pursuit Past Tense</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kamui-gaiden-anime'>Kamui Gaiden Anime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ain%27t-no-woman-like-the-one-i-got-rap-song'>Ain't No Woman Like The One I Got Rap Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deon-cole-wife'>Deon Cole Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backyard-party-ideas-on-a-budget'>Backyard Party Ideas On A Budget</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kylie-country-album'>Kylie Country Album</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bakuman-full-movie'>Bakuman Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-guilty-pleasures'>American Guilty Pleasures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bucket-list-Lake-District'>Bucket List Lake District</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=god%3A-the-most-unpleasant-character-in-all-fiction-pdf'>God: The Most Unpleasant Character In All Fiction Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chester-gould-net-worth'>Chester Gould Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unwritten-chords-no-capo'>Unwritten Chords No Capo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Unique-Tattoo-Designs'>Unique Tattoo Designs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-thomson-tv-shows'>John Thomson Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-explorer%27%3A-kipling'>The Explorer': Kipling</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-side-imaging-fish-finder-2019'>Best Side Imaging Fish Finder 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-wiggins-hockey'>Chris Wiggins Hockey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=warcraft%3A-the-beginning-2'>Warcraft: The Beginning 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rare-batman-graphic-novels'>Rare Batman Graphic Novels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=supermarket-chaos-uk'>Supermarket Chaos Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Sahara-desert-drought'>Sahara Desert Drought</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yap-yap-yap-meaning'>Yap Yap Yap Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=future-continuous-tense-of-rain'>Future Continuous Tense Of Rain</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=concorde-band-just-kiss-her'>Concorde Band Just Kiss Her</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pine-bluff%2C-arkansas-race-population'>Pine Bluff, Arkansas Race Population</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skinnydip-holographic-purse'>Skinnydip Holographic Purse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nobody-knows-film-rudy-pankow'>Nobody Knows Film Rudy Pankow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-ring-amazon'>Blue Ring Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plus-minus-symbol-keyboard-shortcut-mac'>Plus Minus Symbol Keyboard Shortcut Mac</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=strike-slip-fault-earthquake'>Strike-slip Fault Earthquake</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alone-and-forsaken-chords'>Alone And Forsaken Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=an-extraordinary-egg-activities'>An Extraordinary Egg Activities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=perry-crawford-death'>Perry Crawford Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kimiko-kasai-parents'>Kimiko Kasai Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wholesale-chicano-clothing'>Wholesale Chicano Clothing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreRomantic-restaurantsTamarind-Hill%2C-Atmosphere-360%2C-and-more'>+ 18moreRomantic RestaurantsTamarind Hill, Atmosphere 360, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ludlow-lamonsoff-actor'>Ludlow Lamonsoff Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=portsmouth-to-london-miles'>Portsmouth To London Miles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=giovanni-pokemon-go-may-2020'>Giovanni Pokemon Go May 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lonewolf-game-hacked'>Lonewolf Game Hacked</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spinning-out-serena-and-mitch'>Spinning Out Serena And Mitch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=influence-of-youtube-on-society-today'>Influence Of Youtube On Society Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-second-bakery-attack-quotes'>The Second Bakery Attack Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Stephen-Crane-works'>Stephen Crane Works</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jonah-meaning-medical'>Jonah Meaning Medical</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=albert-king---born-under-the-bad-sign'>Albert King - Born Under The Bad Sign</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-mexico-tourism-map'>New Mexico Tourism Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ms-marvel-vol-11'>Ms Marvel Vol 11</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=teaching-german-to-adults'>Teaching German To Adults</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=claire-song-lyrics'>Claire Song Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fantastic-four-%231-2018'>Fantastic Four #1 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=waterford-crystal-rose'>Waterford Crystal Rose</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=was-tiberius-successful'>Was Tiberius Successful</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emerson-smartset-alarm-clock'>Emerson Smartset Alarm Clock</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=traditional-catholic-modesty'>Traditional Catholic Modesty</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-daily-bar-and-kitchen-zomato'>The Daily Bar And Kitchen Zomato</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Innkeepers-ending'>The Innkeepers Ending</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=quotes-about-being-sanctimonious'>Quotes About Being Sanctimonious</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pandoc-markdown-to-html'>Pandoc Markdown To Html</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glen-keane-kobe-death'>Glen Keane Kobe Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=god%27s-generals-the-missionaries'>God's Generals The Missionaries</a>,
+";s:7:"expired";i:-1;}

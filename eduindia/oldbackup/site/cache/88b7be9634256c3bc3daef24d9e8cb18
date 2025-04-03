@@ -1,0 +1,110 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1363:"Waking at four to soundless dark, I stare. Aubade by Philip Larkin I work all day, and get half-drunk at night. Waking at four to soundless dark, I stare. From his base in Hull, Larkin composed poetry that both reflected the dreariness of postwar provincial England and voiced the spiritual despair of the modern age. McClatchy notes Larkin wrote “in clipped, lucid stanzas, about the failures and remorse of age, about stunted lives and spoiled desires.”. This poem tells of the two toads, or pressures, that exist within a speaker as he struggles to … I work all day, and get half-drunk at night. His first book of poetry, The North Ship, was published in 1945 and, though not particularly strong on its own, is notable insofar as certain passages foreshadow the unique sensibility and maturity that characterizes his later work. Till then I see what's really always there: Unresting death, a whole day nearer now, Making all thought impossible but how. Toads. In time the curtain-edges will grow light. Musing upon the effigies of a medieval earl and countess buried side by … And where and when I shall myself die. In 1946, Larkin discovered the poetry of Thomas Hardy and became a great admirer of his poetry, learning from Hardy how to make the commonplace and often dreary … In time the curtain-edges will grow light.  An Arundel Tomb‘ (1956). ";s:7:"keyword";s:23:"Philip Larkin work poem";s:5:"links";s:5992:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joseph-taylor-columbia%2C-mo'>Joseph Taylor Columbia, Mo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-invented-the-stove'>Who Invented The Stove</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-mann-sociology'>Michael Mann Sociology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apple-jam-recipe-without-sugar'>Apple Jam Recipe Without Sugar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dan-stevens-singing'>Dan Stevens Singing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-did-little-walter-die'>When Did Little Walter Die</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Frida-Kahlo-religion'>Frida Kahlo Religion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dylan-dog---wikipedia'>Dylan Dog - Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miles-franklin-2019-shortlist'>Miles Franklin 2019 Shortlist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robin-mcleavy-wu-assassins'>Robin Mcleavy Wu Assassins</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hungarian-good-luck-charm'>Hungarian Good Luck Charm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miss-mary-mack-book'>Miss Mary Mack Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Redline-MX-%282019%29'>Redline MX (2019)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=plymouth-rock-phone-number'>Plymouth Rock Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=then-again-maybe-i-won%27t-common-sense-media'>Then Again Maybe I Won't Common Sense Media</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-did-your-heart-go-missing-chords'>When Did Your Heart Go Missing Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blue-ice-rubbermaid'>Blue Ice Rubbermaid</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercenaries-movie-cast'>Mercenaries Movie Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Costco-Plan-B'>Costco Plan B</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pursuit-past-tense'>Pursuit Past Tense</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-cassadaga-open'>Is Cassadaga Open</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scotiabank-business-account'>Scotiabank Business Account</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=outdoor-bleacher-seating'>Outdoor Bleacher Seating</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=world-meditates-with-sri-sri-live'>World Meditates With Sri Sri Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rose-williams---imdb'>Rose Williams - Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=romance-of-the-three-kingdoms-moss-roberts'>Romance Of The Three Kingdoms Moss Roberts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=messenger-of-truth-mennonite'>Messenger Of Truth Mennonite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glasgow%2C-ky-population'>Glasgow, Ky Population</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andrew-vachss-2019'>Andrew Vachss 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gabriel-kane-day-lewis-movies'>Gabriel-kane Day-lewis Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=simplifying-radicals-test-pdf'>Simplifying Radicals Test Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=victor-hugo-drawings-book'>Victor Hugo Drawings Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=compound-bow-amazon'>Compound Bow Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=man-descending-prezi'>Man Descending Prezi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blind-stitch-hem-by-hand'>Blind Stitch Hem By Hand</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=magic%27s-biggest-secrets-finally-revealed'>Magic's Biggest Secrets Finally Revealed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stephen-bonnet-outlander'>Stephen Bonnet Outlander</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lego-76052-amazon'>Lego 76052 Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=William-Wells-Brown'>William Wells Brown</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pop-up-books-for-sale'>Pop-up Books For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emil-nolde-lino'>Emil Nolde Lino</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blithe-spirit-script'>Blithe Spirit Script</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nabors-drilling-human-resources'>Nabors Drilling Human Resources</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pierce-pok%C3%A9mon-swsh'>Pierce Pokémon Swsh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shabu-shabu-Austin'>Shabu Shabu Austin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghost-world-comic-characters'>Ghost World Comic Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=disclosure-2020-cast'>Disclosure 2020 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=listen-to-wwv-time-signal'>Listen To Wwv Time Signal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adam-rothenberg-wife'>Adam Rothenberg Wife</a>,
+";s:7:"expired";i:-1;}

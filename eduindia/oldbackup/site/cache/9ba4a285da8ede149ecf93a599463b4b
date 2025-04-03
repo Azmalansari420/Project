@@ -1,0 +1,86 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3485:"<br>Linger delivers a torrent of flavors. Our server was a great help and very prompt. Excellent gf notations on the menu. Went on Tuesday for the 3 courses for $30. Grab-and-go options are available, as well as weekend brunch and happy hour. I really love when restaurants that aren’t exclusively vegan feature amazing vegan … ♥️  Linger. DINNER.  <br>PHONE. My boyfriend and I went for dinner with his vegan cousins and were amazed at the amount of options available for all of us. I wanted to bribe the chef to teach me how to make the Vietnamese crepe made from coconut and rice flour (vegan). SUN - THUR 4PM - 10PM. <br> Bold flavors on an almost completely vegan, fast-casual menu came to the Tennyson Art District courtesy of Justin Cucci and the Edible Beats group behind Linger and Root Down. Choice of chicken, tuna poke or tofu. Linger was fantastic and definitely the best place we ate at in Denver. See also: The five best vegetarian/vegan dishes in Denver -- 2013 5) Native Foods Cafe 680 South Colorado Boulevard. Diners should save room for dessert and keep an eye out for the monthly raw pop-up dinners. Roasted Baby Beet Salad (GF/ can be Vegan) Arugula, Radish, Goat Cheese, Smoked Almonds, Beet-Sunflower Seed Pesto & Basil Vinaigrette This Item is Gluten Free can be Vegan $15.00 inspired by makeshift kitchens & streetside nooks Around the world. This is the fifth concept from Justin Cucci and the Edible Beats crew. Nestled high above LoHi on the fifth floor of 2930 Umatilla, El Five boasts spectacular, unobstructed city views of the downtown Denver skyline, and a wide frame of sprawling highlands for an unrivaled sunset view. LOCATION.  Linger has a to-live-for location with a great view of Downtown Denver and a sweet rooftop bar. Location: 206 E 13th Ave, Denver, CO 80203 Hours: Daily 7am – 2am. Menu Highlights: Cinnamon Roll Waffle, made with brown sugar, cream cheese drizzle and walnut praline, and the Med Plate, made with house made hummus, caponata, tapenade, sundries tomatoes and fresh cucumber served on flatbread with a side of vegan Tzatziki. Root Down features two onsite gardens, which provide seasonal vegetables for Root Down and our sister restaurants, Linger and Ophelia’s. To-go/walk-up window 11:30 a.m.-9 p.m. daily | Dine-in 4-9 p.m. daily | Happy Hour 4-5:30 p.m. Tues-Fri, All Night Monday Lola Coastal Mexican Linger isn’t a vegan restaurant, but they do right by vegan gourmands! ... sustainable and timely food. <br> <br>... Vital Root set out to answer a need in Denver: a fast-casual, vegetable-focused, healthy, affordable eatery - all with a commitment to keeping it real. 303.993.3120. <br> <br>Pickled veg, five-spice cashews, crispy rice noodles, orange glaze and cilantro. Yes, it's a chain restaurant -- and an import from California, no less! Definitely worth it. 2030 W 30th AVE, Denver, CO 80211. Root Down serves globally-influenced seasonal cuisine, with a focus on organic, natural and locally-sourced ingredients. I am going to be fat and happy for a month after my meal at Linger. Coastal Mexican dining at Lola restaurant in Denver Colorado. I think the duck bao (real and faux) and the Korean Bulgogi Bibimbap were our favorite dishes. SEE LINGER SEE root down. Vegan or Vegetarian: Offers Both. (GF/can be V) $17.00 <br> <br>They have tons of vegan options and the staff are extremely knowledgeable about the food. SEE VITAL ROOT SEE el Five. HOURS. ... is surprisingly, here in Denver! <br>";s:7:"keyword";s:19:"linger denver vegan";s:5:"links";s:3334:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=san-antonio-archives'>San Antonio Archives</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vegetable-bao-calories'>Vegetable Bao Calories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jamie-lee-o%27donnell-movies'>Jamie Lee O'donnell Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=xavier-mcdaniel-knicks'>Xavier Mcdaniel Knicks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rent-the-runway-unlimited'>Rent The Runway Unlimited</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=motto-majime-ni-fumajime-kaiketsu-zorori-episode-6'>Motto Majime Ni Fumajime Kaiketsu Zorori Episode 6</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nederman-fume-extraction'>Nederman Fume Extraction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fudge-a-mania-tv-show'>Fudge A Mania Tv Show</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=schiller-medical-equipment'>Schiller Medical Equipment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-education-dive-a-reliable-source'>Is Education Dive A Reliable Source</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dragons-blood-oil'>Dragons Blood Oil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trippie-redd-album-release-date-2020'>Trippie Redd Album Release Date 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-many-children-did-john-bunyan-have'>How Many Children Did John Bunyan Have</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mc-sniper---undercooled'>Mc Sniper - Undercooled</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blood-feast-%282016%29'>Blood Feast (2016)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=max-headroom%3A-20-minutes-into-the-future'>Max Headroom: 20 Minutes Into The Future</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=norton-anthology-of-english-literature-table-of-contents'>Norton Anthology Of English Literature Table Of Contents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=basket-hilt-sword-for-sale-uk'>Basket Hilt Sword For Sale Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Han-Dynasty-military'>Han Dynasty Military</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glimpses-of-unfamiliar-japan-pdf'>Glimpses Of Unfamiliar Japan Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angela-carter-pdf'>Angela Carter Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=revolutionary-russia%2C-1891-1991%3A-a-history-pdf'>Revolutionary Russia, 1891-1991: A History Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nyima-funk-whose-line-is-it-anyway'>Nyima Funk Whose Line Is It Anyway</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-winchester-rifles-2020'>New Winchester Rifles 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-brandon-hammond-doing-now'>What Is Brandon Hammond Doing Now</a>,
+";s:7:"expired";i:-1;}

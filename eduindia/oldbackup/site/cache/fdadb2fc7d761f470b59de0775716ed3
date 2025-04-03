@@ -1,0 +1,160 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3101:"UX Research, Prototyping, Testing, Expert Reviews. The Nielson Norman Group (NN/g) have been an authoritative leader in the User Experience field since 1998, known for their groundbreaking research, interfaces, and design. Colleen Wells, senior writing director at … The group also offers training seminars and hosts UX conferences across the globe. Memphis, TN | 9 September 2019 Oden Director Receives Storytelling Certification. Dr. Nielsen established the "discount usability engineering" movement for fast and cheap improvements of user interfaces and has invented several usability methods, including heuristic evaluation. He holds 79 United States patents, … READ ARTICLE. Customer journey mapping, Process flows, Conversion Rate Optimization.  Web page content management and authoring projects; generation and review of web pages; ensuring compliance with the European Commission's Web guide and coherence of the logical structure of web sites, web pages and navigation methods User feedback management HTML and CSS support; digital graphic production support Coordinate with content manager and technology teams on updates, … Read reviews from Nielsen Norman Group students about certification training, prices, and more to find the right school for you. Nielsen Norman Group | 91,795 من المتابعين على LinkedIn | Evidence-based UX training, consulting, and design guidelines | Evidence-Based User Experience (UX) Research, Training, and Consulting: Nielsen Norman Group is headquartered in Silicon Valley, with offices in ten additional locations throughout the United States. Report Review: Nielsen/Norman Group’s Usability Return on Investment by: Peter Merholz | Posted on July 28, 2003 March 10, 2019 “The key strategy is to get businesses to recognize that user experience is not simply a cost of doing business, but an investment–that with appropriate expenditure, you can expect a financial return.” The Springboard UX Career Track at a glance: Mode of study: Online, … Increase the value of your training with UX Certification. Nielsen Norman Group is located in Fremont, CA. Process Benefits Exams Specialties UX Master Certification Pricing 3 Options for UX Certification Nielsen Norman Group. To earn UX Certification: Attend any 5 NN/g full-day training courses, at the UX Conference or through In-House Training; pass the exam for each course, Become UX Certified, and receive your Badge and UX Certificate Time to complete this education training ranges from 30 hours to 2 weeks depending on the qualification, with a median time to complete of 1 week. Jakob Nielsen, Ph.D., is a User Advocate and principal of the Nielsen Norman Group which he co-founded with Dr. Donald A. Norman (former VP of research at Apple Computer). Looking for more? UX Movement UX Master Certification (UXMC) recognizes practitioners whose extensive training achievement covers a broad range of topics. Service Design. This school offers training in 4 qualifications, with the most reviewed qualifications being UX, UX Certificate, and UX Certified. Product Management. ";s:7:"keyword";s:45:"nielsen norman group ux certification reviews";s:5:"links";s:12520:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=murder%2C-she-wrote-season-1-%7C-episode-10-cast'>Murder, She Wrote Season 1 | Episode 10 Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vampire%3A-the-masquerade-spending-experience-points'>Vampire: The Masquerade Spending Experience Points</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Me-or-myself-examples'>Me Or Myself Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-edge-breeam'>The Edge Breeam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=esmeralda-meaning-in-spanish'>Esmeralda Meaning In Spanish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amount-of-use-synonym'>Amount Of Use Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=henry-b-payne'>Henry B Payne</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aldi-turkey-tenderloin-price'>Aldi Turkey Tenderloin Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-entertainer-piano-notes'>The Entertainer Piano Notes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=don%27t-drink-the-water-woody-allen'>Don't Drink The Water Woody Allen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bronco-billy-youtube'>Bronco Billy Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-is-lutefisk-made'>How Is Lutefisk Made</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-forsythia-fruit-look-like'>What Does Forsythia Fruit Look Like</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meg-tilly-sister'>Meg Tilly Sister</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1-peter---kjv'>1 Peter - Kjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-family-history-movies'>Best Family History Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chad-buchanan-imdb'>Chad Buchanan Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=princess-connect-re%3Adive-anime-release-date'>Princess Connect Re:dive Anime Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pokemon-rain-team'>Pokemon Rain Team</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=historical-series-on-netflix'>Historical Series On Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Liza-Minnelli-today'>Liza Minnelli Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=instruction-manual-synonym'>Instruction Manual Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-hill-cast'>The Hill Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buffalo-gals-analysis'>Buffalo Gals Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bob-wilson-this-is-your-life'>Bob Wilson This Is Your Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=military-camouflage-wallpaper'>Military Camouflage Wallpaper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-pam-beesly'>How Old Is Pam Beesly</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oxford-reading-tree-stage-2'>Oxford Reading Tree Stage 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=body-bags-blu-ray'>Body Bags Blu-ray</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spider-loc-game'>Spider Loc Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=que-es-ser-humano-filosof%C3%ADa'>Que Es Ser Humano Filosofía</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thailand-population-2019'>Thailand Population 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=english-literature-books-for-bcs'>English Literature Books For Bcs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=24x7-cafe-in-mumbai'>24x7 Cafe In Mumbai</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=live-a-little-song'>Live A Little Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=braxton-bragg-family-tree'>Braxton Bragg Family Tree</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-was-robert-grosseteste-born'>When Was Robert Grosseteste Born</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alice-walker-fun-facts'>Alice Walker Fun Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=battle-of-fort-apache-fun-facts'>Battle Of Fort Apache Fun Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dietrich-bonhoeffer-siblings'>Dietrich Bonhoeffer Siblings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robots-full-movie'>Robots Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-there-going-to-be-a-replicas-2'>Is There Going To Be A Replicas 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tradition-and-the-individual-talent-analysis'>Tradition And The Individual Talent Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-or-an-before-hotel'>A Or An Before Hotel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=university-of-heidelberg-courses-taught-in-english'>University Of Heidelberg Courses Taught In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deborah-the-prophetess'>Deborah The Prophetess</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=8th-day-new-song'>8th Day New Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backfire-g3-battery'>Backfire G3 Battery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-last-dance-font'>The Last Dance Font</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elle-mclemore-height'>Elle Mclemore Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=klay-anthony-rooney'>Klay Anthony Rooney</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=New-Mexico-Postcards'>New Mexico Postcards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cook%27s-illustrated-cookbooks'>Cook's Illustrated Cookbooks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-smithson-official-website'>Robert Smithson Official Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Throne-of-England'>Throne Of England</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donna-yaklich-son'>Donna Yaklich Son</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=family-album-cast'>Family Album Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glen-or-glenda'>Glen Or Glenda</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gomorrah-season-5-imdb'>Gomorrah Season 5 Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Silk-Road-song'>Silk Road Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wbz-radio-hosts'>Wbz Radio Hosts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=babies-around-the-world'>Babies Around The World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=basildon-population-2019'>Basildon Population 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=netflix-poker-documentary'>Netflix Poker Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cole-younger-siblings'>Cole Younger Siblings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=let-it-fall-netflix'>Let It Fall Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-project-pat-doing-now'>What Is Project Pat Doing Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeremiah-32%3A17-kjv'>Jeremiah 32:17 Kjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youngest-couple-in-the-world-today'>Youngest Couple In The World Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=han-gan-horse'>Han Gan Horse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=romanzo-criminale-english-subtitles'>Romanzo Criminale English Subtitles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=them-baby-please-don%27t-go'>Them Baby Please Don't Go</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=China-Gate-Mukesh-Tiwari'>China Gate Mukesh Tiwari</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=which-of-the-following-factors-limits-the-potential-production-of-wildlife-hunters-ed'>Which Of The Following Factors Limits The Potential Production Of Wildlife Hunters Ed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=iatrogenic-disease-causes'>Iatrogenic Disease Causes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Contempt-in-Spanish-legal-Terms'>Contempt In Spanish Legal Terms</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=riding-shotgun-%282013%29'>Riding Shotgun (2013)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=golden-fluid-acrylics-hobby-lobby'>Golden Fluid Acrylics Hobby Lobby</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dogfight-musical-bootleg'>Dogfight Musical Bootleg</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rube-goldberg-with-household-items'>Rube Goldberg With Household Items</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lamentations-2-meaning'>Lamentations 2 Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=warriors%3A-the-new-prophecy-midnight'>Warriors: The New Prophecy Midnight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=guardian-food-recipe-search'>Guardian Food Recipe Search</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fun-facts-and-trivia-about-alabama'>Fun Facts And Trivia About Alabama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bradley-cooper-2020'>Bradley Cooper 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-rouch-movies'>Jean Rouch Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=texas-courthouses-book'>Texas Courthouses Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=travis-knight-laika'>Travis Knight Laika</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9-%D0%BA%D0%B0%D1%82%D0%B0%D0%BD%D1%8F%D0%BD-%D0%BB%D0%B8%D0%BB%D1%8F-%D0%B1%D1%80%D0%B8%D0%BA-%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C'>василий катанян лиля брик жизнь</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ancient-sentence-for-class-4'>Ancient Sentence For Class 4</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mind-perception-example'>Mind Perception Example</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roman-invasion-of-britain-ks2-lesson'>Roman Invasion Of Britain Ks2 Lesson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cross-creek-apartments-reviews'>Cross Creek Apartments Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ralph-goings-donut'>Ralph Goings Donut</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kylie-padilla-siblings'>Kylie Padilla Siblings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spiritual-disciplines-of-abstinence'>Spiritual Disciplines Of Abstinence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-the-aisle-lyrics-the-five-satins'>To The Aisle Lyrics The Five Satins</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cinthya-carmona-husband'>Cinthya Carmona Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Danish-for-dummies'>Danish For Dummies</a>,
+";s:7:"expired";i:-1;}

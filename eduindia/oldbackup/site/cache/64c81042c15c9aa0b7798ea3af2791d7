@@ -1,0 +1,131 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:1756:"<p>In Oxford last week, Richard Dawkins (The God Delusion) and Alister McGrath (The Dawkins Delusion) sat down and had a conversation.They actually talked. Richard Dawkins: 08 Jun 2010 : 3 : Darwin 200: Dawkins and Harries: Richard Dawkins and former Bishop of Oxford Richard Harries recreate the famous Oxford evolution debate of 1860. Richard Dawkins and Peter Boghossian- June 5, 2015 @ Portland 5 Center for the Arts by Richard Dawkins Foundation for Reason & Science. During this weekend philosophers Marianne Talbot and Stephen Law will discuss the debate from a philosophical point of view. Richard Dawkins Debates Alister McGrath. 2:43.  </p> <p>... Why Richard Dawkins Doesn't Debate Creationists by FORA.tv. Yesterday Richard Dawkins went head-to-head with Rowan Williams in a televised debate about evolution. Richard Dawkins, Richard Harries, Jeremy Paxman In this production he was metaphorically bound and gagged for the purposes of this debate. Professor Richard Dawkins gives a few concluding thoughts on the Science and Religious Conflict Conference. News > Science Science vs God: Richard Dawkins takes on Archbishop of Canterbury. Richard Dawkins vs Wendy Wright (FULL LENGTH VIDEO) by PMChr97. Richard Dawkins' book The God Delusion has been a run away best seller. RICHARD DAWKINS, the prominent atheist, talked through the surprising and fascinating origins of religion, and why humans desire to believe in communal stories. Richard Dawkins is an eloquent, articulate and convincing man. It has stimulated global debate, not always very charitable, about whether Dawkins is right to say that it is probably the case that God does not exist. Professor Richard Dawkins has a history of sparking debate with his controversial views. </p>";s:7:"keyword";s:22:"Richard Dawkins debate";s:5:"links";s:8984:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=america---the-complete-greatest-hits'>America - The Complete Greatest Hits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jackson-5-gold'>Jackson 5 Gold</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=types-of-jumping-exercises'>Types Of Jumping Exercises</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dragons-blood-oil'>Dragons Blood Oil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mindsight%3A-the-new-science-of-personal-transformation'>Mindsight: The New Science Of Personal Transformation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=country-song-she-only-loves-me-for-my-money'>Country Song She Only Loves Me For My Money</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=like-a-boss-casa-blanca'>Like A Boss Casa Blanca</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chalo-chalein----ritviz-lyrics-meaning'>Chalo Chalein -- Ritviz Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pop-up-dinosaur-book-amazon'>Pop-up Dinosaur Book Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-fling-your-arms-wide-meaning'>To Fling Your Arms Wide Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=famous-political-cartoons'>Famous Political Cartoons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=f-xun-tennis-live-score'>F Xun Tennis Live Score</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blind-stitch-hem-by-hand'>Blind Stitch Hem By Hand</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thumbelina-cast-barbie'>Thumbelina Cast Barbie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=potato-salad-with-italian-dressing-and-no-mayo'>Potato Salad With Italian Dressing And No Mayo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michener-hawaii-characters'>Michener Hawaii Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-season-4-episode-11-full-episode'>The Office Season 4 Episode 11 Full Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manon-lescaut-book'>Manon Lescaut Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=neurology-cme-online'>Neurology Cme Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sympathetic-and-parasympathetic'>Sympathetic And Parasympathetic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-build-a-fire-pdf'>To Build A Fire Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chosen-one-in-literature'>Chosen One In Literature</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=everlost-book-2'>Everlost Book 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=on-whey-protein-price'>On Whey Protein Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=visages-villages-netflix'>Visages Villages Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Roman-Britain-KS2'>Roman Britain KS2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bug-club-reading-assessment'>Bug Club Reading Assessment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=minneapolis-police-department-jobs'>Minneapolis Police Department Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-sean-delaney-irish'>Is Sean Delaney Irish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mrunmayee-deshpande-movies'>Mrunmayee Deshpande Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=opening-files-in-c'>Opening Files In C</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=six-days-seven-nights-streaming'>Six Days Seven Nights Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=le-doulos-%281962%29'>Le Doulos (1962)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mohsen-makhmalbaf%3A-the-poetic-trilogy'>Mohsen Makhmalbaf: The Poetic Trilogy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Henning-Mankell-Italian-Shoes'>Henning Mankell Italian Shoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anne-frank-book-review'>Anne Frank Book Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=18th-century-hanger-sword'>18th Century Hanger Sword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=knaus-boxstar-xl'>Knaus Boxstar Xl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kinked-demand-curve'>Kinked Demand Curve</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=biologos-foundation-wikipedia'>Biologos Foundation Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maynard-dixon%2C-cloud-world'>Maynard Dixon, Cloud World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Goosebumps-Monster-Blood-1'>Goosebumps Monster Blood 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ramona-young-leaving-legends-of-tomorrow'>Ramona Young Leaving Legends Of Tomorrow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=one-piece%3A-pirate-warriors-4-split-screen'>One Piece: Pirate Warriors 4 Split Screen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-see-fabric'>I See Fabric</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=neither-here-nor-there-bill-bryson-pdf'>Neither Here Nor There Bill Bryson Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Law-of-the-Land'>The Law Of The Land</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nadine-cera-instagram'>Nadine Cera Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=garrett-l-2002-betrayal-of-trust%3A-the-collapse-of-global-public-health-new-york-ny-hyperion-press'>Garrett L 2002 Betrayal Of Trust: The Collapse Of Global Public Health New York Ny Hyperion Press</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angel-island-map'>Angel Island Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=extreme-sports-meaning-in-punjabi'>Extreme Sports Meaning In Punjabi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=women-in-policing'>Women In Policing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bug-fixes-and-improvements'>Bug Fixes And Improvements</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=golden-palace-stoughton%2C-ma'>Golden Palace Stoughton, Ma</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marilou-is-everywhere-excerpt'>Marilou Is Everywhere Excerpt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=synonyms-for-malevolent'>Synonyms For Malevolent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=David-Bailey-Vogue'>David Bailey Vogue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-redford-wiki'>James Redford Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deadly-weekend-full-movie'>Deadly Weekend Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=choi-woo-shik-tv-shows'>Choi Woo-shik Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=schumann-concerto-cello'>Schumann Concerto Cello</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ralph-bruce-lindsey'>Ralph Bruce Lindsey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-is-the-rosetta-spacecraft-now'>Where Is The Rosetta Spacecraft Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-day-of-doom-translation'>The Day Of Doom Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Cleo-Beth-Fincher'>Cleo Beth Fincher</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bajirao-singham-marathi'>Bajirao Singham Marathi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zero-7-i-lie-awake'>Zero 7 I Lie Awake</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ni-no-Kuni-2-Swift-Solutions-quests'>Ni No Kuni 2 Swift Solutions Quests</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ebbinghaus-retention-curve'>Ebbinghaus Retention Curve</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prayers-that-avail-much-table-of-contents'>Prayers That Avail Much Table Of Contents</a>,
+";s:7:"expired";i:-1;}

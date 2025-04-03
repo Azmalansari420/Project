@@ -1,0 +1,134 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3264:"<p>The KNX cable from FS Cables (also known as TP1 cable) features two twisted pairs of solid conductor with a foil screen and tinned copper drain wire in a green LSHF jacket. </p> <p>Price: £90.00 Exc VAT . Set Descending Direction. How satisfied were you with the service we provided today? Sort By. 2 Items . Trade price* £133.17 * Add to Cart . Le bus KNX est alimenté avec une tension continue de 29V. Il ne faut jamais boucler (liaison entre deux lignes) des bus KNX. </p> <p>The communication medium - the KNX cable. </p> <p>La limite inférieure de la tension d'alimentation est de 21V DC. Add to Wish List Add to Compare. Profibus & Profinet Cable | KNX/EIB Cable APPLICATION For use in bus systems (EIB - European Installaton Bus) and as ICA cable in power installations. per page. Show. Code:CV00A01KNX. Add to Wish List Add to Compare. </p> <p>Sort By. </p> <p>Show. Cross Sections. For fixed installation; For use in building management systems; Dry or damp rooms; Product Features. TG018. For example, if a light sensor in a smart home environment detects that twilight is setting in outside, the sensor sends a command via the KNX bus cable to the luminaire connected to the system, which acts as an actuator to increase the brightness accordingly. The topology of a KNX bus system is designed around a simple logical set of rules making it easy to install and understand. PE-insulated, Al-foil-screened and HFFR-sheathed signalling cable to be used for EIB/KNX-bus systems. Set Descending Direction. Share your knowledge of this product. It is used for installation in “smart” building applications. Bus Cable. </p> <p>Over this cable, data telegrams are transmitted, and the electronics of the bus devices are supplied with energy. </p> <p>The KNX system can also be extended over IP-Networks. Fireperformance according to CPR class D ca s 2 d 2 a 2. KNX is an open standard (see EN 50090, ISO/IEC 14543) for commercial and domestic building automation.KNX devices can manage lighting, blinds and shutters, HVAC, security systems, energy management, audio video, white goods, displays, remote control, etc. EIB / KNX Bus Cable: Our price: Options Buying Options. Le nouveau câble bus KNX remplit toutes les exigences de la CPR (Construction Products Regulation) de la réglementation européenne sur les produits de construction pour câbles d’installation. KNX BUS CABLE.  </p> <p>The KNX bus cable is designed to be installed with main 240V cabling as the outer sheaf offers insulation resistance to 600V and the communication protocol is immune to mains borne noise from surrounding cables. TRANSFORMER AC230V-12/24VAC | KNX BUS CABLE. Cutting Charge £ Charge applied for custom lengths. La sécurité du nouveau câble de Hager est considérée comme très élevée et correspond aux classes B2ca, s1, d1, a1. Cores. Products. YCYM 2 x 2 x 0.8 or J-H(ST) H 2 x 2 x 0.8 halogen-free) that connect the KNX devices. An EIB/KNX system functions via three components: the sensor, the actuator and the bus cable. </p> <p>TG019. View as Grid List. </p> <p>Guarantees perfect communication in accordance with specifications established by EIB / KNX, and is suitable for applications with fixed wiring inside channels and under plaster. </p>";s:7:"keyword";s:13:"knx bus cable";s:5:"links";s:9076:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=as-i-grow-older%2C-i-pay-less-attention'>As I Grow Older, I Pay Less Attention</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kirk-douglas%27-wife-still-alive'>Kirk Douglas' Wife Still Alive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moves-like-jagger-hq'>Moves Like Jagger Hq</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spontaneous-combustion-song'>Spontaneous Combustion Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mockingjay-book-online'>Mockingjay Book Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drop-zone-home'>Drop Zone Home</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-wilson-facebook'>Michael Wilson Facebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=man-down-bear'>Man Down Bear</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Patron-saint-of-soccer'>Patron Saint Of Soccer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kaboom-percussion-i-m-still-standing'>Kaboom Percussion I M Still Standing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=opposite-of-diverging'>Opposite Of Diverging</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nanking-movie-trailer'>Nanking Movie Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nate-champion-naturopath'>Nate Champion Naturopath</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rolling-vengeance-dvd'>Rolling Vengeance Dvd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-redford-wiki'>James Redford Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=constantinople-at-first-resembled-cities-in-the-roman-empire-because'>Constantinople At First Resembled Cities In The Roman Empire Because</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vienna%2C-va-to-washington-dc'>Vienna, Va To Washington Dc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sandridge-energy-rumors'>Sandridge Energy Rumors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=SPIN-magazine-contact'>SPIN Magazine Contact</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jajantaram-mamantaram-full-movie-480p'>Jajantaram Mamantaram Full Movie 480p</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mike-zeck-commission'>Mike Zeck Commission</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harry-clarke-transfermarkt'>Harry Clarke Transfermarkt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-the-silent-boy-about'>What Is The Silent Boy About</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miley-cyrus---nothing-breaks-like-a-heart-chords'>Miley Cyrus - Nothing Breaks Like A Heart Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rick-dees-date-of-death'>Rick Dees Date Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beethoven-250th-year-celebration'>Beethoven 250th Year Celebration</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bhishma-on-death-bed-of-arrow'>Bhishma On Death Bed Of Arrow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drum-tower-medieval-castle'>Drum Tower Medieval Castle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=still-lives-book-club-questions'>Still Lives Book Club Questions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sweet-hereafter-parents-guide'>The Sweet Hereafter Parents Guide</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=primetime-martial-arts-san-jose'>Primetime Martial Arts San Jose</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rome-festivals-2020'>Rome Festivals 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lots-of-time'>Lots Of Time</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=winnie-the-pooh-halloween-%28dvd%29'>Winnie The Pooh Halloween (dvd)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tony%27s-bread-pdf'>Tony's Bread Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jesse-Casper-Brown'>Jesse Casper Brown</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-anchorman-on-amazon-prime'>Is Anchorman On Amazon Prime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=memrise-spanish-courses'>Memrise Spanish Courses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vizsla-beagle-cross'>Vizsla Beagle Cross</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wild-mountain-honey'>Wild Mountain Honey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=switzerland-abbreviation-2-letter'>Switzerland Abbreviation 2 Letter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reggie-watts-ted-talk-song'>Reggie Watts Ted Talk Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=romance-novels-with-jealousy'>Romance Novels With Jealousy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leave-for-sub-inspector'>Leave For Sub Inspector</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=erb%27s-palsy-exercises-for-infants-pdf'>Erb's Palsy Exercises For Infants Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-season-5-episode-23'>The Office Season 5 Episode 23</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cooper-dodson-ahs'>Cooper Dodson Ahs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pers%C3%A9polis-pdf-espa%C3%B1ol'>Persépolis Pdf Español</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prince-of-tennis-captain'>Prince Of Tennis Captain</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=he-man-figure-list'>He-man Figure List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=micmac-meaning-french'>Micmac Meaning French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nevada-sports-net'>Nevada Sports Net</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blink-182---dude-ranch-vinyl'>Blink-182 - Dude Ranch Vinyl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ecumenical-Patriarch-definition'>Ecumenical Patriarch Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-are-boon-baby-products-made'>Where Are Boon Baby Products Made</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=turning-torso-archdaily'>Turning Torso Archdaily</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sunflower-bar-belfast-shooting'>Sunflower Bar Belfast Shooting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Faith-of-the-Fallen'>Faith Of The Fallen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=palomino-ss-500-reviews'>Palomino Ss-500 Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carl-mydans-philippines'>Carl Mydans Philippines</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anschluss-of-austria'>Anschluss Of Austria</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Connie-Francis-Wikipedia'>Connie Francis Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=toshiyuki-morikawa-roles'>Toshiyuki Morikawa Roles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thin-sausage---crossword-clue'>Thin Sausage - Crossword Clue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=globe-life-app'>Globe Life App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Michael-Angarano-2019'>Michael Angarano 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=underoath-lead-singer'>Underoath Lead Singer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-hotels-in-jamaica'>Best Hotels In Jamaica</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=furious-fruits-strain'>Furious Fruits Strain</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-love-mc'>I Love Mc</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ruth-hussey-the-great-gatsby'>Ruth Hussey The Great Gatsby</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dracarys-meme-generator'>Dracarys Meme Generator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bucket-list-Lake-District'>Bucket List Lake District</a>,
+";s:7:"expired";i:-1;}

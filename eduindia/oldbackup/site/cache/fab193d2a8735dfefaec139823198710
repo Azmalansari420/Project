@@ -1,0 +1,133 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2812:"<p>The article presents a biography of commercial artist Edward McKnight Kauffer, who is featured in the exhibition "The Poster King" at the Estorick Collection in London, England ending December 18, 2011. Find an in-depth biography, exhibitions, original artworks for sale, the latest news, and sold auction prices. "We Fight for the Freedom of All" — OCIAA poster by Edward McKnight Kauffer, promoting inter-American solidarity The Office of the Coordinator of Inter-American Affairs , later known as the Office for Inter-American Affairs , was a United States agency promoting inter-American cooperation ( Pan-Americanism ) during the 1940s, especially in commercial and economic areas. Edward (“Ted”) McKnight Kauffer was one of Europe's most prolific and influential advertising poster artists during the twenties and thirties, and as innovative as his more celebrated French counterpart, A.M. Cassandre. Biography. See available prints and multiples, works on paper, and paintings for sale and learn about the artist. View Edward McKnight Kauffer’s 438 artworks on artnet. Edward Kauffer was born on December 14, 1890, in Great Falls, Montana. In England, where he lived and worked, Kauffer was hailed for elevating advertising to high art, yet in America only the design cognoscenti knew of his achievements when the … Edward McKnight Kauffer (1890 – 1954) Edward McKnight Kauffer was one of Britain’s most highly influential 20th Century Poster Artists and Graphic Designers. 1954. At around this time Professor Joseph McKnight of the University of Utah became aware of Kauffer's work made the … </p> <p>Edward McKnight Kauffer (14 December 1890 – 22 October 1954) was an American-born artist noted for his avant garde graphic design and poster art, especially in Britain. In graphic design: Modernist experiments between the world wars. E. McKnight Kauffer The "Rocket" of Mr. Stephenson of Newcastle, 1829, at the Museum of Science, South Kensington 1922 E. McKnight Kauffer Read "Cricketer" in the Manchester Guardian 1923 E. McKnight Kauffer Eastman & Son - Since 1802 the London Dyers and Cleaners 1923 </p> <p>Beginning his professional life as a painter, Kauffer soon embraced poster art as a form of visual communication, enabling the public to view Modern Art through the display of his posters on the streets. Throughout the first half of the 20th century, his posters, book jackets, and….  At the age of twenty Edward McKnight-Kauffer moved to San Francisco working as a bookseller and studying art at the California School of Design. …an American working in England, E. McKnight Kauffer, who was one of the first designers to understand how the elemental symbolic forms of Cubist and Futurist painting could be applied to the communicative medium of graphic design. </p>";s:7:"keyword";s:33:"edward mcknight kauffer biography";s:5:"links";s:9100:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=luc-tuymans-artworks'>Luc Tuymans Artworks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glen-or-glenda'>Glen Or Glenda</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-neighbor-netflix-imdb'>The Neighbor Netflix Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gimli-quotes-about-galadriel'>Gimli Quotes About Galadriel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-did-lunalilo-do'>What Did Lunalilo Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kiger-mustang-for-sale'>Kiger Mustang For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ode-to-liberty-pushkin-analysis'>Ode To Liberty Pushkin Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=emil-nolde-lino'>Emil Nolde Lino</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sas-killed-by-ira'>Sas Killed By Ira</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donald-sumpter-net-worth'>Donald Sumpter Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cicada-biblical-meaning'>Cicada Biblical Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angels-and-airwaves---kiss-and-tell-girl'>Angels And Airwaves - Kiss And Tell Girl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=song-of-river-city-by-su-shi'>Song Of River City By Su Shi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=terminate-with-extreme-prejudice-book'>Terminate With Extreme Prejudice Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-academy-of-neurology-membership-criteria'>American Academy Of Neurology Membership Criteria</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cause-of-death-edward-hopper'>Cause Of Death Edward Hopper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-make-homemade-caramel'>How To Make Homemade Caramel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=little-birds-types'>Little Birds Types</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-marvels-comic-2020'>The Marvels Comic 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=A-Written-Testimony'>A Written Testimony</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tory-lanez-merch-new-toronto-3'>Tory Lanez Merch New Toronto 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reading-plus-clever'>Reading Plus Clever</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=golden-fluid-acrylics-hobby-lobby'>Golden Fluid Acrylics Hobby Lobby</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=My-Love-Music'>My Love Music</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=avantha-group-net-worth'>Avantha Group Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adam-movie-controversy'>Adam Movie Controversy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=middle-earth-books-in-chronological-order'>Middle-earth Books In Chronological Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=proselytize-in-spanish'>Proselytize In Spanish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natsume-s%C5%8Dseki-light-and-darkness'>Natsume Sōseki Light And Darkness</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=memrise-spanish-courses'>Memrise Spanish Courses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pippa-taylor-height'>Pippa Taylor Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=egypt-ww2-map'>Egypt Ww2 Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=teddy-geiger-emma-stone'>Teddy Geiger Emma Stone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=A-Royal-Kiss-%26-Tell'>A Royal Kiss & Tell</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manila-airport-open'>Manila Airport Open</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crime-short-stories-online'>Crime Short Stories Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=d-h-lawrence-themes'>D H Lawrence Themes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bill-and-melinda-gates-foundation-headquarters-building'>Bill And Melinda Gates Foundation Headquarters Building</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Roy-Hudd-funeral'>Roy Hudd Funeral</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-unbeatable-banzuke'>American Unbeatable Banzuke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-to-eat-for-breakfast%2C-lunch-and-dinner-to-stay-healthy'>What To Eat For Breakfast, Lunch And Dinner To Stay Healthy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mao-Zedong-quotes'>Mao Zedong Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sing-a-song-of-sixpence-chords'>Sing A Song Of Sixpence Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eversource-pay-bill'>Eversource Pay Bill</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cynthia-blaise-net-worth'>Cynthia Blaise Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eater-sf-takeout'>Eater Sf Takeout</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=William-Wells-Brown'>William Wells Brown</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=3-am-challenges-to-do-with-friends'>3 Am Challenges To Do With Friends</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Atelopus-varius-facts'>Atelopus Varius Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=factories-of-death%3A-japanese-biological-warfare%2C-1932-45-and-the-american-cover-up'>Factories Of Death: Japanese Biological Warfare, 1932-45 And The American Cover-up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natsamrat-gujarati-movie-online'>Natsamrat Gujarati Movie Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-cantos-online'>The Cantos Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=town-of-norfolk%2C-ma'>Town Of Norfolk, Ma</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Society-of-Illustrators-restaurant'>Society Of Illustrators Restaurant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=uss-enterprise-ncc-1701-a'>Uss Enterprise Ncc-1701-a</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kentucky-state-baseball'>Kentucky State Baseball</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-gene-pbs-schedule'>The Gene Pbs Schedule</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-creator-of-sonic'>The Creator Of Sonic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cyborg-%281989%29-cast'>Cyborg (1989) Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lucky%3A-no-time-for-love-jaan-meri-ja-rahi-sanam'>Lucky: No Time For Love Jaan Meri Ja Rahi Sanam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tremendous-trifles-pdf'>Tremendous Trifles Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=talespin-episodes---youtube'>Talespin Episodes - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=irasshaimase-translation-english'>Irasshaimase Translation English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harry-clarke-transfermarkt'>Harry Clarke Transfermarkt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=death-magnetic-sounds-bad'>Death Magnetic Sounds Bad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-season-2-episode-18-reddit'>The Office Season 2 Episode 18 Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=was-synonym-dictionary'>Was Synonym Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pandora%27s-box-example-sentence'>Pandora's Box Example Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miep-gies-movies'>Miep Gies Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vita-student-edinburgh'>Vita Student Edinburgh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=botch-band-merch'>Botch Band Merch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=obsidian-cape-melvor'>Obsidian Cape Melvor</a>,
+";s:7:"expired";i:-1;}

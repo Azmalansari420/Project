@@ -1,0 +1,119 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4345:"<p>Play Overveiw On a spring afternoon in 1621, Captain Miles Standish, a short, powerfully-built man of middle age and a recent widower, stood in his house, surveying with pride his well-polished weapons of war. This is the story of the Pilgrims who fled religious persecution in England and came to America aboard the Mayflower. "The Courtship of Miles Standish" is a narrative poem written by Henry Wadsworth Longfellow in the year 1858.  A dramatization of Henry Wadsworth Longfellow's poem 'The Courtship of Miles Standish,' this is the story of the Pilgrims who fled religious persecution in England and came to … "The Courtship of Miles Standish" is a narrative poem written by Henry Wadsworth Longfellow in the year 1858. Longfellow Henry Wadsworth Longfellow wrote this narrative poem in the year 1858, this poem is about the colonial settlement established in America in the early days of Playmouth Colony by the Mayflower Pilgrims. Longfellow was an American poet born in Portland, Maine in 1807. A dramatization of Henry Wadsworth Longfellow's poem 'The Courtship of Miles Standish. Directed by Frederic Sullivan, nephew of the famous composer Sir Arthur Sullivan, and scripted by Albert Ray, the film is based on Henry Wadsworth Longfellow's 1858 poem The Courtship of Miles Standish . 'The Courtship of Miles Standish was written by Henry Wadsworth Longfellow. The Courtship of Miles Standish is set in the year 1621 against the backdrop of a fierce Indian war and focuses on a love triangle among three Mayflower passengers: Miles Standish, Priscilla Mullins, and John Alden. The Courtship of Miles Standish Summary by H.W. With Charles Ray, Enid Bennett, E. Alyn Warren, Joseph J. Dowling. Longfellow, an Alden descendent, wove the narrative around an old family tradition. HARRISON. A dramatization of Henry Wadsworth Longfellow's poem 'The Courtship of Miles Standish,' this is the story of the Pilgrims who fled religious persecution in England and came to … Yes; Miles Standish was dead!—an Indian had brought them the tidings,— Slain by a poisoned arrow, shot down in the front of the battle, 80 Into an ambush beguiled, cut off with the whole of his forces; All the town would be burned, and all the people be murdered! </p> <p></p> <p>81 The Courtship of VII THE MARCH OF MILES STANDISH TV/TEANWHILE the stalwart Miles Standish was marching stead ily northward, Winding through forest and swamp, and along the trend of the sea shore, All day long, with hardly a halt, the fire of his anger Burning and crackling within, and the sulphurous odor of powder Seeming more sweet to his nostrils than all the scents of the forest. Dive deep into Henry Wadsworth Longfellow's The Courtship of Miles Standish with extended analysis, commentary, and discussion A dramatization of Henry Wadsworth Longfellow's poem 'The Courtship of Miles Standish,' this is the story of the Pilgrims who fled religious persecution in England and … </p> <p>In The Courtship of Miles Standish, Henry Wadsworth Longfellow found inspiration in the American past. The Wedding-Day; In the Old Colony days, in Plymouth the land of the Pilgrims, To and fro in a room of his simple and primitive dwelling, Clad in doublet and hose, and boots of Cordovan leather, Strode, with a martial air, Miles Standish the Puritan Captain. The Courtship of Miles Standish IX. </p> <p>Directed by Frederick Sullivan. Miles Standish, a soldier and protector of the colony John Alden, his younger, bookish friend Priscilla, a young Puritan woman. Such were the tidings of evil that burst on the hearts of the hearers. Longfellow said that the story was true, but the historical evidence is inconclusive. </p> <p>Miles Standish, as we all know, was a man among men, a warrior who knew no fear in battle, but who was very timid and abashed when it came to the wooing of the maid Priscilla. </p> <p>The earliest time the THE COURTSHIP OF MILES STANDISH by Frances D. Leach In The Courtship of Miles Standish, Henry Wadsworth Longfellow immortalized the legend of the love triangle between John Alden, Miles Standish, and Priscilla Mullins. The Courtship of Miles Standish IX. The Courtship of Miles Standish is a 1923 American silent epic historical romantic drama film about Myles Standish produced by and starring Charles Ray, Enid Bennett, and E. Alyn Warren. </p>";s:7:"keyword";s:39:"the courtship of miles standish summary";s:5:"links";s:7304:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-brookes-cartoonist-times'>Peter Brookes Cartoonist Times</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vegas-gone-country-2020-lineup'>Vegas Gone Country 2020 Lineup</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kathie-durst-movie'>Kathie Durst Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gulf-stream-map'>Gulf Stream Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=contempt-%281963-english-subtitles%29'>Contempt (1963 English Subtitles)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=living-language-german-website'>Living Language German Website</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kitty-hawk%2C-north-carolina-wright-brothers'>Kitty Hawk, North Carolina Wright Brothers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ryanair-check-in-return-flight'>Ryanair Check-in Return Flight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=den-tokyo-tripadvisor'>Den Tokyo Tripadvisor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=types-of-tragedies-in-life'>Types Of Tragedies In Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=petunia-atkinsiana-uses'>Petunia Atkinsiana Uses</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charles-brockden-brown-books'>Charles Brockden Brown Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ann-e-todd-child-actress'>Ann E Todd Child Actress</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=uss-enterprise-ncc-1701-a'>Uss Enterprise Ncc-1701-a</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-mastermind-amazon'>The Mastermind Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dream-of-seeing-a-ghost-in-a-mirror'>Dream Of Seeing A Ghost In A Mirror</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=queens-of-the-stone-age-era-vulgaris-lp'>Queens Of The Stone Age Era Vulgaris Lp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hu-chocolate-ingredients'>Hu Chocolate Ingredients</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meg-murry-age'>Meg Murry Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cousin-phillis-plot-summary'>Cousin Phillis Plot Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=review-of-flaubert%27s-parrot'>Review Of Flaubert's Parrot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dublin-airport-terminal-2-departures'>Dublin Airport Terminal 2 Departures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-cage-dance-lyrics'>The Cage Dance Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=casablanca-analysis-themes'>Casablanca Analysis Themes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=baranof-hotel-juneau-history'>Baranof Hotel Juneau History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=radical-sign-on-keyboard'>Radical Sign On Keyboard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tv-detectives-1980s'>Tv Detectives 1980s</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-bones-lyrics'>Funny Bones Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ngaio-marsh-best-books'>Ngaio Marsh Best Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=george-e-stone'>George E Stone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wbal-weather-forecast'>Wbal Weather Forecast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daybreak-login-issues'>Daybreak Login Issues</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sigma-force-2'>Sigma Force 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Goofy-meaning-in-telugu'>Goofy Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreRomantic-restaurantsEgo-Mediterranean-Restaurant-%26-Bar%2C-Lichfield%2C-Zizzi%2C-and-more'>+ 18moreRomantic RestaurantsEgo Mediterranean Restaurant & Bar, Lichfield, Zizzi, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stranger-on-horseback---youtube'>Stranger On Horseback - Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=throne-of-glass-original-cover-for-sale'>Throne Of Glass Original Cover For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ranch-homes-for-sale-in-23322-area'>Ranch Homes For Sale In 23322 Area</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=indoor-flying-bird-toy'>Indoor Flying Bird Toy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-henri-book'>Robert Henri Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=medical-apartheid-goodreads'>Medical Apartheid Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=university-of-portsmouth'>University Of Portsmouth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=online-great-books-reading-list'>Online Great Books Reading List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=make-me-better-year'>Make Me Better Year</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lowell-house-bacchanalia'>Lowell House Bacchanalia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=simon-smith-willis'>Simon Smith Willis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=One-of-Life%27s-Slaves'>One Of Life's Slaves</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=old-irish-songs'>Old Irish Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=victor-hugo-drawings-book'>Victor Hugo Drawings Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mr-Lemoncello-Books-in-order'>Mr Lemoncello Books In Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Looking-Backward-movie'>Looking Backward Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-we-say-helen-garner'>What We Say Helen Garner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brandon-flynn-sam-smith-song'>Brandon Flynn Sam Smith Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Emre-Can-transfer'>Emre Can Transfer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=douglas-edwards-obituary'>Douglas Edwards Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antonio-conte-world-cup-1994'>Antonio Conte World Cup 1994</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-badel-obituary'>Alan Badel Obituary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brooke-stevens-facebook'>Brooke Stevens Facebook</a>,
+";s:7:"expired";i:-1;}

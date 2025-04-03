@@ -1,0 +1,132 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2951:"<br> example: 2+2 = 4 ≠ When two values are definitely not equal we use the "not equal to" sign. <br> <br>͇. <br> <br>It is most suitable for kindergarten math but can be used in early 1st grade also. Below is the complete list of alt code shortcuts for mathematics symbols. Return to Math Symbols Page Go to the About the Codes section to see how they are implemented. = Equals. <br> <br>Symbol Symbol Name Meaning / definition Example; x: x variable: unknown value to find: when 2x = 4, then x = 2 ≡ equivalence: identical to ≜ equal by definition: equal by definition := equal by definition: equal by definition ~ approximately equal: weak approximation: 11 ~ 10 ≈ approximately equal: approximation: sin(0.01) ≈ 0.01 ∝ proportional to: proportional to: y ∝ x when y = kx, k constant This page lists basic maths symbols with their names and examples in English. Symbols save time and space when writing. For example 2 + 2 ≠ 5 - 2. And if you want to practice using the symbols greater than, less than and equal to, subscribe to Smartick for a free trial. Unicode Technical Report #25 provides comprehensive information about the character repertoire, their properties, and guidelines for implementation. Basic symbols +. example: 2+2 ≠ 9 < When one value is smaller than another we use a "less than" sign. When two values are equal we use the "equals" sign. HTML Math Symbols, Math Entities and ASCII Math Character Code Reference. The greater-than sign is a mathematical symbol that denotes an inequality between two values. This symbol > means greater than, for example 4 > 2. Fabulous Code Chart for Numbers, Math & Currency (ALT, HTML, and ASCII Codes) This chart displays the ALT and ASCII (HTML) codes for numbers, including superscripts and fractions.  <br>The Unicode Standard encodes almost all standard characters used in mathematics. Hex. <br> <br>Here are the most common mathematical symbols: Symbol Meaning Example + add: ... not equal to: π ≠ 2 < ≤ less than, less than or equal … <br> <br>When picking a symbol, best to trust the symbol's unicode name for its meaning, not appearance. example: 2+2 = 4 ≠ When two values are definitely not equal we use the "not equal to" sign. In computer applications (like Excel) the symbols <> mean not equal. 4 ± 3 = 1 or 7 Four plus or minus three equals one or seven. Before the equal sign came into popular use, equality was expressed in words. Mathematical symbols and signs of basic math, algebra, geometry, statistics, logic, set theory, calculus and analysis. <br> <br>The concept of mathematics is completely based on the relationship between numbers and symbols. <br> Decimal. These math symbols are used to perform different mathematical operations and represent various mathematical concepts. You may also come across other related symbols, although these are less common: ≠ means not equal. If you like this Page, please click that +1 button, too. <br>";s:7:"keyword";s:19:"Equals math symbols";s:5:"links";s:9304:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hamburg-food-lexington-ky'>Hamburg Food Lexington Ky</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=buckbeak-prisoner-of-azkaban'>Buckbeak Prisoner Of Azkaban</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dagda-mor-vs-warlock-lord'>Dagda Mor Vs Warlock Lord</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blood-night-full-movie-watch-online'>Blood Night Full Movie Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chaos-patricia-cornwell-summary'>Chaos Patricia Cornwell Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=auschwitz-a-doctor%27s-eyewitness-account-read-online'>Auschwitz A Doctor's Eyewitness Account Read Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fluor-jobs-afghanistan-salary'>Fluor Jobs Afghanistan Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kiara-sky-gel-polish-ombre'>Kiara Sky Gel Polish Ombre</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cassius-dio-roman-history'>Cassius Dio Roman History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unreal-reality-of-numbers'>Unreal Reality Of Numbers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=importance-of-rural-banks-in-ghana'>Importance Of Rural Banks In Ghana</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bronze-jesus-statue'>Bronze Jesus Statue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peak-shoes-price'>Peak Shoes Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=telangana-vantalu-recipes'>Telangana Vantalu Recipes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bolo-Rolling-Knife'>Bolo Rolling Knife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-princess-and-the-dragon-story'>The Princess And The Dragon Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=junior-meaning-in-high-school'>Junior Meaning In High School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=schiller-medical-equipment'>Schiller Medical Equipment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tanizaki-the-secret'>Tanizaki The Secret</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=candide-summary-short'>Candide Summary Short</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=centennial-%28miniseries%29-episodes'>Centennial (miniseries) Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mars-missions-timeline'>Mars Missions Timeline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hutchinson-island-zip-code'>Hutchinson Island Zip Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-wyatt-poetry'>Thomas Wyatt Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miss-marple%27%27-towards-zero-location'>Miss Marple'' Towards Zero Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=elle-mclemore-height'>Elle Mclemore Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=magic-realism-movies'>Magic Realism Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=devil%27s-canyon-cpu'>Devil's Canyon Cpu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=duty-ethics-slideshare'>Duty Ethics Slideshare</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=game-of-life-electronic-banking-target'>Game Of Life Electronic Banking Target</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=god%27s-crime-scene-video-series'>God's Crime Scene Video Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arcamax-comics-pickles'>Arcamax Comics Pickles</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dragonlance%3A-dragons-of-autumn-twilight-full-movie'>Dragonlance: Dragons Of Autumn Twilight Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-tinguely-drawing-machine'>Jean Tinguely Drawing Machine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=st-elmo%27s-fire-phenomenon'>St Elmo's Fire Phenomenon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Universal-Love-Squad'>Universal Love Squad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreBest-lunchesKew-Fish-Bar%2C-Nando%27s-Windsor%2C-and-more'>+ 18moreBest LunchesKew Fish Bar, Nando's Windsor, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ar-glasses-apple'>Ar Glasses Apple</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Deja-vu-images'>Deja Vu Images</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mary-Engelbreit%27s-Nutcracker'>Mary Engelbreit's Nutcracker</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mathematical-logic-for-computer-science'>Mathematical Logic For Computer Science</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=take-away-calories'>Take Away Calories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sabre-car-2019'>Sabre Car 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leonardo-dreams-of-his-flying-machine-lyrics'>Leonardo Dreams Of His Flying Machine Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dororo-netflix-philippines'>Dororo Netflix Philippines</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-was-craig-silvey-born'>Where Was Craig Silvey Born</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Old-Track-to-Auvers'>The Old Track To Auvers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grand-blue-season-2'>Grand Blue Season 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Redwood-National-Park-facts'>Redwood National Park Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stiletto-nails-tips'>Stiletto Nails Tips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=train-kept-a-rollin-tab-johnny-burnette'>Train Kept A Rollin Tab Johnny Burnette</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jack-of-hearts-mcu'>Jack Of Hearts Mcu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-winter-evening-settles-down-tone'>The Winter Evening Settles Down Tone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hanks-gun-belts-sizing'>Hanks Gun Belts Sizing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hsc-chemistry-2020'>Hsc Chemistry 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rooney-band-2019'>Rooney Band 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jubilee-professional-2020'>Jubilee Professional 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roscoe-dash-height'>Roscoe Dash Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-wrote-beer%2C-bait-and-ammo'>Who Wrote Beer, Bait And Ammo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=padmavathi-telugu-song'>Padmavathi Telugu Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rdiff-backup-windows-10'>Rdiff-backup Windows 10</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kate-daniels-book-synopsis'>Kate Daniels Book Synopsis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hainish-cycle-reading-order-reddit'>Hainish Cycle Reading Order Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Danny-Welbeck-Instagram'>Danny Welbeck Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-to-expect-first-gastroenterologist-appointment-gerd'>What To Expect First Gastroenterologist Appointment Gerd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-are-the-7-things-you-need-for-a-balanced-diet%3F'>What Are The 7 Things You Need For A Balanced Diet?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=theoden-quotes-how-did-it-come-to-this'>Theoden Quotes How Did It Come To This</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cotillion-georgette-heyer-review'>Cotillion Georgette Heyer Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gangster-warlords%3A-drug-dollars%2C-killing-fields-and-the-new-politics-of-latin-america'>Gangster Warlords: Drug Dollars, Killing Fields And The New Politics Of Latin America</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=90-day-fianc%C3%A9%3A-pillow-talk-imdb'>90 Day Fiancé: Pillow Talk Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-domino%27s-crust'>Best Domino's Crust</a>,
+";s:7:"expired";i:-1;}

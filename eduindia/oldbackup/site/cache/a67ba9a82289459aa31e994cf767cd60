@@ -1,0 +1,134 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2819:"<br>Call 303-499-7111 for WWV or 808-335-4363 for WWVH, and listen to up to two minutes of the oddly comforting broadcasts. <br> WWVB is a groundwave signal, while WWV is a skywave signal, and the ionosphere is very effective at reflecting shortwave radio signals. Listen to WWV online Live streaming WWV time signal receiver. Coordination with the international UTC time scale keeps NIST time signals in close agre… Current local time in USA – Colorado – Fort Collins. The announced time is \"Coordinated Universal Time\" (UTC). Voice announcements are made from WWV once every minute. This receiver is located in Charlotte, NC USA. The announced time is \"Coordinated Universal Time\" (UTC). International Atomic Time (TAI) is a time scale that uses the combined output of some 400 highly precise atomic clocks. The time signal can be used as an accurate time reference to synchronize time on computers and computer networks. 23 thoughts on “ Listening to WWV at the source: Fort Collins, Colorado, USA ” Robert Lee Dunton November 21, 2019 at 5:04 pm. The WWV announcement follows at about 7.5 s before the minute. Get Fort Collins's weather and area codes, time zone and DST. One Component Radio Clock Time Transmitter: Believe it or not, you can generate a time signal to set your WWVB controlled radio clocks with just an attiny45, wire antenna, and a battery. <br> <br>Discrimination between the two stations may be accomplished as WWV uses a male announcer for announcement of time, while WWVH uses a female announcer. The time sources are highly accurate atomic clocks. I've tried google but the sites given seem to have links that don't work. Does anyone know of a site to do the same on the pc. Hi all, There is an app for iOS which won't work after iOS11 that enables you to listen to a time signal. This article describes how the MSF-60 time signal can be decoded and used to synchronize computers and NTP time server systems. New submitter SteveSgt writes: A forum thread on QRZ.com indicates that the shortwave time broadcasts by the National Institute of Standards and Technology (NIST) from stations WWV (Colorado) and WWVH (Hawaii) may be slashed in budget year 2019. WWVB needs all that power just to cover the Continental United States with its longwave signal, while WWV can cover half the world with its shortwave signal just using 10 kW. The WWVH announcement occurs first, at about 15 s before the minute. [One of the proposed reductions includes "$6.3 million supporting fundamental measurement dissemination, including the shutdown of NIST … NIST radio station WWV broadcasts time and frequency information 24 hours per day, 7 days per week to millions of listeners worldwide. To hear these broadcasts, dial (303) 499-7111 for WWV (Colorado), and (808) 335-4363 for WWVH (Hawaii). ";s:7:"keyword";s:25:"listen to wwv time signal";s:5:"links";s:8944:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=famous-mercenaries-20th-century'>Famous Mercenaries 20th Century</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angela-carter-pdf'>Angela Carter Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whats-the-difference-between-jelly-and-jam-joke'>Whats The Difference Between Jelly And Jam Joke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=right-on-dude'>Right On Dude</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lella-vignelli-work'>Lella Vignelli Work</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghibli-museum-tour-tickets'>Ghibli Museum Tour Tickets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=books-about-bears-for-adults'>Books About Bears For Adults</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-do-meditation'>How To Do Meditation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=great-guy-meaning'>Great Guy Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=requiem-movie-2016'>Requiem Movie 2016</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=javits-center-field-hospital'>Javits Center Field Hospital</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bon-appetit-vegetarian-chili'>Bon Appetit Vegetarian Chili</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stephen-burns-workhorse'>Stephen Burns Workhorse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-marais-french-actor'>Jean Marais French Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beyond-2000-episodes-youtube'>Beyond 2000 Episodes Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=misconduct-legal-synonym'>Misconduct Legal Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arthur-rackham-artist'>Arthur Rackham Artist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chen-Duxiu-Call-to-Youth'>Chen Duxiu Call To Youth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mind-perception-example'>Mind Perception Example</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kroonstad-to-bloemfontein'>Kroonstad To Bloemfontein</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=magic-realism-movies'>Magic Realism Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-redford-wiki'>James Redford Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=darien-high-school-illinois'>Darien High School Illinois</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gangster-movie-characters'>Gangster Movie Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tocqueville-recollections-pdf'>Tocqueville Recollections Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Castle-keep-Rotten-Tomatoes'>Castle Keep Rotten Tomatoes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antes-do-iluminismo'>Antes Do Iluminismo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=falcon-rising-full-movie'>Falcon Rising Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=html-quotation-marks'>Html Quotation Marks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deadfall-1968-film-location'>Deadfall 1968 Film Location</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yokai-monsters-wiki'>Yokai Monsters Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=de-rerum-natura-latin-pdf'>De Rerum Natura Latin Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brokermint-vs-dotloop'>Brokermint Vs Dotloop</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=breaking-the-waves-ending-explained'>Breaking The Waves Ending Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=still-game-season-8-episode-2'>Still Game Season 8 Episode 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tocqueville-recollections-pdf'>Tocqueville Recollections Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=polish-police-ranks'>Polish Police Ranks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=melos-and-selinuntius'>Melos And Selinuntius</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roasted-pumpkin-seeds'>Roasted Pumpkin Seeds</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=enchant-python-dictionary'>Enchant Python Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=reading-quizzes-online'>Reading Quizzes Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nursery-lodi%2C-ca'>Nursery Lodi, Ca</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=swiss-army-knife-models'>Swiss Army Knife Models</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-is-the-song-suge-pronounced'>How Is The Song Suge Pronounced</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=contracted-full-movie-123movies'>Contracted Full Movie 123movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-fortaleza-film'>La Fortaleza Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Flaunting%2C-Extravagant-Queen'>Flaunting, Extravagant Queen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frog-and-toad-facebook'>Frog And Toad Facebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clorox-fuzion-reviews'>Clorox Fuzion Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boc-mirrors-album'>Boc Mirrors Album</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cerrone-no-contest'>Cerrone No Contest</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seth-and-greyson'>Seth And Greyson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary%27s-mantle-consecration-videos'>Mary's Mantle Consecration Videos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rbs-one-card'>Rbs One Card</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=khalid-jordan-football'>Khalid Jordan Football</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lifeline-recertification-qlink'>Lifeline Recertification Qlink</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alan-muraoka-curb-your-enthusiasm'>Alan Muraoka Curb Your Enthusiasm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=antonyms-of-gather'>Antonyms Of Gather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=something-about-the-sunshine%2C-baby-chords'>Something About The Sunshine, Baby Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=volunteer-with-us'>Volunteer With Us</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=story-of-your-life-ted-chiang'>Story Of Your Life Ted Chiang</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sonnet-4-paraphrase'>Sonnet 4 Paraphrase</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fx-broken-date'>Fx Broken Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=target-supermarket-uk'>Target Supermarket Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=f%C3%A1bio-coentr%C3%A3o-number'>Fábio Coentrão Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-died-in-bungou-stray-dogs'>Who Died In Bungou Stray Dogs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ohio-radar-weather-underground'>Ohio Radar Weather Underground</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=darren-aronofsky-batman'>Darren Aronofsky Batman</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sympathetic-and-parasympathetic'>Sympathetic And Parasympathetic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=babies-around-the-world'>Babies Around The World</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kierkegaard-books-on-existentialism'>Kierkegaard Books On Existentialism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=inga-moore-illustrations-wind-in-the-willows'>Inga Moore Illustrations Wind In The Willows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wei-xin-yu'>Wei Xin Yu</a>,
+";s:7:"expired";i:-1;}

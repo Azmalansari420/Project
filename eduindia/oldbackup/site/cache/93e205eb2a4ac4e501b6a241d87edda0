@@ -1,0 +1,115 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2663:"<br>To login using UPN, enter your primary email address (ex: firstname.lastname@domain.com) as your username. Please see our Citrix Setup page for instructions to set up Citrix. Emergency Line 303-352-0860 (recorded) ULearn (accessible via Lawson) Lawson (Will need your work login.) <br> <br>If you are using Internet Explorer 11 (IE11) and are seeing a black screen, read instructions to enable Compatibility View so that you can access Citrix with IE11. EPIC Central; EPIC Haiku/Canto – EPIC mobile applications for on-the-go access to secure chat, inBasket, schedule, charting, and other tools. Northwest Community Healthcare has approved specific versions of Citrix Receiver that can be used to access this website. Password: Powered by Tutelar Spiderworks © 2002 - 2020 Tutelar Technologies Inc. Logged out successfully. Being a UNC Hospital application, we here at the Department of Medicine Information Services don’t have direct access to … We would like to show you a description here but the site won’t allow us. UChart is the University of Miami Health System’s electronic medical record (EMR) system. Login with your Partners username and password 4.) Legal Notice Privacy Privacy Citrix Systems, Inc. All rights reserved. UChart is the University of Miami Health System’s electronic medical record (EMR) system. Click on the icon to launch “Epic Live – Hyperspace PRD” for normal access or in the event of downtime you can use the “HyperspaceREAD ONLY- -Epic Downtime” icon. Check the box above Download, and then click the Download button. Please see our Citrix Setup page for instructions to set up Citrix. From the Security tab, highlight Trusted Sites and click on the Sites button. If you have successfully completed the EPIC training and already have access to EPIC, you may now download the Citrix client. Note: All users will need to login with their UPN.  Username Download and Install the Citrix receiver onto your Mac/PC 3.) If you do not have an Ardent-affiliated email address, contact the Helpdesk to retrieve the User Principle Name (UPN) that has been created for you. To open a new session, please click here.click here. <br> <br>All Citrix-enabled applications are currently available via Citrix Web Access. <br> <br>Accessing Epic and other Hospital Applications For security reasons, our policy is to have users access any sensitive hospital applications, like Epic, through Citrix. Hurley has updated their Epic site. Citrix Logon Instructions: If you have any questions, please contact the JPS IT Helpdesk. Thank you for using BIG-IP. Log in with your NetID and password. Citrix Consolidated Login. <br>";s:7:"keyword";s:17:"citrix epic login";s:5:"links";s:6988:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stephen-king-grandchildren'>Stephen King Grandchildren</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raid-10-vs-raid-5'>Raid 10 Vs Raid 5</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=agency-by-design-thinking-routines'>Agency By Design Thinking Routines</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-dunciad-full-text'>The Dunciad Full Text</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=constellis-security-officer-pay'>Constellis Security Officer Pay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=doctor-who-season-12-episode-11'>Doctor Who Season 12 Episode 11</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-girl-who-lived-pdf'>The Girl Who Lived Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-leopard-film-amazon'>The Leopard Film Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manon-blackbeak-quotes'>Manon Blackbeak Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aashiq-%282001-720p%29'>Aashiq (2001 720p)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=murase-ayumu-gender'>Murase Ayumu Gender</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paul-jennings-unreal-pdf'>Paul Jennings Unreal Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tell-me-about-your-day-answer'>Tell Me About Your Day Answer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dispute-transaction-chime'>Dispute Transaction Chime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=meaning-of-alcatraz'>Meaning Of Alcatraz</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Schooled%27-season-2-episode-22'>Schooled' Season 2 Episode 22</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-beach-house-jacobsbaai'>The Beach House Jacobsbaai</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-ratcliffe-architect'>Peter Ratcliffe Architect</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clasificaci%C3%B3n-del-derecho'>Clasificación Del Derecho</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grace-farms-sanaa'>Grace Farms Sanaa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lebbeus-woods-sarajevo'>Lebbeus Woods Sarajevo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=to-the-aisle-lyrics-the-five-satins'>To The Aisle Lyrics The Five Satins</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=korengal-google-drive'>Korengal Google Drive</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-greater-danger-for-most-of-us-lies-not-in-setting-our-aim-too-high-and-falling-short-essay'>The Greater Danger For Most Of Us Lies Not In Setting Our Aim Too High And Falling Short Essay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=white-shadow-turbo-sticker'>White Shadow Turbo Sticker</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Langston-Hughes-timeline'>Langston Hughes Timeline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mao-asada-2019'>Mao Asada 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-are-the-7-things-you-need-for-a-balanced-diet%3F'>What Are The 7 Things You Need For A Balanced Diet?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joy-malken-steven-ford'>Joy Malken Steven Ford</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=don%27t-do-it-gif'>Don't Do It Gif</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-quangle-wangle%27s-hat-song'>The Quangle Wangle's Hat Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=war-of-the-races-shannara'>War Of The Races Shannara</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whispers-movie-2020'>Whispers Movie 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=comics-in-italiano'>Comics In Italiano</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Yard-Sale-Saturday'>Yard Sale Saturday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sudden-fear-imdbtristana-mid-reddit'>Sudden Fear Imdbtristana Mid Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Justin-Walker-confirmed'>Justin Walker Confirmed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dj-moore-fantasy-stats'>Dj Moore Fantasy Stats</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sing-don%27t-you-worry-bout-a-thing'>Sing Don't You Worry Bout A Thing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thin-democracy-definition'>Thin Democracy Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=black-crowes---before-the-frost-vinyl-2019'>Black Crowes - Before The Frost Vinyl 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-crossing-places'>The Crossing Places</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=if-you%27re-trapped-in-the-dream-of-the-other'>If You're Trapped In The Dream Of The Other</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-trek-online-ship-interiors'>Star Trek Online Ship Interiors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=giovanni-falcone-assassination'>Giovanni Falcone Assassination</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bj%C3%B8rnstjerne-bj%C3%B8rnson-poems'>Bjørnstjerne Bjørnson Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=g%C3%B6rlitz%2C-germany-map'>Görlitz, Germany Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anthem-lights-doxology'>Anthem Lights Doxology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chesapeake%2C-va-homes-for-sale-with-mother-in-law-suite'>Chesapeake, Va Homes For Sale With Mother In Law Suite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Square-Emerald'>The Square Emerald</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sofia-restaurant%2C-da-nang'>Sofia Restaurant, Da Nang</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ann-e-todd-child-actress'>Ann E Todd Child Actress</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nikolai-leskov-books'>Nikolai Leskov Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-experiment%3A-escape-room-nintendo-switch'>The Experiment: Escape Room Nintendo Switch</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,108 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2750:"Watch live 57.5 hours of news and local programming every week on KRIV. The latest local news in Houston, Texas. <br> <br>Roy's Breakfast and Lunch opened May 14 at 20220 FM 529, Ste. Gov. Watch CBSN the live news stream from CBS News and get the latest, breaking news headlines of the day for national news and world news today. Stay up-to-date with local news as well as U.S. and world news stories. Local News and Information for Houston, Texas and surrounding areas. Get up-to-date, breaking news for Houston and throughout the southeast Texas region on HoustonChronicle.com. Stay updated on the latest news from the greater Houston area with ABC13. Go to NBCNews.com for breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture. Trending. Houston, Texas breaking news, headlines, weather, and sports. <br> <br>Breaking News, Latest News and Current News from FOXNews.com. <br> <br>Houston Public Works officials identified the contractor involved with the broken pipe as Harper Brothers Construction. Houston Chronicle reports the latest news, sports, business, energy, medical, features, arts, entertainment and breaking special reports on chron.com View the latest US news, top stories, photos and videos from around the nation. HOUSTON -- Home-and-away series against the Dodgers in a 2017 World Series rematch highlights the Astros’ 2020 regular-season schedule, which will begin on July 24 at Minute Maid Park against the Mariners at 8:10 p.m. CT on MLB Network. Breaking news and video. <br> <br>To get the day’s top headlines delivered to your inbox every morning, sign up for our 5 Things newsletter. Local News on FOX 26 Houston. <br> <br>FOX 26 Houston brings local news to life serving the greater Houston area and including Fort Bend, Galveston, Montgomery, Brazoria and Liberty counties in southeast Texas. Abbott's mask order draws mixed reaction over holiday weekend. KHOU.com <br> <br>The Houston Press publishes daily news and analysis on politics, business, social justice, sports, crime, education and the environment. Houston Chronicle reports the latest news, sports, business, energy, medical, features, arts, entertainment and breaking special reports on chron.com <br> <br>As Governor Greg Abbott’s statewide mask order went into effect Friday, just ahead of the 4th of July holiday weekend, local authorities like the Montgomery County Sheriff’s Office say they will take no action to enforce the $250 fine for those in violation. Go to NBCNews.com for breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture. <br> <br>ABC13 is your source for breaking news and weather from Houston, Harris County and Texas. ";s:7:"keyword";s:21:"breaking news houston";s:5:"links";s:5874:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=me-or-i-grammar-girl'>Me Or I Grammar Girl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cantonese-reading-practice'>Cantonese Reading Practice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=via-podiensis-stages'>Via Podiensis Stages</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ainslie-park-leisure-centre'>Ainslie Park Leisure Centre</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-did-mandarins-do'>What Did Mandarins Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Legion-of-Fire%3A-Killer-Ants'>Legion Of Fire: Killer Ants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blood-in-pee'>Blood In Pee</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amphi-middle-school'>Amphi Middle School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charlie-and-the-chocolate-factory-blurb'>Charlie And The Chocolate Factory Blurb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hyperlink-in-presentation'>Hyperlink In Presentation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=serial-monogamy-definition-sociology'>Serial Monogamy Definition Sociology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-untamed-drama'>The Untamed Drama</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=italian-tutor%3A-grammar-and-vocabulary-workbook'>Italian Tutor: Grammar And Vocabulary Workbook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amphi-middle-school'>Amphi Middle School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nobuo-uematsu-2019'>Nobuo Uematsu 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=just-argentina-catalogo'>Just Argentina Catalogo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=around-the-world-in-eighty-days-pdf'>Around The World In Eighty Days Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-purple-cow-pdf'>The Purple Cow Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=were-families-separated-in-japanese-internment-camps'>Were Families Separated In Japanese Internment Camps</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orr-meaning-immigration'>Orr Meaning Immigration</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=critical-thinking-high-school'>Critical Thinking High School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-burrow-harry-potter-movie'>The Burrow Harry Potter Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wotv-sage-staff'>Wotv Sage Staff</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=New-Jersey-toll-roads-map'>New Jersey Toll Roads Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anselm-kiefer-works'>Anselm Kiefer Works</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jonah-meaning-medical'>Jonah Meaning Medical</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=she-moves-mountains-north-face'>She Moves Mountains North Face</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=we-are-the-fallen-band'>We Are The Fallen Band</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seraphina-picquery-house'>Seraphina Picquery House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beyond-beyond-belief'>Beyond Beyond Belief</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Hampdenshire-Wonder'>The Hampdenshire Wonder</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1000-s-hawkins-ln%2C-goddard%2C-ks-67052'>1000 S Hawkins Ln, Goddard, Ks 67052</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-yo-parents'>Michael Yo Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ink-master-season-11-winner'>Ink Master Season 11 Winner</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eastern-market-stores'>Eastern Market Stores</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blind-stitch-hem-by-hand'>Blind Stitch Hem By Hand</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=derrick-green-sepultura'>Derrick Green Sepultura</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hi-5-season-1'>Hi-5 Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=suburra-movie-netflix'>Suburra Movie Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amphitheatre-of-capua'>Amphitheatre Of Capua</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tin-tin-protein-full-name'>Tin Tin Protein Full Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=baggy-pants-90s'>Baggy Pants 90s</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ryue-nishizawa-structures'>Ryue Nishizawa Structures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-it-mean-when-you-dream-of-being-in-a-haunted-house'>What Does It Mean When You Dream Of Being In A Haunted House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=queens-of-the-stone-age-era-vulgaris-lp'>Queens Of The Stone Age Era Vulgaris Lp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=judith-mcnaught-series'>Judith Mcnaught Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unwritten-chords-no-capo'>Unwritten Chords No Capo</a>,
+";s:7:"expired";i:-1;}

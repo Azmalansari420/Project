@@ -1,0 +1,93 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2864:"<p>This can be done using the trim function in Perl. (don't use \s* as delimiter as that would match everywhere) In this case, the tab is represented by the code \t. </p> <p>This is better explained in the examples below. Everything is fine if theres no whitespace in the old name / new name, but as long as theres a space it simply doesn't work. Re: regex to split whitespace-separated values by Rob Dixon Re: regex to split whitespace-separated values by Ovid nntp.perl.org: Perl Programming lists via nntp and http. The delimiter is (-). It is not a library function but defined by the user whenever required. Let us see in this article how to split a string which has 2 words separated by spaces. Perl's versatile split function. Problem: You’re developing a Perl program, and you need to process every “word” in a text file within your program. Far more powerful than its feeble cousin join, split has some wonderful features that should make it a regular feature of any Perl programmer’s toolbox. This will split the the STRING at every match of the REGEX, but will stop after it found LIMIT-1 matches.So the number of elements it returns will be LIMIT or less.split REGEX - If STRING is not given, splitting the content of$_, the default variable of Perl at everymatch of the REGEX.split without any parameter will split the content of $_ using /\s+/ as REGEX. In some other languages there are functions called ltrim and rtrim to remove spaces and tabs from the beginning and from the end of a string respectively. In this example, split returns a list of strings. In Perl 5.20, the use of $`, $& and $' makes no speed difference. Recommended Articles. </p> <p>... By using \s+ as the expression for the split function, it splits everytime it encouters a series of spaces and hence the words are retrieved. </p> <p>Example 1. The trim function uses a regular expression to remove white spaces. split syntax is: Perl split Example. Starting with Perl 5.10, you can also use the equivalent variables $ {^PREMATCH}, $ {^MATCH} and $ {^POSTMATCH}, but for them to be defined, you have to specify the /p (preserve) modifier on your regular expression. Now, perl will look for 1 or more spaces when trying to figure out where to split - and in your example that would probabely work out just fine. Sometimes they even have a function called trim to remove white-spaces from both ends of a string.. Split function is used to split the string or expressions into fields by delimiter specified pattern by which we have used in split function. No results Perl versions. This works by supplying an empty regex pattern (“//”) to the split function. The Perl split function splits a string into an array. That brings us to the final version of this little program, which can split on any kind of whitespace (within reason!) Split a sentence into words. </p>";s:7:"keyword";s:24:"perl split on whitespace";s:5:"links";s:4138:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=human-psychology-and-behaviour'>Human Psychology And Behaviour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barbara-ehrenreich-amazon'>Barbara Ehrenreich Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tsugumi-Ohba-age'>Tsugumi Ohba Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cailee-spaeny-net-worth'>Cailee Spaeny Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=will-payne-oxford'>Will Payne Oxford</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paymobilitybill-not-my-car'>Paymobilitybill Not My Car</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-a-perfect-world-poets-of-the-fall-chords'>In A Perfect World Poets Of The Fall Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=for-the-love-of-life-spotify'>For The Love Of Life Spotify</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=patna-pin-code'>Patna Pin Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=night-windows-the-weakerthans'>Night Windows The Weakerthans</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=victor-brauner-eye'>Victor Brauner Eye</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pema-chodron-when-things-fall-apart-excerpt'>Pema Chodron When Things Fall Apart Excerpt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tom-gauld-instagram'>Tom Gauld Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=theodore-sturgeon-more-than-human-pdf'>Theodore Sturgeon More Than Human Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=underoath-lead-singer'>Underoath Lead Singer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-project-pat-doing-now'>What Is Project Pat Doing Now</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trevor-hoffman-hall-of-fame'>Trevor Hoffman Hall Of Fame</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kitty-hawk-kites-nags-head'>Kitty Hawk Kites Nags Head</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-eyer-wikipedia'>Richard Eyer Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=women%27s-health-problems-and-solutions'>Women's Health Problems And Solutions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wifredo-lam-art-style'>Wifredo Lam Art Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rob-Marciano-Survivor'>Rob Marciano Survivor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chomped-make-sentence'>Chomped Make Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=39-clues-superspecial'>39 Clues Superspecial</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-infamous-life%3A-the-autobiography-of-mobb-deep%27s-prodigy-pdf'>My Infamous Life: The Autobiography Of Mobb Deep's Prodigy Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=duolingo-swedish-podcast'>Duolingo Swedish Podcast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=annapolis-movie-accuracy'>Annapolis Movie Accuracy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mindsight%3A-the-new-science-of-personal-transformation'>Mindsight: The New Science Of Personal Transformation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=you-are-the-placebo-summary'>You Are The Placebo Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=equivalent-meaning-in-tamil'>Equivalent Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seals-on-chinese-scrolls'>Seals On Chinese Scrolls</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-family-history-movies'>Best Family History Movies</a>,
+";s:7:"expired";i:-1;}

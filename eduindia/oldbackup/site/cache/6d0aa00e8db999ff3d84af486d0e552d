@@ -1,0 +1,101 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3777:"<br>It is named after the famous Italian engineer and economist, Vilfredo Pareto. For a system with a number of design parameters which are under the control of the decision maker, as in Fig. The concepts of multi-objective optimisation problems and the Pareto optimality solution can be clarified in the following general example. The second is Pareto… An allocation of goods is Pareto optimal when there is no possibility of redistribution in a way where at least one individual would be better off while no other individual ends up worse off. Pareto is best known for two concepts that are named after him. A Pareto-optimal allocation of resources is achieved when it is not possible to make anyone better off without making someone else worse off. It addresses the problem of allocating resources in any given situation. It is named after the famous Italian engineer and economist, Vilfredo Pareto. <br> <br>problems is to find a set of solutions, (called a Pareto set shown as the Pareto optimal frontier in Figure 1), instead of finding a single aggregated objective-dependent global optimum. Pareto efficiency, or Pareto optimality, is a state of allocation of resources in which it is impossible to make any one individual better off without making at least one individual worse off. ‘Pareto optimality’ is a concept which implies that the situation in which no person could be made better off without making another person worse off is the optimal point. The concept is named after Vilfredo Pareto (1848–1923), Italian engineer and economist, who used the concept in his studies of economic efficiency and income distribution. <br> <br>Pareto Optimality is a concept used in economics to model the efficiency problem. Born in France in 1848, Vilfredo Pareto was the son of an Italian marquis and a French mother. • The term derives from the work of Vilfredo Pareto (1848–1923), an Italian economist and sociologist. He was also the first to discover that income follows a Pareto Optimality in Production and Perfect Competition: Pareto optimality in production is guaranteed under perfect competition. Pareto Optimality The predominant solution concept in defining solutions for multiobjective optimization problems is that of Pareto optimality (Pareto, 1906). Vilfredo Pareto. He was interested in finding solutions that helped some people without hurting anyone else. An allocation of goods is Pareto optimal when there is no possibility of redistribution in a way where at least one individual would be … The family moved to Italy when he was four, and Pareto was schooled in Florence, then in Turin, where he acquired a PhD in engineering. <br> <br> <br>He made several important contributions to economics, particularly in the study of income distribution and in the analysis of individuals' choices. Pareto-optimality, a concept of efficiency used in the social sciences, including economics and political science, named for the Italian sociologist Vilfredo Pareto.. A state of affairs is Pareto-optimal (or Pareto-efficient) if and only if there is no alternative state that would make some people better off without making anyone worse off. <br> Pareto Optimality is a concept used in economics to model the efficiency problem. Vilfredo Federico Damaso Pareto (born Wilfried Fritz Pareto; ; 15 July 1848 – 19 August 1923) was an Italian engineer, sociologist, economist, political scientist and philosopher.He made several important contributions to economics, particularly in the study of income distribution and in the analysis of individuals’ choices. PARETO OPTIMALITY. Efficiency in Production. It addresses the problem of allocating resources in any given situation. The first and most familiar is the concept of Pareto optimality. <br>";s:7:"keyword";s:26:"vilfredo pareto optimality";s:5:"links";s:4948:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lafayette-escadrille-pilots'>Lafayette Escadrille Pilots</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pavilion-kl-map'>Pavilion Kl Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-straub-news'>Peter Straub News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary-martin-anne-stringfield'>Mary Martin Anne Stringfield</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=china-evergrande-emerald-bay'>China Evergrande Emerald Bay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=far-cry-primal-2-release-date'>Far Cry Primal 2 Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mathematical-logic-for-computer-science'>Mathematical Logic For Computer Science</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bugsy-Siegel-wife'>Bugsy Siegel Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scarpetta-vegas-happy-hour'>Scarpetta Vegas Happy Hour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zari%2C-not-zari-release-date'>Zari, Not Zari Release Date</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=To-Die-But-Once'>To Die But Once</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=taylor-lacher-cause-of-death'>Taylor Lacher Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=3-ancient-cities'>3 Ancient Cities</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chinese-Army-General'>Chinese Army General</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alec-and-magnus-fanfiction'>Alec And Magnus Fanfiction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-long-does-a-history-phd-take'>How Long Does A History Phd Take</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cru-meaning-in-french'>Cru Meaning In French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=examples-of-street-smart'>Examples Of Street Smart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=editors-racing-rats-lyrics'>Editors Racing Rats Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mummy-dummy-looney-tunes'>Mummy Dummy Looney Tunes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jim-humble-age'>Jim Humble Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rodney-hood-duke'>Rodney Hood Duke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Glasgow-Coma-Scale-test'>Glasgow Coma Scale Test</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Kings-of-Frog-Island'>The Kings Of Frog Island</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=orangeville-movie-theatre'>Orangeville Movie Theatre</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-mitten-printable-book'>The Mitten Printable Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=villa-restaurant-menu-williamsport'>Villa Restaurant Menu Williamsport</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=things-to-do-in-cape-verde---santa-maria'>Things To Do In Cape Verde - Santa Maria</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%2B-18moreTakeoutBlend-Hamburger%2C-Bioburger-Victoire%2C-and-more'>+ 18moreTakeoutBlend Hamburger, Bioburger Victoire, And More</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=proselytize-in-spanish'>Proselytize In Spanish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tokyo-anime-district'>Tokyo Anime District</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heb-employee-shirts'>Heb Employee Shirts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prodigal-son-season-3'>Prodigal Son Season 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jimmy-Fallon-office'>Jimmy Fallon Office</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=batman-versus-predator-2-of-3'>Batman Versus Predator 2 Of 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-louis-deniot-book'>Jean-louis Deniot Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i%27m-just-a-loser-tiktok-dance'>I'm Just A Loser Tiktok Dance</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-nouri-flashdance'>Michael Nouri Flashdance</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=queen-emma-summer-palace'>Queen Emma Summer Palace</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=richard-li-mit'>Richard Li Mit</a>,
+";s:7:"expired";i:-1;}

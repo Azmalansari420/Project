@@ -1,0 +1,130 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3721:"<p>I use Jekyll for my blog, somehow I prefer to use RVM (Ruby Version Manager) instead of installing Ruby directly. To install an .rpm package on Fedora Linux, enter the following: sudo rpm –i sample_file.rpm. Another method is to use the dnf utility to install the package: sudo dnf localinstall sample_file.rpm. </p> <p>RVM is a tool for installing and managing multiple Ruby versions. </p> <p>I want to use rvm for: rvm install 1.9.3. Jekyll is simple static site generator with Ruby. rvm requirements is trying to install iconv-devel package in Fedora 18, but the package isn't in Fedora repositories. </p> <p>It is written in Ruby. Just as in CentOS, the –i switch tells RPM to install the software. In this tutorial we recommend that you use Ruby Version Manager (RVM) for this purpose. </p> <p>Prerequisites. How to Install Ruby on CentOS/RHEL 7/6 .Ruby is a dynamic, object-oriented programming language focused on simplicity and productivity. Just as in CentOS, the –i switch tells RPM to install the software. Install Ruby on Rails on CentOS 7. </p> <p>It takes html templates and posts written in Markdown to generate static website which is ready to deploy on your favorite server. Single-User Install Location: ~/.rvm/ If the install script is run as a standard, non-root user, RVM will install into the current users's home directory. Install Rails. rvm: command not found . </p> <p>Unlike many Linux tools, DNF is not a set of initials. Before you can obtain up-to-date Ruby, you need RVM. </p> <p>RVM is also helpful for managing multiple version of Ruby without conflicting, and we can switch the system to any version of Ruby using a single command. Another method is to use the dnf utility to install the package: sudo dnf localinstall sample_file.rpm. </p> <p>Additionally, RVM's gemset management uses a common cache directory, so only one downloaded version of each gem resides on … </p> <p>I want to use rvm for: rvm install 1.9.3. In this section, we’ll cover all the steps to install the latest release of KVM hypervisor on Fedora. It much easier to maintaince and trouble shotting if incompatible gems or ruby happen. It can also manage different gemsets. </p> <p>RVM is a command line tool that allows us to install, manage, and work with different ruby environments. rbenv provides an easy way to install and manage the versions of Ruby, and it is simpler than RVM. </p> <p>Prerequisites. </p> <p>If the rvm install script complains about certificates you need to follow the displayed instructions. RVM lets you add a small text file to your application's repository, instead of checking in tons of gems which would needlessly inflate your repository size. </p> <p>5. To install an .rpm package on Fedora Linux, enter the following: sudo rpm –i sample_file.rpm. RVM (Ruby Version Manager). Install rbenv. RVM allows you to install and manage multiple installations of Ruby on your system. Bundler is a popular tool for managing application gem dependencies.  As said earlier, we will be using rbenv. After I installed rvm using the following command in my Fedora 12 system: \curl -L https://get.rvm.io | bash -s stable –ruby When I want to use rvm, it says . </p> <p>We’ll also include the installation of management tools like libguestfs-tools. 2. </p> <p>Ok, you need some package installed because some version of ruby binary are not available for Fedora via RVM, for example below: Create a Test Application. What is the solution. Install RVM. </p> <p>… Conclusion. Installing Ruby with RVM. </p> <p>Next, remove RVM with the following command: rm -rf ~/.rvm At this point, you no longer have an . Before installing Ruby, you must install the dependent packages. 3. </p>";s:7:"keyword";s:18:"fedora install rvm";s:5:"links";s:8462:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=axon-reflex-erythema'>Axon Reflex Erythema</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%22restless%22-bbc-watch-online'>"restless" Bbc Watch Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zoe-zimmer-model'>Zoe Zimmer Model</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edogawa-ranpo-books'>Edogawa Ranpo Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-office-season-4-episode-11-full-episode'>The Office Season 4 Episode 11 Full Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Woman-in-the-Sun'>Woman In The Sun</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arjun-kanungo-instagram'>Arjun Kanungo Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cicada-biblical-meaning'>Cicada Biblical Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-you%27re-wrong-quotes'>When You're Wrong Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-kind-of-music-does-queen-elizabeth-listen-to'>What Kind Of Music Does Queen Elizabeth Listen To</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=samuel-delany-books'>Samuel Delany Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tom-franco-art'>Tom Franco Art</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=liz-smith-actress'>Liz Smith Actress</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=italian-shoes-lyrics'>Italian Shoes Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Riviera-Golf-and-Tennis'>Riviera Golf And Tennis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercy-hospital-chicago-jobs'>Mercy Hospital Chicago Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arjun-movie-telugu'>Arjun Movie Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=editors---violence'>Editors - Violence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miguel-cabrera-art-style'>Miguel Cabrera Art Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nujood-chapter-2'>Nujood Chapter 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jorge-mendes-instagram'>Jorge Mendes Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=follow-jesus-scripture'>Follow Jesus Scripture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=evan-evagora-instagram'>Evan Evagora Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dod-stop-loss'>Dod Stop Loss</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edna-st-vincent-millay-poems-about-death'>Edna St Vincent Millay Poems About Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prince-seven-lyrics'>Prince Seven Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trevor-tordjman-wife'>Trevor Tordjman Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-does-your-garden-grow-book'>How Does Your Garden Grow Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charlie-last-name-wilson-chords'>Charlie Last Name Wilson Chords</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=killer-seven-netflix'>Killer Seven Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=six-days-seven-nights-streaming'>Six Days Seven Nights Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-fiend-with-twenty-faces-pdf'>The Fiend With Twenty Faces Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-can-my-manager-do-better'>What Can My Manager Do Better</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-did-frank-luke-do'>What Did Frank Luke Do</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-commedia-umana-balzac'>La Commedia Umana Balzac</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zoey-tur-kobe'>Zoey Tur Kobe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-happiness-Project-outline'>The Happiness Project Outline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dino-crisis-regina'>Dino Crisis Regina</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-we%27ll-see-mean'>What Does We'll See Mean</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-adventure-book-up'>The Adventure Book Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-piovra-movie'>La Piovra Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hercule-poirot%3A-the-complete-short-stories-pdf'>Hercule Poirot: The Complete Short Stories Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-competitive-is-wharton-emba'>How Competitive Is Wharton Emba</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gandalf-quotes-time'>Gandalf Quotes Time</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=puppy-breath-candle'>Puppy Breath Candle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crisis-text-line-volunteer-benefits'>Crisis Text Line Volunteer Benefits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-was-a-doctor-in-auschwitz-sparknotes'>I Was A Doctor In Auschwitz Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seven-silly-eaters-pdf'>Seven Silly Eaters Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-wyatt-poetry'>Thomas Wyatt Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=woody-boyd-quotes'>Woody Boyd Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atticus-shaffer-2019'>Atticus Shaffer 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bolt-thrower---the-ivth-crusade'>Bolt Thrower - The Ivth Crusade</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=project%3A-snowblind-deus-ex'>Project: Snowblind Deus Ex</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=creative-capital-fx'>Creative Capital Fx</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chang-song-community'>Chang Song Community</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=you-talkin%27-to-me-quote'>You Talkin' To Me Quote</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=letterbomb-lyrics-meaning'>Letterbomb Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Arne-Jacobsen-quotes'>Arne Jacobsen Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vector-group-subsidiaries'>Vector Group Subsidiaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Westonaria-Local-Municipality'>Westonaria Local Municipality</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=star-wars%3A-jedi-knight%3A-jedi-academy-mods-nexus'>Star Wars: Jedi Knight: Jedi Academy Mods Nexus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mag-aerospace-salary'>Mag Aerospace Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sterling-hayden-movies'>Sterling Hayden Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shop-4-you'>Shop 4 You</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-wild-hearts-can%27t-be-broken-on-hulu'>Is Wild Hearts Can't Be Broken On Hulu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-counterfeit-traitor-movie-review'>The Counterfeit Traitor Movie Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=epping-nh-assessor'>Epping Nh Assessor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=time-and-chance-meaning'>Time And Chance Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lush-clothing-tops'>Lush Clothing Tops</a>,
+";s:7:"expired";i:-1;}

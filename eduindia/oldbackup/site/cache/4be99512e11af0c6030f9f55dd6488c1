@@ -1,0 +1,90 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3770:"<p>She specializes in 20th-century American art with an interest in surrealisms, craft, and self-taught makers. The Path To Paradise: Judith Schaechter's Stained-Glass Art. The Path to Paradise: Judith Schaechter’s Stained-Glass Art (Rochester: RIT Press, 2020), 3. Schaechter’s painted glass is not what is commonly found in church windows. Schaechter and the Memorial Art Gallery have chosen to respond with a virtual tour of her exhibit at 6 p.m. Thursday, May 7, from her home in Philadelphia. </p> <p>After this exhibit, Schaechter will have her first major retrospective opening in February 2020 at the Memorial Art Gallery at the University of Rochester (New York). With brilliant color and dazzling beauty, Schaechter seduces the viewer to look closely at her work. Further down the road, the Des Moines Arts Center awaits an early 2021 arrival of "The Path to Paradise." The artist states: “Beauty is what has always captured the viewer’s attention and allows them to spend time with my work. The exhibition will be on view in Rochester from Feb. 16 to May 24, 2020, after which it will travel to Toledo Museum of Art (June 27 to Oct. 4, … Organized by the Memorial Art Gallery of the University of Rochester, the exhibition will be on view in Rochester, New York, from Feb. 15 through May 24, 2020. Judith Schaechter. Schaechter has stretched the medium of stained glass into a potent and incisive art form for the 21st century, boldly paving her path in the diverse arena of contemporary art. The Memorial Art Gallery (MAG) of the University of Rochester is pleased to present The Path to Paradise: Judith Schaechter’s Stained-Glass Art, the first survey and major scholarly assessment of this groundbreaking artist's 37-year career. The Memorial Art Gallery (MAG) of the University of Rochester is pleased to present The Path to Paradise: Judith Schaechter’s Stained-Glass Art, the first survey and major scholarly assessment of this groundbreaking artist's 37-year career. Once involved, it is easier for them to read the content held just below the surface.” ... Memorial Art Gallery of the University of Rochester 500 University Ave., Rochester NY 14607 Rochester, NY, October 22, 2019 — The Memorial Art Gallery (MAG) of the University of Rochester is pleased to present The Path to Paradise: Judith Schaechter’s Stained-Glass Art, the first survey and major scholarly assessment of this groundbreaking artist's 37-year career. </p> <p>Rochester, NY 14607 United States mag.rochester.edu Instagram. </p> <p>The retrospective will cover the span of her career with about 45 objects with an accompanying book which will include three essays and an interview with Schaechter. In honor of the 100th anniversary of the passage of the 19th Amendment, MAG is pleased to announce the presentation of "Season of Women". It’ll be streamed live on Facebook. Judith Schaechter is a Philadelphia-based artist known for her work in the medium of stained glass. After Toledo, the show will end its run in Iowa at the Des Moines Art Center. • Baker, Alex (Foreword), Judith Schaechter, Extra Virgin: The Stained Glass of Judith Schaechter, Tonearm Productions (2006) ISBN 0-9776523-1-9 February 16- May 24, 2020. The exhibit will then travel to Toledo, Ohio and Des Moines, Iowa.  Now on view through September 13, 2020 Watch a Conversation with Judith Schaechter + Jessica Marten. Listen in on the opening day of "The Path to Paradise: Judith Schaechter’s Stained-Glass Art" as Judith Schaechter speaks of her work at 1 pm. Judith Schaechter Stained Glass, Ja’Tovia Gary, Chitra Ganesandesh, Zoe Leonard.In order of appearance below, except for Zoe Leonard. The objects on view are drawn from both private and institutional collections. </p>";s:7:"keyword";s:27:"judith schaechter rochester";s:5:"links";s:3658:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=every-little-thing-she-does-%7C-mlp'>Every Little Thing She Does | Mlp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=int-ka-full-form'>Int Ka Full Form</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hailemariam-desalegn-pronunciation'>Hailemariam Desalegn Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-old-is-amelia-bedelia'>How Old Is Amelia Bedelia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=al-michaels-miracle'>Al Michaels Miracle</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anti-oedipus-and-a-thousand-plateaus'>Anti Oedipus And A Thousand Plateaus</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=entre-amis-clothing'>Entre Amis Clothing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eames-house-architect'>Eames House Architect</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bleeding-Heart-Square'>Bleeding Heart Square</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=celaena-sardothien-actress'>Celaena Sardothien Actress</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Estonian-Army-Afghanistan'>Estonian Army Afghanistan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=killer-party-%281986-watch-online%29'>Killer Party (1986 Watch Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vatican-approved-book-list'>Vatican Approved Book List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=balin-and-dwalin'>Balin And Dwalin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amelia-bedelia-chapter-books-9-12'>Amelia Bedelia Chapter Books 9-12</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brown-sugar-book-online'>Brown Sugar Book Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-everly-a-word'>Is Everly A Word</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-the-name-olivia-mean'>What Does The Name Olivia Mean</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=AQA-GCSE-French'>AQA GCSE French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miles-franklin-2019-shortlist'>Miles Franklin 2019 Shortlist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=1-who-was-priscus-do-you-think-his-description-is-reliable-why'>1 Who Was Priscus Do You Think His Description Is Reliable Why</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-do-you-draw-the-line'>Where Do You Draw The Line</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=minutemen---corona-%28acoustic%29'>Minutemen - Corona (acoustic)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-outsiders-sergel'>The Outsiders Sergel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Armitage-III-Wiki'>Armitage III Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=manhattan-island-map'>Manhattan Island Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rorrey-Fenty-girlfriend'>Rorrey Fenty Girlfriend</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=watch-the-4th-man'>Watch The 4th Man</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rawnald-gregory-erickson-the-second-lyrics'>Rawnald Gregory Erickson The Second Lyrics</a>,
+";s:7:"expired";i:-1;}

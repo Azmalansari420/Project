@@ -1,0 +1,145 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:5331:"<p>TIBCO Spotfire: A Comprehensive Primer: Building enterprise-grade data analytics and visualization solutions, 2nd Edition Andrew Berridge. </p> <p>TIBCO Spotfire: A Comprehensive Primer: Building enterprise-grade data analytics and visualization solutions, 2nd Edition: Amazon.es: Berridge, Andrew, Phillips, Michael: Libros en idiomas extranjeros </p> <p>... Building enterprise-grade data analytics and visualization solutions, 2nd Edition. TIBCO Spotfire: A Comprehensive Primer: Building enterprise-grade data analytics and visualization solutions, 2nd Edition “Starting with data and visualization concepts, this book takes you on a journey through increasingly advanced topics to help you work toward becoming a professional analytics solution provider. </p> <p>Date: April 30, 2019. Häftad Engelska, 2019-04-30. </p> <p>Michael Phillips is the original author of the first edition of TIBCO Spotfire: A Comprehensive Primer. Building enterprise-grade data analytics and visualization solutions, 2nd Edition, TIBCO Spotfire: A Comprehensive Primer, Michael Phillips, Andrew Berridge, Packt Publishing. TIBCO Spotfire: A Comprehensive Primer: Building enterprise-grade data analytics and visualization solutions, 2nd Edition | Berridge, Andrew, Phillips, Michael | ISBN: 9781787121324 | Kostenloser Versand für alle Bücher mit Versand und Verkauf duch Amazon. </p> <p>This book assumes no prior knowledge of Spotfire or even basic data and visualization concepts. </p> <p>ISBN: 1787121321. </p> <p>Michael Phillips is the original author of the first edition of TIBCO Spotfire: A Comprehensive Primer. TIBCO Spotfire: A Comprehensive Primer Andrew Berridge,Michael Phillips — … Find helpful customer reviews and review ratings for TIBCO Spotfire: A Comprehensive Primer: Building enterprise-grade data analytics and visualization solutions, 2nd Edition at Amazon.com. He is an eClinical product innovator specializing in informatics solutions that support the drug development process generally, and clinical risk management in particular. Amazon配送商品ならTIBCO Spotfire: A Comprehensive Primer: Building enterprise-grade data analytics and visualization solutions, 2nd Editionが通常配送無料。更にAmazonならポイント還元本が多数。Berridge, Andrew, Phillips, Michael作品ほか、お急ぎ便対象商品は当日お届けも可能。 </p> <p>TIBCO Spotfire-A Comprehensive Primer Second Edition Building enterprise-grade data analytics and visualization solutions. Use TensorFlow, SageMaker, Rekognition, Cognitive Services, and others to orchestrate the complexity of open source and create innovative solutions. You can access the sample data here: TIBCO Spotfire Primer - Sample Data Please also refer to the Errata below. Language: English. He is an eClinical product innovator specializing in informatics solutions that support the drug development process generally, and clinical risk management in particular.  </p> <p>It will not be possible to complete the example witho… Read honest and unbiased product reviews from our users. </p> <p>TIBCO Spotfire: A Comprehensive Primer: Building enterprise-grade data analytics and visualization solutions, 2nd Edition (Inglese) Copertina flessibile – 30 aprile 2019 Read this book using Google Play Books app on your PC, android, iOS devices. Des milliers de livres avec la livraison chez vous en 1 jour ou en magasin avec -5% de réduction . </p> <p>He is an eClinical product innovator … Start by marking “TIBCO Spotfire: A Comprehensive Primer: Building enterprise-grade data analytics and visualization solutions, 2nd Edition” as Want to Read: Read honest and unbiased product reviews from our users. TIBCO Data Science - Collaborative advanced analytics platform, helping Data Scientists model, deploy, and scale AI/ML solutions across their organization; TIBCO Streaming - Enterprise-grade, cloud-ready streaming analytics for quickly building real-time applications at a fraction of the cost and risk of alternatives 429. </p> <p>Storytelling with Data: A Data Visualization Guide for Business Professionals </p> <p>Michael Phillips is the original author of the first edition of TIBCO Spotfire: A Comprehensive Primer. Read TIBCO Spotfire: A Comprehensive Primer: Building enterprise-grade data analytics and visualization solutions, 2nd Edition book reviews & author details and more at Amazon.in. 0 명 참여. Read "TIBCO Spotfire: A Comprehensive Primer Building enterprise-grade data analytics and visualization solutions, 2nd Edition" by Andrew Berridge available from Rakuten Kobo. </p> <p>Сategory: Education | Programming. </p> <p>Format: True PDF. av Andrew Berridge, Michael Phillips. He is an eClinical product innovator specializing in informatics solutions that support the drug development process generally, and clinical risk management in particular. </p> <p>2019.04.29. </p> <p>Amazon配送商品ならTIBCO Spotfire: A Comprehensive Primer: Building enterprise-grade data analytics and visualization solutions, 2nd Editionが通常配送無料。更にAmazonならポイント還元本が多数。Berridge, Andrew, Phillips, Michael作品ほか、お急ぎ便対象商品は当日お届けも可能。 Köp. Building enterprise-grade data analytics and visualization solutions, 2nd Edition. </p>";s:7:"keyword";s:69:"tibco spotfire: a comprehensive primer building enterprise grade data";s:5:"links";s:10554:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kieron-williamson-net-worth'>Kieron Williamson Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-eustace-linkedin'>John Eustace Linkedin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vatican-approved-book-list'>Vatican Approved Book List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blood-and-the-moon-yeats-analysis'>Blood And The Moon Yeats Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=warriors%3A-the-new-prophecy-midnight'>Warriors: The New Prophecy Midnight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=they-can-live-in-the-desert-but-nowhere-else-review'>They Can Live In The Desert But Nowhere Else Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beyond-westworld-streaming'>Beyond Westworld Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=metalocalypse-full-episodes'>Metalocalypse Full Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-alexanian-net-worth'>David Alexanian Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=helen-hoang-next-book'>Helen Hoang Next Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unequal-sign-windows'>Unequal Sign Windows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=double-wedding-definition'>Double Wedding Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hope-against-hope-scripture'>Hope Against Hope Scripture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stop-the-clock'>Stop The Clock</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=falaise-pocket-corridor-of-death'>Falaise Pocket Corridor Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mind-reader-synonyms'>Mind Reader Synonyms</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-black-flamingo-review'>The Black Flamingo Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=easy-cast-season-3'>Easy Cast Season 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crisis-text-line-volunteer-benefits'>Crisis Text Line Volunteer Benefits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=villa-restaurant-menu-williamsport'>Villa Restaurant Menu Williamsport</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zackscottgames-mario-odyssey-2'>Zackscottgames Mario Odyssey 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Cultural-Animal'>The Cultural Animal</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=weather-richmond-bom'>Weather Richmond Bom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cicada-meaning-in-spanish'>Cicada Meaning In Spanish</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=little-briar-rose-game'>Little Briar Rose Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glasgow-score-for-pancreatitis'>Glasgow Score For Pancreatitis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brian-selznick-harry-potter-amazon'>Brian Selznick Harry Potter Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atomic-structure-pdf'>Atomic Structure Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-to-do-in-case-of-fire-in-a-building'>What To Do In Case Of Fire In A Building</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jen-wilkin-god-of-creation-review'>Jen Wilkin God Of Creation Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=body-is-a-temple-quotes'>Body Is A Temple Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alcatel-a3-xl-9008x'>Alcatel A3 Xl 9008x</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-domino%27s-crust'>Best Domino's Crust</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heavy-foods-to-eat'>Heavy Foods To Eat</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caribbean-gooseberry-stew'>Caribbean Gooseberry Stew</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=10-branches-of-theology'>10 Branches Of Theology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alaska-airlines-flight-261-air-crash-investigation'>Alaska Airlines Flight 261 Air Crash Investigation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-the-name-haley-mean-in-the-bible'>What Does The Name Haley Mean In The Bible</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=force-your-way-orchestrion-roll'>Force Your Way Orchestrion Roll</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=OG-Maco-height'>OG Maco Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-is-tbilisi-georgia-on-world-map'>Where Is Tbilisi Georgia On World Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=julia-mckenzie-2019'>Julia Mckenzie 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pete-burns-2016'>Pete Burns 2016</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=life-skills-every-woman-should-know'>Life Skills Every Woman Should Know</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gospel-for-today-reflection'>Gospel For Today Reflection</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-first-names'>List Of First Names</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=power-outage-california-today-2020'>Power Outage California Today 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shuriken-naruto-origami'>Shuriken Naruto Origami</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=low-pressure-remedy'>Low Pressure Remedy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wroclaw%2C-poland-weather'>Wroclaw, Poland Weather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frost-line-california'>Frost Line California</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sister-of-the-bride-susan-mallery'>Sister Of The Bride Susan Mallery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=break-cards-autism'>Break Cards Autism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scafell-pike-webcam'>Scafell Pike Webcam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=3753-cruithne-orbit'>3753 Cruithne Orbit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=google-drive-link-sharing'>Google Drive Link Sharing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=demario-davis-wife'>Demario Davis Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=farm-for-sale-in-york'>Farm For Sale In York</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bioshock-infinite-switch'>Bioshock Infinite Switch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=industrial-design-raymond-loewy'>Industrial Design Raymond Loewy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rove-concepts-executive-side-chair'>Rove Concepts Executive Side Chair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=california-dairy-distributors'>California Dairy Distributors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kingdom-anime-episode-list'>Kingdom Anime Episode List</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=witchery-dresses-2018'>Witchery Dresses 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lavender-tree-care-instructions'>Lavender Tree Care Instructions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hannibal-Hamlin-House'>Hannibal Hamlin House</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=max-and-ruby-roger'>Max And Ruby Roger</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=casablanca%2C-morocco-tourist-information'>Casablanca, Morocco Tourist Information</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=soldier-on-origin'>Soldier On Origin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=derrick-green-sepultura'>Derrick Green Sepultura</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Brain-Dead-13-Deaths'>Brain Dead 13 Deaths</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ralph-bunche-education'>Ralph Bunche Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fgm-statistics-2018'>Fgm Statistics 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=flights-to-arkansas'>Flights To Arkansas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stephen-marcus-attorney'>Stephen Marcus Attorney</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robot-wars-cast'>Robot Wars Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unreal-reality-of-numbers'>Unreal Reality Of Numbers</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-food-in-tokyo-japan'>Chinese Food In Tokyo Japan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pine-bluff%2C-arkansas-race-population'>Pine Bluff, Arkansas Race Population</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-pronounce-dithyramb'>How To Pronounce Dithyramb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-shaw-kiran-mazumdar-shaw'>John Shaw Kiran Mazumdar-shaw</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dominic-cooper-gemma-chan-split'>Dominic Cooper Gemma Chan Split</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bracket-symbol-in-Word'>Bracket Symbol In Word</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=this-can%27t-be-happening-netflix'>This Can't Be Happening Netflix</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,124 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4660:"<br>The heat pump works in conjunction with the air handler to distribute the warm or cool air to interior spaces. It absorbs naturally-occurring heat from the air, earth or water outside to heat your home and water. A heat pump uses external power to accomplish the work of transferring energy from the heat source to the heat sink. <br> <br>Homeowners primarily install geothermal heat pumps -- which draw heat from the ground during the winter and from the indoor air during the summer -- … It could cost less if the heat pump is included as part of the building specification, rather than having to retrofit underfloor heating later on. <br> <br>The Hydrotech 2000 Heat Pump by Carrier is a system that utilizes the warm air that a heat pump gives off to help heat water, as well. Some heat pumps can heat a home’s water, too. These pumps take heat from the outside air and feed it into your home through fans. How a Heat Pump Works. Heat pumps move thermal energy  in the opposite direction of spontaneous heat transfer, by absorbing heat from a cold space and releasing it to a warmer one. In a way, if you know how an air conditioner works, then you already know a lot about how a heat pump works. <br> <br>This greatly improves the heat pump’s efficiency. <br> <br>Adding to its performance is a built-in microprocessor that varies fan speeds and output depending on the need. <br> <br> <br>Because they remove heat from the air, any type of air-source heat pump system works more efficiently in a warm climate. In essence, a heat pump is like a fridge working in reverse. <br> <br>This system is more commonly known as an air-air heat pump, because it takes heat from outdoor air and transfers it to indoor air ducts. And it’s not an air conditioner, but it can cool your home. Step 1. This is because heat pumps and air conditioners operate in a very similar way. The process consists of an evaporator, a compressor and a condenser. An ASHP works a bit like a refrigerator in reverse. There are many descriptions of how a heat pump works, at times it can seem confusing. In addition to the electrical components and a fan, a heat pump system includes: Compressor: Moves the refrigerant through the system. It is actually a simple and fantastic technology that produces more energy for your home than it uses. The key to allowing the air-air heat pump … It’s not a furnace, but it can warm your home. Liquid refrigerant is pumped through an expansion device at the indoor coil, which is functioning as the evaporator. Heat pumps are typically used to pull heat out of the air or ground to heat a home or office building, but they can be reversed to cool a building.  <br> <br>With the right kind of modifications, air-source systems can also work with other types of indoor heating systems. A heat pump is a device that uses a small amount of energy to move heat from one location to another. Heat pumps rely on this physical property, putting heat in contact with cooler, lower pressure environments so that the heat can naturally transfer. Air-to-water heat pumps may be best suited to new-build properties. An inverter, or variable-speed, heat pump maximizes efficiency and … An ECARF Quality Seal provides protection for people with allergies or skin sensitivities. <br> Since the ground and air outside always contain some heat, a heat pump can supply heat to a house even on cold winter days. The fan circulates air through the evaporator coil that […] HOW A HEAT PUMP WORKS Click Here to View Models An Aquatherm heat pump utilizes proven refrigerant technology to capture the heat in the outside air and transfer it to the pool water. <br> <br>The Bosch Serie 6 8kg Heat Pump Tumble Dryer boasts an A++ energy rating, a self-cleaning condenser, and sensitive drying system paired with a unique drum structure to ensure that it is fabric-friendly. Heat pump process. Control board: Controls whether the heat pump system should be in cooling, heating or defrost mode. The heat pump cycle is fully reversible, and heat pumps can provide year-round climate control for your home – heating in winter and cooling and dehumidifying in summer. <br> <br>Heat works by moving from an already warm object to a cooler object. Unlike a standard furnace or air conditioner, heat pumps offer a high level of energy efficiency to keep utility costs low 1. In the summer, the cycle is reversed to expel heat from the home and cool the air. The most common design of a heat pump involves four main components – a condenser, an expansion valve, an evaporator Refrigerant is used because of its ability to absorb and transfer heat energy. <br>";s:7:"keyword";s:22:"heat pump how it works";s:5:"links";s:8028:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Types-of-photography-techniques'>Types Of Photography Techniques</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naomi-name-pronunciation'>Naomi Name Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caroline-wozniacki-harvard'>Caroline Wozniacki Harvard</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Challenge-Season-35-Episode-1'>The Challenge Season 35 Episode 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=swept-away-meaning'>Swept Away Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=taungaroa-emile-wikipedia'>Taungaroa Emile Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=she-moves-mountains-north-face'>She Moves Mountains North Face</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leicester-hemingway-new-atlantis'>Leicester Hemingway New Atlantis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=steel-train-movie'>Steel Train Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=runaways-vol-5-32'>Runaways Vol 5 32</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trigger-warning-song'>Trigger Warning Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-celebrate-spring-equinox-pagan'>How To Celebrate Spring Equinox Pagan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeff-altman-career'>Jeff Altman Career</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=isamu-noguchi-lamp'>Isamu Noguchi Lamp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naples-population-2020'>Naples Population 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-make-a-link-say-something-else-on-iphone'>How To Make A Link Say Something Else On Iphone</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=congo-basin-map'>Congo Basin Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lilly-reich-furniture'>Lilly Reich Furniture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=retest-in-a-sentence'>Retest In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heinz-tomato-ketchup-ingredients'>Heinz Tomato Ketchup Ingredients</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=recess-season-2-episodes'>Recess Season 2 Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=captain-harlock-ship'>Captain Harlock Ship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mother-krampus-review'>Mother Krampus Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-city-of-tomorrow-and-its-planning-pdf'>The City Of Tomorrow And Its Planning Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-age-to-become-a-manager'>Best Age To Become A Manager</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stiletto-nails-tips'>Stiletto Nails Tips</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-final-hour-2019'>The Final Hour 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=extra-auf-deutsch-transcript'>Extra Auf Deutsch Transcript</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=humano-llc-phone-number'>Humano Llc Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shane-West-child'>Shane West Child</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Deep-political-Quotes'>Deep Political Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moonlight-syndrome-translation'>Moonlight Syndrome Translation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jasper-boy-or-girl-name'>Jasper Boy Or Girl Name</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aiken-drum-raffi'>Aiken Drum Raffi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=house-of-sleep-lyrics'>House Of Sleep Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-moment-to-remember-behind-the-scenes'>A Moment To Remember Behind The Scenes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-dream-of-armageddon'>A Dream Of Armageddon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=habakkuk-3%3A19-meaning'>Habakkuk 3:19 Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-angels-1d4chan'>Dark Angels 1d4chan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gangster-warlords%3A-drug-dollars%2C-killing-fields-and-the-new-politics-of-latin-america'>Gangster Warlords: Drug Dollars, Killing Fields And The New Politics Of Latin America</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bloodlines-2012---imdb'>Bloodlines 2012 - Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apopka-florida-upcoming-events'>Apopka Florida Upcoming Events</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tose-Pyaar-Karte-Hai'>Tose Pyaar Karte Hai</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shubham-banerjee-girlfriend'>Shubham Banerjee Girlfriend</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=millicent-martin-spouse'>Millicent Martin Spouse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amber-scott-instagram-hook'>Amber Scott Instagram Hook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-souls-2-shadow-dagger'>Dark Souls 2 Shadow Dagger</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=northern-lights-%282009-full-movie%29'>Northern Lights (2009 Full Movie)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saint-anthony-tormented-by-demons'>Saint Anthony Tormented By Demons</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bel-air-country-club-membership'>Bel-air Country Club Membership</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Legion-of-Fire%3A-Killer-Ants'>Legion Of Fire: Killer Ants</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=guam-capital-crossword'>Guam Capital Crossword</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tico-and-the-golden-wings'>Tico And The Golden Wings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scarlett-2i2-1st-gen-vs-2nd-gen'>Scarlett 2i2 1st Gen Vs 2nd Gen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=immortal-love-game'>Immortal Love Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=whatsapp-chat-birthday-wishes-screenshots'>Whatsapp Chat Birthday Wishes Screenshots</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lego-76052-amazon'>Lego 76052 Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-art-of-growing-up-john-marsden'>The Art Of Growing Up John Marsden</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boulevard-of-broken-dreams-%28piano-cover%29'>Boulevard Of Broken Dreams (piano Cover)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=someone-is-calling-me-from-an-unknown-number'>Someone Is Calling Me From An Unknown Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Postcode-sector-map-Glasgow'>Postcode Sector Map Glasgow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-will-yosemite-reopen'>When Will Yosemite Reopen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miep-gies-movies'>Miep Gies Movies</a>,
+";s:7:"expired";i:-1;}

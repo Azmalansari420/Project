@@ -1,0 +1,154 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3705:"<br>… Euclid is a city in Cuyahoga County, Ohio, United States. Euclid (/ ˈ juː k l ɪ d /; Ancient Greek: Εὐκλείδης – Eukleídēs, pronounced [eu̯.kleː.dɛːs]; fl. Euclid of Alexandria lived in 365-300 BC (approximately). Euclid based his approach upon 10 axioms, statements that could be accepted as truths. Mathematicians usually refer to him simply as "Euclid," but he's sometimes called Euclid of Alexandria to avoid confusion with the Green Socratic philosopher Euclid of Megara. Euclid of Alexandria is considered to be the Father of Geometry. <br> The city at the time was ruled by the Greek-speaking Ptolemaic Dynasty. Geometry is obviously a very useful area of maths. An Answer Plus a Short History of Geometry. Nineteen references are listed. His textbook ‘Elements’ remained a highly influential mathematics teaching book until the late 19th Century and is one of the most widely published books in the world. He was active in Alexandria during the reign of Ptolemy I (323–283 BC). Euclid of Alexandria (lived c. 300 BCE) systematized ancient Greek and Near Eastern mathematics and geometry. The table describes the name and performance of mathematicians from the Babylonians to 1977. The Elements (Ancient Greek: Στοιχεῖα Stoicheia) is a mathematical treatise consisting of 13 books attributed to the ancient Greek mathematician Euclid in Alexandria, Ptolemaic Egypt c. 300 BC. Adele, Gail H. Mathematics Teacher, v82 n6 p460-63 Sep 1989. When did Euclid die? It is an inner ring suburb of Cleveland. The city was named after Euclid, the Greek mathematician. We need it to measure things, to understand shapes, and to navigate through the spaces we live in. As of the 2010 census, the city had a total population of 48,920. <br> <br>He called these axioms his 'postulates' and divided them into two groups of five, the first set common to all mathematics, the second specific to geometry. History. Euclid's story, although well known, is also something of a mystery.He lived lots of his life in Alexandria, Egypt, and developed many mathematical theories.He is most famous for his works in geometry, inventing many of the ways we conceive of space, time, and shapes. This article provides a chronological table on the history of geometry. To start, let's turn to a person who is universally Euclid and His Accomplishments . Euclid (c. 325 BC – 265 BC) – Greek Mathematician considered the “Father of Geometry”. He was born sometime in the 4th century BC, and died sometime in the 3rd. It has had a lasting influence on the sciences -, especially in mathematics. He wrote The Elements, the most widely used mathematics and geometry textbook in history.Older books sometimes confuse him with Euclid of Megara.Modern economics has been called "a series of footnotes to Adam Smith," who was the author of The Wealth of Nations (1776 …  The Latest News and Updates in Euclid News brought to you by the team at fox8.com:  <br>Euclid, as depicted by Justus van Gent in the 15th century. When Did Euclid Live? The city was settled in 1796 and became a township in 1809. Euclid: Euclid was an ancient Greek mathematician who lived in Alexandria during the reign of Ptolemy I Soter, a Macedonian general who founded the Ptolemaic dynasty of Egypt. 300 BC), sometimes called Euclid of Alexandria to distinguish him from Euclid of Megara, was a Greek mathematician, often referred to as the "founder of geometry" or the "father of geometry". In 2009, Euclid celebrated its bicentennial. But I'd like to argue that geometry is much more than that: it interacts with all aspects of human thought and life. Euclid was an ethnic Greek from Alexandria, Egypt. <br>";s:7:"keyword";s:21:"where did euclid live";s:5:"links";s:11522:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pandorum-word-definition'>Pandorum Word Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeff-broin-net-worth'>Jeff Broin Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bj%C3%B8rnstjerne-bj%C3%B8rnson-poems'>Bjørnstjerne Bjørnson Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=last-and-first-men-album-review'>Last And First Men Album Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeremy-irons-lion-king-behind-the-scenes'>Jeremy Irons Lion King Behind The Scenes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kinsey-institute-graduate-program'>Kinsey Institute Graduate Program</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=finn-roberts-tiktok'>Finn Roberts Tiktok</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tim-rice-disney-songs'>Tim Rice Disney Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=my-mother%27s-castle-sparknotes'>My Mother's Castle Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=college-of-dupage-english-classes'>College Of Dupage English Classes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=90-day-fianc%C3%A9%3A-pillow-talk-imdb'>90 Day Fiancé: Pillow Talk Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ambuja-cement-price'>Ambuja Cement Price</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philippe-starck-costes-chair'>Philippe Starck Costes Chair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sick-puppy-meaning'>Sick Puppy Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aadavari-matalaku-arthale-verule-naa-manasuki'>Aadavari Matalaku Arthale Verule Naa Manasuki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marcel-breuer-cesca-chair-replica'>Marcel Breuer Cesca Chair Replica</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=judy-woodruff-tremors'>Judy Woodruff Tremors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=derry-city-twitter'>Derry City Twitter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=an-unlikely-meeting-jenn-mckinlay'>An Unlikely Meeting Jenn Mckinlay</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=move-on-up-album'>Move On Up Album</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Prayr-%E2%80%91-God-Simulator'>Prayr ‑ God Simulator</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-musical-box-set'>The Musical Box Set</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mike-zeck-commission'>Mike Zeck Commission</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-nevadan-orogeny-accreted'>The Nevadan Orogeny Accreted</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=runaway-the-label-sale'>Runaway The Label Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maximum-ride-anime'>Maximum Ride Anime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=two-way-translator-device-offline'>Two-way Translator Device Offline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=S-on-Ya-Chest'>S On Ya Chest</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2nd-grade-geology'>2nd Grade Geology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=deck-the-halls-we%27re-off-the-walls-reading-level'>Deck The Halls We're Off The Walls Reading Level</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=before-and-after-school'>Before And After School</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-russell-lowell'>James Russell Lowell</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=extreme-sports-meaning-in-punjabi'>Extreme Sports Meaning In Punjabi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cosa-nostra-news'>Cosa Nostra News</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rescues-near-me'>Rescues Near Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=teething-puppy-breath'>Teething Puppy Breath</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=digitone-vs-digitakt-reddit'>Digitone Vs Digitakt Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tugela-falls-map'>Tugela Falls Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=happiness-can-be-found-in-the-darkest-of-times-dumbledore'>Happiness Can Be Found In The Darkest Of Times Dumbledore</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=come-closer-synonym'>Come Closer Synonym</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-to-watch-spooksville'>Where To Watch Spooksville</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dovey-coe-summary'>Dovey Coe Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=amazing-detective-di-renjie-cast'>Amazing Detective Di Renjie Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Paying-for-It'>Paying For It</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=coming-of-age-movies-2016'>Coming-of-age Movies 2016</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geography-iii-reviews'>Geography Iii Reviews</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=henry-mancini-movies'>Henry Mancini Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=letter-never-sent-%282015-watch-online%29'>Letter Never Sent (2015 Watch Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=SPHDZ-Book-%231%21'>SPHDZ Book #1!</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rising-sun%3A-kami-unbound'>Rising Sun: Kami Unbound</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Beyond-Belief-season-14-Gaia'>Beyond Belief Season 14 Gaia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hope-against-hope-scripture'>Hope Against Hope Scripture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=neither-here-nor-there-bill-bryson-pdf'>Neither Here Nor There Bill Bryson Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eighteen-arhats-in-shaolin-temple-%282020%29'>Eighteen Arhats In Shaolin Temple (2020)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2446-belmont-rd-nw-zillow'>2446 Belmont Rd Nw Zillow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intermittent-explosive-disorder-icd-10'>Intermittent Explosive Disorder Icd-10</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Easy-Cheese-Walmart'>Easy Cheese Walmart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-was-the-real-john-creasy'>Who Was The Real John Creasy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-mothman-legacy%27-documentary'>The Mothman Legacy' Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cold-steel-training-knives-uk'>Cold Steel Training Knives Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nursery-myths-roblox'>Nursery Myths Roblox</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-and-i-have-or-has'>John And I Have Or Has</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Robocar-POLI-Roy'>Robocar POLI Roy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=doctor-who-something-inside'>Doctor Who Something Inside</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shotgun-row-dumbbell'>Shotgun Row Dumbbell</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-asgard-in-the-milky-way'>Is Asgard In The Milky Way</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Emre-Can-transfer'>Emre Can Transfer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=songs-about-heroes'>Songs About Heroes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=synonyms-for-testimonial'>Synonyms For Testimonial</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=visakhapatnam-district-map'>Visakhapatnam District Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jean-carlu-art-deco'>Jean Carlu Art Deco</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sichuan-city-china'>Sichuan City China</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bone-fragments-in-foot'>Bone Fragments In Foot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=crinkle-mouse-snl'>Crinkle Mouse Snl</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-chinese-five-spice'>Best Chinese Five Spice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chariot-racing-facts'>Chariot Racing Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ny-giants-%2372'>Ny Giants #72</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=8th-armored-regiment'>8th Armored Regiment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=estranged-movie-2016'>Estranged Movie 2016</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angus-cloud-movies'>Angus Cloud Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dragon-boat-festival-clothing'>Dragon Boat Festival Clothing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lucinda-williams-husband'>Lucinda Williams Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dublin%2C-ca-map'>Dublin, Ca Map</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=melody-maker-gibson'>Melody Maker Gibson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=babysitters-club-little-sister-books-for-sale'>Babysitters Club Little Sister Books For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naved-aslam-wife'>Naved Aslam Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blondie-cake-meaning'>Blondie Cake Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=milton-glaser-bob-dylan-poster-original'>Milton Glaser Bob Dylan Poster Original</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=misty-upham-spielberg'>Misty Upham Spielberg</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=andrew-rea-babish-ex-wife'>Andrew Rea Babish Ex Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=list-of-promises-in-the-bible-pdf'>List Of Promises In The Bible Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sapporo-promo-code'>Sapporo Promo Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scarpetta-patricia-cornwell'>Scarpetta Patricia Cornwell</a>,
+";s:7:"expired";i:-1;}

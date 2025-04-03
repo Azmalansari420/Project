@@ -1,0 +1,115 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3559:"<p>Whether you're looking for a fishing adventure, beautiful beaches, surfing, kite flying, whale watching, crabbing, taking in a calendar event or just relaxing, the South Beach is the place to be. Beach House Hotel Hermosa Beach provides a great coastal escape for romantic getaways, outdoor adventure or corporate retreats. </p> <p>Learn More. . Dunstone Beach House is perfect for entertaining, relaxing and enjoying beach life at its best.. Directions 5022 Lawai Road Koloa, HI 96756 Google Maps 808.742.1424 Hours Lunch 11:00am - 3:00pm Daily Dinner 4:45pm - 9:00pm Nightly Happy Hour 2:30pm - 4:30pm Daily The view over the bay and Atlantic Ocean is absolutely magnificent. This beach house is situated in a quiet cul de sac, adjacent a greenbelt and 100 meters from the water’s edge in Smalbaai, in picturesque Jacobsbaai. Jacobsbaai has a hidden gem named "Moerie-se-baai" (proper name Mauritz Baai). Go bird watching, beach combing, and shopping or sit back and watch the waves lap the shore. Dunstone Beach House is in the most magnificent location imaginable, less than 50m from the water’s edge, and a few steps from the water’s edge, and a few steps from the wide, long, soft sandy beach, offering you the perfect chance to fall asleep with the sounds of the waves crashing against the shore. Zula is a small self contained, studio style beach cottage sleeping 2, which is on the beach. Gallery. The house offers many possibilities and could easily be converted into a main house and various holiday units. The most beautiful and immaculately maintained beach house is situated on the rocky edge of Jacob’s Bay in picturesque Jacobsbaai. The loft room is tastefully furnished and located up a spiral staircase – this room makes the ideal kids’ den. </p> <p>Positioned less than 50m from the water’s edge and just a few steps from the long, soft sandy beach, this magnificent location offers you the perfect chance to fall asleep with the sounds of the waves crashing on the shore. </p> <p>Learn More. The third bedroom is a situated downstairs, off the entertainment room.. Gallery.  This secluded tidal pool offers protection from the often stormy Atlantic Ocean and this is where you will find Waterkant Weskus, right on the water's edge . The Beach House is pet-friendly, so bring your four-legged friends! Bay View Beach House is a property for self catering in Jacobsbaai for up to 6 guests visiting the Cape West Coast region.. About Bay View Beach House. The comfortably appointed Baviana Beach Lodge enjoys pride of place on the water's edge of Jacobsbaai and is an excellent combination of self-catering accommodation and guest house facilities. Zula Beach Cottage is on Langstrand Beach, away from the hustle and bustle. Life at The Beach House is pretty sweet! Bay View Beach House is a lovely three bedroom holiday home in Jacobsbaai only a few meters away from the bay. When visiting the Beach House for business or pleasure, the hotel is the perfect location to take advantage of all of the area activities. There are beautiful views from every room of the house. Gallery. Equipped with a gas BBQ and a fireplace for the cold winters. Learn More. Two bedrooms are located off the main level living area. Perfect for doggy lovers as it has a private enclosed garden, set at the back of Zula Beach House which sleeps 10. Articles Relating To Jacobsbaai West Coast magic: 6 charming beach cottages under R1.6m The West Coast offers seaside holiday homes at affordable prices, just a few hours' drive from Cape Town. </p>";s:7:"keyword";s:26:"the beach house jacobsbaai";s:5:"links";s:7076:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ray-Bolger-age'>Ray Bolger Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cognitive-psychology%3A-a-students-handbook-8th-edition'>Cognitive Psychology: A Students Handbook 8th Edition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jeremy-fischer%2C-nd'>Jeremy Fischer, Nd</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=found-book-summary'>Found Book Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-villa-ballroom'>The Villa Ballroom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=https-learning-davidsonhotels-com-index-php'>Https Learning Davidsonhotels Com Index Php</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cask-and-schooner-friday-harbor'>Cask And Schooner Friday Harbor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=breaking-the-waves-ending-explained'>Breaking The Waves Ending Explained</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hannah-browndancing-with-the-stars-tour'>Hannah Browndancing With The Stars Tour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cleopatra-tomb-found-2020'>Cleopatra Tomb Found 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=villa-restaurant-wayland%2C-ma'>Villa Restaurant Wayland, Ma</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=champagne-france-to-paris'>Champagne France To Paris</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seinfeld-the-betrayal-forward'>Seinfeld The Betrayal Forward</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wroclaw%2C-poland-weather'>Wroclaw, Poland Weather</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mad-crazy-meaning'>Mad Crazy Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=college-of-dupage-english-classes'>College Of Dupage English Classes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sabbath%27s-theater-summary'>Sabbath's Theater Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fort-yuma%2C-arizona'>Fort Yuma, Arizona</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=can-i-pay-someone-to-beat-me-up'>Can I Pay Someone To Beat Me Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=operation-game-amazon'>Operation Game Amazon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Khakee-Full-Movie-Download-480p'>Khakee Full Movie Download 480p</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=frankenstein-introduction-pdf'>Frankenstein Introduction Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=davina-mccall-workout-youtube'>Davina Mccall Workout Youtube</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-to-watch-the-secret%3A-dare-to-dream'>Where To Watch The Secret: Dare To Dream</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kiss-members-2020'>Kiss Members 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tribes-seth-godin-sparknotes'>Tribes Seth Godin Sparknotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ozymandias-%7C-Watchmen'>Ozymandias | Watchmen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=neo-confucianism-ap-world-history'>Neo Confucianism Ap World History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-malouf-awards'>David Malouf Awards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wrentham-outlet-stores'>Wrentham Outlet Stores</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Best-NOFX-songs'>Best NOFX Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chen-daughter-pic'>Chen Daughter Pic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hagrid-quotes-there%27s-a-storm'>Hagrid Quotes There's A Storm</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jackalope-brewery-the-ranch'>Jackalope Brewery The Ranch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vernon%2C-tx-municipal-court-phone-number'>Vernon, Tx Municipal Court Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=audience-research-in-radio'>Audience Research In Radio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-character-search'>Chinese Character Search</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dark-fantasy-meaning'>Dark Fantasy Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=multiple-causes-of-death-on-death-certificate'>Multiple Causes Of Death On Death Certificate</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-second-greatest-story-ever-told-pdf'>The Second Greatest Story Ever Told Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ruins-of-mausoleum-in-tus-iransimin-behbahani-quotes'>Ruins Of Mausoleum In Tus Iransimin Behbahani Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-price-hollywood%3F-%281932-full-movie%29'>What Price Hollywood? (1932 Full Movie)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shonen-knife---twist-barbie'>Shonen Knife - Twist Barbie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=melrose-swimming-pool'>Melrose Swimming Pool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saba-meaning-in-english'>Saba Meaning In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-beardsley-teams-coached'>Peter Beardsley Teams Coached</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adore-movie-link'>Adore Movie Link</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=malvern-college-egypt-jobs'>Malvern College Egypt Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=murder%2C-she-wrote-season-1-episode-10'>Murder, She Wrote Season 1 Episode 10</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pictionary-recovery-words'>Pictionary Recovery Words</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=quo-vado-streaming-cb01'>Quo Vado Streaming Cb01</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-long-were-tony-curtis-and-janet-leigh-married%3F'>How Long Were Tony Curtis And Janet Leigh Married?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thomas-nast-cartoons-reconstruction'>Thomas Nast Cartoons Reconstruction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=geoffrey-bayldon-fort-boyard'>Geoffrey Bayldon Fort Boyard</a>,
+";s:7:"expired";i:-1;}

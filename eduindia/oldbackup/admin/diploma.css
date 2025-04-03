@@ -1,0 +1,59 @@
+.diploma {
+	background-image:url(diploma.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 100%;	
+	height:1165px;
+	width:1660px;
+}
+.r_top {
+	width:100%;
+	padding: 37px 0 0 159px;
+	float:left;
+}
+.sno {
+	width: 75%;
+	float:left;
+}
+
+.student_details{
+	padding: 498px 0 0 0;
+}
+.this_is_certified_that_mr {
+    padding: 16px 0 0 444px;
+}
+
+.son_daughter {
+    padding: 45px 0 0 582px;   
+}
+
+.successful_pass {
+    padding: 44px 0 0 592px;
+}
+
+.odw_row{
+	width:100%;
+	float:left;
+	 padding: 41px 0 0 103px; 
+}
+
+.of {
+   float:left;
+   width: 34%;
+}
+.duration_on {
+   float:left;
+   width: 39%;
+
+}
+
+.from {
+    padding: 41px 0 0 97px;
+    clear: both;
+}
+.issued_under {
+    padding: 41px 0 0 450px;
+}
+
+
+
+span{ font-size:24px;}

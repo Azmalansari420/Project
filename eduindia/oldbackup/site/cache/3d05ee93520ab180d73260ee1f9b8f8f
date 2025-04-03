@@ -1,0 +1,120 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2030:"<p>These Welch's yogurt snacks are fun for the whole family. </p> <p>Welch’s® Fruit Snacks are Made with Real Fruit and offer 100% DV Vitamin C, 25% DV Vitamins A & E, are Fat Free, Gluten Free and contain No Preservatives. </p> <p>Our Story At Welch’s ®, all of our snacks are made with Real Fruit AND you can really taste the difference. Each pouch contains 80 calories.These snacks are so … WELCH'S Fruit Snacks, Island Fruits, 5 Ounce (Pack of 12) 4.4 out of 5 stars 9. Each is made with Real Fruit for a mouthwatering experience the whole family can enjoy. Welch's Low-Fat Gluten-Free Strawberry Fruit n' Yogurt Snacks… Enjoy them as a tasty snack at any time of the day. $22.00. Free shipping on orders of $35+ or same-day pick-up in store. Welch's Fruit 'n Yogurt Snacks are produced, marketed and distributed under authority of Welch Foods, Inc. by The Promotion In Motion Companies, Inc. There are 10 pouches per box. Each serving has 100% DV of Vitamin C and 25% DV of Vitamins A and E These snacks are fat free, gluten free and they have no preservatives. Now with more real fruit. : Calorie breakdown: 0% fat, 96% carbs, 4% protein. Welch's Berries N Cherries Fruit Snacks, 12 - 5oz Bags 4.7 out of 5 stars 17. Shop Target for Welch's Fruit Snacks you will love at great low prices. There are 90 calories in a 16 pieces serving of Welch's Fruit Snacks Strawberry. </p> <p>Welch’s ® Fruit Snacks come in three distinct and delicious varieties: Welch’s ® Fruit Snacks, Welch’s ® Fruit ‘n Yogurt™ Snacks and Welch’s ® Fruit Rolls. The Strawberry variety provides a delicious strawberry flavor that is sure to please the whole family. </p> <p>Welch's Strawberry Flavor Fruit Snacks, 10 Pouches (2 packs) 3.8 out of 5 stars 10. $32.99.  They are high in vitamins A, C and D. Bring this Welch's Fruit 'n Yogurt with you for a school or work lunch. Welch's Strawberry Flavor Fruit Snacks. Welch's Fruit 'n Yogurt snacks are available in mouthwatering strawberry, cherry and blueberry varieties. </p>";s:7:"keyword";s:31:"welch's fruit snacks strawberry";s:5:"links";s:7332:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=switzerland-abbreviation-2-letter'>Switzerland Abbreviation 2 Letter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sword-hidden-masters-lyrics'>The Sword Hidden Masters Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=funny-target-memes'>Funny Target Memes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seth-and-greyson'>Seth And Greyson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-happiness-Project-outline'>The Happiness Project Outline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=descendants-of-mary-tudor%2C-queen-of-france'>Descendants Of Mary Tudor, Queen Of France</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Bleeding-Heart-Square'>Bleeding Heart Square</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=passage-definition-literature'>Passage Definition Literature</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mario-day-2020'>Mario Day 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shipwrecked-%281990%29---full-movie'>Shipwrecked (1990) - Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=audiobooks-com-library'>Audiobooks Com Library</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Preparing-an-inclusive-classroom'>Preparing An Inclusive Classroom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=la-ville-radieuse'>La Ville Radieuse</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=head-of-project-delivery-job-description'>Head Of Project Delivery Job Description</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=little-town-on-the-prairie-1941'>Little Town On The Prairie 1941</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=veronica-roth-age-when-she-wrote-divergent'>Veronica Roth Age When She Wrote Divergent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=high-school-in-sentence'>High School In Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=totally-crazy-show-paris'>Totally Crazy Show Paris</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=syngman-rhee-education'>Syngman Rhee Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=back-stitch-definition-with-picture'>Back Stitch Definition With Picture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-many-crib-goch-deaths'>How Many Crib Goch Deaths</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Winter-solstice-sacrifice'>Winter Solstice Sacrifice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=P-rock-songs'>P Rock Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=full-throttle-saloon-2018'>Full Throttle Saloon 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=osho-quotes-on-woman'>Osho Quotes On Woman</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=American-Boy-song-Tik-Tok'>American Boy Song Tik Tok</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Best-Drake-songs-2018'>Best Drake Songs 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unkle-psyence-fiction'>Unkle Psyence Fiction</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goethals-bridge-toll-2020'>Goethals Bridge Toll 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roxanne-shante-son'>Roxanne Shante Son</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=i-see-fabric'>I See Fabric</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fallen-army-40k'>Fallen Army 40k</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pine-gap-wiki'>Pine Gap Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gametrailers-tv-with-geoff-keighley'>Gametrailers Tv With Geoff Keighley</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=I-Fall-in-Love%2C-I%27m-Sorry'>I Fall In Love, I'm Sorry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=trueform-runner-uk'>Trueform Runner Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=words-from-aching'>Words From Aching</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-is-janine-turner-married-to'>Who Is Janine Turner Married To</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jackalope-brewery-the-ranch'>Jackalope Brewery The Ranch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=neil-aspinall-book'>Neil Aspinall Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adults-only-meaning'>Adults Only Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=usage-of-then-and-therecherry-blossom-quotes-goodreads'>Usage Of Then And Therecherry Blossom Quotes Goodreads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boardwalk-empire-characters'>Boardwalk Empire Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-herrick-death'>Robert Herrick Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-ovid-a-word'>Is Ovid A Word</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sound-studies-reader'>The Sound Studies Reader</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pam-mu%C3%B1oz-ryan-esperanza-rising-summary'>Pam Muñoz Ryan Esperanza Rising Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=advantages-of-vertical-farming'>Advantages Of Vertical Farming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=westworld-season-2-episode-10-imdb'>Westworld Season 2 Episode 10 Imdb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Chen-daughter-pic'>Chen Daughter Pic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ursula-le-guin-to-the-rain'>Ursula Le Guin To The Rain</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-law-is-good-kjv'>The Law Is Good Kjv</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=melian-dialogue-simplified'>Melian Dialogue Simplified</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lao-tzu-teachings'>Lao Tzu Teachings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jesse-bostick-wikipedia'>Jesse Bostick Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wordsworth-250th-anniversary'>Wordsworth 250th Anniversary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jack-weston-cambridge'>Jack Weston Cambridge</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spinning-out-serena-and-mitch'>Spinning Out Serena And Mitch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=waywardness-meaning-in-tamil'>Waywardness Meaning In Tamil</a>,
+";s:7:"expired";i:-1;}

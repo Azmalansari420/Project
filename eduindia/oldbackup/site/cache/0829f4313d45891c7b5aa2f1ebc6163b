@@ -1,0 +1,97 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4563:"<br>django CMS was originally conceived by web developers frustrated with the technical and security limitations of other systems. django CMS 3.0于2013年发布。. <br> <br>A django-cms plugin that displays a random quote (e.g. <br> <br>En date du 10 Juin 2016, django CMS 3.0 est compatible avec les versions 1.8 et 1.7 de Django. django CMS 1.0由Thomas Steinacher创建。. Brought to you by: django-cms. 历史 []. Ready-to-develop application stacks include Python/Django, Node/React, PHP/Laravel and Java/Spring. For the Developer. Django-wiki is a rewrite of django-simplewiki, a project from 2009 that aimed to be a base system for a wiki. <br> Version 1.0.1 was released on 31 October, 2008. <br> <br>django CMS 2.0完全由Patrick Lauber重写系统，它本身基于django-page-cms的分支。. It proposed that the user should customize the wiki by overwriting templates, but soon learned that the only customization that really took place was that people forked the entire project. 1.1. Protocol documentation is available as well, thanks to Dinnerbone. <br> <br>Its lightweight core makes it easy to integrate with other software and put to use immediately, while its ease of use makes it the go-to choice for content managers, content editors and website admins. django CMS由瑞士软件公司Divio AG提供支持。. Django-wiki is a rewrite of django-simplewiki, a project from 2009 that aimed to be a base system for a wiki. <br> <br>django CMS 3.0于2013年发布。. Django (/ ˈ dʒ æ ŋ ɡ oʊ / JANG-goh; stylised as django) is a Python-based free and open-source web framework that follows the model-template-view (MVC) architectural pattern. <br> <br>django CMS is a modern web publishing platform built with Django, the web application framework “for perfectionists with deadlines”. django CMS; Wiki; django CMS. Uses django-filer for the file stora... Trac wiki engine integration with Django CMS as a plugin for cmsplugin-markup. Django CMS is a free open source content management system written in Django and Python. 历史 []. Easily extendable. Django is endorsed by Guido von-Rossum, who is the Python benevolent dictator. Meet Django. django CMS requires Django 1.11 or newer, and Python 2.7 or 3.3 or newer. <br> <br>ikaaro offers content management functionality. It proposed that the user should customize the wiki by overwriting templates, but soon learned that the only customization that really took place was that people forked the entire project. Les pages fonctionnelles peuvent en grande partie être automatisées et les éléments peuvent être modifiés au cas par cas par double-clic et drag-and-drop. django CMS 1.0由Thomas Steinacher创建。. <br> <br>Django offers elementary support for content management (and was initially derived from the lower levels of a commercial content management system). Version 2.0 came with a complete rewrite of the system by Patrick Lauber, based on a fork of django-page-cms. a testimonial) from your database. It is maintained by the Django Software Foundation (DSF), an American independent organization established as … Wagtail is a free and open source Content Management System (CMS) written in Python. <br> <br>The project has a focus on developer friendliness as well as ease of use of its administration interface, translated in multiple languages. This tutorial assumes you are using Python 3. <br> <br>Much of this code comes from Dinnerbone’s amazing source (..thank you dude!) Il est maintenu par une équipe de développeurs à temps plein et les membres de la communauté open-source; une liste complète des contributeurs est disponible. See the plugins in action here! Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. <br> <br>v0.62.9 released: 2012-05-28 <br> <br>django CMS is a free and open source content management system  platform for publishing content on the World Wide Web  and intranets. <br> <br>that he has graciously left as “fully open”. This is a simple set of plugins intended for use with Django-CMS, designed to aid in retrieving data from the servers. django CMS is an open-source project from Switzerland. <br> <br>它由全职开发人员和开源社区成员组成的团队维护; 这里是完整的贡献者列表 。. Le CMS Django vous met d’excellents outils à disposition, avec lesquels vous ne pouvez pas seulement créer un site Web, mais aussi développer des applications autonomes. It is popular amongst websites using the Django framework. <br> <br>";s:7:"keyword";s:15:"django cms wiki";s:5:"links";s:4370:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=women-in-stem-facts'>Women In Stem Facts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=donald-westlake-books'>Donald Westlake Books</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ben-hammer-actor'>Ben Hammer Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-werewolves-of-millers-hollow%3A-new-moon'>The Werewolves Of Millers Hollow: New Moon</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=second-harvest-heartland-locations'>Second Harvest Heartland Locations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jim-hutton-wiki'>Jim Hutton Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tinashe---remember-when'>Tinashe - Remember When</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=louis-trichardt-weather-today'>Louis Trichardt Weather Today</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=aiken-drum-raffi'>Aiken Drum Raffi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Build-a-Levee'>Build A Levee</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=letter-never-sent-%282015-watch-online%29'>Letter Never Sent (2015 Watch Online)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sunshine-of-your-love-guitar-riff'>Sunshine Of Your Love Guitar Riff</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-ashley----the-park'>Robert Ashley -- The Park</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Death-Wish-IMDb'>Death Wish IMDb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=journey-walkthrough-ios'>Journey Walkthrough Ios</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Plus-one-English-poem-If-summary'>Plus One English Poem If Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anouchka-delon-eyes'>Anouchka Delon Eyes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kimberly-chandler-height'>Kimberly Chandler Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Winter-solstice-sacrifice'>Winter Solstice Sacrifice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=student-activism-projects'>Student Activism Projects</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=daniel-johns-live'>Daniel Johns Live</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=raising-dion-episode-1-full-episode'>Raising Dion Episode 1 Full Episode</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chosen-one-in-literature'>Chosen One In Literature</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jesse-james-2019'>Jesse James 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-green-crow'>The Green Crow</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dervla-kirwan-children'>Dervla Kirwan Children</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=siege-meaning-in-tamil'>Siege Meaning In Tamil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=claude-shannon-life'>Claude Shannon Life</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=broadway-bound-rent'>Broadway Bound Rent</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-thing-lou-couldn%27t-do-lesson'>The Thing Lou Couldn't Do Lesson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sister-of-the-bride-susan-mallery'>Sister Of The Bride Susan Mallery</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pete-burns-2016'>Pete Burns 2016</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cutting-edge-knives-review'>Cutting Edge Knives Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spongebob-red-mist-game'>Spongebob Red Mist Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercedes-kilmer-car-accident'>Mercedes Kilmer Car Accident</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hideout-movie-1987'>Hideout Movie 1987</a>,
+";s:7:"expired";i:-1;}

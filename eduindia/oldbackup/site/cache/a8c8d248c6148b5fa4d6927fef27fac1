@@ -1,0 +1,128 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2544:"<p>In the West after World War II, happiness seemed inextricably connected to prosperity. According to regression estimates of the data compiled by the UN, a 1% change in GDP per capita will cause only a 0.3 unit change in happiness (happiness is calculated on a scale from 0 to 10). On the UN Day of Happiness, should happiness economics, wellbeing and quality of life become key determinants of policy? But the recent emergence of behavioral economics, which takes psychological research seriously, has caused an explosion of surveys about happiness and well-being. Beginning in the 1960s, however, other values began to gain ground: peace, political participation, civil rights, environmentalism. Happiness economics is the incorporation of quality of life and life satisfaction into the practice of economics. It typically treats such happiness-related measures, rather than wealth, income or profit, as something to be maximized. I remember back in high school economics learning of a unit used to measure happiness. Christian Kroll … ie, 'if I buy this cookie I'll get 13 ____'s of joy'. The economics of happiness or happiness economics is the quantitative and theoretical study of happiness, positive and negative affect, well-being,  quality of life, life satisfaction  and related concepts, typically combining economics  with other fields such as psychology, health and sociology. Can money buy happiness? However, when GDP per capita is included with other variables the model explains nearly 75% of the variance in happiness. Traditional economic models tend assume that the goals of individuals and societies are purely related to material gains.  I think it's an incredibly stupid concept. Betsey Stevenson of the Wharton School of the University of Pennsylvania surveys the work in this emerging field. </p> <p>Economists have begun to use research into happiness to explore questions in economics, policy, and management. </p> <p>However, I was trying to think of the term when talking with … The field has grown substantially since the late 20th century, for example by the development of metho… Over the past 30 or so years, a number of happiness economics metrics have emerged. Broader definitions of happiness — for example, as the opportunity to lead a fulfilling life — suggest deeper objectives that may cause unhappiness, at least in the short term. An investigation of the happiness-prosperity connection and whether economists can measure well-being. Is income a reliable measure for life satisfaction? </p>";s:7:"keyword";s:28:"units of happiness economics";s:5:"links";s:8444:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fran-brill-zoe'>Fran Brill Zoe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pop-art-definition'>Pop Art Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rising-tides-github'>Rising Tides Github</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madagascar-penguin-meme-smile-and-wave'>Madagascar Penguin Meme Smile And Wave</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-is-stronger-than-death-meaning'>Love Is Stronger Than Death Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-or-an%27%27-before-h-abbreviation'>A Or An'' Before H Abbreviation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=norway-military-size'>Norway Military Size</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=finn-roberts-tiktok'>Finn Roberts Tiktok</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mary%27s-mantle-consecration-videos'>Mary's Mantle Consecration Videos</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=owens-community-college'>Owens Community College</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scu-my-enrolment'>Scu My Enrolment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Shy-character-traits'>Shy Character Traits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=journey-walkthrough-ios'>Journey Walkthrough Ios</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=metalcore-bands-2020'>Metalcore Bands 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=biomutant-release-date-ps4'>Biomutant Release Date Ps4</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=human-psychology-and-behaviour'>Human Psychology And Behaviour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-paul-ritter-married'>Is Paul Ritter Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-type-of-car-is-the-haunted-car-in-goosebumps'>What Type Of Car Is The Haunted Car In Goosebumps</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jet-pilot-lyrics'>Jet Pilot Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-list-forensic-files-episode-netflix'>John List Forensic Files Episode Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kim-tae-pyung-father'>Kim Tae Pyung Father</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=leeza-gibbons-memory-foundation'>Leeza Gibbons Memory Foundation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eaten-alive-documentary'>Eaten Alive Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-bible%3A-in-the-beginning-1966-full-movie'>The Bible: In The Beginning 1966 Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tigerland-amazon-prime'>Tigerland Amazon Prime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=underwater-dogs-calendar-2020'>Underwater Dogs Calendar 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-arrival-%281996-trailer%29'>The Arrival (1996 Trailer)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=little-shoe-in-italian'>Little Shoe In Italian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=post-mortem-form'>Post Mortem Form</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rowan-witt-movies-and-tv-shows'>Rowan Witt Movies And Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=it-starts-with-food%3A-discover-the-whole30-and-change-your-life-in-unexpected-ways-pdf'>It Starts With Food: Discover The Whole30 And Change Your Life In Unexpected Ways Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=British-conversation-examples'>British Conversation Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=haymarket-riot-outcome'>Haymarket Riot Outcome</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=darren-aronofsky-batman'>Darren Aronofsky Batman</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=legend-of-luke'>Legend Of Luke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wayne-rooney-net-worth-2019'>Wayne Rooney Net Worth 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shuai-jiao-near-me'>Shuai Jiao Near Me</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=saba-meaning-in-english'>Saba Meaning In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=winsor-mccay-illustrations'>Winsor Mccay Illustrations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lady-victoria-starmer'>Lady Victoria Starmer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yuri-lowenthal-characters'>Yuri Lowenthal Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cabaret-full-movie-watch-online-dailymotion'>Cabaret Full Movie Watch Online Dailymotion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alb%C3%A9niz%3A-suite-espa%C3%B1ola'>Albéniz: Suite Española</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Les-Visiteurs-film'>Les Visiteurs Film</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Olga-Kurylenko-movies-and-TV-shows'>Olga Kurylenko Movies And TV Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tigger-and-pooh-and-a-musical-too-dvd-menu'>Tigger And Pooh And A Musical Too Dvd Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Dana-Delany-married'>Dana Delany Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=six-days-seven-nights-streaming'>Six Days Seven Nights Streaming</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=moli%C3%A8re-quotes-in-clothes'>Molière Quotes In Clothes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-parade-magazine'>The Parade Magazine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eversource-sign-up'>Eversource Sign Up</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nederman-fume-extractor-manual'>Nederman Fume Extractor Manual</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=n-terraria-nazar'>N Terraria Nazar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=goethe-selected-poems'>Goethe Selected Poems</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=in-your-pocket-meaning'>In Your Pocket Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=henry-b-payne'>Henry B Payne</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-cage-best-pieces'>John Cage Best Pieces</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gentleman-bastards-book-5'>Gentleman Bastards Book 5</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yoshitaka-amano-liliana-poster'>Yoshitaka Amano Liliana Poster</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ludlow-lamonsoff-actor'>Ludlow Lamonsoff Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bouncing-souls---comet'>Bouncing Souls - Comet</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nylon-gun-belts'>Nylon Gun Belts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=catholic-bible-verses-about-heaven'>Catholic Bible Verses About Heaven</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=house-of-secrets-movie'>House Of Secrets Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dispute-transaction-chime'>Dispute Transaction Chime</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=photography-art-definition'>Photography Art Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercy-watson-read-aloud'>Mercy Watson Read Aloud</a>,
+";s:7:"expired";i:-1;}

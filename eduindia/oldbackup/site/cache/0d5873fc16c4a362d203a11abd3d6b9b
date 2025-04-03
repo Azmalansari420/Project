@@ -1,0 +1,120 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4032:"<br>Menu . Home; Forum; Articles; Side Stories; Interviews; About; Contact; Article. <br> <br>Ninja Gaiden Sigma 2 | a touch úp. Ninja Gaiden series director Tomonobu Itagaki has stated that he decided to make the game for the Nintendo DS because of the originality that the platform allows, which he feels is the most important aspect of a handheld platform, and also to create a challenge for himself. <br> <br>Tomonobu Itagaki (板垣 伴信, Itagaki Tomonobu) (born April 1, 1967) is a Japanese video game designer  best known for creating the Dead or Alive  series and also reviving the Ninja Gaiden  franchise in 2004. The Team Ninja leader on Ninja Gaiden 2, Code Cronus, Dead or Alive Ultimate, DOA4 and PSP, Nintendo DS development, in an exclusive 1-1 interview. Joining Tecmo in 1992, Itagaki produced two video game franchises that were commercial successes and earned him several promotions; he headed Tecmo's development team, Team Ninja, and sat on the executive board. <br> <br>He also has a reputation for making frank comments, negative and positive, on other developers and video games. In 2007, Ninja Gaiden was graphically enhanced on the PlayStation 3, with extra content, in the form of Ninja Gaiden Sigma. For about 18 years, Tomonobu Itagaki was the face behind Tecmo's biggest hits. <br> <br>He's the creator of games like the Dead or Alive series and Ninja Gaiden for Xbox, and for saying pretty eye-catching stuff, including the (in)famous presentation of Ninja Gaiden 2, where he said: "Ninja Gaiden 2 will be so ambitious that when other developer plays it, they will lose motivation and confidence in their games."  Do you remember Tomonobu Itagaki? These were incorporated into a reworked version, released in 2005 and entitled Ninja Gaiden Black, that was regarded by the game's creator Tomonobu Itagaki and many players as the definitive version. <br> <br>February 12, 2019. <br> <br>Tomonobu Itagaki: I think the reason why a lot of franchises fail when they try to resurrect these classic gaming titles is because they don't have a clear concept of what it is they're trying to resurrect. He was the producer behind the Dead or Alive fighting games, and the Xbox-era reboot of Ninja Gaiden. Making a 2D side-scrolling platformer is not Ninja Gaiden. <br> <br>Guide Ryu Hayabusa on a mission to avenge his clan and prevent the destruction of the human race.  For us it was simple. Tomonobu Itagaki is one of the most iconic figures in the video game industry and with good reason. Ninja Gaiden II features a new and improved game engine, developed from the ground up exclusively for Microsoft and Xbox 360 by Team Ninja and legendary game developer Tomonobu Itagaki, creator of the famed Dead or Alive franchise. <br> <br>For Ninja Gaiden 3 on the Xbox 360, a GameFAQs message board topic titled "Soooo, tomonobu itagaki doesnt have twitter. <br> <br>Team Ninja is responsible for one of the best games of the year so far, and easily one of the greatest experiences available on Xbox - Ninja Gaiden. Team Ninja's Tomonobu Itagaki talks to GameSpot UK at the European press event for Ninja Gaiden II about the game, its characters, weapons, locations, … Team Ninja Interview: Tomonobu Itagaki. But how would Hayashi and team pick up the pieces after Itagaki and co had left? is a Japanese video game designer who created the Dead or Alive fighting games and the Ninja Gaiden 3D titles. <br> <br>Ninja Gaiden Sigma 2 was always going to be controversial title. ". Team Ninja leader Tomonobu Itagaki let Ninja Gaiden II speak for itself at Microsoft's pre Tokyo Game Show press conference last month, as he unveiled the … Joining Tecmo  in 1992, Itagaki produced two video game franchises that were commercial successes and earned him several promotions; he headed Tecmo's development team, Team Ninja, and sat on the executive board. He left the company after 16 years of service, filing a lawsuit against it for withholding … <br> <br>Tomonobu Itagaki (板垣 伴信, Itagaki Tomonobu?) <br>";s:7:"keyword";s:29:"ninja gaiden tomonobu itagaki";s:5:"links";s:7506:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fail-safe-example-in-java'>Fail-safe Example In Java</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-did-jack-davis-parents-do-for-a-living'>What Did Jack Davis Parents Do For A Living</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sarah-michelle-gellar-and-freddie-prinze-jr-kids'>Sarah Michelle Gellar And Freddie Prinze Jr Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=underoath-reunion-tour'>Underoath Reunion Tour</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lolo-urban-dictionary'>Lolo Urban Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-powell-albums'>John Powell Albums</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=upanishads-quotes-on-death'>Upanishads Quotes On Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=healthy-recipes-baking'>Healthy Recipes Baking</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=walter-brennan-wife'>Walter Brennan Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=banister-fletcher-book-pdf'>Banister Fletcher Book Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sapporo-beer-review'>Sapporo Beer Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paper-round-posters'>Paper Round Posters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ukrainian-love-poems-translated-into-english'>Ukrainian Love Poems Translated Into English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=verboten-synonym-deutsch'>Verboten Synonym Deutsch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sparkle-and-shine'>Sparkle And Shine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=excavation-book-american-dirt'>Excavation Book American Dirt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=junie-b-jones-the-musical-broadway'>Junie B Jones The Musical Broadway</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-attract-money-pdf-joseph-murphy-pdf'>How To Attract Money Pdf Joseph Murphy Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lamentations-2-meaning'>Lamentations 2 Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=best-alex-gibney-documentaries'>Best Alex Gibney Documentaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=direct-pronouns-italian'>Direct Pronouns Italian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Alcatel-OneTouch-A392A'>Alcatel OneTouch A392A</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=convertible-lowrider-for-sale'>Convertible Lowrider For Sale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Words-Trailer'>The Words Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-History-of-Middle-earth-12-volume-set'>The History Of Middle-earth 12 Volume Set</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nevada-sports-net'>Nevada Sports Net</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bloody-friday-documentary'>Bloody Friday Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Anil-Ambani-vs-Mukesh-Ambani'>Anil Ambani Vs Mukesh Ambani</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=navigators-conference-2020'>Navigators Conference 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-flyers-dress-code'>American Flyers Dress Code</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Deja-Vu-song'>Deja Vu Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=del-shannon---little-town-flirt'>Del Shannon - Little Town Flirt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=drum-tower-europe'>Drum Tower Europe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-to-do-in-case-of-fire-in-a-building'>What To Do In Case Of Fire In A Building</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mushroom-shake-koh-lipe'>Mushroom Shake Koh Lipe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=no-worst%2C-there-is-none-summary'>No Worst, There Is None Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-read-a-dial-micrometer'>How To Read A Dial Micrometer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Joan-Fontaine-Olivia-de-Havilland-photo'>Joan Fontaine Olivia De Havilland Photo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-eagle-otr-menu-prices'>The Eagle Otr Menu Prices</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=let%27s-be-real-used-in-a-sentence'>Let's Be Real Used In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shotel-warrior-vs-karambit'>Shotel Warrior Vs Karambit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lavender-tree-care-instructions'>Lavender Tree Care Instructions</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hercule-poirot%3A-the-complete-short-stories'>Hercule Poirot: The Complete Short Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dr-quinn-medicine-woman-season-1-dailymotion'>Dr Quinn Medicine Woman Season 1 Dailymotion</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=austin-wintory-albums'>Austin Wintory Albums</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-bird-in-a-gilded-cage'>A Bird In A Gilded Cage</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clifford-birthday-decorations'>Clifford Birthday Decorations</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=violet-oakley-stained-glass'>Violet Oakley Stained Glass</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=god-of-creation-song-so-will-i'>God Of Creation Song So Will I</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=toshiki-masuda-characters'>Toshiki Masuda Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=james-s-mcdonnell'>James S Mcdonnell</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Mineral-baby-names'>Mineral Baby Names</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dree-hemingway-instagram'>Dree Hemingway Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heaven-sheet-music-pdf'>Heaven Sheet Music Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=look-in-chinese'>Look In Chinese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adam-cheyer-net-worth'>Adam Cheyer Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=unwritten-chords-no-capo'>Unwritten Chords No Capo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=screwtape-letter-pdf'>Screwtape Letter Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=2446-belmont-rd-nw-zillow'>2446 Belmont Rd Nw Zillow</a>,
+";s:7:"expired";i:-1;}

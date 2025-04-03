@@ -1,0 +1,92 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4705:"<br>Cast Toshiro Mifune Isaburo Sasahara Go Kato Tatsuya Nakadai Tatewaki Asano Yoko Tsukasa Ichi Tatsuyoshi Ebara Bunzo Tatsuo Matsumara Lord Matsudaira Shigeru Koyama Steward Takahashi Etsuko Ichihara Takeshi Kato Yogoro Masao Mishima Chamberlain Yanase Isao Yamagata Kotani Crew Masaki Kobayashi Director Kazuo Yamada Book Author, Cinematographer Kazuo Yamada <br> <br>Enter your location to see which movie theaters are playing Samurai Rebellion near you. <br> <br>Samurai Rebellion, a late 60's epic focusing on a samurai who defies his lord's unreasonable demands is a brilliant and often sad portrayal of the struggle against overwhelming oppression. With Toshirô Mifune, Yôko Tsukasa, Gô Katô, Tatsuyoshi Ehara. When Samurai Rebellion premiered, on May 27, 1967, the original Japanese title was Joiuchi—hairyo tsuma shimatsu, which means something like Rebellion—Receive the Wife. In Samurai Rebellion, Kobayashi took his study of the individual against society as far as he could, and enriched it by refusing to restrict himself to the manly world of sword fights. Find trailers, reviews, synopsis, awards and cast information for Samurai Rebellion (1967) - Masaki Kobayashi on AllMovie - A father and son prepare to die for their beliefs… <br> <br>Samurai Rebellion is also viewed as a family drama with many displayed emotions and connections. Put simply, after being banished from her marriage to a feudal lord despite being the mother of his only heir,… In the Edo period of Japan, a samurai’s life belonged to his lord. ... Ichi Sasahara. His ideals challenged by life as a conscript in war-time Japan's military, a pacifist faces ever greater tests in... Storyline. <br> <br>Directed by: FUJITA Meiji Three of Japan’s top veteran samurai stars shine in this color remake of the classic Kobayashi film, Samurai Rebellion. <br> <br>Gô Katô. <br> Set in the mid-1720s, well into the 250-year Tokugawa shogunate era of peace, the story develops in the domain of an aging daimyo, or warlord. Go Kato. <br> <br>Cast Toshiro Mifune Isaburo Sasahara Go Kato Tatsuya Nakadai Tatewaki Asano Yoko Tsukasa Ichi Tatsuyoshi Ebara Bunzo Tatsuo Matsumara Lord Matsudaira Shigeru Koyama Steward Takahashi Etsuko Ichihara Takeshi Kato Yogoro Masao Mishima Chamberlain Yanase Isao Yamagata Kotani Crew Masaki Kobayashi Director Kazuo Yamada Book Author, Cinematographer Kazuo Yamada In the Edo period of Japan, a samurai’s life belonged to his lord. Cast. The mother of a feudal lord's only heir is kidnapped away from her husband by the lord. Directed by Masaki Kobayashi. The story is set in feudalist Japan, during a period called the Edo period. This is the tragic story of one such loyal samurai, whose love for his family forced him to make the ultimate choice of disobeying the wishes of his lord. The mother of a feudal lord's only heir is kidnapped away from her husband by the lord. It also contains the most touching romantic story I’ve ever seen in any Samurai film; the sacrifices, the mutual understandings and the painful injustice leading to separation. Tatsuya Nakadai. Reluctantly, father and son take in the woman, and, to the family’s surprise, the young couple fall in love. On the battlefield or in the home, a loyal samurai must always obey his lord’s commands. The tension in "Samurai Rebellion" is generated by deep passions imprisoned within a rigid social order. Cast: TAMURA Masakazu, MATSUDAIRA Ken KAJI Meiko. Reluctantly, father and son take in the woman, and, to the family’s surprise, the young couple fall in love. Samurai Rebellion. ‘Samurai Rebellion’; which from its original Japanese translates "Rebellion: Result of the Wife Bestowed" or "Rebellion: Receive the Wife”; much like ‘Harakiri’ is a middle finger to the conventions of Japanese period culture. This is the tragic story of one such loyal samurai, whose love for his family forced him to make the ultimate choice of disobeying the wishes of his lord. Samurai Rebellion is an action-packed, black-and-white drama made by famous Japanese filmmaker Masaki Kobayashi in 1967. User Reviews. <br> <br>ENTER CITY, STATE OR ZIP CODE GO. On the battlefield or in the home, a loyal samurai must always obey his lord’s commands. – Anamorphic Widescreen (16:9) IN STOCK, READY FOR SHIPPING! <br> <br>A daring take on the samurai genre, Samurai Rebellion is packed with social commentary and presses on with gradually building and gripping intensity. <br> <br> <br>COURTESY OF ICHIBAN.  AKA: Joî-uchi Rebellion, Jôi-uchi: Hairyô tsuma shimatsu, Rebellion: Receive the Wife, Joî-uchi. <br> <br>Samurai action occurs only at the very beginning of the picture and at the end. <br>";s:7:"keyword";s:22:"samurai rebellion cast";s:5:"links";s:3914:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=which-fast-food-burger-has-the-least-calories'>Which Fast Food Burger Has The Least Calories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Green-Lantern-comics'>Green Lantern Comics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=automatic-knife-replacement-springs'>Automatic Knife Replacement Springs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=taylor-crichton-height'>Taylor Crichton Height</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=editors-racing-rats-lyrics'>Editors Racing Rats Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naperville-riverwalk-is-it-open'>Naperville Riverwalk Is It Open</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=philadelphia-police-department-hiring'>Philadelphia Police Department Hiring</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=when-was-stefan-salvatore-born'>When Was Stefan Salvatore Born</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=super-mario-world-%28tv-series%29'>Super Mario World (tv Series)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=skagway-news-obituaries'>Skagway News Obituaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-is-a-mondo-documentary'>What Is A Mondo Documentary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ww1-aviation-movies'>Ww1 Aviation Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-ratcliffe-architect'>Peter Ratcliffe Architect</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jefferson-white-actor'>Jefferson White Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Anthony-Davis-Twitter'>Anthony Davis Twitter</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-servetus-death'>Michael Servetus Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nick-stahl-found'>Nick Stahl Found</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=samurai-rebellion-cast'>Samurai Rebellion Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-rintoul-audiobooks'>David Rintoul Audiobooks</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roanoke-colony-definition'>Roanoke Colony Definition</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=between-rounds-menu-south-windsor'>Between Rounds Menu South Windsor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-was-mount-shishaldin-formed'>How Was Mount Shishaldin Formed</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zoli-nail-trimmer-replacement-pads'>Zoli Nail Trimmer Replacement Pads</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=costco-books-february-2020'>Costco Books February 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phoenix-king-finubar'>Phoenix King Finubar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arrange-crossword-clue'>Arrange Crossword Clue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sycamore-row-sequel'>Sycamore Row Sequel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lighto-f-the-seven'>Lighto F The Seven</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=roman-invasion-of-britain-ks2-lesson'>Roman Invasion Of Britain Ks2 Lesson</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paramore-paramore-paramore'>Paramore Paramore Paramore</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Danny-Welbeck-Instagram'>Danny Welbeck Instagram</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,81 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:4436:"<br>Export the course for translation. PowerPoint 79 . A particularly useful feature allows you to import your pre-designed slides, so that you can convert PowerPoint to Storyline and turn your presentations into beautiful eLearning, saving you time and effort. One of the great features of Articulate Storyline is the ability to import slides from PowerPoint. One of the great features of Articulate Storyline is the ability to import slides from PowerPoint. In this tutorial we’ll import a few PowerPoint slides from an Articulate Studio project, then we'll make a few updates to add more engaging interactivity to them. Forward the Word doc to the subject matter expert with instructions on what to do. Importing the content you already have in PowerPoint is a big time-saver. Possibility to import OLX courses (Open EDX format) to Articulate 360 Storyline for SCORM export Hello Community, I have several courses located inside my LMS (OpenEDX).  PowerPoint's hyperlinks come in with the objects, but you may want to convert the hyperlink shape to a more interactive button. In my previous blog, we have seen how to convert your PowerPoint presentations to e-learning courses using the rapid authoring tool, Lectora Inspire.In this post, we will see how to do the same, using another widely used rapid authoring tool – Articulate Storyline. No PowerPoint on the resources page, but here is Art’s SlideShare - [link] Interactive Video for eLearning Designers David Anderson David provided some creative ideas for using video and even showed some tips and tricks in Articulate StoryLine. You don't need to recreate your slides from scratch to leverage all the great features of Storyline 2. The subject matter expert forwards the Word doc. Articulate Storyline 360 is a great tool for producing interactive eLearning content. As the years passed, Flash started to die off, and the company rapidly shifted its focus to eLearning, as online training became the next buzzword. However, Storyline doesn’t always import your slides properly. you use in PowerPoint, they may or may not import properly into Storyline. The subject matter expert reviews the course and makes text edits in the Word doc. Import the edited doc into Storyline. PowerPoint Convert Stock Templates 79 . What is worth noting here, is that Articulate Quizmaker includes a system of points that are collected depending on the answers given, leading to a final score that shows if you have managed to successfully complete the … It was able to convert PowerPoint presentations into Flash movies that could be posted on the Web. Articulate Storyline 360 is a great tool for producing interactive eLearning content. Tim Slade. Convert bullet points to interactive content. JUNE 21, 2019 . I've made backgrounds in PowerPoint with some animations and the last step is to add the CrazyTalk character pieces, however, when I import the .flv file, there is a white background around it, which obviously is not suitable with a different background. You may want to edit or remove that. Hi, I'm new to CrazyTalk and want to animate characters in a powerpoint project that will be published using Articulate. Again, PowerPoint can only achieve this step with the help of OfficeMix and on the other hand, Articulate Presenter v.13 mainly exploits the features of Articulate Quizmaker. you use in PowerPoint, they may or may not import properly into Storyline. Here's one way to do it: Select the hyperlinked shape and click the States tab. Check out this post and video for three tips for importing PowerPoint slides into Storyline. <br> <br>Depending on what features (animations, slide transitions, SmartArt, etc.) You could design some great looking slides in Designer and Publisher, export as a PPT file, import to Powerpoint and then use them in Learning Management System software such as ISpringsuite or Articulate Storyline (which can import PPT files for education and tutorials). PowerPoint is linear, so it'll import a Jump to next slide trigger.  Well, that’s the theory. 3 Tips for Importing PowerPoint Slides Into Storyline. You can import the slides into Storyline or just publish them from inside of PowerPoint with Articulate Studio 360. A particularly useful feature allows you to import your pre-designed slides, so that you can convert PowerPoint to Storyline and turn your presentations into beautiful eLearning, saving you time and effort. <br>";s:7:"keyword";s:24:"Articulate export to ppt";s:5:"links";s:2458:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=give-me-the-child-meme'>Give Me The Child Meme</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pizza-hut-employee-complaints'>Pizza Hut Employee Complaints</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jack-deam-family'>Jack Deam Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shattered-innocence-book'>Shattered Innocence Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=let%27s-be-real-used-in-a-sentence'>Let's Be Real Used In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=douglas-fowley-cause-of-death'>Douglas Fowley Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shlomit-hebrew-translation-to-english'>Shlomit Hebrew Translation To English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=english-literature-books-for-bcs'>English Literature Books For Bcs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cost-verb-conjugation'>Cost Verb Conjugation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=darren-criss-mother'>Darren Criss Mother</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=married-at-17-stories'>Married At 17 Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=brother-ben-x-%28dallas%29'>Brother Ben X (dallas)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-fiend-with-twenty-faces-pdf'>The Fiend With Twenty Faces Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=odyssey-meaning-in-punjabi'>Odyssey Meaning In Punjabi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=laurie-r-king-movie'>Laurie R King Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Rio-cast-Nigel'>Rio Cast Nigel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=poems-in-honor-of-earth-day'>Poems In Honor Of Earth Day</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=educause-2019-sponsors'>Educause 2019 Sponsors</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Arne-Jacobsen-quotes'>Arne Jacobsen Quotes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=phantom-punch---trailer'>Phantom Punch - Trailer</a>,
+";s:7:"expired";i:-1;}

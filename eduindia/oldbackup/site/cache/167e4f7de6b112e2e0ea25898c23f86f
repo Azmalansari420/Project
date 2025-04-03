@@ -1,0 +1,131 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3077:"<p>And as fertile soil washes away, agricultural producers move on, clearing more forest and continuing the cycle of soil loss. </p> <p>It increases soil erosion which causes floods and landslides, both deadly and drivers of poverty and homelessness. The rate of increase for soil loss after forest clearing is astonishing; a study in Ivory Coast (Cote d'Ivoire) found that forested slope areas lost 0.03 tons of soil per year per hectare; cultivated slopes annually lost 90 tons per hectare, while bare slopes lost 138 tons per hectare. The combination of reduced water quality, increased salinity, and soil erosion makes it harder to grow enough food for the community, which means more trees are cut down for farmlands and irrigation is again increased. </p> <p>Understanding Deforestation Deforestation is an issue that has continued to affect many nations around the world. </p> <p> Soil erosion. Humankind’s actions have reduced the forested surface area in almost all of the countries in the Greater Caribbean region. Shrinking forest cover lessens the landscape's capacity to intercept, retain and transpire precipitation. Deforestation and soil erosion is a process generally caused by human activities. Humankind’s actions have reduced the forested surface area in almost all of the countries in the Greater Caribbean region. Fast moving water rapidly erodes soil while down stream rivers flood during heavy rain and soon dry out. </p> <p>Almost half the world's topsoil … </p> <p>This causes the water to run off quickly with little being absorbed. </p> <p>Deforestation, intensive agricultural practices, urban sprawl and climate change are among the common factors that are accelerating soil erosion. Deforestation by activities such as unsustainable logging, ranching and mining can lead to fast and widespread erosion of rain forest soils. Logging companies clear-cut large areas of rain forest, and ranchers with little land allow cattle to overgraze delicate rain forest grasses. According to Global Assessment of Soil Degradation (GLASOD), deforestation is the main cause of soil erosion by wind in about 98% of the area. The agricultural plants that often replace the trees cannot hold onto the soil and many of these plants, such as coffee, cotton, palm oil, soybean and wheat, can actually worsen soil erosion. </p> <p>Deforestation reduces soil cohesion, so that erosion, flooding and landslides ensue. The disruption and destruction of forests also destabilizes oxygen sources and greenhouse gas emissions. Plane view of deforestation-induced erosion in Madagascar. Soil deterioration and low water quality due to erosion and surface runoff have become severe problems worldwide. Soil erosion is accelerated because trees are no longer there to protect and keep the soil in place. The excessive accumulation of sediment in these bodies of water may then lead to flooding as well as landslides. The loss of trees is the primary cause of soil erosion due to deforestation, and land-use practices in many cases exacerbates the soil erosion issue. </p>";s:7:"keyword";s:30:"Deforestation and soil erosion";s:5:"links";s:8836:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=weird-snacks-uk'>Weird Snacks Uk</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Inspector-Chen-novels'>Inspector Chen Novels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=theo-devaney-net-worth'>Theo Devaney Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Half-as-Much'>Half As Much</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=apollo-justice%3A-ace-attorney-switch'>Apollo Justice: Ace Attorney Switch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=gail-platt-birthday'>Gail Platt Birthday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Philippe-Starck-Lamp'>Philippe Starck Lamp</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Teri-Polo-net-worth'>Teri Polo Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Equals-math-symbols'>Equals Math Symbols</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-best-christmas-pageant-ever-musical'>The Best Christmas Pageant Ever Musical</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=do-brooke-and-alex-end-up-together'>Do Brooke And Alex End Up Together</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mathew-prichard-family'>Mathew Prichard Family</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=valkyria-chronicles-composer'>Valkyria Chronicles Composer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=natasha%27s-dance%3A-a-cultural-history-of-russia-review'>Natasha's Dance: A Cultural History Of Russia Review</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=principle-centered-leadership-theory-by-covey'>Principle Centered Leadership Theory By Covey</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ruling-chiefs-of-hawaii'>Ruling Chiefs Of Hawaii</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=zombicide-season-1'>Zombicide Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Hainish-Novels-%26-Stories'>Hainish Novels & Stories</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hot-hot-heat---goodnight-goodnight-lyrics'>Hot Hot Heat - Goodnight Goodnight Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Eversource-Director-salary'>Eversource Director Salary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-sound-machine-characters'>The Sound Machine Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=watch-legends-of-the-hidden-temple-season-1'>Watch Legends Of The Hidden Temple Season 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-do-mountains-symbolize-in-chinese-culture'>What Do Mountains Symbolize In Chinese Culture</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=he-has-shown-thee-o-man-lyrics'>He Has Shown Thee O Man Lyrics</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nie-huaisang-and-wei-wuxian'>Nie Huaisang And Wei Wuxian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=between-%28tv-series%29-season-3'>Between (tv Series) Season 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-plays-sam-carmichael-in-mamma-mia'>Who Plays Sam Carmichael In Mamma Mia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jump-in-japanese'>Jump In Japanese</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Goosebumps-Monster-Blood-1'>Goosebumps Monster Blood 1</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=types-of-inserts'>Types Of Inserts</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=giovanni-pokemon-go-may-2020'>Giovanni Pokemon Go May 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vasiliki-maliaros-exorcist'>Vasiliki Maliaros Exorcist</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jessica-Walsh-logo'>Jessica Walsh Logo</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=god%27s-generals-the-missionaries'>God's Generals The Missionaries</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pros-and-cons-of-occupational-therapy-assistant'>Pros And Cons Of Occupational Therapy Assistant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kill-devil-hills%2C-nc-hotels'>Kill Devil Hills, Nc Hotels</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=beneath-%282007-movie-ending-explained%29'>Beneath (2007 Movie Ending Explained)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=entre-amis-clothing'>Entre Amis Clothing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tomi-adeyemi-parents'>Tomi Adeyemi Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mummy-dummy-looney-tunes'>Mummy Dummy Looney Tunes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hebru-brantley-age'>Hebru Brantley Age</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=angry-candy-members'>Angry Candy Members</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lo-Aa-Gayi-Unki-Yaad'>Lo Aa Gayi Unki Yaad</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=%C3%89owyn-and-Theoden'>Éowyn And Theoden</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=stewart-copeland-wife'>Stewart Copeland Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-liesel-keep-after-the-bombing'>What Does Liesel Keep After The Bombing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hornet%27s-nest-movie-tnt'>Hornet's Nest Movie Tnt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=li-ching-husband'>Li Ching Husband</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Blessing-way-ideas'>Blessing Way Ideas</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Anne-Boleyn-parents'>Anne Boleyn Parents</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=adam%27s-house-shelton-ct'>Adam's House Shelton Ct</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=boon-bath-toys-target'>Boon Bath Toys Target</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-adventures-of-nanny-piggins-lexile'>The Adventures Of Nanny Piggins Lexile</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cousin-phillis-plot-summary'>Cousin Phillis Plot Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-demi-paradise-wiki'>The Demi Paradise Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=family-album-cast'>Family Album Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wolf-link-20-hearts-glitch'>Wolf Link 20 Hearts Glitch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=letterbomb-lyrics-meaning'>Letterbomb Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Northern-Ireland-flag-image'>Northern Ireland Flag Image</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=miguel-cabrera-art-style'>Miguel Cabrera Art Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=luis-da-silva-jr-ethnicity'>Luis Da Silva Jr Ethnicity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=susan-mikula-art'>Susan Mikula Art</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=seven-samurai-kanopy'>Seven Samurai Kanopy</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scarlett-2i2-1st-gen-vs-2nd-gen'>Scarlett 2i2 1st Gen Vs 2nd Gen</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=portobello-outdoor-swimming-pool'>Portobello Outdoor Swimming Pool</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=round-brackets-examples'>Round Brackets Examples</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ihome-ibt29-app'>Ihome Ibt29 App</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=backseat-driver-idiom'>Backseat Driver Idiom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=personal-power-tony-robbins'>Personal Power Tony Robbins</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=intel-devil%27s-canyon-release-date'>Intel Devil's Canyon Release Date</a>,
+";s:7:"expired";i:-1;}

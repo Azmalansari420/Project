@@ -1,0 +1,138 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2956:"<p>Find full-length video messages and all supporting documents, art, and promotional materials below. The cornerstone of Dave Ramsey’s approach to budgeting starts with giving to your church or other charitable causes you care about. Dave Ramsey also took the time to answer many of the frequently unanswered questions by evangelicals on topics such as tithing—giving 10% of your money to your local church, debt and financial savings. This 9 week course runs July 26-September 20 starting at 7:30pm. Dave and his teaching team will walk you through the basics of budgeting, dumping debt, planning for the future, and much more through the lens of the Bible. I 100% agree on this point, and I believe giving is a big part of changing your mindset about money . And he makes his living telling other evangelical Christians how they can get rich, too. Find God; Grow Your Faith; Discover Your Purpose A few months ago I published a post about how financial guru Dave Ramsey had built a beautiful new multi-million dollar home in an upscale neighborhood in Tennessee. Dave Ramsey’s property taxes for 2011 are $27,001.00. This three-part series from guest speaker Dave Ramsey studies debt and money, offering biblical advice about some of life's most difficult problems. When I wrote the post I intended to focus more on the fact that Dave Ramsey had built the house without any debt of any kind, and wanted to hold it up as an example of living a financially responsible life. </p> <p>Join us at Crossroads - classes starting September 2019! Financial Peace University is a nine-lesson, money-management class taught by Dave Ramsey. There are more than 35,000 free videos, sermon prep resources, kids lessons, graphics packages, music, ministry tips, and more that you can download and use in your ministry. </p> <p>Dave is married to Cara, who is a physio and they have two beautiful daugh </p> <p>Learn the basics of finance according to the Bible, how to break the power of debt, and the number one myth about money. Opinion by Rachel Held Evans, special to CNN (CNN)– Dave Ramsey is rich. </p> <p>Learn the basics of finance according to the Bible, how to break the power of debt, and the number one myth about money. Dave Ramsey is a nationally-syndicated radio talk show host and author of the New York Times bestselling books, Financial Peace Revisited and The Total Money Makeover. This life-changing class is taught by Dave Ramsey and coordinated by David Babb at The River at Eureka in Eureka, MO. My issue with Dave Ramsey isn’t whether he can afford it, it’s whether what he’s done is congruent with what he preaches for others to do. </p> <p>Dave Ramsey is a member of our local fellowship and serves God as the Director of The Association of Baptist Churches in Ireland. Our Mission Seacoast exists to help people find God, grow their faith, discover their purpose and make a difference. Take control of your money with FPU! </p>";s:7:"keyword";s:18:"dave ramsey church";s:5:"links";s:9628:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=city-of-antioch-phone-number'>City Of Antioch Phone Number</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fallet-season-2-netflix'>Fallet Season 2 Netflix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-awakening-passage-analysis'>The Awakening Passage Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=you-have-been-my-friend%2C%27%27-replied-charlotte'>You Have Been My Friend,'' Replied Charlotte</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=harry-potter-and-the-deathly-hallows%2C-part-3'>Harry Potter And The Deathly Hallows, Part 3</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=7th-Class-English-Notes'>7th Class English Notes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=barbara-bain-net-worth'>Barbara Bain Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Boho-chic-style'>Boho Chic Style</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=63-up-cast'>63 Up Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=darkest-fear-game'>Darkest Fear Game</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=caroline-fitzgerald-rmf'>Caroline Fitzgerald Rmf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jbl-horizon-bluetooth-clock-radio'>Jbl Horizon Bluetooth Clock Radio</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carry-in-vs-potluck'>Carry-in Vs Potluck</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=death-note-volume-12-online'>Death Note Volume 12 Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clifford-the-big-red-dog-leaf-of-absence'>Clifford The Big Red Dog Leaf Of Absence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-henri-book'>Robert Henri Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Terminal-Trailer'>The Terminal Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=fermented-seal-flipper'>Fermented Seal Flipper</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Francesco-I-Sforza'>Francesco I Sforza</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=function-of-diaphragm-in-microscope'>Function Of Diaphragm In Microscope</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=grace-farms-sanaa'>Grace Farms Sanaa</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=houston-tumlin-army'>Houston Tumlin Army</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mercy-hospital-chicago-jobs'>Mercy Hospital Chicago Jobs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ghost-by-jason-reynolds-chapter-9-summary'>Ghost By Jason Reynolds Chapter 9 Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dragons-blood-oil'>Dragons Blood Oil</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ethiopian-orthodox-hosanna-pictures'>Ethiopian Orthodox Hosanna Pictures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lady-macbeth-of-mtsensk-analysis'>Lady Macbeth Of Mtsensk Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=humshakals-full-movie'>Humshakals Full Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=examples-of-couplets-for-elementary-students'>Examples Of Couplets For Elementary Students</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=belief-meaning-in-telugu'>Belief Meaning In Telugu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=velvet-goldmine-movie-online'>Velvet Goldmine Movie Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hitmaka-net-worth-2019'>Hitmaka Net Worth 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=yang-mills-theory-lecture-notes'>Yang-mills Theory Lecture Notes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-use-ida-decompiler'>How To Use Ida Decompiler</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=peter-brook-artaud'>Peter Brook Artaud</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-landscape-painting'>American Landscape Painting</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=family-sabbatical-meaning'>Family Sabbatical Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=nils-udo-interview'>Nils Udo Interview</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=naved-aslam-wife'>Naved Aslam Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pig-tale-nashua-menu'>Pig Tale Nashua Menu</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mike-mussina-hall-of-fame-plaque'>Mike Mussina Hall Of Fame Plaque</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=New-Believer%27s-Bible-NLT'>New Believer's Bible NLT</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Into-the-Arms-of-Strangers-book'>Into The Arms Of Strangers Book</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=theme-of-spring-and-fall'>Theme Of Spring And Fall</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=foxcatcher-true-story'>Foxcatcher True Story</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Keh-Du-Tumhe'>Keh Du Tumhe</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=annie%27s-gummies-vegan'>Annie's Gummies Vegan</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carlo-gambino-death'>Carlo Gambino Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=giles-watling-qatar'>Giles Watling Qatar</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edc-belt-company'>Edc Belt Company</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sichuan-city-china'>Sichuan City China</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=china-economic-reform-timeline'>China Economic Reform Timeline</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lalala-tik-tok-song'>Lalala Tik Tok Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chris-ware-rusty-brown-wiki'>Chris Ware Rusty Brown Wiki</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bob-barker-2019'>Bob Barker 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=blackfoot---highway-song'>Blackfoot - Highway Song</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=youtube-roy-orbison---in-dreams'>Youtube Roy Orbison - In Dreams</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-designed-the-edge-amsterdam'>Who Designed The Edge Amsterdam</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=david-ellison-linkedin'>David Ellison Linkedin</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=house-of-earth-and-blood-audiobook'>House Of Earth And Blood Audiobook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=getafix-in-french'>Getafix In French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=smart-snack-guidelines-2018'>Smart Snack Guidelines 2018</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=auschwitz-a-doctor%27s-eyewitness-account-read-online'>Auschwitz A Doctor's Eyewitness Account Read Online</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joe-dirt-characters'>Joe Dirt Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=neo-confucianism-ap-world-history'>Neo Confucianism Ap World History</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chesapeake%2C-va-homes-for-sale-with-mother-in-law-suite'>Chesapeake, Va Homes For Sale With Mother In Law Suite</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=galileo-galilei-aportes'>Galileo Galilei Aportes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Truth-and-Justice'>Truth And Justice</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=that-thing-you-do%21-dance-with-me-tonight'>That Thing You Do! Dance With Me Tonight</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=del-rey-books-publicity'>Del Rey Books Publicity</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-machine-stops-analysis'>The Machine Stops Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Osho-quotes-on-love'>Osho Quotes On Love</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=anna-name-day-russia'>Anna Name Day Russia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=les-girls-australian'>Les Girls Australian</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=secret%2C-book%2C-and-scone-society-series'>Secret, Book, And Scone Society Series</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mc-shan-songs'>Mc Shan Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eastern-ghats-mountains-map'>Eastern Ghats Mountains Map</a>,
+";s:7:"expired";i:-1;}

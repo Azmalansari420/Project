@@ -1,0 +1,87 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3990:"<p>The book is translated by Sonja Arntzen from the original. The author of Kagerō Nikki was a woman known only as the Mother of Michitsuna. At the outset of the Kagero Nikki, Michitsuna no Haha states her purpose in writing her journal. </p> <p>A new translation with discussion and annotations of a foundational work of Japanese classical literature. Watanabe: Kagero nikki later addition, hence this passage, coming as it does immediately after the preface, can be taken as the true beginning of the diary. At the outset of the Kagero Nikki, Michitsuna no Haha states her purpose in writing her journal. I have included the McCullough translation of the opening. I have included the McCullough translation of the opening. The author, known to posterity as Michitsuna’s Mother. Week 2a Kagerô Diary (Kagerô nikki) ... For more information, see the introduction to the translation and the wikipedia article on Kagero nikki. The Kagero¯ Diary commands our attention as the first extant work of that rich and brilliant tradition. </p> <p>The Kagero¯ Diary commands our attention as the first extant work of that rich and brilliant tradition. Kagero Nikki, translated here as The Gossamer Years, belongs to the same period as the celebrated Tale of Genji by Murasaki Shikuibu. In the Introduction to his revised translation of Kagero nikki, which he called The Gossamer Years, Edward Seidensticker argued that the worst sin of a translator. Kagero nikki Murasaki Shikibu:Genji monogatari Nikki Izumi Shikibu, Nikki Sarashina nikki Sei Shonagon, Makura no soshi Saigyo's poetry Gosenshu Shuishu Goshuishu Kin'yoshu Shikashu Senzaishu Shinkokinshu Hojoki Kaidoki Ogura hyakunin isshu, or, 100 Poems by 100 Poets Tokan kiko Izayoi nikki … </p> <p>Motivations of the Author of the Kagero Nikki by Caitlin Howell, Fall 1996 (caitlin at cs dot wisc dot edu) In this paper, I would like to examine Michitsuna no Haha's motivations for writing the Kagero Nikki, which is known as The Gossamer Journal and The Gossamer Years in English translation.. At the outset of the Kagero Nikki, Michitsuna no Haha states her purpose in writing her journal. “The Kagero Diary,” is the autobiographical recordings of a Japanese woman from the tenth century. In the Introduction to his revised translation of Kagero nikki, which he called The Gossamer Years, Edward Seidensticker argued that the worst sin of a translator. In the Introduction to his revised translation of Kagero nikki, which he called The Gossamer Years, Edward Seidensticker argued that the worst sin of a translator. In the Introduction to his revised translation of Kagero nikki, which he called The Gossamer Years, Edward Seidensticker argued that the worst sin of a translator. It was tagged by Sachiko Iwabuchi, Coordinator of the Japanese Text Initiative, and proofread by Atsuko Nakamoto and Sachiko Iwabuchi. Using a combination of waka  poems and prose, she conveys the life of a noblewoman during the Heian period. </p> <p>1 Translator’s note: Jacqueline Pigeot recently published a complete translation of Kagerō no nikki into French, Mémoires d’une éphémère (Paris: Collège de France, Institut des Hautes Études japonaises, 2006). At the outset of the Kagero Nikki, Michitsuna no Haha states her purpose in writing her journal. Kagerō Nikki (蜻蛉日記, The Mayfly  Diary) is a work of classical Japanese literature, written around 974, that falls under the genre of nikki bungaku, or diary literature. 2) From the readings why do you think men got married? The text of Kagero nikki was input and proofread by Aya Kuramoto.  Preparation of the header and further checking was done by Christine Ruotolo of the E-Text Center. This remarkably frank autobiographical diary and personal confession attempts to describe a difficult relationship as it reveals two tempestuous decades of the author's unhappy marriage and her growing indignation at rival wives and mistresse </p> <p>Why did women get married? </p>";s:7:"keyword";s:24:"kagero nikki translation";s:5:"links";s:3270:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-flea-john-donne-analysis'>The Flea John Donne Analysis</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Study-in-France-scholarship'>Study In France Scholarship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hiragana-flash-cards'>Hiragana Flash Cards</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Midwestern-United-States'>Midwestern United States</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=heaven-hart-2020'>Heaven Hart 2020</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ulan-bator-mongolia'>Ulan Bator Mongolia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=vizsla-beagle-cross'>Vizsla Beagle Cross</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cheng-yi-meaning'>Cheng Yi Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=prince-of-tennis-captain'>Prince Of Tennis Captain</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=lella-vignelli-work'>Lella Vignelli Work</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=michael-michael-actor'>Michael Michael Actor</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=marina-tsvetaeva-poetry'>Marina Tsvetaeva Poetry</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=french-marriage-laws'>French Marriage Laws</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mikropul-dust-collector-manual'>Mikropul Dust Collector Manual</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-Last-Empire%3A-The-final-Days-of-the-Soviet-Union-summary'>The Last Empire: The Final Days Of The Soviet Union Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=a-girl-walks-home-alone-at-night-car'>A Girl Walks Home Alone At Night Car</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Tom-Clancy-font'>Tom Clancy Font</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=50-below-zero-animated'>50 Below Zero Animated</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-to-pronounce-prolix'>How To Pronounce Prolix</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Gustave-Moreau-Louvre'>Gustave Moreau Louvre</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=distinguish-shades-of-meaning-among-verbs'>Distinguish Shades Of Meaning Among Verbs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=what-does-liesel-keep-after-the-bombing'>What Does Liesel Keep After The Bombing</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cameron-wwe-boyfriend'>Cameron Wwe Boyfriend</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eddie-peng-wife'>Eddie Peng Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=uncommon-valor-is-a-common-virtue'>Uncommon Valor Is A Common Virtue</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=alaska-airlines-reservations-phone-number'>Alaska Airlines Reservations Phone Number</a>,
+";s:7:"expired";i:-1;}

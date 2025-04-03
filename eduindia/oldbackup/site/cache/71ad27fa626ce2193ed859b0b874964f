@@ -1,0 +1,88 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3910:"<p>Demonology, which encompasses all of your summoning abilities and enhancing them, along with some other utility and buffs spells, and finally Destruction, … Wands for Affliction Warlocks in Classic WoW When leveling, wand upgrades will be very impactful for Warlocks due to the sheer number of times you find yourself wanding mobs to finish them off and conserve mana to avoid ing. Make sure to use the slider to make the guide adapt to your level. On this page, you will find our Level by Level Affliction leveling guide for WoW Classic. Typically most Warlocks will prefer the Demonology build with Demonic Sacrifice and Ruin.However, most raids like to have one Warlock with the Affliction … Previously a guide writer for Affliction Warlock in Legion, he is super excited to come back into Vanilla and relive the glory days. Warlock PvE Guide - Spec, Rotation, Macros, BiS Gear The ultimate PvE guide for Warlock. </p> <p>According to theorycrafting, Warlock is very strong in PvP, thanks to its survival abilities (Création de Pierre de soins (majeure), Pierre d'âme majeure, … Affliction Warlock Stats For a more in-depth look at stats, check out our Aff Lock Stat Priority Guide. This does not mean you can tank the entire dungeon as a warlock, in case that wasn’t clear. Last updated on Dec 10, 2019 at 19:36 by Impakt 4 comments. </p> <p>This class can be used as an Off Tank for certain Bosses with the help of your Pet and the Demonology Spec. </p> <p>Affliction Warlock Leveling - Drain Tanking in Classic WoW Drain Tanking, with at least 31 points in the Affliction talent tree, is the most efficient build for Warlocks leveling in WoW Classic. I’ve gotten multiple World firsts with Method. 5/5 Improved Corruption - This makes your Corruption instant-to-cast. </p> <p>Many of these are adapted from my Vanilla Warlock macros, which were created for the 1.12 version of the game.The new macro system in World of Warcraft: Classic is much more restrictive than what we had in the original game, particularly against a class like the Warlock … As a Warlock you'll be looking for Cloth gear with Intellect as your primary stat. General Information. Click the links below to navigate the guide or read this page for a short introduction. About the Author Wallirik is a multi-Rank 1, tournament-competing Warlock. WoW Classic Affliction Warlock Talent Build Guide. Strength and Weaknesses. TOPPING DPS WITH WARLOCK IN CLASSIC!! Welcome to the Affliction Warlock DPS guide written by Deepshades. Because of this, always having the best-possible wand can make your leveling experience much easier and faster. Contact me. An affliction warlock would chew up your debuff spots and get a swift /gkick.  Ideally, you'd want 6%, but other Talents are more important. I am AliveTv 279,447 views. Affliction Warlocks are incredible at Single Target and can be … Best Warlock Spec for PvE in WoW Classic Demonology is the best Warlock spec for early Classic WoW, as players will use a Demonic Sacrifice / Ruin (9/21/21) for maximum performance. We also cover ideal rotations for Affliction Warlocks in PvP, including two burst damage rotations. Affliction - Affliction is widely considered to be the best talent tree for leveling warlock as it gives you access to instant cast Corruption, as well as Siphon Life. Also, if you want to use a different affliction spell for one of these affliction macros, then simply swap out spell names. (A PvE Classic WoW Warlock guide) - Duration: 18:28. This is the Best Affliction Talent Build to use in WoW Classic Patch 1.12 and is meant for PVE Dungeons and Raids. This guide will walk you through everything you need to know to play a Warlock in a PvP environment in WoW Classic, with a focus on Battlegrounds but also including World PvP and Dueling. Affliction Tree: 2/5 Suppression - Provides you with 4% additional Affliction Spell Hit Chance. </p>";s:7:"keyword";s:26:"affliction warlock classic";s:5:"links";s:3438:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=glasgow%2C-ky-population'>Glasgow, Ky Population</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=love-life-hbo-episodes'>Love Life Hbo Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=younger-brother---vaccine-electronic'>Younger Brother - Vaccine Electronic</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=famous-examples-of-mystical-experiences'>Famous Examples Of Mystical Experiences</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=literature-review-on-child-marriage-in-bangladesh'>Literature Review On Child Marriage In Bangladesh</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ladders-To-Fire'>Ladders To Fire</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=69-times-2'>69 Times 2</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=madeline-film-cast'>Madeline Film Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=let%27s-be-real-used-in-a-sentence'>Let's Be Real Used In A Sentence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Wildest-Dreams-lyrics-meaning'>Wildest Dreams Lyrics Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=atf-meaning-medical'>Atf Meaning Medical</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=eighteen-arhats-in-shaolin-temple-%282020%29'>Eighteen Arhats In Shaolin Temple (2020)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robin-wells-wikipedia'>Robin Wells Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Lidya-jewett-Instagram'>Lidya Jewett Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=simultaneous-localization-and-mapping'>Simultaneous Localization And Mapping</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=substitute-for-return-procedures'>Substitute For Return Procedures</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wanchese-native-american'>Wanchese Native American</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dennett-brainstorms-summary'>Dennett Brainstorms Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-does-bad-country-end%3F'>How Does Bad Country End?</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-red-notebook-in-french'>The Red Notebook In French</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=candace-camp-wikipedia'>Candace Camp Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=monique-ganderton-net-worth'>Monique Ganderton Net Worth</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bug-fixes-and-improvements'>Bug Fixes And Improvements</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=kona-blue-mustang-2012'>Kona Blue Mustang 2012</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chinese-counting-in-english'>Chinese Counting In English</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=where-are-boon-baby-products-made'>Where Are Boon Baby Products Made</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=knx-bus-cable'>Knx Bus Cable</a>,
+";s:7:"expired";i:-1;}

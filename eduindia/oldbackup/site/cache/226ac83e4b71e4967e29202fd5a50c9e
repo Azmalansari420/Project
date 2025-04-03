@@ -1,0 +1,107 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:2311:"<p> </p> <p>Uplift of the ancestrial Nevadan Mountains caused by the formation of the main body of intrusive granitic rocks that now make up most of the Sierra Nevada (subduction zone probably similar to the current situation along the West Coast of South America). Most of the crustal shortening took place by thrusting, constrained to have occurred from ̃155 to 150 Ma on both the roof and basal thrusts. Nevadan orogeny, the composite Klamath terrane was overlain with great unconformity by Cretaceous and Tertiary overlap assemblages of sedimentary and volcanogenic strata at the north end of the Great Valley and along the western margin of the Cascade Ranges. </p> <p></p> <p>The Laramide Orogeny is thought to be a response to the subduction of warm and buoyant ocean floor produced during the Cretaceous spreading rate increase. R.D. The Klamath phase of the Nevadan orogeny resulted from contraction of the west‐facing intraoceanic arc and Josephine backarc basin beneath the continental margin. </p> <p>Deformation and metamorphism related to the Nevadan orogeny appears to have extended from ̃155 to 135 Ma. The Mesozoic Nevadan orogeny in the northern Sierra Nevada metamorphic belt, California, may be attributed to arc-continent collision, stratigraphic data and macroscopic cross cutting relations suggest successive accretion of two arcs along an active continental margin. </p> <p>Nevadan Orogeny – 210 mya. </p> <p>Evidence for the Acadian Orogeny from 410–380 Ma in the southern and central Appalachian internides is mostly lacking. Hatcher Jr, in Encyclopedia of Geology, 2005. </p> <p>Sonoma Orogeny (200-280 Ma) • Permo-Triassic • Collision of Arc With a Passive Margin • Island Arc Terrains Were Accreted • Golconda Allochthon – Thrust Partly Over Roberts Mountain Allochthon Nevadan Orogeny (140-150 Ma) • Several Upper Jurassic Arcs Collided • Cretaceous Franciscan Fm in the accretionary prism collapse of the arc during the Nevadan orogeny, which ranged in age between about 150 to 145 Ma in the Klamath region (Saleeby, et al., 1982, Harper and Wright, 1984) was syntectonic with, or was closely followed by deposition of the volcanolithic clastic rocks of the Myrtle Group. Mid-Palaeozoic Sedimentation and Neoacadian Docking of the Carolina Superterrane. </p>";s:7:"keyword";s:28:"the nevadan orogeny accreted";s:5:"links";s:5722:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=homecoming-lyrics-hey-monday'>Homecoming Lyrics Hey Monday</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=d-h-lawrence-themes'>D H Lawrence Themes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=scotiabank-business-account'>Scotiabank Business Account</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=bug-club-reading-assessment'>Bug Club Reading Assessment</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=how-did-betsy-byars-die'>How Did Betsy Byars Die</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=helicopter-meaning-tik-tok'>Helicopter Meaning Tik Tok</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=mihalis-eleftheriou-instagram'>Mihalis Eleftheriou Instagram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-boogens-cast'>The Boogens Cast</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=forgotten-realms%3A-demon-stone-mods'>Forgotten Realms: Demon Stone Mods</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=still-synonym-adverb'>Still Synonym Adverb</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=arjun-daughter-movie'>Arjun Daughter Movie</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=metabolism-architecture-buildings'>Metabolism Architecture Buildings</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=wine-5-install'>Wine 5 Install</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=calvin-tenner-wikipedia'>Calvin Tenner Wikipedia</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=joanna-jedrzejczyk-sherdog'>Joanna Jedrzejczyk Sherdog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jay-laga%27aia-home-and-away'>Jay Laga'aia Home And Away</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=oni-ninjago-sets'>Oni Ninjago Sets</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=paula-echevarr%C3%ADa-blog'>Paula Echevarría Blog</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Easy-Cheese-Walmart'>Easy Cheese Walmart</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=man-descending-prezi'>Man Descending Prezi</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=instant-city-archigram'>Instant City Archigram</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=robert-dudley-explorer'>Robert Dudley Explorer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=presuppositionalism-vs-evidentialism'>Presuppositionalism Vs Evidentialism</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=charlotte-bronte-pronunciation'>Charlotte Bronte Pronunciation</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Ashmolean-Museum-collection'>Ashmolean Museum Collection</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=metropolis-plural-oxford-dictionary'>Metropolis Plural Oxford Dictionary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chynna-phillips-kids'>Chynna Phillips Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=sarah-michelle-gellar-and-freddie-prinze-jr-kids'>Sarah Michelle Gellar And Freddie Prinze Jr Kids</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-victor-dick-dale'>The Victor-dick Dale</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=maria-ouspenskaya-cause-of-death'>Maria Ouspenskaya Cause Of Death</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cowboy-junkies---misguided-angel'>Cowboy Junkies - Misguided Angel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-enchantress-opera'>The Enchantress Opera</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=is-joie-lee-married'>Is Joie Lee Married</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=international-picnic-day-2019'>International Picnic Day 2019</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=shadowlands-beta-release-date-reddit'>Shadowlands Beta Release Date Reddit</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-is-george-koehler'>Who Is George Koehler</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=spinning-out-serena-and-mitch'>Spinning Out Serena And Mitch</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=syndromes-associated-with-clubfoot'>Syndromes Associated With Clubfoot</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carousel-ad-unit-facebook'>Carousel Ad Unit Facebook</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=edna-lewis-biscuits'>Edna Lewis Biscuits</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=burning-paradise-%281994%29'>Burning Paradise (1994)</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=john-mills-jml'>John Mills Jml</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=timothy-granaderos-filipino'>Timothy Granaderos Filipino</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=absolute-candor-meaning'>Absolute Candor Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=american-unbeatable-banzuke'>American Unbeatable Banzuke</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dan-vs-netflix'>Dan Vs Netflix</a>,
+";s:7:"expired";i:-1;}

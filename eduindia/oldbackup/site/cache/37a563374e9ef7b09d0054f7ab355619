@@ -1,0 +1,97 @@
+a:5:{s:8:"template";s:3113:"<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>{{ keyword }}</title>
+<script type="application/ld+json">{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWorkSeries",
+    "name": "{{ keyword }}",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ RANDFLOAT 4-5 }}",
+        "bestRating": "5",
+        "ratingCount": "{{ RANDINT 5-300 }}"
+    }
+}</script>
+
+<style rel="stylesheet" type="text/css">.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}a,body,div,h1,h2,html,li,p,span,ul{border:0;margin:0;outline:0;padding:0;vertical-align:baseline}:focus{outline:0}body{line-height:1}ul{list-style:none}header{display:block} html{height:100%;font-family:opensans,sans-serif}body{height:100%}.page-wrapper{min-height:100%;margin-bottom:-137px}.footer-spacer{height:137px}a{text-decoration:none;color:#e37351}a:hover{color:#aaa}.main{margin:0 auto;width:940px}.clear{display:block;width:0;height:0!important;clear:both!important;overflow:hidden;visibility:hidden}#branding #headerimg h1{margin-top:1px;font-size:23px;text-align:center;text-transform:uppercase}#branding #headerimg #site-description{width:240px;padding-top:7px;margin:6px 0 0 350px;border-top:1px dashed #999;color:#aaa;font-size:.75em;font-weight:500;text-align:center}.white-stripe{min-width:940px;height:auto;margin-top:43px;background:#fff;border-top:1px solid #e7e6e5;border-bottom:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.nav{background:#fff}.main-menu{display:inline-block;font-size:.75em}.main-menu li{display:inline-block;position:relative;list-style:none}.main-menu li a{display:block;margin:21px 18px 25px 19px;color:#333}.main-menu a:hover{color:#aaa}.bottom-white-stripe{min-width:940px;height:79px;margin-top:58px;background:#fff;border-top:1px solid #e7e6e5;-webkit-box-shadow:0 0 5px rgba(0,0,0,.06);-moz-box-shadow:0 0 5px rgba(0,0,0,.06);box-shadow:0 0 5px rgba(0,0,0,.06)}.footer{height:79px;margin-top:-1px;background:#fff;border-top:1px solid #e7e6e5}</style>
+</head>
+<body class="">
+<div class="page-wrapper">
+<div class="main">
+<header id="branding" role="banner">
+<div id="headerimg">
+<h1 id="site-title">
+<span>
+<a href="#" rel="home" style="color:#333" title="{{ keyword }}">
+{{ keyword }}
+</a>
+</span>
+</h1>
+<h2 id="site-description">{{ keyword }}</h2>
+</div>
+</header>
+</div>
+<div class="clear"></div>
+<div class="white-stripe">
+<div class="main nav">
+<div class="main-menu"><ul>
+<li><a href="#">Home</a></li><li class="page_item page-item-12"><a href="#">Contacts</a></li>
+<li class="page_item page-item-10"><a href="#">About</a></li>
+</ul></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main" id="page-content">
+{{ links }}
+</br>
+</br>
+{{ text }}
+</div>
+<div class="clear"></div>
+<div class="footer-spacer"></div>
+</div>
+<div class="bottom-white-stripe">
+<div class="main footer">
+<p>(C) 2020 {{ keyword }}</p>
+</div>
+</div>
+</body>
+</html>";s:4:"text";s:3043:"<br>Originally a six-movement solo composition for piano, Ravel’s Le Tombeau de Couperin was composed between 1914 and 1917.‘Tombeau’ is a musical term from the Baroque era meaning ‘a piece written as a memorial.’ Francois Couperin was an important French composer from the 18th century, who wrote graceful harpsichord dances. Maurice Ravel: Le Tombeau de Couperin Context. <br> <br>Apparently Ravel chose him as an artistic representation of France. <br> <br>Le Tombeau de Couperin ancre Ravel dans la tradition française de suites de danses pour le clavecin, initiée par François Couperin ou Jean-Philippe Rameau.Le mot Tombeau dans le titre fait référence à un hommage poétique et musical en usage au XVIII e siècle. Outwardly, the original six movement suite, written for solo piano, responds to the horrors and devastation of the First World War, a conflict Ravel experienced first hand as a military ambulance driver. Listening to Maurice Ravel's Le Tombeau de Couperin, it's easy to get a sense of altered reality. Here is the second video of the Lockdown Wind Quintet  playing the Prelude, which is a fugue in 3 voices in E minor, of the famous suite for solo piano by Ravel Le Tombeau de Couperin in the arrangement of Mason Jones for wind quintet.   Composed between 1914 and 1917, the piece is in six movements, based on those of a traditional Baroque suite. Le Tombeau de Couperin est une suite pour piano de Maurice Ravel composée entre avril 1914 et 1917 et créée le 11 avril 1919 par Marguerite Long à la Société de Musique Indépendante (salle Gaveau). Elle comporte six pièces, sur le modèle des suites de danses de l'époque baroque. But in musical tradition, a tombeau is a memorial piece or collection of pieces. Le Tombeau de Couperin is a suite for solo piano by Maurice Ravel, composed between 1914 and 1917, in six movements based on those of a traditional Baroque suite. The literal translation of Le tombeau de Couperin is "Couperin's grave". Le Tombeau de Couperin is a suite for solo piano by Maurice Ravel, composed between 1914 and 1917. It is in six movements. Each movement is dedicated to the memory of friends of the composer who had died fighting in World War I. Ravel himself served in the war as an ambulance driver and was wounded in the process. Maurice Ravel: Le Tombeau De Couperin Score/Parts: Wind Ensemble: Score and Margun Music Woodwind Quintet-As a tribute to 18th Century French music as well as to the memory of Francois Couperin Ravel wrote this set of six piano pieces in the form of a suite and dedicated each piece to a friend who had lost his life… <br> <br>Ravel's last set of piano pieces, the suite Le tombeau de Couperin, acquired memorial significance only after his initial imagining of it as a Suite française: when young friends of his began to die in the trenches, a nostalgic look at eighteenth-century French music in general assumed more personal references.There is therefore very little if anything here that is solemn, let alone lugubrious. <br>";s:7:"keyword";s:47:"ravel prelude from le tombeau de couperin suite";s:5:"links";s:4612:"<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=the-secret%3A-dare-to-dream-spoilers-what-is-the-secret'>The Secret: Dare To Dream Spoilers What Is The Secret</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=who-is-the-prey-novel'>Who Is The Prey Novel</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=editors---violence'>Editors - Violence</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=patriarchate-of-jerusalem'>Patriarchate Of Jerusalem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=dyncorp-aviation-training'>Dyncorp Aviation Training</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Joe-R-Lansdale-Hap-and-Leonard-books-in-order'>Joe R Lansdale Hap And Leonard Books In Order</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=carl-lee-wife'>Carl Lee Wife</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=P-rock-songs'>P Rock Songs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Parasite-that-looks-like-human-hair'>Parasite That Looks Like Human Hair</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=abstract-for-nanotechnology-in-mechanical-engineering'>Abstract For Nanotechnology In Mechanical Engineering</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Jojo%27s-flying-side-kick'>Jojo's Flying Side Kick</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=3rd-grade-Spanish-vocabulary'>3rd Grade Spanish Vocabulary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=finally-mine-your-love-is-finally-mine'>Finally Mine Your Love Is Finally Mine</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=6-pillars-of-character-posters'>6 Pillars Of Character Posters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=cassie-randolph-bangs'>Cassie Randolph Bangs</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=choi-woo-shik-tv-shows'>Choi Woo-shik Tv Shows</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=Transport-Fever-Requirements'>Transport Fever Requirements</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=even-keel-ship'>Even Keel Ship</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=clopin-trouillefou-musical'>Clopin Trouillefou Musical</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=The-School-for-Good-and-Evil-characters'>The School For Good And Evil Characters</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tmnt-1987-episodes'>Tmnt 1987 Episodes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rose-upon-meaning'>Rose Upon Meaning</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=10-branches-of-theology'>10 Branches Of Theology</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=melvin-purvis-education'>Melvin Purvis Education</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=thunder-cave-roland-smith-part-1-pdf'>Thunder Cave Roland Smith Part 1 Pdf</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=college-of-dupage-english-classes'>College Of Dupage English Classes</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=chaos-patricia-cornwell-summary'>Chaos Patricia Cornwell Summary</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ode-to-a-father-poem'>Ode To A Father Poem</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=tide-loads-of-hope-t-shirt'>Tide Loads Of Hope T-shirt</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=hands-down-idiom'>Hands Down Idiom</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=post-malone---enemies'>Post Malone - Enemies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=ap-miss-fortune'>Ap Miss Fortune</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=jaani-dost-trailer'>Jaani Dost Trailer</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=rebecca-of-sunnybrook-farm-movies'>Rebecca Of Sunnybrook Farm Movies</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=pros-and-cons-of-occupational-therapy-assistant'>Pros And Cons Of Occupational Therapy Assistant</a>,
+<a href='https://eduindiafoundation.org/site/viewtopic.php?efa19b=new-york-rens-hall-of-fame'>New York Rens Hall Of Fame</a>,
+";s:7:"expired";i:-1;}
