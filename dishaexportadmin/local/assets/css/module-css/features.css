@@ -1,0 +1,103 @@
+/*==============================================
+    Feature One
+===============================================*/
+.features-one {
+    position: relative;
+    display: block;
+    padding: 120px 0px 80px;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.features-one__single {
+    position: relative;
+    display: block;
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+
+.features-one__single .icon-box {
+    position: absolute;
+    left: 35px;
+    top: 0;
+    width: 90px;
+    height: 85px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background: var(--reroof-base);
+    z-index: 2;
+}
+
+.features-one__single .icon-box span::before {
+    position: relative;
+    display: inline-block;
+    color: var(--reroof-white);
+    font-size: 50px;
+    line-height: 50px;
+    transition-delay: 0.1s;
+    transition: all 500ms ease;
+}
+
+.features-one__single:hover .icon-box span::before {
+    transform: rotateY(180deg);
+    transition-delay: 0.1s;
+}
+
+.features-one__single-inner {
+    position: relative;
+    display: block;
+    border: 1px solid var(--reroof-bdr-color);
+    border-radius: 20px;
+    padding: 72px 35px 33px;
+}
+
+.features-one__single-inner h2 {
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-bottom: 13px;
+}
+
+.features-one__single-inner h2 a {
+    color: var(--reroof-black);
+}
+
+.features-one__single-inner h2 a:hover {
+    color: var(--reroof-base);
+}
+
+
+.features-one__single-inner p {
+    margin: 0;
+}
+
+.features-one__single-inner .btn-box {
+    position: relative;
+    display: block;
+    margin-top: 25px;
+}
+
+.features-one__single-inner .btn-box a {
+    color: var(--reroof-black);
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.features-one__single-inner .btn-box a:hover {
+    color: var(--reroof-base);
+}
+
+.features-one__single-inner .btn-box a span {
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 700;
+    top: 2px;
+    padding-left: 2px;
+}

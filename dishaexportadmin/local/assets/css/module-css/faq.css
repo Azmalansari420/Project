@@ -1,0 +1,212 @@
+/*==============================================
+  Faq One
+===============================================*/
+.faq-one {
+    position: relative;
+    display: block;
+    padding: 120px 0px 120px;
+    z-index: 1;
+}
+
+.faq-one .row {
+    align-items: flex-end;
+}
+
+.faq-one-accrodion {
+    position: relative;
+    display: block;
+}
+
+.faq-one-accrodion .accrodion {
+    position: relative;
+    display: block;
+    background: var(--reroof-white);
+    border: 1px solid var(--reroof-bdr-color);
+    border-radius: 20px;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+
+.faq-one-accrodion .accrodion+.accrodion {
+    margin-top: 20px;
+}
+
+.faq-one-accrodion .accrodion-title {
+    position: relative;
+    display: block;
+    cursor: pointer;
+    padding: 17px 25px 17px;
+    padding-left: 20px;
+    transition: all 200ms linear;
+    transition-delay: 0.1s;
+}
+
+.faq-one-accrodion .accrodion .accrodion-title::before {
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    right: -1px;
+    bottom: 0px;
+    background: var(--reroof-base);
+    border-radius: 20px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    height: 0px;
+    transition: all 0.4s ease;
+    opacity: 0;
+    content: "";
+}
+
+.faq-one-accrodion .accrodion.active .accrodion-title::before {
+    height: 100%;
+    opacity: 1;
+}
+
+.faq-one-accrodion .accrodion-title h4 {
+    position: relative;
+    color: var(--reroof-black);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    padding-left: 50px;
+    margin: 0;
+    font-family: var(--reroof-font);
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+
+.faq-one-accrodion .accrodion.active .accrodion-title h4 {
+    color: var(--reroof-white);
+}
+
+.faq-one-accrodion .accrodion-title h4::before {
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--reroof-white);
+    font-size: 13px;
+    line-height: 13px;
+    font-weight: 600;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    width: 30px;
+    height: 30px;
+    background: var(--reroof-base);
+    border-radius: 50%;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+    text-align: center;
+    content: "\e913";
+    font-family: 'icomoon' !important;
+}
+
+.faq-one-accrodion .accrodion.active .accrodion-title h4::before {
+    content: "\e916";
+    color: var(--reroof-white);
+    border: 1px solid var(--reroof-white);
+}
+
+.faq-one-accrodion .accrodion-content {
+    position: relative;
+    display: block;
+    padding: 21px 30px 23px;
+}
+
+.faq-one-accrodion .accrodion-content p {
+    color: var(--reroof-black);
+    margin: 0;
+}
+
+.faq-one__counter {
+    position: relative;
+    display: block;
+    margin-left: 80px;
+}
+
+.faq-one__counter-text {
+    position: relative;
+    display: block;
+    margin-bottom: 43px;
+}
+
+.faq-one__counter-text p {
+    color: var(--reroof-black);
+}
+
+.faq-one__counter-single {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background: var(--reroof-black);
+    padding: 28px 40px 33px;
+    padding-right: 35px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+.faq-one__counter-single-icon {
+    position: relative;
+    display: block;
+    margin-right: 23px;
+    z-index: 1;
+}
+
+.faq-one__counter-single-icon::before {
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    border-top: 75px solid rgba(221, 221, 221, 0.1);
+    border-right: 75px solid transparent;
+    border-radius: 10px;
+    content: "";
+    z-index: -1;
+}
+
+.faq-one__counter-single-icon span::before {
+    position: relative;
+    display: inline-block;
+    color: var(--reroof-base);
+    font-size: 60px;
+    line-height: 60px;
+    transition: all 600ms ease;
+}
+
+.faq-one__counter-single:hover .faq-one__counter-single-icon span::before {
+    transform: rotateY(180deg);
+}
+
+.faq-one__counter-single-content {
+    position: relative;
+    display: block;
+    flex: 1;
+}
+
+.faq-one__counter-single-content .count-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-bottom: 4px;
+}
+
+.faq-one__counter-single-content .count-box h2 {
+    color: var(--reroof-white);
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: 500;
+}
+
+.faq-one__counter-single-content .count-box .plus {
+    position: relative;
+    display: inline-block;
+    color: var(--reroof-white);
+    font-size: 50px;
+    font-weight: 700;
+    top: -2px;
+}
+
+.faq-one__counter-single-content p {
+    color: var(--reroof-white);
+}

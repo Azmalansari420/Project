@@ -1,0 +1,45 @@
+/*--------------------------------------------------------------
+# Google Map One
+--------------------------------------------------------------*/
+.google-map-one {
+    position: relative;
+    display: block;
+    padding: 60px 0 120px;
+    z-index: 1;
+}
+
+.google-map-one::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 120px;
+    background: linear-gradient(180deg, #F8F8F8 0%, #FFFFFF 100%);
+    z-index: -1;
+}
+
+.google-map-one__inner {
+    position: relative;
+    display: block;
+    background-color: var(--reroof-white);
+    border: 1px solid #E7E7E8;
+    padding: 40px 40px 40px;
+    border-radius: 16px;
+}
+
+.google-map__one {
+    position: relative;
+    display: block;
+    border: none;
+    height: 600px;
+    width: 100%;
+    border: 1px solid #E7E7E8;
+    border-radius: 10px;
+}
+
+
+
+/*--------------------------------------------------------------
+# End
+--------------------------------------------------------------*/

@@ -1,0 +1,109 @@
+/***
+=============================================
+Page Header
+=============================================
+***/
+.page-header {
+    position: relative;
+    display: block;
+    padding: 221px 0px 223px;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.page-header__bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: var(--reroof-white);
+    background-blend-mode: luminosity;
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    z-index: -1;
+}
+
+.page-header__bg::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(var(--reroof-black-rgb), 0.80);
+    content: "";
+    z-index: -1;
+}
+
+.page-header__pattern {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    z-index: -1;
+}
+
+.page-header__inner {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    text-align: center;
+}
+
+.page-header__inner h2 {
+    color: var(--reroof-white);
+    font-size: 50px;
+    line-height: 1.1em;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.page-header__inner .thm-breadcrumb {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 21px;
+}
+
+.page-header__inner .thm-breadcrumb li {
+    color: var(--reroof-white);
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.page-header__inner .thm-breadcrumb li:first-child {
+    margin-left: 0px;
+}
+
+.page-header__inner .thm-breadcrumb li:last-child {
+    margin-right: 0px;
+}
+
+.page-header__inner .thm-breadcrumb li a {
+    color: var(--reroof-base);
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.page-header__inner .thm-breadcrumb li span {
+    position: relative;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 400;
+    top: 1px;
+}

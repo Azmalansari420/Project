@@ -1,0 +1,285 @@
+/***
+=============================================
+Working Process One
+=============================================
+***/
+.work-process-one {
+    position: relative;
+    display: block;
+    z-index: 1;
+}
+
+.work-process-one .container {
+    max-width: 1680px;
+    width: 100%;
+}
+
+.work-process-one__tab {
+    position: relative;
+    display: block;
+}
+
+
+.work-process-one__tab .tabs-button-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: var(--reroof-black);
+    padding: 60px 0px 52px;
+}
+
+.work-process-one__tab .tabs-button-box li {
+    margin-right: 166px;
+}
+
+.work-process-one__tab .tabs-button-box li:last-child {
+    margin-right: 0px;
+}
+
+.work-process-one__tab .tabs-button-box .tab-btn-item {
+    position: relative;
+    display: block;
+    cursor: pointer;
+}
+
+.work-process-one__tab .tabs-button-box .tab-btn-item .icon-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 95px;
+    height: 85px;
+    margin: 0 auto 23px;
+    border: 1px solid var(--reroof-white);
+    border-radius: 10px;
+}
+
+.work-process-one__tab .tabs-button-box .tab-btn-item .icon-box span::before {
+    position: relative;
+    display: inline-block;
+    color: var(--reroof-white);
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.work-process-one__tab .tabs-button-box .tab-btn-item h3 {
+    color: var(--reroof-white);
+    font-size: 19px;
+    line-height: 29px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.work-process-one .tabs-content {
+    position: relative;
+    display: block;
+}
+
+.work-process-one .tabs-content .tab {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: auto;
+    visibility: hidden;
+}
+
+.work-process-one .tabs-content .tab.tab-active {
+    position: relative;
+    visibility: visible;
+    z-index: 5;
+}
+
+.work-process-one__single-tab {
+    transition: all 0.7s ease;
+    opacity: 0;
+    transform: scaleY(0.9);
+    transform-origin: top bottom;
+    background: #fbfbfb;
+}
+
+.work-process-one .tabs-content .tab.tab-active .work-process-one__single-tab {
+    opacity: 1.0;
+    transform: scaleY(1);
+    transform-origin: bottom top;
+}
+
+.work-process-one__single-tab-inner {
+    position: relative;
+    display: block;
+}
+
+
+.work-process-one__single-img {
+    position: relative;
+    display: block;
+    overflow: hidden;
+}
+
+.work-process-one__single-img img {
+    width: 100%;
+}
+
+.work-process-one__single-content {
+    position: relative;
+    display: block;
+    padding: 60px 0px 119px;
+}
+
+.work-process-one__single-content .container {
+    max-width: 1350px;
+    width: 100%;
+}
+
+.work-process-one__single-content .row {
+    align-items: center;
+}
+
+.work-process-one__single-content-left {
+    position: relative;
+    display: block;
+}
+
+
+.work-process-one__single-content-left .section-title {
+    padding-bottom: 36px;
+}
+
+.work-process-one__single-content-list {
+    position: relative;
+    display: block;
+}
+
+.work-process-one__single-content-list li {
+    position: relative;
+    display: block;
+    margin-bottom: 23px;
+}
+
+.work-process-one__single-content-list li:last-child {
+    margin-bottom: 0px;
+}
+
+.work-process-one__single-content-list li p {
+    color: var(--reroof-black);
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 500;
+    font-family: var(--reroof-font-two);
+}
+
+.work-process-one__single-content-list li p span {
+    position: relative;
+    display: inline-block;
+    color: var(--reroof-base);
+    font-size: 17px;
+    line-height: 17px;
+    top: 1px;
+    margin-right: 3px;
+    font-weight: 700;
+}
+
+.work-process-one__single-content-right {
+    position: relative;
+    display: block;
+}
+
+.work-process-one__single-content-right-text {
+    position: relative;
+    display: block;
+    margin-bottom: 32px;
+}
+
+.work-process-one__single-content-right-text p {
+    margin: 0;
+}
+
+/***
+=============================================
+Working Process Two
+=============================================
+***/
+.work-process-two {
+    position: relative;
+    display: block;
+    background: var(--reroof-black);
+    padding: 0px 0px 90px;
+    z-index: 1;
+}
+
+.work-process-two .section-title__tagline h4 {
+    color: var(--reroof-white);
+}
+
+.work-process-two .section-title__title {
+    color: var(--reroof-white);
+}
+
+.work-process-two__single {
+    position: relative;
+    display: block;
+    border: 1px solid var(--reroof-white);
+    padding: 99px 40px 31px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.work-process-two__single .counting-text {
+    position: absolute;
+    top: 30px;
+    right: 16px;
+    color: rgba(var(--reroof-white-rgb), 0.07);
+    font-size: 125px;
+    line-height: 0.9em;
+    font-weight: 500;
+    font-family: var(--reroof-font-two);
+}
+
+.work-process-two__single-icon {
+    position: relative;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.work-process-two__single-icon span {
+    position: relative;
+    display: block;
+    line-height: 0px;
+}
+
+.work-process-two__single-icon span::before {
+    position: relative;
+    display: inline-block;
+    color: var(--reroof-white);
+    font-size: 60px;
+    line-height: 60px;
+    transition-delay: 0.1s;
+    transition: all 500ms ease;
+}
+
+.work-process-two__single:hover .work-process-two__single-icon span::before {
+    transform: rotateY(180deg);
+    transition-delay: 0.1s;
+}
+
+.work-process-two__single-title {
+    position: relative;
+    display: block;
+}
+
+.work-process-two__single-title h2 {
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.work-process-two__single-title h2 a {
+    color: var(--reroof-white);
+}
+
+.work-process-two__single-title h2 a:hover {
+    color: var(--reroof-base);
+}

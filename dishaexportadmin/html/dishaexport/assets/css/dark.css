@@ -1,0 +1,137 @@
+body,
+body.boxed-wrapper .page-wrapper {
+    background-color: var(--reroof-black);
+}
+
+.team-one,
+.testimonials-one__bg::before,
+.faq-one-accrodion .accrodion {
+    background-color: var(--reroof-black);
+}
+
+.main-slider__form form .form-group input[type="text"],
+.main-slider__form form .form-group input[type="email"],
+.main-slider__form form .form-group input[type="tel"],
+.main-slider__form form .form-group input[type="url"],
+.main-slider__form form .form-group textarea {
+    color: var(--reroof-white);
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.main-slider__form form .form-group .nice-select {
+    color: var(--reroof-white);
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.main-slider__form form .form-group .nice-select:after {
+    border-bottom: 2px solid var(--reroof-white);
+    border-right: 2px solid var(--reroof-white);
+}
+
+.features-one__single-inner h2 a,
+.team-one__single-content h2 a,
+.faq-one-accrodion .accrodion-title h4 {
+    color: var(--reroof-white);
+}
+
+.features-one__single-inner p,
+.about-one__content-text p,
+.about-one__content-list ul li p,
+.service-one__content-text p,
+.service-one__single p,
+.work-process-one__single-content-list li p,
+.work-process-one__single-content-right-text p,
+.team-one__single-content p,
+.testimonials-one__single-author-info p,
+.testimonials-one__single-text p,
+.faq-one-accrodion .accrodion-content p,
+.faq-one__counter-text p,
+.faq-one__counter-single-content p {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.features-one__single-inner,
+.team-one__single,
+.team-one__single-content .social-links li a,
+.faq-one-accrodion .accrodion {
+    border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.testimonials-one__single-img {
+    border: 2px solid rgba(255, 255, 255, 0.25);
+}
+
+.section-title__tagline h4 {
+    color: var(--reroof-white);
+}
+
+.features-one__single-inner .btn-box a,
+.team-one__single-content .social-links li a,
+.testimonials-one__single-author-info h3,
+.blog-one__single-content h2 a,
+.blog-one__single-content .btn-box a {
+    color: var(--reroof-white);
+}
+
+.section-title__title {
+    color: var(--reroof-white);
+}
+
+.thm-btn::before,
+.thm-btn::after {
+    background-color: var(--reroof-white);
+}
+
+.thm-btn:hover {
+    color: var(--reroof-black);
+}
+
+.service-one,
+.work-process-one__tab .tabs-button-box,
+.work-process-one__single-tab,
+.testimonials-one__single-inner,
+.faq-one,
+.blog-one {
+    background: #09243c;
+}
+
+.service-one__single-icon,
+.work-process-one__tab .tabs-button-box .tab-btn-item .icon-box,
+.blog-one__single-content {
+    border: 1px solid rgba(255, 255, 255, 0.35);
+}
+
+.service-one__video-icon {
+    color: var(--reroof-white);
+    background-color: var(--reroof-black);
+}
+
+.service-one__video-box .border-animation {
+    border: 1px solid var(--reroof-black);
+}
+
+.service-one__video-icon::before {
+    border: 1px solid var(--reroof-black);
+}
+
+.projects-one__menu-box .project-filter li .filter-text {
+    color: var(--reroof-white);
+    background: #09243c;
+    border: 1px solid rgba(255, 255, 255, 0.13);
+}
+
+.testimonials-one__carousel.owl-carousel .owl-nav button.owl-next,
+.testimonials-one__carousel.owl-carousel .owl-nav button.owl-prev {
+    border: 1px solid rgba(255, 255, 255, 0.35);
+}
+
+.testimonials-one__carousel.owl-carousel .owl-nav button.owl-next span::before,
+.testimonials-one__carousel.owl-carousel .owl-nav button.owl-prev span::before {
+    color: rgba(255, 255, 255, 0.35);
+}
+
+.main-slider__carousel.owl-theme .owl-nav .owl-prev,
+.main-slider__carousel.owl-theme .owl-nav .owl-next {
+    color: var(--reroof-white);
+    background: var(--reroof-black);
+}

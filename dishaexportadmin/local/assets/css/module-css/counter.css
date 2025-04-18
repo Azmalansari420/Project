@@ -1,0 +1,108 @@
+/*==============================================
+  Counter Two
+===============================================*/
+.counter-two {
+    position: relative;
+    display: block;
+    background: var(--reroof-white);
+    padding: 0px 0px 90px;
+    z-index: 1;
+}
+
+.counter-two__single {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    border: 1px solid var(--reroof-bdr-color);
+    padding: 38px 25px 43px;
+    border-radius: 20px;
+}
+
+.counter-two__single-icon {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    background: var(--reroof-base);
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.counter-two__single-icon span::before {
+    position: relative;
+    display: inline-block;
+    color: var(--reroof-white);
+    font-size: 35px;
+    line-height: 35px;
+    transition: all 500ms linear;
+    transition-delay: 0.1s;
+    transform: scale(1);
+}
+
+.counter-two__single:hover .counter-two__single-icon span::before {
+    transform: scale(0.9);
+}
+
+.counter-two__single-content {
+    position: relative;
+    display: block;
+    margin-left: 18px;
+}
+
+.counter-two__single-content .count-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.counter-two__single-content .count-box h2 {
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.counter-two__single-content .count-box .plus {
+    position: relative;
+    display: inline-block;
+    color: var(--reroof-black);
+    font-size: 50px;
+    font-weight: 700;
+    top: -2px;
+}
+
+.counter-two__single-content p {
+    color: var(--reroof-black);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------
+# End
+--------------------------------------------------------------*/

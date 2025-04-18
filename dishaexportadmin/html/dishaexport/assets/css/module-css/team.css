@@ -1,0 +1,138 @@
+/*==============================================
+Team One
+===============================================*/
+.team-one {
+    position: relative;
+    display: block;
+    padding: 120px 0px 163px;
+    background: var(--reroof-white);
+    z-index: 1;
+}
+
+.team-one__single {
+    position: relative;
+    display: block;
+    border: 1px solid var(--reroof-bdr-color);
+    border-radius: 20px;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.team-one__single-img {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.team-one__single-img::before {
+    background: rgba(255, 255, 255, 0.4);
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 0;
+    opacity: 1;
+    z-index: 1;
+    pointer-events: none;
+}
+
+.team-one__single:hover .team-one__single-img::before {
+    height: 100%;
+    opacity: 0;
+    -webkit-transition: all 400ms linear;
+    transition: all 400ms linear;
+}
+
+.team-one__single-img img {
+    width: 100%;
+    transition: .5s ease;
+    transform: scale(1.05);
+}
+
+.team-one__single:hover .team-one__single-img img {
+    transform: scale(1);
+}
+
+.team-one__single-content {
+    position: relative;
+    display: block;
+    padding: 32px 25px 40px;
+}
+
+.team-one__single-content h2 {
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin-bottom: 3px;
+}
+
+.team-one__single-content h2 a {
+    color: var(--reroof-black);
+}
+
+.team-one__single-content h2 a:hover {
+    color: var(--reroof-base);
+}
+
+.team-one__single-content p {
+    color: var(--reroof-black);
+    margin: 0;
+}
+
+.team-one__single-content .social-links {
+    position: relative;
+    display: block;
+    margin-top: 18px;
+}
+
+.team-one__single-content .social-links li {
+    position: relative;
+    display: inline-block;
+}
+
+.team-one__single-content .social-links li+li {
+    margin-left: 5px;
+}
+
+.team-one__single-content .social-links li a {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+    color: var(--reroof-black);
+    border: 1px solid var(--reroof-bdr-color);
+    border-radius: 50%;
+}
+
+.team-one__single-content .social-links li a:hover {
+    border-color: var(--reroof-base);
+    background: var(--reroof-base);
+    color: var(--reroof-white);
+}
+
+.team-one__single-content .social-links li a span {
+    position: relative;
+    display: block;
+    line-height: 0px;
+}
+
+.team-one__single-content .social-links li a span:before {
+    position: relative;
+    display: inline-block;
+    font-size: 13px;
+    line-height: 13px;
+}
+
+/*==============================================
+ Team One Team
+===============================================*/
+.team-one--team {
+    position: relative;
+    display: block;
+    padding-bottom: 90px;
+}
