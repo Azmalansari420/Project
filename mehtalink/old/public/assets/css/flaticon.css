@@ -1,0 +1,91 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 27/02/2020 05:58
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon-1.eot") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg") format("svg");
+  }
+}
+
+[class^="pbmit-emphires-icon-"]:before, [class*=" pbmit-emphires-icon-"]:before,
+[class^="pbmit-emphires-icon-"]:after, [class*=" pbmit-emphires-icon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.pbmit-emphires-icon-call:before { content: "\f100"; }
+.pbmit-emphires-icon-pdf:before { content: "\f101"; }
+.pbmit-emphires-icon-document:before { content: "\f102"; }
+.pbmit-emphires-icon-placeholder:before { content: "\f103"; }
+.pbmit-emphires-icon-placeholder-1:before { content: "\f104"; }
+.pbmit-emphires-icon-email:before { content: "\f105"; }
+.pbmit-emphires-icon-hr:before { content: "\f106"; }
+.pbmit-emphires-icon-consultation:before { content: "\f107"; }
+.pbmit-emphires-icon-hr-1:before { content: "\f108"; }
+.pbmit-emphires-icon-consulting:before { content: "\f109"; }
+.pbmit-emphires-icon-job-interview:before { content: "\f10a"; }
+.pbmit-emphires-icon-right-arrow:before { content: "\f10b"; }
+.pbmit-emphires-icon-arrow:before { content: "\f10c"; }
+.pbmit-emphires-icon-appointment:before { content: "\f10d"; }
+.pbmit-emphires-icon-placeholder-2:before { content: "\f10e"; }
+.pbmit-emphires-icon-support:before { content: "\f10f"; }
+.pbmit-emphires-icon-telephone:before { content: "\f110"; }
+.pbmit-emphires-icon-paper-plane:before { content: "\f111"; }
+.pbmit-emphires-icon-buy:before { content: "\f112"; }
+.pbmit-emphires-icon-management:before { content: "\f113"; }
+.pbmit-emphires-icon-search-engine:before { content: "\f114"; }
+.pbmit-emphires-icon-crm:before { content: "\f115"; }
+.pbmit-emphires-icon-businessman:before { content: "\f116"; }
+.pbmit-emphires-icon-content:before { content: "\f117"; }
+.pbmit-emphires-icon-setting:before { content: "\f118"; }
+.pbmit-emphires-icon-funnel:before { content: "\f119"; }
+.pbmit-emphires-icon-goal:before { content: "\f11a"; }
+.pbmit-emphires-icon-process:before { content: "\f11b"; }
+.pbmit-emphires-icon-team:before { content: "\f11c"; }
+.pbmit-emphires-icon-customer-service:before { content: "\f11d"; }
+.pbmit-emphires-icon-trophy:before { content: "\f11e"; }
+.pbmit-emphires-icon-shield:before { content: "\f11f"; }
+.pbmit-emphires-icon-risk:before { content: "\f120"; }
+.pbmit-emphires-icon-diamond:before { content: "\f121"; }
+.pbmit-emphires-icon-research:before { content: "\f122"; }
+.pbmit-emphires-icon-metrics:before { content: "\f123"; }
+.pbmit-emphires-icon-research-and-development:before { content: "\f124"; }
+.pbmit-emphires-icon-megaphone:before { content: "\f125"; }
+.pbmit-emphires-icon-call-center:before { content: "\f126"; }
+.pbmit-emphires-icon-maintenance:before { content: "\f127"; }
+.pbmit-emphires-icon-invest:before { content: "\f128"; }
+.pbmit-emphires-icon-budget:before { content: "\f129"; }
+.pbmit-emphires-icon-punctuality:before { content: "\f12a"; }
+.pbmit-emphires-icon-deal:before { content: "\f12b"; }
+.pbmit-emphires-icon-affiliate:before { content: "\f12c"; }
+.pbmit-emphires-icon-interview:before { content: "\f12d"; }
+.pbmit-emphires-icon-system:before { content: "\f12e"; }
+.pbmit-emphires-icon-growth:before { content: "\f12f"; }
+.pbmit-emphires-icon-strategy:before { content: "\f130"; }
+.pbmit-emphires-icon-interview-1:before { content: "\f131"; }
+.pbmit-emphires-icon-supplier:before { content: "\f132"; }
+.pbmit-emphires-icon-application:before { content: "\f133"; }
+.pbmit-emphires-icon-employment:before { content: "\f134"; }
+.pbmit-emphires-icon-sedentary:before { content: "\f135"; }
+.pbmit-emphires-icon-application-1:before { content: "\f136"; }
+.pbmit-emphires-icon-people:before { content: "\f137"; }
+.pbmit-emphires-icon-trainee:before { content: "\f138"; }
+.pbmit-emphires-icon-unemployment:before { content: "\f139"; }
+.pbmit-emphires-icon-digital-assistant:before { content: "\f13a"; }
+.pbmit-emphires-icon-podium:before { content: "\f13b"; }
+.pbmit-emphires-icon-digital-strategy:before { content: "\f13c"; }

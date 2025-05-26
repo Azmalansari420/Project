@@ -1,0 +1,30 @@
+
+@import url('../css2-2');
+@import url('../css2-7');
+@import url('../css2-8');
+@import url('../css2-1');
+ 
+:root {
+     --pbmit-global-color: #fb8cc2;
+     --pbmit-secondary-color: #0c0833;
+     --pbmit-light-color: #f9faff;
+     --pbmit-blackish-color: #0c121d;
+     --pbmit-link-color-normal: #0c0367;
+     --pbmit-link-color-hover: #fb8cc2;
+     --pbmit-global-color-rgb: 251, 140, 194;
+     --pbmit-secondary-color-rgb: 12, 8, 51;
+     --pbmit-responsive-breakpoint: 1200px;
+     --pbmit-body-typography-font-family:'Mulish', sans-serif;
+     --pbmit-body-typography-variant: regular;
+     --pbmit-body-typography-font-size: 16px;
+     --pbmit-body-typography-line-height: 26px;
+     --pbmit-body-typography-color: #787c8b;
+     --pbmit-heading-typography-font-family: 'Quicksand', sans-serif;
+     --pbmit-heading-color: #353b6e;
+     --pbmit-heading-font-variant: 800;
+     --pbmit-btn-typography-font-family: 'Quicksand', sans-serif;
+     --pbmit-btn-typography-variant: 800;
+     --pbmit-btn-typography-font-size: 13px;
+     --pbmit-btn-typography-line-height: normal;
+}
+

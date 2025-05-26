@@ -1,0 +1,159 @@
+.top-header-wrapper {
+    background-color: #000;
+}
+.top-header-wrapper .top-location ul li a {
+    font-size: 14px;
+    color: white;
+}
+
+.top-header-wrapper .top-location ul li a i {
+    color: white;
+    margin-right: 5px;
+}
+ul.float-left>li>a>i {
+    color: white;
+}
+.about-page .about-content p {
+/*    color: black;*/
+    font-size: 18px;
+}
+.about-wrapper .about-content h3 {
+    padding: 20px 0;
+    font-weight: 600;
+}
+
+span.name-tag {
+    font-weight: 700;
+}
+p {
+    color: black;
+}
+.col-lg-9.text-class>p {
+    font-size: 18px;
+}
+.contact-form .form-head {
+    padding: 20px 40px;
+}
+.contact-form form {
+    max-width: 100%;
+}
+
+@media (max-width: 991px)
+
+{
+    .main-header-wrapper {
+    padding: 3px 0;
+}
+}
+
+
+.popular-wrapper-two .popular-vdo .vdo-custom-play::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(../logo/vid-ban.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 1;
+    filter: brightness(0.5);
+}
+
+
+.popular-wrapper-two .popular-content .popular-btn .main-btn {
+    background-color: #740000;
+}
+.popular-wrapper-two .popular-content p {
+    color: black;
+}
+.popular-wrapper-two .popular-head h3 span {
+    color: #740000;
+    display: block;
+    position: relative;
+}
+.popular-wrapper-two .popular-head h3 span::after {
+    content: "";
+    display: block;
+    height: 5px;
+    width: 80px;
+    background-color: #740000;
+    position: absolute;
+    bottom: -21px;
+}
+
+.head-border span::before {
+    content: "";
+    display: block;
+    width: 45px;
+    height: 2px;
+    position: absolute;
+    background-color: #740000;
+    top: -2px;
+    left: 30%;
+}
+.testimonial-wrapper-two .test-slider-two .owl-carousel .testimonial-box-two {
+    text-align: center;
+    padding: 40px 20px 40px 20px;
+    background-color: #740000;
+}
+.testimonial-wrapper-two .test-slider-two .owl-carousel .testimonial-box-two .testimonial-content p {
+    padding: 15px 0;
+    color: white;
+}
+.testimonial-wrapper-two .test-slider-two .owl-carousel .testimonial-box-two .testimonial-content h6 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+}
+.testimonial-wrapper-two .test-slider-two .owl-carousel .testimonial-box-two .testimonial-content span {
+    color: #fff;
+    display: block;
+    margin-top: 10px;
+}
+.testimonial-wrapper-two .test-slider-two .owl-theme .owl-dots .owl-dot.active span {
+    background-color: #740000;
+}
+
+/*video {
+  width: 100%;
+  height: auto;
+}*/
+
+.video-wrapper {
+    height: 90vh;
+    position: relative;
+}
+/*.background {
+    position: absolute;
+    top: 163px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}*/
+
+.testimonial-one-wrapper {
+    background-color: whitesmoke;
+}
+.section-heading h4 {
+    font-size: 45px;
+    text-align: center;
+    color: white;
+}
+
+.form-control {
+    border: 1px solid #060708;
+}
+
+.sidebar-head {
+    background-color: #911439;
+    padding: 10px 30px;
+    text-align: left;
+}
+.sidebar-head h6 {
+    color: white;
+}

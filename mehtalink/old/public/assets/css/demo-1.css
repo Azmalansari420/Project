@@ -1,0 +1,29 @@
+
+@import url('../css2');
+@import url('../css2-1');
+@import url('../css2');
+
+:root {
+    --pbmit-global-color: #0aadeb;
+    --pbmit-secondary-color: #0c121d;
+    --pbmit-light-color: #f8f8f9;
+    --pbmit-blackish-color: #0c121d;
+    --pbmit-link-color-normal: #0c121d;
+    --pbmit-link-color-hover: #0aadeb;
+    --pbmit-global-color-rgb: 10, 173, 235;
+    --pbmit-secondary-color-rgb: 12, 18, 29;
+    --pbmit-responsive-breakpoint: 1200px;
+    --pbmit-body-typography-font-family:'Muli', sans-serif;
+    --pbmit-body-typography-variant: regular;
+    --pbmit-body-typography-font-size: 16px;
+    --pbmit-body-typography-line-height: 26px;
+    --pbmit-body-typography-color: #6d7a8c;
+    --pbmit-heading-typography-font-family: 'Nunito', sans-serif;
+    --pbmit-heading-color: #0c121d;
+    --pbmit-heading-font-variant: 800;
+    --pbmit-btn-typography-font-family: 'Nunito', sans-serif;
+    --pbmit-btn-typography-variant: 800;
+    --pbmit-btn-typography-font-size: 13px;
+    --pbmit-btn-typography-line-height: normal;
+}
+
