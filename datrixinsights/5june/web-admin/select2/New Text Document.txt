@@ -1,0 +1,4 @@
+$(function () { 
+//Initialize Select2 Elements 
+$('.search_option').select2() 
+}); 

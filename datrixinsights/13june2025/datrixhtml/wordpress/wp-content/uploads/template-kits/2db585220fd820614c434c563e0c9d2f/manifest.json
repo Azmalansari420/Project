@@ -1,0 +1,981 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Tiko - Business Agency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Subscribe Form - MetForm",
+            "screenshot": "screenshots\/subscribe-form-metform.jpg",
+            "source": "templates\/subscribe-form-metform.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/tiko\/template-kit\/subscribe-form-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form - MetForm",
+            "screenshot": "screenshots\/contact-form-metform.jpg",
+            "source": "templates\/contact-form-metform.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/tiko\/template-kit\/contact-form-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/tiko\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/tiko\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.png",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/tiko\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.png",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/tiko\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.png",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/tiko\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.png",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/tiko\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio Detail",
+            "screenshot": "screenshots\/portfolio-detail.png",
+            "source": "templates\/portfolio-detail.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/tiko\/template-kit\/portfolio-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.png",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/tiko\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.png",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/tiko\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.png",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/tiko\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.png",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/tiko\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.png",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/tiko\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.8.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.7.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.0.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "BgWave1.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/BgWave1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 152347,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo3.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/Logo3.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 4852,
+            "dimensions": [
+                249,
+                87
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/Logo1.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 2021,
+            "dimensions": [
+                103,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo2.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/Logo2.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 4849,
+            "dimensions": [
+                249,
+                87
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "asian-woman-business-woman-office-shakes-hands-2022-08-24-14-55-42-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/asian-woman-business-woman-office-shakes-hands-2022-08-24-14-55-42-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                }
+            ],
+            "filesize": 222747,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "team7.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/team7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 164668,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "team2.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/team2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 158844,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "team1.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/team1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 108989,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "team4.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/team4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 123205,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "business-mentor-talking-to-employee-2022-02-02-18-39-51-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/business-mentor-talking-to-employee-2022-02-02-18-39-51-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 244704,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "group-of-business-people-working-in-office-2021-08-26-17-30-18-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/group-of-business-people-working-in-office-2021-08-26-17-30-18-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 267278,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "discussing-financial-papers-2021-09-24-03-33-27-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/discussing-financial-papers-2021-09-24-03-33-27-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 186498,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "young-people-discussing-marketing-in-meeting-2021-09-24-04-06-48-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/young-people-discussing-marketing-in-meeting-2021-09-24-04-06-48-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 161736,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "muslim-business-group-2021-11-01-23-43-02-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/muslim-business-group-2021-11-01-23-43-02-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 252170,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "young-businesswoman-with-papers-talking-on-the-pho-2022-11-03-04-01-14-utc.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/young-businesswoman-with-papers-talking-on-the-pho-2022-11-03-04-01-14-utc-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 271445,
+            "dimensions": [
+                972,
+                972
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "globe1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/globe1-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 253726,
+            "dimensions": [
+                1152,
+                768
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/prt1.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 7660,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt2.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/prt2.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 7800,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt3.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/prt3.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 4919,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt4.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/prt4.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 9185,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt5.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/prt5.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 6855,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "prt6.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/prt6.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 6879,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-happy-african-american-man-in-kitchen-2022-01-18-23-47-06-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/portrait-of-happy-african-american-man-in-kitchen-2022-01-18-23-47-06-utc-800x1003.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 223643,
+            "dimensions": [
+                876,
+                1098
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "pretty-girl-with-toothy-smile-looking-at-you-while-2021-09-24-03-12-05-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/pretty-girl-with-toothy-smile-looking-at-you-while-2021-09-24-03-12-05-utc-800x1003.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 239090,
+            "dimensions": [
+                876,
+                1098
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "handsome-businessman-in-formal-wear-smiling-and-lo-2022-11-02-02-58-28-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/handsome-businessman-in-formal-wear-smiling-and-lo-2022-11-02-02-58-28-utc-800x1003.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 193496,
+            "dimensions": [
+                876,
+                1098
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "happy-african-american-businesswoman-working-on-la-2022-09-28-22-14-38-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/happy-african-american-businesswoman-working-on-la-2022-09-28-22-14-38-utc-800x1003.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 172913,
+            "dimensions": [
+                876,
+                1098
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "group-of-business-people-sharing-their-ideas-2022-05-20-07-08-01-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/group-of-business-people-sharing-their-ideas-2022-05-20-07-08-01-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 236043,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "team5.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/team5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 153605,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDK74M8XLY"
+        },
+        {
+            "filename": "Autograph.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/tiko\/wp-content\/uploads\/sites\/92\/2022\/11\/Autograph.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 7400,
+            "dimensions": [
+                350,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
