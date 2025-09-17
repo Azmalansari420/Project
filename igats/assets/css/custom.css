@@ -1,0 +1,39 @@
+.ht-header-bottom-wrap {
+    float: left;
+    width: 100%;
+    background-color: white;
+    padding: 0 40px;
+}
+
+.ht-main-menu nav > ul > li.active > a, .ht-main-menu nav > ul > li:hover > a {
+    color: #1dc4ff;
+}
+
+.ht-main-menu nav > ul > li > a {
+    display: block;
+    font-weight: 600;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    line-height: 110px;
+    position: relative;
+    color: black;
+}
+
+
+.ht-sub-menu {
+    background-color: #19252e;
+    padding: 15px 0;
+    position: absolute;
+    left: -20px;
+    top: 100%;
+    width: 275px;
+    z-index: 99;
+}
+
+.ht-sub-menu>li{
+        width: 275px;
+}
+
+.faq-card .card-header h5 a {
+    color: black !important;
+}
