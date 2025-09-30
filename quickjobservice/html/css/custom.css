@@ -1,0 +1,79 @@
+.main-header.alternate {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background: white;
+}
+
+.main-header.header-style-two.fixed-header {
+    background-color: white;
+    /*background-color: #22218c;*/
+}
+
+.header-style-two .main-menu .navigation > li.dropdown > span:after, .header-style-two .main-menu .navigation > li > span, .header-style-two .main-menu .navigation > li > a {
+    color: #000000;
+}
+
+.main-menu .navigation > li > span, .main-menu .navigation > li > a {
+    font-size: 16px;
+    font-weight: 600;
+}
+.header-style-two .upload-cv, .header-style-two .main-menu .navigation > li > ul > li > a:hover, .header-style-two .main-menu .navigation > li > ul > li > span:hover, .header-style-two .main-menu .navigation > li > ul > li > a:hover, .header-style-two .main-menu .navigation > li > ul > li > ul > li > a:hover, .header-style-two .main-menu .navigation > li > ul > li > ul > li > span:hover, .header-style-two .main-menu .navigation > li .mega-menu-bar .column > ul > li > a:hover, .header-style-two .main-menu .navigation > li.current.dropdown > span:after, .header-style-two .main-menu .navigation > li > ul > li > ul > li.current > a, .header-style-two .main-menu .navigation > li > ul > li.current > a, .header-style-two .main-menu .navigation > li.current.dropdown > span:after, .header-style-two .main-menu .navigation > li.current > a, .header-style-two .main-menu .navigation > li.current > span {
+    color: #f78128;
+}
+
+.btn-style-six {
+    color: #000000;
+}
+
+section.about-section {
+    padding-top: 10px;
+}
+
+.about-section .sec-title .text {
+    max-width: max-content;
+}
+
+.default-tabs .tab-buttons li.active-btn {
+    background-color: #f78128;
+    border: 1px solid #f78128;
+    color: white;
+}
+
+.sec-title-new {
+    margin-bottom: 0;
+}
+section.top-companies.style-two {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.top-companies .companies-carousel .owl-dots {
+    margin-top: 0;
+}
+.job-categories {
+    position: relative;
+    padding: 50px 0 15px;
+}
+.news-section {
+    padding: 20px 0 20px;
+}
+.main-footer .logo {
+    position: relative;
+    margin-bottom: 25px;
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.process-block .icon-box {
+    margin-bottom: 12px;
+}
+
+.category-block .inner-box {
+    border: 1px solid #00188f;
+}
+
+.company-block .inner-box {
+    border: 1px solid #0023d3;
+}
+
+.job-block .inner-box {
+    border: 1px solid #0027ec;
+}
