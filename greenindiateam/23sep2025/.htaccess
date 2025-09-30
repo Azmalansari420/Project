@@ -1,0 +1,17 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!-- the root web configuration file -->
+<configuration>
+  <system.web>
+    <compilation tempDirectory="C:\Inetpub\vhosts\greenindiateam.com\tmp" />
+  </system.web>
+    <system.webServer>
+        
+    </system.webServer>
+</configuration>
