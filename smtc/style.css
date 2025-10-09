@@ -1,0 +1,31 @@
+/*Input Your Custom CSS Here*/
+
+.bg_color{
+    background-color: #d66514;
+    color: #fff;
+}
+
+.bg_col{
+    
+    border: 1px solid #000;
+    background: #c5713454;
+    border: none;
+    
+}
+
+.logo_img{
+    padding-top: 10px;
+    width: 100px;
+
+}
+
+.text_fix{
+           margin-top: 15px;
+    padding-left: 8px;
+    margin-bottom: 0px;
+    font-size: 25px;
+}
+.para_fix{
+    padding-left: 10px;    text-align: center;
+    
+}

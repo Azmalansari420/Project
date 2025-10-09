@@ -1,0 +1,161 @@
+
+    .centerlized{
+      padding: 50px 50px;
+    }
+    .centerlized h1{
+
+      padding-bottom: 20px; 
+    }
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 450px}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      padding-top: 20px;
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+    
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+      bottom: 0;
+      /* position: absolute; */
+      width: 100%;
+    }
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;} 
+
+        .centerlized{
+        padding: 30px 20px;
+      }
+      .centerlized h1{
+
+        padding-bottom: 10px; 
+      }
+
+
+    }
+
+
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 450px}
+    
+    /* Set gray background color and 100% height */
+    .navbar {
+      
+      background-color: #337ab7;
+
+    }
+
+.navbar-nav li  a{
+        position: relative;
+    display: block;
+    padding: 10px 15px;
+    color: #ffff;
+    font-size: 14px;
+}
+
+    .panel {
+        margin-bottom: 50px;
+    background-color: #fff;
+    border: 1px solid #cacaca;
+    border-radius: 4px;
+    margin-top: 50px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+
+    }
+
+    .panel-primary .panel-heading {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+    min-height: 50px;
+    text-align: left;
+    line-height: 1.8;
+}
+.panel-body {
+    padding: 15px;
+    min-height: 400px;
+}
+.buttonClass{
+      border: 1px solid #ffff;
+      background: #337ab7;
+      min-width: 100px;
+      padding: 5px 10px;
+      margin-bottom: 10px;
+      font-size: 12px;
+      border-radius: 5px;
+}
+.buttonClass:hover{
+border: 1px solid #0e0b49;
+    background: #0e0b49;
+}
+
+.btn-default {
+  
+    margin: 5px;
+}
+  .btn-group-lg>.btn, .btn-lg {
+    padding: 5px 5px;
+    font-size: 14px;
+    width: 35px;
+    text-align: center;
+    height: 35px;
+    border-radius: 3px;
+}  
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #1c335f;
+      color: white;
+      padding: 15px;
+      height: 30px;
+    }
+    .tophead {
+      background-color: #1c335f;
+      color: white;
+      padding: 5px;
+      min-height: 75px;
+      color: 20px;
+      font-size: 20px;
+      line-height: 2.0;
+    }
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+        .tophead {
+
+      font-size: 15px;
+      line-height: 2.0;
+    }
+      .row.content {height:auto;} 
+    }
+
+
+
+   input[type=checkbox], input[type=radio] {
+      border: 0px;
+    width: 100%;
+    height: 20px;
+    }
+
+    .footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+}

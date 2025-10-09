@@ -1,0 +1,25 @@
+body{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.bg_image{
+    background-image: url(../img/verify/logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: auto;
+    border: 1px solid #000;
+    margin-top: 25px;
+    padding: 25px;
+    margin-bottom: 25px;
+}
+.weight{
+	font-weight: bold;
+	border: hidden;
+}
+.opacity{
+
+background: #ffffffb3;
+
+}
