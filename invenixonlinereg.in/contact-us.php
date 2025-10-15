@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="zxx">
+   <head>
+      <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+      <meta charset="utf-8" />
+      <meta property="og:title" content="GeM Registration Services - India Registration Online">
+      <meta property="og:description" content="Get your business registered on the Government e-Marketplace (GeM) portal with our expert services.">
+      <meta property="og:image" content="https://indiaregistrationonline.org/img/logo/gem.png">
+      <meta property="og:url" content="https://indiaregistrationonline.org/">
+      <meta property="og:type" content="website">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:title" content="GeM Registration Services - India Registration Online">
+      <meta name="twitter:description" content="Get your business registered on the Government e-Marketplace (GeM) portal with our expert services.">
+      <meta name="twitter:image" content="https://indiaregistrationonline.org/img/logo/gem.png">
+      <meta name="twitter:url" content="https://indiaregistrationonline.org/">
+       <title>Gatway To Success | Contact Us</title>
+      <!-- Start Include Main Css -->
+      <?php include"include/maincss.php";?>
+      <!-- End Include Main Css -->
+   </head>
+   <body>
+      <!-- Start Include Header -->
+      <?php include"include/header.php";?>
+      <!-- End Include Header -->
+      <!-- Page Header Start !-->
+      <div class="page-breadcrumb-area page-bg">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12">
+                  <div class="breadcrumb-wrapper">
+                     <div class="page-heading">
+                        <h2 class="page-title">Contact Us</h2>
+                     </div>
+                     <div class="breadcrumb-list">
+                        <ul>
+                           <li><a href="index.php">Home</a></li>
+                           <li class="active"><a href="#">Contact Us</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Page Header End !-->
+      <!-- Contact-info Section Start !-->
+      <div class="contact-info-area">
+         <div class="container">
+            <div class="row justify-content-center mrgin">
+               <div class="col-lg-12">
+                  <div class="section-title text-center wow animate__animated animate__fadeInUp animate__slow">
+                     <h2 class="title">
+                        Customer Support Assistance
+                     </h2>
+                     <p class="desc">For Other queries like bidding assistance, Portfolio management and etc Please contact us first so we can understand your requirement and help you to Hire best available experts
+                        To Join as a Expert Please connect us on below no or mail us at info@india.registrationportalindia.org
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div class="icon-card-wrapper">
+               <div class="icon-card style-4 wow animate__animated animate__fadeInLeft animate__slow">
+                  <div class="icon secondary">
+                     <img src="images/icon/message.png" alt="shape">
+                  </div>
+                  <div class="content">
+                     <h2 class="title">
+                        support@perfectionconsultingindia.in
+                     </h2>
+                     <p class="desc">Have a project in mind? Send a message.</p>
+                  </div>
+               </div>
+               <div class="icon-card style-4">
+                  <div class="icon primary">
+                     <img src="images/icon/telephone.png" alt="shape">
+                  </div>
+                  <div class="content">
+                     <h2 class="title">
+                        +91 11 4703 7047
+                     </h2>
+                     <p class="desc">We’re interested in working together!</p>
+                  </div>
+               </div>
+               <div class="icon-card style-4 wow animate__animated animate__fadeInRight animate__slow">
+                  <div class="icon">
+                     <img src="images/icon/location.png" alt="shape">
+                  </div>
+                  <div class="content">
+                     <h2 class="title"> 407-408/4, Vishwa Deep Distt Centre Janakpuri Delhi West
+                     </h2>
+                     <p class="desc">Would you like to join ourgrowing team?</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Contact-info Section End -->
+      <!-- Contact Form Section Start -->
+      <div class="contact-form-area">
+         <!-- Submit form Start -->
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-lg-5">
+                  <div class="content-wrapper">
+                     <div class="section-title ">
+                        <div class="short-title">
+                           <span>GET IN TOUCH</span>
+                        </div>
+                        <h2 class="title">Need Help with legal Complaint?</h2>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3501.9928568898154!2d77.07818107517933!3d28.629976184197464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s407-408%2F4%2C%20Vishwa%20Deep%20Distt%20Centre%20Janakpuri%20Delhi%20West!5e0!3m2!1sen!2sin!4v1722166132854!5m2!1sen!2sin" width="100%" height="650" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-7 position-relative">
+                  <div class="comment-respond">
+                     <form action="#" method="post" class="comment-form">
+                        <div class="row g-6 ">
+                           <div class="col-md-12">
+                              <div class="contacts-name">
+                                 <label>Full name</label>
+                                 <input name="author" type="text" placeholder="Enter your name">
+                              </div>
+                           </div>
+                           <div class="col-md-12">
+                              <div class="contacts-email">
+                                 <label>Email</label>
+                                 <input name="email" type="text" placeholder="Enter your email">
+                              </div>
+                           </div>
+                           <div class="col-md-12">
+                              <div class="contacts-name">
+                                 <label>Phone number</label>
+                                 <input name="author" type="text" placeholder="Enter your number">
+                              </div>
+                           </div>
+                           <div class="col-md-12">
+                              <div class="contacts-message">
+                                 <label>Your comment</label>
+                                 <textarea name="comment" cols="20" rows="3"
+                                    placeholder="Enter Your Comments"></textarea>
+                              </div>
+                           </div>
+                           <div class="col-12">
+                              <button type="submit" class="theme-btn">
+                              Submit 
+                              </button>
+                           </div>
+                        </div>
+                     </form>
+                  </div>
+                  <!-- Comment Form End -->
+               </div>
+            </div>
+         </div>
+         <!-- Submit form End -->
+      </div>
+      <!-- Contact Form Section End -->
+      <!-- Start Include Footer -->
+      <?php  include"include/footer.php";?>
+      <!-- End Include Footer -->
+      <!-- Start Include Main Script -->
+      <?php include"include/mainjs.php";?>
+      <!-- End Include Main  Script -->
+   </body>
+</html>
