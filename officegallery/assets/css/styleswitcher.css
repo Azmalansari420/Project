@@ -1,0 +1,124 @@
+#styleswitcher{
+	position: fixed;
+	top: 125px;
+	left: 15px;
+	z-index: 101;
+	color: #cdcdcd;
+}
+
+#open_switcher{
+	width: 50px;
+	height: 50px;
+	line-height: 56px;
+	background: #181818;
+	text-align: center;
+	color: #fff;
+	font-size: 26px;
+	position: relative;
+	z-index: 100;
+	
+}
+
+#open_switcher > svg{
+	-webkit-transition: all .5s ease;
+			transition: all .5s ease;
+}
+
+#open_switcher:hover > svg{
+	-webkit-transform: rotate(90deg) scale(1.2);
+		-ms-transform: rotate(90deg) scale(1.2);
+			transform: rotate(90deg) scale(1.2);
+}
+
+.switcher_inner_wrap{
+	position: absolute;
+	z-index: 99;
+	left: 0;
+	top: 0;
+	width: 290px;
+	background: #181818;
+	padding: 12px 30px 25px 62px;
+	opacity: 0;
+	visibility: hidden;
+
+	-webkit-transition: opacity .7s ease, visibility .7s ease;
+			transition: opacity .7s ease, visibility .7s ease;
+}
+
+.switcher_inner_wrap.roll_in{
+	opacity: 1;
+	visibility: visible;
+
+	-webkit-animation: zoomInLeft .7s ease;
+			animation: zoomInLeft .7s ease;
+}
+
+.switcher_inner_wrap.roll_out{
+	-webkit-animation: zoomOutLeft .7s ease;
+			animation: zoomOutLeft .7s ease;
+}
+
+.switcher_inner_wrap h4{
+	font-size: 20px;
+	color: #fff;
+	font-weight: 400;
+	margin-bottom: 25px;
+}
+
+.sw_section{
+	margin-bottom: 14px;
+}
+
+.sw_section_title{
+	font-size: 14px;
+	margin-bottom: 3px;
+}
+
+.key_colors_list{
+	overflow: hidden;
+	margin-right: -15px;
+}
+
+.key_colors_list > li{
+	width: 38px;
+	height: 38px;
+	float: left;
+	border-width: 2px;
+	border-style: solid;
+	border-color: transparent;
+	cursor: pointer;
+	padding: 4px;
+	margin-right: 4px;
+	background-clip: content-box;
+
+
+	-webkit-transition: border-color .7s ease;
+			transition: border-color .7s ease;
+}
+
+.key_colors_list > .active,
+.key_colors_list > li:hover{
+	border-color: #fff;
+	-webkit-transition: border-color .1s ease;
+			transition: border-color .1s ease;
+}
+
+.key_colors_list > .kc_blue{
+	background-color: #0097ad;
+}
+
+.key_colors_list > .kc_pink{
+	background-color: #ec4863;
+}
+
+.key_colors_list > .kc_green{
+	background-color: #98bf04;
+}
+
+.key_colors_list > .kc_orange{
+	background-color: #f0622e;
+}
+
+.key_colors_list > .kc_yellow{
+	background-color: #ffb700;
+}
